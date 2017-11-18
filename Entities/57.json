@@ -1,0 +1,661 @@
+{
+  "entities": [
+    {
+      "name": "thing",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.25552347,
+      "mentions": [
+        {
+          "text": {
+            "content": "thing",
+            "beginOffset": 356
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "thing",
+            "beginOffset": 959
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "storm",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.10829826,
+      "mentions": [
+        {
+          "text": {
+            "content": "storm",
+            "beginOffset": 489
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Oooh",
+            "beginOffset": 579
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Cuz",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.10031966,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cuz",
+            "beginOffset": 507
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Cuz",
+            "beginOffset": 1110
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Cuz",
+            "beginOffset": 1386
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Baghdad",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/01fqm",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Baghdad"
+      },
+      "salience": 0.08461483,
+      "mentions": [
+        {
+          "text": {
+            "content": "Baghdad",
+            "beginOffset": 927
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "angel",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.058642942,
+      "mentions": [
+        {
+          "text": {
+            "content": "angel",
+            "beginOffset": 214
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "heaven",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.05022519,
+      "mentions": [
+        {
+          "text": {
+            "content": "heaven",
+            "beginOffset": 199
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.041698243,
+      "mentions": [
+        {
+          "text": {
+            "content": "life",
+            "beginOffset": 71
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "clouds",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.035657145,
+      "mentions": [
+        {
+          "text": {
+            "content": "clouds",
+            "beginOffset": 157
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sun",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.035214357,
+      "mentions": [
+        {
+          "text": {
+            "content": "sun",
+            "beginOffset": 61
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "doubt",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.031074017,
+      "mentions": [
+        {
+          "text": {
+            "content": "doubt",
+            "beginOffset": 186
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Friends",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01893497,
+      "mentions": [
+        {
+          "text": {
+            "content": "Friends",
+            "beginOffset": 289
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "need",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017224628,
+      "mentions": [
+        {
+          "text": {
+            "content": "need",
+            "beginOffset": 419
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Storms",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.017125586,
+      "mentions": [
+        {
+          "text": {
+            "content": "Storms",
+            "beginOffset": 319
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "war",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.017007627,
+      "mentions": [
+        {
+          "text": {
+            "content": "war",
+            "beginOffset": 773
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "war",
+            "beginOffset": 786
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rise",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011946377,
+      "mentions": [
+        {
+          "text": {
+            "content": "rise",
+            "beginOffset": 326
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "winds",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011946377,
+      "mentions": [
+        {
+          "text": {
+            "content": "winds",
+            "beginOffset": 335
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "friends",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01046872,
+      "mentions": [
+        {
+          "text": {
+            "content": "friends",
+            "beginOffset": 306
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010013446,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 520
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "peace",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008030992,
+      "mentions": [
+        {
+          "text": {
+            "content": "peace",
+            "beginOffset": 472
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007348691,
+      "mentions": [
+        {
+          "text": {
+            "content": "life",
+            "beginOffset": 250
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "peace",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006420814,
+      "mentions": [
+        {
+          "text": {
+            "content": "peace",
+            "beginOffset": 596
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "need",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005519937,
+      "mentions": [
+        {
+          "text": {
+            "content": "need",
+            "beginOffset": 1298
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "need",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005077906,
+      "mentions": [
+        {
+          "text": {
+            "content": "need",
+            "beginOffset": 1022
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "struggle",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004416565,
+      "mentions": [
+        {
+          "text": {
+            "content": "struggle",
+            "beginOffset": 854
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mind",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0038422786,
+      "mentions": [
+        {
+          "text": {
+            "content": "mind",
+            "beginOffset": 719
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "grace",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0038422786,
+      "mentions": [
+        {
+          "text": {
+            "content": "grace",
+            "beginOffset": 807
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0038422786,
+      "mentions": [
+        {
+          "text": {
+            "content": "Baby",
+            "beginOffset": 815
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "place",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0038422786,
+      "mentions": [
+        {
+          "text": {
+            "content": "place",
+            "beginOffset": 749
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "storm",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.003753701,
+      "mentions": [
+        {
+          "text": {
+            "content": "storm",
+            "beginOffset": 1368
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "battles",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0035162866,
+      "mentions": [
+        {
+          "text": {
+            "content": "battles",
+            "beginOffset": 917
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "faith",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0033004857,
+      "mentions": [
+        {
+          "text": {
+            "content": "faith",
+            "beginOffset": 835
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0032844848,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 1399
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0028349985,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": 684
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "peace",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0026327383,
+      "mentions": [
+        {
+          "text": {
+            "content": "peace",
+            "beginOffset": 1351
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "storm",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0025901292,
+      "mentions": [
+        {
+          "text": {
+            "content": "storm",
+            "beginOffset": 1542
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Israel",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/03spz",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Israel"
+      },
+      "salience": 0.0020822797,
+      "mentions": [
+        {
+          "text": {
+            "content": "Israel",
+            "beginOffset": 938
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "peace",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0018163756,
+      "mentions": [
+        {
+          "text": {
+            "content": "peace",
+            "beginOffset": 1513
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "middle",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0018034383,
+      "mentions": [
+        {
+          "text": {
+            "content": "middle",
+            "beginOffset": 1528
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "storm",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0016556944,
+      "mentions": [
+        {
+          "text": {
+            "content": "storm",
+            "beginOffset": 1092
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0014485705,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 1123
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "peace",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0011609492,
+      "mentions": [
+        {
+          "text": {
+            "content": "peace",
+            "beginOffset": 1075
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

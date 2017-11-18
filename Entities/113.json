@@ -1,0 +1,155 @@
+{
+  "entities": [
+    {
+      "name": "things",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.39838618,
+      "mentions": [
+        {
+          "text": {
+            "content": "things",
+            "beginOffset": 22
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dark",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.19272307,
+      "mentions": [
+        {
+          "text": {
+            "content": "dark",
+            "beginOffset": 50
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mountain",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.07361595,
+      "mentions": [
+        {
+          "text": {
+            "content": "mountain",
+            "beginOffset": 88
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sea",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0734092,
+      "mentions": [
+        {
+          "text": {
+            "content": "sea",
+            "beginOffset": 116
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cause",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06572926,
+      "mentions": [
+        {
+          "text": {
+            "content": "cause",
+            "beginOffset": 177
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cause",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.060450573,
+      "mentions": [
+        {
+          "text": {
+            "content": "cause",
+            "beginOffset": 369
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cause",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04501686,
+      "mentions": [
+        {
+          "text": {
+            "content": "cause",
+            "beginOffset": 477
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.04485528,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": 312
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cause",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03115196,
+      "mentions": [
+        {
+          "text": {
+            "content": "cause",
+            "beginOffset": 537
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Cold",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014661664,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cold",
+            "beginOffset": 412
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

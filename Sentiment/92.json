@@ -1,0 +1,39 @@
+{
+  "documentSentiment": {
+    "magnitude": 1.5,
+    "score": -0.5
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "And some say  \rWhy you follow something so long  \rSo I asked him  \rAnd he convinced me before long  \rNow its over  \rAnd I've seen him, don't come back anymore  \rAnd he said...",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "I need  \rI don't ask much anymore  \rI found something  \r  \rThrow a stone into the water  \rThe ripple is broke  \rBurn them, baby  \rJust for holding the cradle too close  \rTake it all back  \rSearch for justice, don't live there anymore  \rAnd he said  \r  \rI need  \rI don't ask much anymore  \rI found something  \rYeah  \r  \rAnd why do you see me in this way?",
+        "beginOffset": 178
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "The way that I did  \rI gave him the means to the end  \rYes I did  \rI bothered not to believe in this way  \rThe way that I did  \rI made him just to see in this way  \rThe way that I did  \r  \rI need  \rI don't ask much anymore  \rI found something",
+        "beginOffset": 534
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,441 @@
+{
+  "entities": [
+    {
+      "name": "mind",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.13526969,
+      "mentions": [
+        {
+          "text": {
+            "content": "mind",
+            "beginOffset": 166
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "need",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.12002428,
+      "mentions": [
+        {
+          "text": {
+            "content": "need",
+            "beginOffset": 470
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.08856494,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": 417
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": 1163
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.070678316,
+      "mentions": [
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": 869
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0667988,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": 73
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0667988,
+      "mentions": [
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": 248
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "time",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.053260826,
+      "mentions": [
+        {
+          "text": {
+            "content": "time",
+            "beginOffset": 95
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "body",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.053260826,
+      "mentions": [
+        {
+          "text": {
+            "content": "body",
+            "beginOffset": 121
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "woman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.05121118,
+      "mentions": [
+        {
+          "text": {
+            "content": "woman",
+            "beginOffset": 535
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.047270592,
+      "mentions": [
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": 845
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lips",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.036825966,
+      "mentions": [
+        {
+          "text": {
+            "content": "lips",
+            "beginOffset": 448
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "lips",
+            "beginOffset": 1194
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "need",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.035673637,
+      "mentions": [
+        {
+          "text": {
+            "content": "need",
+            "beginOffset": 1216
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.03412552,
+      "mentions": [
+        {
+          "text": {
+            "content": "Baby",
+            "beginOffset": 19
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "pleasure island",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.024061171,
+      "mentions": [
+        {
+          "text": {
+            "content": "pleasure island",
+            "beginOffset": 311
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "waste",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020414786,
+      "mentions": [
+        {
+          "text": {
+            "content": "waste",
+            "beginOffset": 282
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Girl",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Girl",
+        "mid": "/m/05r655"
+      },
+      "salience": 0.016582595,
+      "mentions": [
+        {
+          "text": {
+            "content": "Girl",
+            "beginOffset": 702
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Girl",
+            "beginOffset": 1448
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Girl",
+            "beginOffset": 2083
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "bus",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015652182,
+      "mentions": [
+        {
+          "text": {
+            "content": "bus",
+            "beginOffset": 272
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "woman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010596626,
+      "mentions": [
+        {
+          "text": {
+            "content": "woman",
+            "beginOffset": 1281
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "girl",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.008868278,
+      "mentions": [
+        {
+          "text": {
+            "content": "girl",
+            "beginOffset": 1070
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ticket",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008556671,
+      "mentions": [
+        {
+          "text": {
+            "content": "ticket",
+            "beginOffset": 1045
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "room room room",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.006774872,
+      "mentions": [
+        {
+          "text": {
+            "content": "room room room",
+            "beginOffset": 1790
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "boom boom boom",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.006774872,
+      "mentions": [
+        {
+          "text": {
+            "content": "boom boom boom",
+            "beginOffset": 1845
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "zoom zoom",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006063917,
+      "mentions": [
+        {
+          "text": {
+            "content": "zoom zoom",
+            "beginOffset": 1705
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "zoom zoom",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006063917,
+      "mentions": [
+        {
+          "text": {
+            "content": "zoom zoom",
+            "beginOffset": 1895
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Darling",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0038825758,
+      "mentions": [
+        {
+          "text": {
+            "content": "Darling",
+            "beginOffset": 955
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "room room room",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.00297208,
+      "mentions": [
+        {
+          "text": {
+            "content": "room room room",
+            "beginOffset": 1600
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "boom boom boom",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.00297208,
+      "mentions": [
+        {
+          "text": {
+            "content": "boom boom boom",
+            "beginOffset": 1655
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

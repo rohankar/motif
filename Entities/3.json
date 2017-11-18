@@ -1,0 +1,1054 @@
+{
+  "entities": [
+    {
+      "name": "kind",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.40980184,
+      "mentions": [
+        {
+          "text": {
+            "content": "kind",
+            "beginOffset": 317
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "taste",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05542012,
+      "mentions": [
+        {
+          "text": {
+            "content": "taste",
+            "beginOffset": 850
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "taste",
+            "beginOffset": 1553
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "taste",
+            "beginOffset": 1625
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "taste",
+            "beginOffset": 1701
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "beat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0422989,
+      "mentions": [
+        {
+          "text": {
+            "content": "beat",
+            "beginOffset": 126
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "beat",
+            "beginOffset": 1658
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/0d05l6",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.038844943,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 0
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 148
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 829
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1532
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1680
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "India",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/03rk0",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/India"
+      },
+      "salience": 0.03854073,
+      "mentions": [
+        {
+          "text": {
+            "content": "India",
+            "beginOffset": 30
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "India",
+            "beginOffset": 102
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "India",
+            "beginOffset": 178
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "India",
+            "beginOffset": 859
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "India",
+            "beginOffset": 1562
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "India",
+            "beginOffset": 1634
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "India",
+            "beginOffset": 1710
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Taste Of India",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/0cp_p",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Taste"
+      },
+      "salience": 0.034236863,
+      "mentions": [
+        {
+          "text": {
+            "content": "taste",
+            "beginOffset": 678
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Taste Of India",
+            "beginOffset": 689
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Taste Of India",
+            "beginOffset": 1378
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Taste Of India",
+            "beginOffset": 1934
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Gotta",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.033849638,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gotta",
+            "beginOffset": 72
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Gotta",
+            "beginOffset": 220
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Gotta",
+            "beginOffset": 901
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Gotta",
+            "beginOffset": 1604
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Gotta",
+            "beginOffset": 1752
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "tongue",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.028937858,
+      "mentions": [
+        {
+          "text": {
+            "content": "tongue",
+            "beginOffset": 892
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "tongue",
+            "beginOffset": 1595
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "tongue",
+            "beginOffset": 1743
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.028937858,
+      "mentions": [
+        {
+          "text": {
+            "content": "tip",
+            "beginOffset": 882
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "tip",
+            "beginOffset": 1585
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "tip",
+            "beginOffset": 1733
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "taste",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025358029,
+      "mentions": [
+        {
+          "text": {
+            "content": "taste",
+            "beginOffset": 21
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "taste",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025358029,
+      "mentions": [
+        {
+          "text": {
+            "content": "taste",
+            "beginOffset": 169
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "taste",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025358029,
+      "mentions": [
+        {
+          "text": {
+            "content": "taste",
+            "beginOffset": 93
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tongue",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018833896,
+      "mentions": [
+        {
+          "text": {
+            "content": "tongue",
+            "beginOffset": 211
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018833896,
+      "mentions": [
+        {
+          "text": {
+            "content": "tip",
+            "beginOffset": 201
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018833896,
+      "mentions": [
+        {
+          "text": {
+            "content": "tip",
+            "beginOffset": 53
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tongue",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018833896,
+      "mentions": [
+        {
+          "text": {
+            "content": "tongue",
+            "beginOffset": 63
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "drum",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0150265675,
+      "mentions": [
+        {
+          "text": {
+            "content": "drum",
+            "beginOffset": 138
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "face",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012547674,
+      "mentions": [
+        {
+          "text": {
+            "content": "face",
+            "beginOffset": 745
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "face",
+            "beginOffset": 1434
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "taste",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0066154767,
+      "mentions": [
+        {
+          "text": {
+            "content": "taste",
+            "beginOffset": 998
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat man",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0063402383,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat man",
+            "beginOffset": 265
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "friend",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0063402383,
+      "mentions": [
+        {
+          "text": {
+            "content": "friend",
+            "beginOffset": 405
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "darkness",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0050492296,
+      "mentions": [
+        {
+          "text": {
+            "content": "darkness",
+            "beginOffset": 482
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love incense",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0050492296,
+      "mentions": [
+        {
+          "text": {
+            "content": "love incense",
+            "beginOffset": 325
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "back room",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0050492296,
+      "mentions": [
+        {
+          "text": {
+            "content": "back room",
+            "beginOffset": 358
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "funk",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0050492296,
+      "mentions": [
+        {
+          "text": {
+            "content": "funk",
+            "beginOffset": 397
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "stuff",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004506223,
+      "mentions": [
+        {
+          "text": {
+            "content": "stuff",
+            "beginOffset": 1075
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "thing",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0044496027,
+      "mentions": [
+        {
+          "text": {
+            "content": "thing",
+            "beginOffset": 786
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "friend",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0042851446,
+      "mentions": [
+        {
+          "text": {
+            "content": "friend",
+            "beginOffset": 817
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat man",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0042851446,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat man",
+            "beginOffset": 946
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0042851446,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 1005
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "smile",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0042312937,
+      "mentions": [
+        {
+          "text": {
+            "content": "smile",
+            "beginOffset": 724
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shadow",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003849334,
+      "mentions": [
+        {
+          "text": {
+            "content": "shadow",
+            "beginOffset": 569
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "light",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0033686648,
+      "mentions": [
+        {
+          "text": {
+            "content": "light",
+            "beginOffset": 519
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "delight",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0031223372,
+      "mentions": [
+        {
+          "text": {
+            "content": "delight",
+            "beginOffset": 1210
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vindaloo",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0031223372,
+      "mentions": [
+        {
+          "text": {
+            "content": "vindaloo",
+            "beginOffset": 1014
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bliss",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0031223372,
+      "mentions": [
+        {
+          "text": {
+            "content": "bliss",
+            "beginOffset": 1201
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "priestess",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0031223372,
+      "mentions": [
+        {
+          "text": {
+            "content": "priestess",
+            "beginOffset": 1172
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fire",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0031223372,
+      "mentions": [
+        {
+          "text": {
+            "content": "fire",
+            "beginOffset": 1049
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "heart",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0031223372,
+      "mentions": [
+        {
+          "text": {
+            "content": "heart",
+            "beginOffset": 1040
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002717226,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 1146
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Yin and Yang",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/012cdm",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Yin_and_yang"
+      },
+      "salience": 0.0023827984,
+      "mentions": [
+        {
+          "text": {
+            "content": "Yin and Yang",
+            "beginOffset": 759
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "shadow",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0016968851,
+      "mentions": [
+        {
+          "text": {
+            "content": "shadow",
+            "beginOffset": 1263
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "taste",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0014920136,
+      "mentions": [
+        {
+          "text": {
+            "content": "taste",
+            "beginOffset": 1923
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "drum",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.001267871,
+      "mentions": [
+        {
+          "text": {
+            "content": "drum",
+            "beginOffset": 1670
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "face",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0009651844,
+      "mentions": [
+        {
+          "text": {
+            "content": "face",
+            "beginOffset": 1990
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "smile",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0009651844,
+      "mentions": [
+        {
+          "text": {
+            "content": "smile",
+            "beginOffset": 1969
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cat man",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0009651844,
+      "mentions": [
+        {
+          "text": {
+            "content": "cat man",
+            "beginOffset": 1797
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "taste",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00094539335,
+      "mentions": [
+        {
+          "text": {
+            "content": "taste",
+            "beginOffset": 1367
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "appetite",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0008778701,
+      "mentions": [
+        {
+          "text": {
+            "content": "appetite",
+            "beginOffset": 1886
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "smile",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0006114904,
+      "mentions": [
+        {
+          "text": {
+            "content": "smile",
+            "beginOffset": 1413
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "friend",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0006114904,
+      "mentions": [
+        {
+          "text": {
+            "content": "friend",
+            "beginOffset": 1450
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mine",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.00055615976,
+      "mentions": [
+        {
+          "text": {
+            "content": "mine",
+            "beginOffset": 1460
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "appetite",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00055615976,
+      "mentions": [
+        {
+          "text": {
+            "content": "appetite",
+            "beginOffset": 1330
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "time",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00055615976,
+      "mentions": [
+        {
+          "text": {
+            "content": "time",
+            "beginOffset": 1280
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Yow",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00051967753,
+      "mentions": [
+        {
+          "text": {
+            "content": "Yow",
+            "beginOffset": 2000
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "wine",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.00048656718,
+      "mentions": [
+        {
+          "text": {
+            "content": "wine",
+            "beginOffset": 1498
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "concubine",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00048656718,
+      "mentions": [
+        {
+          "text": {
+            "content": "concubine",
+            "beginOffset": 1473
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

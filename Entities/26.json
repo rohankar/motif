@@ -1,0 +1,462 @@
+{
+  "entities": [
+    {
+      "name": "river",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.5181263,
+      "mentions": [
+        {
+          "text": {
+            "content": "river",
+            "beginOffset": 217
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "drink",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.06095854,
+      "mentions": [
+        {
+          "text": {
+            "content": "drink",
+            "beginOffset": 142
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "drink",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.056040246,
+      "mentions": [
+        {
+          "text": {
+            "content": "drink",
+            "beginOffset": 273
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "drink",
+            "beginOffset": 288
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "angel",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.046878487,
+      "mentions": [
+        {
+          "text": {
+            "content": "angel",
+            "beginOffset": 4
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "world",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.034990076,
+      "mentions": [
+        {
+          "text": {
+            "content": "world",
+            "beginOffset": 52
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "drug",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.034990076,
+      "mentions": [
+        {
+          "text": {
+            "content": "drug",
+            "beginOffset": 160
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023807358,
+      "mentions": [
+        {
+          "text": {
+            "content": "Life",
+            "beginOffset": 132
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Oh",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.022209266,
+      "mentions": [
+        {
+          "text": {
+            "content": "Oh",
+            "beginOffset": 167
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "symphony",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.016926078,
+      "mentions": [
+        {
+          "text": {
+            "content": "symphony",
+            "beginOffset": 338
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "flood",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013490614,
+      "mentions": [
+        {
+          "text": {
+            "content": "flood",
+            "beginOffset": 253
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "drink",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0132921245,
+      "mentions": [
+        {
+          "text": {
+            "content": "drink",
+            "beginOffset": 706
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "angel",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012280398,
+      "mentions": [
+        {
+          "text": {
+            "content": "angel",
+            "beginOffset": 630
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "wings",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012169659,
+      "mentions": [
+        {
+          "text": {
+            "content": "wings",
+            "beginOffset": 403
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "wings",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012169659,
+      "mentions": [
+        {
+          "text": {
+            "content": "wings",
+            "beginOffset": 390
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "stars",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0115968585,
+      "mentions": [
+        {
+          "text": {
+            "content": "stars",
+            "beginOffset": 748
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "I",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011311114,
+      "mentions": [
+        {
+          "text": {
+            "content": "I",
+            "beginOffset": 491
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "symphony",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.011311114,
+      "mentions": [
+        {
+          "text": {
+            "content": "symphony",
+            "beginOffset": 449
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "wings",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011282864,
+      "mentions": [
+        {
+          "text": {
+            "content": "wings",
+            "beginOffset": 790
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "wings",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011282864,
+      "mentions": [
+        {
+          "text": {
+            "content": "wings",
+            "beginOffset": 777
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "symphony",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.010486546,
+      "mentions": [
+        {
+          "text": {
+            "content": "symphony",
+            "beginOffset": 836
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "About",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009842571,
+      "mentions": [
+        {
+          "text": {
+            "content": "About",
+            "beginOffset": 730
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0095418785,
+      "mentions": [
+        {
+          "text": {
+            "content": "Life",
+            "beginOffset": 696
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00835253,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 721
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "blood",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00835253,
+      "mentions": [
+        {
+          "text": {
+            "content": "blood",
+            "beginOffset": 688
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "I",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0037330058,
+      "mentions": [
+        {
+          "text": {
+            "content": "I",
+            "beginOffset": 1014
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "I",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0034464824,
+      "mentions": [
+        {
+          "text": {
+            "content": "I",
+            "beginOffset": 879
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sky",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0027826848,
+      "mentions": [
+        {
+          "text": {
+            "content": "sky",
+            "beginOffset": 1159
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sky",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0027826848,
+      "mentions": [
+        {
+          "text": {
+            "content": "sky",
+            "beginOffset": 1215
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sky",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0027826848,
+      "mentions": [
+        {
+          "text": {
+            "content": "sky",
+            "beginOffset": 1274
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sky",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0027826848,
+      "mentions": [
+        {
+          "text": {
+            "content": "sky",
+            "beginOffset": 1330
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

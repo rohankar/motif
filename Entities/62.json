@@ -1,0 +1,474 @@
+{
+  "entities": [
+    {
+      "name": "friends",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.39121518,
+      "mentions": [
+        {
+          "text": {
+            "content": "friends",
+            "beginOffset": 124
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "friends",
+            "beginOffset": 395
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Bridges",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.32213387,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bridges",
+            "beginOffset": 149
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "brother",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.059835147,
+      "mentions": [
+        {
+          "text": {
+            "content": "brother",
+            "beginOffset": 22
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "visions",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04838939,
+      "mentions": [
+        {
+          "text": {
+            "content": "visions",
+            "beginOffset": 90
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "luxury",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04838939,
+      "mentions": [
+        {
+          "text": {
+            "content": "luxury",
+            "beginOffset": 101
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Chorus) Whatcha",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012329744,
+      "mentions": [
+        {
+          "text": {
+            "content": "Whatcha",
+            "beginOffset": 347
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Chorus",
+            "beginOffset": 337
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Chorus",
+            "beginOffset": 1029
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Chorus]  \r  \rWhatcha",
+            "beginOffset": 1106
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Whatcha",
+            "beginOffset": 1136
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Whatcha",
+            "beginOffset": 1153
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Whatcha",
+            "beginOffset": 1170
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Whatcha",
+            "beginOffset": 1187
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Whatcha",
+            "beginOffset": 1204
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Whatcha",
+            "beginOffset": 1221
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Whatcha",
+            "beginOffset": 1238
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Whatcha",
+            "beginOffset": 1258
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Whatcha",
+            "beginOffset": 1654
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "nowhere",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010342646,
+      "mentions": [
+        {
+          "text": {
+            "content": "nowhere",
+            "beginOffset": 1288
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "money",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010129537,
+      "mentions": [
+        {
+          "text": {
+            "content": "money",
+            "beginOffset": 374
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "no one",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.008864806,
+      "mentions": [
+        {
+          "text": {
+            "content": "no one",
+            "beginOffset": 466
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "world",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.008864806,
+      "mentions": [
+        {
+          "text": {
+            "content": "world",
+            "beginOffset": 545
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "money",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006756423,
+      "mentions": [
+        {
+          "text": {
+            "content": "money",
+            "beginOffset": 733
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "reality",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0059874733,
+      "mentions": [
+        {
+          "text": {
+            "content": "reality",
+            "beginOffset": 866
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pursuit",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0059874733,
+      "mentions": [
+        {
+          "text": {
+            "content": "pursuit",
+            "beginOffset": 777
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dough",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005912128,
+      "mentions": [
+        {
+          "text": {
+            "content": "dough",
+            "beginOffset": 606
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "beast",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005912128,
+      "mentions": [
+        {
+          "text": {
+            "content": "beast",
+            "beginOffset": 811
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "peace",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005912128,
+      "mentions": [
+        {
+          "text": {
+            "content": "peace",
+            "beginOffset": 754
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "search",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.005912128,
+      "mentions": [
+        {
+          "text": {
+            "content": "search",
+            "beginOffset": 595
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005912128,
+      "mentions": [
+        {
+          "text": {
+            "content": "life",
+            "beginOffset": 583
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "soul",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005912128,
+      "mentions": [
+        {
+          "text": {
+            "content": "soul",
+            "beginOffset": 565
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nowhere",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005355211,
+      "mentions": [
+        {
+          "text": {
+            "content": "nowhere",
+            "beginOffset": 1838
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "joy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0051432615,
+      "mentions": [
+        {
+          "text": {
+            "content": "joy",
+            "beginOffset": 746
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Whatcha",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0044692084,
+      "mentions": [
+        {
+          "text": {
+            "content": "Whatcha",
+            "beginOffset": 1808
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "American Dream",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/American_Dream",
+        "mid": "/m/020swz"
+      },
+      "salience": 0.0035460119,
+      "mentions": [
+        {
+          "text": {
+            "content": "American Dream",
+            "beginOffset": 836
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "nowhere",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003393831,
+      "mentions": [
+        {
+          "text": {
+            "content": "nowhere",
+            "beginOffset": 1423
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nowhere",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003393831,
+      "mentions": [
+        {
+          "text": {
+            "content": "nowhere",
+            "beginOffset": 1551
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

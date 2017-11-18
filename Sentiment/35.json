@@ -1,0 +1,19 @@
+{
+  "documentSentiment": {
+    "magnitude": 0.8,
+    "score": -0.8
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "And now that it's all over  \rThe birds can nest again  \rI'll only snow when the sun comes out  \rI'll shine only when it starts to rain  \r  \rAnd if you want a drink  \rJust squeeze my hand  \rAnd wine will flow into the land  \rAnd feed my lambs  \r  \rFor I am a mirror  \rI can reflect the moon  \rI will write songs for you  \rI'll be your silver spoon  \r  \rI'm sorry I took your time  \rI am the poem that doesn't rhyme  \rJust turn back a page  \rI'll waste away, I'll waste away  \rI'll waste away, I'll waste away  \rI'll waste away, I'll waste away",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    }
+  ]
+}

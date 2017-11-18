@@ -1,0 +1,39 @@
+{
+  "documentSentiment": {
+    "magnitude": 0.5,
+    "score": 0
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "Oh yeah, oh yeah  \rBaby here we are again, ooh  \r  \rI can see it in your eyes, you want a good time  \rYou wanna put your body on mine  \rAlright but don't change your mind, don't you change it, oh no  \r  \rOh yeah you called me today, drove all this way  \rSo don't let this bus go to waste, oh no  \rYour pleasure pleasure island is where we can go  \r  \rNo I won't think you're easy, no I won't think you're fast  \rYour eyes saying please me but your lips care to ask  \rNo need to fight it when you know it feels right  \rYou say you're a woman who knows what she likes  \r  \rThen show me, you got to you got to show me  \rYou tell me all day that you're lonely  \rBut show me show me show me tonight, yeah  \rGirl show me, you got to you got to show me  \rYou tell me all day that you're lonely  \rBut show me show me show me tonight, yeah  \r  \rLove the way that you laugh, the way that you smile  \rMakes me feel like you've been waiting a while But guess what?",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Darling, I've been waiting too  \rSo let's ride, we can get freaky tonight  \rRight is your ticket to ride  \rTell me girl what you gon' do  \r  \rNo I won't think you're easy, no I won't think you're fast  \rYour eyes saying please me but your lips care to ask  \rNo need to fight it when you know it feels right  \rYou say you're a woman who knows what she likes  \r  \rThen show me, you got to you got to show me  \rYou tell me all day that you're lonely  \rBut show me show me show me tonight, yeah  \rGirl show me, you got to you got to show me  \rYou tell me all day that you're lonely  \rShow me show me show me tonight  \r  \rIt's getting freaky in this room room room  \rNow let me hear you say you want that boom boom boom  \rWe can take it slow, we can zoom zoom zoom  \rBaby if you're ready for that ah, ah ah  \r  \rIt's getting freaky in this room room room  \rNow let me hear you say you want that boom boom boom  \rWe can take it slow, we can zoom zoom zoom  \rBaby if you're ready for that ah, ah ah  \r  \rThen show me, you got to you got to show me  \rYou tell me all day that you're lonely  \rBut show me",
+        "beginOffset": 955
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "show me show me tonight, yeah  \rGirl show me, you got to you got to show me  \rYou tell me all day that you're lonely  \rBut show me show me show me tonight, yeah",
+        "beginOffset": 2051
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    }
+  ]
+}

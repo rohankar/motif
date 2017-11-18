@@ -1,0 +1,289 @@
+{
+  "entities": [
+    {
+      "name": "something",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.5272741,
+      "mentions": [
+        {
+          "text": {
+            "content": "something",
+            "beginOffset": 30
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "something",
+            "beginOffset": 222
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "something",
+            "beginOffset": 767
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "some",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.22172153,
+      "mentions": [
+        {
+          "text": {
+            "content": "some",
+            "beginOffset": 4
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ripple",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.051336955,
+      "mentions": [
+        {
+          "text": {
+            "content": "ripple",
+            "beginOffset": 272
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.03272089,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 301
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030030997,
+      "mentions": [
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": 645
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022488311,
+      "mentions": [
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": 703
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cradle",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014897129,
+      "mentions": [
+        {
+          "text": {
+            "content": "cradle",
+            "beginOffset": 329
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "something",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013435965,
+      "mentions": [
+        {
+          "text": {
+            "content": "something",
+            "beginOffset": 475
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012588425,
+      "mentions": [
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": 538
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011164743,
+      "mentions": [
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": 635
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Search",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010863192,
+      "mentions": [
+        {
+          "text": {
+            "content": "Search",
+            "beginOffset": 367
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "justice",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010863192,
+      "mentions": [
+        {
+          "text": {
+            "content": "justice",
+            "beginOffset": 378
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "water",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010726747,
+      "mentions": [
+        {
+          "text": {
+            "content": "water",
+            "beginOffset": 260
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "stone",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010726747,
+      "mentions": [
+        {
+          "text": {
+            "content": "stone",
+            "beginOffset": 245
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0077371025,
+      "mentions": [
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": 693
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0049304543,
+      "mentions": [
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": 527
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "means",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0032467714,
+      "mentions": [
+        {
+          "text": {
+            "content": "means",
+            "beginOffset": 570
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "end",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0032467714,
+      "mentions": [
+        {
+          "text": {
+            "content": "end",
+            "beginOffset": 583
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

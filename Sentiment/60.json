@@ -1,0 +1,39 @@
+{
+  "documentSentiment": {
+    "magnitude": 1.6,
+    "score": 0
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "I'm a do my thing  \rI'm a do, I'm a do, I'm a do my thing  \r  \rI was born at the end of december  \rNot afraid that the cold of the winter  \rWould keep me inside, hey  \rEver since mama left me at home  \rI had to search for a class of my own  \rAnd go there in my mind  \r  \rI had a dream like dr.",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "King  \rI had a song I had to sing  \rAnd I knew it wasn't make believe  \rWhen the teacher said to me  \rBaby, who do you wanna be  \rSaid I don't know but I know that I'm a gonna leave  \r  \rI'm so gone (just you)  \rAll I do is walk alone (just me)  \rI'm so gone (just you)  \rI can make it on my own (just me)  \rAlright  \r  \rEverybody wanna follow the crowd  \rBut I belong in the front singing loud  \rAnd I'll go solo, hey  \rBut the fame is a hell of a temptress  \rNot my wife but I guess she's a mistress, oh  \rCan I let her go  \r  \rShe can play tricks on your mind  \rHave you leave your soul behind  \rShe's turned some niggas out  \rBut she can't keep her spell on me  \rShe can't keep back mailing me  \rI'm free to leave, to be just me  \r  \rI'm so gone (just you)  \rAll I do is walk alone (just me)  \rI'm so gone (just you)  \rI can make it on my own (just me)  \r  \rSo many (so many people tryna be somebody else)  \rTryna be somebody else (or whatever sells)  \rI've got my own lane (I've got my own lane, I'm driving",
+        "beginOffset": 294
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "by myself)  \rHope you wish my well  \r  \rI'm so gone (just you)  \rAll I do is walk alone (just me)  \rI'm so gone (just you)  \rI can make it on my own (just me)  \r  \rI'm so gone (just you)  \rAll I do is walk alone (just me)  \rI'm so gone (just you)  \rI can make it on my own (just me)  \r  \rIf I fall then let me fall, yea yea yea  \rOh cause I only got myself to blame  \rOh it's just me  \rAll I do is walk alone",
+        "beginOffset": 1307
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    }
+  ]
+}

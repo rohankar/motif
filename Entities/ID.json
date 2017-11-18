@@ -1,0 +1,20 @@
+{
+  "entities": [
+    {
+      "name": "text",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 1,
+      "mentions": [
+        {
+          "text": {
+            "content": "text",
+            "beginOffset": 0
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

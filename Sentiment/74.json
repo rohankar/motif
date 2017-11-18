@@ -1,0 +1,29 @@
+{
+  "documentSentiment": {
+    "magnitude": 0.9,
+    "score": -0.4
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "You and I go hard at each other like we're going to war  \rYou and I go rough, we keep throwing things and slamming the door  \rYou and I get so damn dysfunctional, we start keeping score  \rYou and I get sick, yeah I know that we can't do this no more  \r  \rBut baby there you go again, there you go again, making me love you  \rYeah I stopped using my head, using my head, let it all go  \rGot you stuck on my body, on my body like a tattoo  \rAnd now I'm feeling stupid, feeling stupid coming back to you  \r  \rSo I cross my heart and I hope to die  \rThat I'll only stay with you one more night  \rAnd I know I said it a million times  \rBut I'll only stay with you one more night  \r  \rTry to tell you no but my body keeps on telling you yes  \rTry to tell you stop but your lipstick got me so out of breath  \rI'll be waking up in the morning probably hating myself  \rAnd I'll be waking up feeling satisfied but guilty as hell  \r  \rBut baby there you go again, there you go again, making me love you  \rAnd I stopped using my head, using my head, let it all go  \rGot you stuck on my body, on my body like a tattoo  \rAnd now I",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "'m feeling stupid, feeling stupid running back to you  \r  \rSo I cross my heart and I hope to die  \rThat I'll only stay with you one more night  \rAnd I know I said it a million times  \rBut I'll only stay with you one more night  \r  \rYeah baby give me one more night  \rYeah baby give me one more night  \rYeah baby give me one more night  \r  \rBaby there you go again, there you go again, making me love you  \rAnd I stopped using my head, using my head, let it all go  \rGot you stuck on my body, on my body like a tattoo  \rYeah, yeah, yeah, yeah  \r  \rSo I cross my heart and I hope to die  \rThat I'll only stay with you one more night  \rAnd I know I said it a million times  \rBut I'll only stay with you one more night  \r(Yeah baby give me one more night)  \r  \rSo I cross my heart and I hope to die  \rThat I'll only stay with you one more night  \rAnd I know I said it a million times  \rBut I'll only stay with you one more night",
+        "beginOffset": 1116
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    }
+  ]
+}

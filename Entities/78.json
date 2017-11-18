@@ -1,0 +1,386 @@
+{
+  "entities": [
+    {
+      "name": "chaos",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.23000166,
+      "mentions": [
+        {
+          "text": {
+            "content": "chaos",
+            "beginOffset": 72
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "everything",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.103047974,
+      "mentions": [
+        {
+          "text": {
+            "content": "everything",
+            "beginOffset": 687
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "pressure",
+            "beginOffset": 714
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.09750335,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chorus",
+            "beginOffset": 199
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Chorus",
+            "beginOffset": 602
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06746065,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 214
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06578464,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": 61
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mind",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06578464,
+      "mentions": [
+        {
+          "text": {
+            "content": "mind",
+            "beginOffset": 97
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fire",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.057424277,
+      "mentions": [
+        {
+          "text": {
+            "content": "fire",
+            "beginOffset": 41
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.055471923,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 502
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "game",
+            "beginOffset": 526
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "heart",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.029130973,
+      "mentions": [
+        {
+          "text": {
+            "content": "heart",
+            "beginOffset": 187
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "plane",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025523776,
+      "mentions": [
+        {
+          "text": {
+            "content": "plane",
+            "beginOffset": 138
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "toll",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020357983,
+      "mentions": [
+        {
+          "text": {
+            "content": "toll",
+            "beginOffset": 234
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cause",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019491466,
+      "mentions": [
+        {
+          "text": {
+            "content": "cause",
+            "beginOffset": 349
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "heart",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019491466,
+      "mentions": [
+        {
+          "text": {
+            "content": "heart",
+            "beginOffset": 296
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "front",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017285518,
+      "mentions": [
+        {
+          "text": {
+            "content": "front",
+            "beginOffset": 317
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "choice",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017285518,
+      "mentions": [
+        {
+          "text": {
+            "content": "choice",
+            "beginOffset": 341
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "times",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017069198,
+      "mentions": [
+        {
+          "text": {
+            "content": "times",
+            "beginOffset": 273
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "best",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016230468,
+      "mentions": [
+        {
+          "text": {
+            "content": "best",
+            "beginOffset": 399
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "appetite",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012773015,
+      "mentions": [
+        {
+          "text": {
+            "content": "appetite",
+            "beginOffset": 416
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "things",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01184158,
+      "mentions": [
+        {
+          "text": {
+            "content": "things",
+            "beginOffset": 637
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "wings",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01184158,
+      "mentions": [
+        {
+          "text": {
+            "content": "wings",
+            "beginOffset": 665
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hips",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01184158,
+      "mentions": [
+        {
+          "text": {
+            "content": "hips",
+            "beginOffset": 731
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fingertips",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01184158,
+      "mentions": [
+        {
+          "text": {
+            "content": "fingertips",
+            "beginOffset": 749
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010308863,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chorus",
+            "beginOffset": 837
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "same",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0052063246,
+      "mentions": [
+        {
+          "text": {
+            "content": "same",
+            "beginOffset": 556
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

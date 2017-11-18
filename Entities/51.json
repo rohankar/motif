@@ -1,0 +1,462 @@
+{
+  "entities": [
+    {
+      "name": "man",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.13165887,
+      "mentions": [
+        {
+          "text": {
+            "content": "man",
+            "beginOffset": 60
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.13165887,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 82
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "speed",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10552748,
+      "mentions": [
+        {
+          "text": {
+            "content": "speed",
+            "beginOffset": 42
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Mmm",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.08256398,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mmm",
+            "beginOffset": 231
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "lot",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.08093585,
+      "mentions": [
+        {
+          "text": {
+            "content": "lot",
+            "beginOffset": 75
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.051347043,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 145
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0504191,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 194
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "talent Work",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04267005,
+      "mentions": [
+        {
+          "text": {
+            "content": "talent  \rWork",
+            "beginOffset": 596
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Come",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.033341937,
+      "mentions": [
+        {
+          "text": {
+            "content": "Come",
+            "beginOffset": 470
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "man",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.030276906,
+      "mentions": [
+        {
+          "text": {
+            "content": "man",
+            "beginOffset": 520
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lover",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.029561188,
+      "mentions": [
+        {
+          "text": {
+            "content": "lover",
+            "beginOffset": 244
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Whoo",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.028455138,
+      "mentions": [
+        {
+          "text": {
+            "content": "Whoo",
+            "beginOffset": 721
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "god",
+            "beginOffset": 712
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Hey Dooooo",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020422773,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hey  \rDooooo",
+            "beginOffset": 264
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "fool baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.018884603,
+      "mentions": [
+        {
+          "text": {
+            "content": "fool baby",
+            "beginOffset": 405
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Everybody",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01710739,
+      "mentions": [
+        {
+          "text": {
+            "content": "Everybody",
+            "beginOffset": 790
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "woman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013165107,
+      "mentions": [
+        {
+          "text": {
+            "content": "woman",
+            "beginOffset": 350
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chain",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013165107,
+      "mentions": [
+        {
+          "text": {
+            "content": "chain",
+            "beginOffset": 372
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012928285,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 737
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pain",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012050154,
+      "mentions": [
+        {
+          "text": {
+            "content": "pain",
+            "beginOffset": 438
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012050154,
+      "mentions": [
+        {
+          "text": {
+            "content": "life",
+            "beginOffset": 430
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "man",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011314992,
+      "mentions": [
+        {
+          "text": {
+            "content": "man",
+            "beginOffset": 674
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Everybody",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011273901,
+      "mentions": [
+        {
+          "text": {
+            "content": "Everybody",
+            "beginOffset": 769
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Yeah",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010842552,
+      "mentions": [
+        {
+          "text": {
+            "content": "Yeah",
+            "beginOffset": 317
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Doodoo doodoo",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010293623,
+      "mentions": [
+        {
+          "text": {
+            "content": "Doodoo doodoo",
+            "beginOffset": 747
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009008293,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": 703
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.008926165,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 911
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Everybody",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.008321551,
+      "mentions": [
+        {
+          "text": {
+            "content": "Everybody",
+            "beginOffset": 813
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Hey Come on baby Come on Come on Fly with me",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0042085345,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hey  \rCome on baby  \rCome on  \rCome on  \rFly with me",
+            "beginOffset": 858
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "mind",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0039549805,
+      "mentions": [
+        {
+          "text": {
+            "content": "mind",
+            "beginOffset": 623
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "find",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003665418,
+      "mentions": [
+        {
+          "text": {
+            "content": "find",
+            "beginOffset": 560
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

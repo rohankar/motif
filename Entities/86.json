@@ -1,0 +1,843 @@
+{
+  "entities": [
+    {
+      "name": "Cos",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.1217708,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cos",
+            "beginOffset": 17
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "state",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.070555404,
+      "mentions": [
+        {
+          "text": {
+            "content": "state",
+            "beginOffset": 284
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.06465708,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 173
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "face",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.045657545,
+      "mentions": [
+        {
+          "text": {
+            "content": "face",
+            "beginOffset": 261
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "style",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.042609844,
+      "mentions": [
+        {
+          "text": {
+            "content": "style",
+            "beginOffset": 50
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "knees",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04030425,
+      "mentions": [
+        {
+          "text": {
+            "content": "knees",
+            "beginOffset": 157
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Da, da, da, da, da, da Da, da, da, da, da, da",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.03235112,
+      "mentions": [
+        {
+          "text": {
+            "content": "Da, da, da, da, da, da  \rDa, da, da, da, da, da",
+            "beginOffset": 1356
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "state",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.030645784,
+      "mentions": [
+        {
+          "text": {
+            "content": "state",
+            "beginOffset": 770
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "state",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.02737494,
+      "mentions": [
+        {
+          "text": {
+            "content": "state",
+            "beginOffset": 310
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Gotta",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.026698958,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gotta",
+            "beginOffset": 0
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "shock",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026279317,
+      "mentions": [
+        {
+          "text": {
+            "content": "shock",
+            "beginOffset": 319
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Ow Wow Ow",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02586189,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ow  \rWow  \rOw",
+            "beginOffset": 787
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "shock",
+            "beginOffset": 779
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "state",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.022390608,
+      "mentions": [
+        {
+          "text": {
+            "content": "state",
+            "beginOffset": 727
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Wow Uh",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020880576,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wow  \rUh",
+            "beginOffset": 935
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "shock",
+            "beginOffset": 927
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.020485412,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 467
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.020485412,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 417
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "state",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.018539207,
+      "mentions": [
+        {
+          "text": {
+            "content": "state",
+            "beginOffset": 979
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "state",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.018539207,
+      "mentions": [
+        {
+          "text": {
+            "content": "state",
+            "beginOffset": 960
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "state",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.018539207,
+      "mentions": [
+        {
+          "text": {
+            "content": "state",
+            "beginOffset": 918
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "state",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.018539207,
+      "mentions": [
+        {
+          "text": {
+            "content": "state",
+            "beginOffset": 834
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "state",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.018307198,
+      "mentions": [
+        {
+          "text": {
+            "content": "state",
+            "beginOffset": 701
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shock",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017794713,
+      "mentions": [
+        {
+          "text": {
+            "content": "shock",
+            "beginOffset": 988
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shock",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017794713,
+      "mentions": [
+        {
+          "text": {
+            "content": "shock",
+            "beginOffset": 969
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shock",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017794713,
+      "mentions": [
+        {
+          "text": {
+            "content": "shock",
+            "beginOffset": 843
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shock",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017571958,
+      "mentions": [
+        {
+          "text": {
+            "content": "shock",
+            "beginOffset": 736
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "knees",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015521457,
+      "mentions": [
+        {
+          "text": {
+            "content": "knees",
+            "beginOffset": 401
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0138611365,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 909
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0138611365,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 816
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "face",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011759159,
+      "mentions": [
+        {
+          "text": {
+            "content": "face",
+            "beginOffset": 678
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby talk",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01036391,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby talk",
+            "beginOffset": 607
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009662986,
+      "mentions": [
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": 587
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Everybody",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00918663,
+      "mentions": [
+        {
+          "text": {
+            "content": "Everybody",
+            "beginOffset": 996
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nah Nah",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007858556,
+      "mentions": [
+        {
+          "text": {
+            "content": "nah  \rNah",
+            "beginOffset": 1067
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "nah  \rNah",
+            "beginOffset": 1108
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "state",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0073118717,
+      "mentions": [
+        {
+          "text": {
+            "content": "state",
+            "beginOffset": 1551
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Wow Nah",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.006969903,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wow  \rNah",
+            "beginOffset": 1155
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Ow",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0068396837,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ow",
+            "beginOffset": 885
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "state",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.006047934,
+      "mentions": [
+        {
+          "text": {
+            "content": "state",
+            "beginOffset": 1585
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "state",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.006047934,
+      "mentions": [
+        {
+          "text": {
+            "content": "state",
+            "beginOffset": 1608
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "state",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.006047934,
+      "mentions": [
+        {
+          "text": {
+            "content": "state",
+            "beginOffset": 1521
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shock",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005803908,
+      "mentions": [
+        {
+          "text": {
+            "content": "shock",
+            "beginOffset": 1530
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shock",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005803908,
+      "mentions": [
+        {
+          "text": {
+            "content": "shock",
+            "beginOffset": 1560
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shock",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005803908,
+      "mentions": [
+        {
+          "text": {
+            "content": "shock",
+            "beginOffset": 1594
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shock",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005803908,
+      "mentions": [
+        {
+          "text": {
+            "content": "shock",
+            "beginOffset": 1617
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "state",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.004189462,
+      "mentions": [
+        {
+          "text": {
+            "content": "state",
+            "beginOffset": 1634
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "state",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.004189462,
+      "mentions": [
+        {
+          "text": {
+            "content": "state",
+            "beginOffset": 1664
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "state",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.004189462,
+      "mentions": [
+        {
+          "text": {
+            "content": "state",
+            "beginOffset": 1692
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "da",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0040679877,
+      "mentions": [
+        {
+          "text": {
+            "content": "da",
+            "beginOffset": 1456
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Da, da, da, da, da, da Da, da, da, da, da",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0040679877,
+      "mentions": [
+        {
+          "text": {
+            "content": "Da, da, da, da, da, da  \rDa, da, da, da, da",
+            "beginOffset": 1411
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "shock",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0040203044,
+      "mentions": [
+        {
+          "text": {
+            "content": "shock",
+            "beginOffset": 1643
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shock",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0040203044,
+      "mentions": [
+        {
+          "text": {
+            "content": "shock",
+            "beginOffset": 1673
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shock",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0040203044,
+      "mentions": [
+        {
+          "text": {
+            "content": "shock",
+            "beginOffset": 1701
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Yeah",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003819526,
+      "mentions": [
+        {
+          "text": {
+            "content": "Yeah",
+            "beginOffset": 826
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "nah Nah",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0035899882,
+      "mentions": [
+        {
+          "text": {
+            "content": "nah  \rNah",
+            "beginOffset": 1788
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Na",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0028402722,
+      "mentions": [
+        {
+          "text": {
+            "content": "Na",
+            "beginOffset": 1240
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Na",
+            "beginOffset": 1276
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

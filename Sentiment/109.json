@@ -1,0 +1,19 @@
+{
+  "documentSentiment": {
+    "magnitude": 0.8,
+    "score": 0.8
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "Isn't she lovely  \rIsn't she wonderful  \rIsn't she precious  \rLess than one minute old  \rI never thought through love we'd be  \rMaking one as lovely as she  \rBut isn't she lovely made from love  \rIsn't she pretty  \rTruly the angel's best  \rBoy, I'm so happy  \rWe have been heaven blessed  \rI can't believe what God has done  \rThrough us he's given life to one  \rBut isn't she lovely made from love  \rIsn't she lovely  \rLife and love are the same  \rLife is Aisha  \rThe meaning of her name  \rLondie, it could have not been done  \rWithout you who conceived the one  \rThat's so very lovely made from love",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ]
+}

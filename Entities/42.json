@@ -1,0 +1,485 @@
+{
+  "entities": [
+    {
+      "name": "toodle-loo",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.14081065,
+      "mentions": [
+        {
+          "text": {
+            "content": "toodle-loo",
+            "beginOffset": 378
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "No",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0889287,
+      "mentions": [
+        {
+          "text": {
+            "content": "No",
+            "beginOffset": 35
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "blues",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06811686,
+      "mentions": [
+        {
+          "text": {
+            "content": "blues",
+            "beginOffset": 95
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "place",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.059724376,
+      "mentions": [
+        {
+          "text": {
+            "content": "place",
+            "beginOffset": 56
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "good-bye",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0550648,
+      "mentions": [
+        {
+          "text": {
+            "content": "good-bye",
+            "beginOffset": 402
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "advice",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.041024316,
+      "mentions": [
+        {
+          "text": {
+            "content": "advice",
+            "beginOffset": 189
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "luck",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.037623025,
+      "mentions": [
+        {
+          "text": {
+            "content": "luck",
+            "beginOffset": 257
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "luck",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.034891028,
+      "mentions": [
+        {
+          "text": {
+            "content": "luck",
+            "beginOffset": 475
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tree",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.034409318,
+      "mentions": [
+        {
+          "text": {
+            "content": "tree",
+            "beginOffset": 214
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "woe",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.034409318,
+      "mentions": [
+        {
+          "text": {
+            "content": "woe",
+            "beginOffset": 140
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Black cats",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.034409318,
+      "mentions": [
+        {
+          "text": {
+            "content": "Black cats",
+            "beginOffset": 149
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "remembering",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.034409318,
+      "mentions": [
+        {
+          "text": {
+            "content": "remembering",
+            "beginOffset": 127
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kind",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.028860701,
+      "mentions": [
+        {
+          "text": {
+            "content": "kind",
+            "beginOffset": 250
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "money",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.028491803,
+      "mentions": [
+        {
+          "text": {
+            "content": "money",
+            "beginOffset": 425
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "luck",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025153369,
+      "mentions": [
+        {
+          "text": {
+            "content": "luck",
+            "beginOffset": 232
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025119789,
+      "mentions": [
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": 506
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "number",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025119789,
+      "mentions": [
+        {
+          "text": {
+            "content": "number",
+            "beginOffset": 540
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "luck",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023321243,
+      "mentions": [
+        {
+          "text": {
+            "content": "luck",
+            "beginOffset": 451
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mind",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023290092,
+      "mentions": [
+        {
+          "text": {
+            "content": "mind",
+            "beginOffset": 351
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kinda luck",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018120294,
+      "mentions": [
+        {
+          "text": {
+            "content": "kinda luck",
+            "beginOffset": 842
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "luck",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018120294,
+      "mentions": [
+        {
+          "text": {
+            "content": "luck",
+            "beginOffset": 892
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "knee",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015949182,
+      "mentions": [
+        {
+          "text": {
+            "content": "knee",
+            "beginOffset": 714
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "thing",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015949182,
+      "mentions": [
+        {
+          "text": {
+            "content": "thing",
+            "beginOffset": 761
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lady luck",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014074905,
+      "mentions": [
+        {
+          "text": {
+            "content": "lady luck",
+            "beginOffset": 669
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kinda blues Drivin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013644617,
+      "mentions": [
+        {
+          "text": {
+            "content": "kinda blues  \rDrivin",
+            "beginOffset": 311
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "losers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013029451,
+      "mentions": [
+        {
+          "text": {
+            "content": "losers",
+            "beginOffset": 927
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "luck",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012093784,
+      "mentions": [
+        {
+          "text": {
+            "content": "luck",
+            "beginOffset": 824
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "everything",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008263062,
+      "mentions": [
+        {
+          "text": {
+            "content": "everything",
+            "beginOffset": 583
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Wrong",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0070091435,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wrong",
+            "beginOffset": 621
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "decks",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0070091435,
+      "mentions": [
+        {
+          "text": {
+            "content": "decks",
+            "beginOffset": 662
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hex",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0070091435,
+      "mentions": [
+        {
+          "text": {
+            "content": "hex",
+            "beginOffset": 691
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Yes",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.006549988,
+      "mentions": [
+        {
+          "text": {
+            "content": "Yes",
+            "beginOffset": 868
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

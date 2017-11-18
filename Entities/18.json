@@ -1,0 +1,297 @@
+{
+  "entities": [
+    {
+      "name": "fool mess",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.7804503,
+      "mentions": [
+        {
+          "text": {
+            "content": "fool mess",
+            "beginOffset": 357
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "fool mess",
+            "beginOffset": 826
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "thing",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.044185326,
+      "mentions": [
+        {
+          "text": {
+            "content": "thing",
+            "beginOffset": 415
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sky A star",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.032683756,
+      "mentions": [
+        {
+          "text": {
+            "content": "sky  \r  \rA star",
+            "beginOffset": 682
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Everyone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014078349,
+      "mentions": [
+        {
+          "text": {
+            "content": "Everyone",
+            "beginOffset": 328
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Everyone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014078349,
+      "mentions": [
+        {
+          "text": {
+            "content": "Everyone",
+            "beginOffset": 378
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "call",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012060885,
+      "mentions": [
+        {
+          "text": {
+            "content": "call",
+            "beginOffset": 452
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011909857,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 444
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sun",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011106276,
+      "mentions": [
+        {
+          "text": {
+            "content": "sun",
+            "beginOffset": 628
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "stomach",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010427654,
+      "mentions": [
+        {
+          "text": {
+            "content": "stomach",
+            "beginOffset": 312
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Everyone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0097685,
+      "mentions": [
+        {
+          "text": {
+            "content": "Everyone",
+            "beginOffset": 797
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Everyone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0097685,
+      "mentions": [
+        {
+          "text": {
+            "content": "Everyone",
+            "beginOffset": 847
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "thing",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009733872,
+      "mentions": [
+        {
+          "text": {
+            "content": "thing",
+            "beginOffset": 884
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009667521,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": 581
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "star",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.008260796,
+      "mentions": [
+        {
+          "text": {
+            "content": "star",
+            "beginOffset": 774
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "call",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005726203,
+      "mentions": [
+        {
+          "text": {
+            "content": "call",
+            "beginOffset": 921
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0056542484,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 913
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cage",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0036311185,
+      "mentions": [
+        {
+          "text": {
+            "content": "cage",
+            "beginOffset": 714
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cage",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0036311185,
+      "mentions": [
+        {
+          "text": {
+            "content": "cage",
+            "beginOffset": 750
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "line",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0031773949,
+      "mentions": [
+        {
+          "text": {
+            "content": "line",
+            "beginOffset": 734
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,318 @@
+{
+  "entities": [
+    {
+      "name": "book",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.4770874,
+      "mentions": [
+        {
+          "text": {
+            "content": "book",
+            "beginOffset": 648
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sea",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.14486717,
+      "mentions": [
+        {
+          "text": {
+            "content": "sea",
+            "beginOffset": 525
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "sea",
+            "beginOffset": 1367
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "sea",
+            "beginOffset": 1418
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "sea",
+            "beginOffset": 1472
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tree",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.12769024,
+      "mentions": [
+        {
+          "text": {
+            "content": "tree",
+            "beginOffset": 18
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shelf",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04452723,
+      "mentions": [
+        {
+          "text": {
+            "content": "shelf",
+            "beginOffset": 125
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "houses",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.041162387,
+      "mentions": [
+        {
+          "text": {
+            "content": "houses",
+            "beginOffset": 1050
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "houses",
+            "beginOffset": 1278
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02071821,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": 577
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "song",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.019587176,
+      "mentions": [
+        {
+          "text": {
+            "content": "song",
+            "beginOffset": 233
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sea",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.017274665,
+      "mentions": [
+        {
+          "text": {
+            "content": "sea",
+            "beginOffset": 423
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sea",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.01601598,
+      "mentions": [
+        {
+          "text": {
+            "content": "sea",
+            "beginOffset": 881
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "darling",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012045589,
+      "mentions": [
+        {
+          "text": {
+            "content": "darling",
+            "beginOffset": 484
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "size",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011597682,
+      "mentions": [
+        {
+          "text": {
+            "content": "size",
+            "beginOffset": 553
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "one",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011597682,
+      "mentions": [
+        {
+          "text": {
+            "content": "one",
+            "beginOffset": 659
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "line",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011452096,
+      "mentions": [
+        {
+          "text": {
+            "content": "line",
+            "beginOffset": 448
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "world",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.011308329,
+      "mentions": [
+        {
+          "text": {
+            "content": "world",
+            "beginOffset": 692
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "good",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0103510665,
+      "mentions": [
+        {
+          "text": {
+            "content": "good",
+            "beginOffset": 1130
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nothing",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007937296,
+      "mentions": [
+        {
+          "text": {
+            "content": "nothing",
+            "beginOffset": 1156
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "streets",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.005898743,
+      "mentions": [
+        {
+          "text": {
+            "content": "streets",
+            "beginOffset": 1011
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "streets",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0048974464,
+      "mentions": [
+        {
+          "text": {
+            "content": "streets",
+            "beginOffset": 1239
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "song",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0039836005,
+      "mentions": [
+        {
+          "text": {
+            "content": "song",
+            "beginOffset": 919
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

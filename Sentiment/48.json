@@ -1,0 +1,89 @@
+{
+  "documentSentiment": {
+    "magnitude": 2.9,
+    "score": -0.1
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "Dark star crashes, pouring its light into ashes.",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Reason tatters, the forces tear loose from the axis.",
+        "beginOffset": 51
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Searchlight casting for faults in the clouds of delusion.",
+        "beginOffset": 106
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Shall we go, you and I while we can  \r  \rThrough the transitive nightfall of diamonds?",
+        "beginOffset": 166
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Mirror shatters in formless reflections of matter.",
+        "beginOffset": 255
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Glass hand dissolving to ice petal flowers revolving.",
+        "beginOffset": 308
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Lady in velvet recedes in the nights of goodbye.",
+        "beginOffset": 364
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Shall we go, you and I while we can  \rThrough the transitive nightfall of diamonds?",
+        "beginOffset": 418
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    }
+  ]
+}

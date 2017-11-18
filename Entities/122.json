@@ -1,0 +1,2154 @@
+{
+  "entities": [
+    {
+      "name": "H-O-D",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.09458061,
+      "mentions": [
+        {
+          "text": {
+            "content": "H-O-D",
+            "beginOffset": 186
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "H-O-D",
+            "beginOffset": 206
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "H-O-D",
+            "beginOffset": 226
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "H-O-D",
+            "beginOffset": 246
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "H-O-D",
+            "beginOffset": 3326
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "H-O-D",
+            "beginOffset": 3346
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "White Owls",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/0dqy87",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/White_Owl"
+      },
+      "salience": 0.06164547,
+      "mentions": [
+        {
+          "text": {
+            "content": "White Owl",
+            "beginOffset": 1705
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "White Owls",
+            "beginOffset": 1571
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "style",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03434924,
+      "mentions": [
+        {
+          "text": {
+            "content": "style",
+            "beginOffset": 331
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "MAN M-E-T",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.033987038,
+      "mentions": [
+        {
+          "text": {
+            "content": "MAN  \rM-E-T",
+            "beginOffset": 193
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "MAN  \rM-E-T",
+            "beginOffset": 3373
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Patty",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.03388385,
+      "mentions": [
+        {
+          "text": {
+            "content": "Patty",
+            "beginOffset": 424
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Method Man",
+            "beginOffset": 411
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cloud",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03348511,
+      "mentions": [
+        {
+          "text": {
+            "content": "cloud",
+            "beginOffset": 283
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Shaolin",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/g/11cjk19xg2"
+      },
+      "salience": 0.032966554,
+      "mentions": [
+        {
+          "text": {
+            "content": "Shaolin",
+            "beginOffset": 18
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Shaolin",
+            "beginOffset": 2699
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Shaolin",
+            "beginOffset": 3471
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "slums",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.03125876,
+      "mentions": [
+        {
+          "text": {
+            "content": "slums",
+            "beginOffset": 9
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jam",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03125876,
+      "mentions": [
+        {
+          "text": {
+            "content": "jam",
+            "beginOffset": 379
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Method Man Straight",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/g/1s05v83b2"
+      },
+      "salience": 0.025593895,
+      "mentions": [
+        {
+          "text": {
+            "content": "Method Man  \r  \rM-E-T",
+            "beginOffset": 163
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "MAN  \rM-E-T",
+            "beginOffset": 213
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "MAN  \rM-E-T",
+            "beginOffset": 233
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "MAN  \rM-E-T",
+            "beginOffset": 3333
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "MAN  \rM-E-T",
+            "beginOffset": 3353
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Method Man  \r  \rStraight",
+            "beginOffset": 3428
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Inspecktah Deck",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018545529,
+      "mentions": [
+        {
+          "text": {
+            "content": "Inspecktah Deck",
+            "beginOffset": 92
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Ghost Face Killer",
+      "type": "CONSUMER_GOOD",
+      "metadata": {
+        "mid": "/m/01wph57",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Ghostface_Killah"
+      },
+      "salience": 0.018545529,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ghost Face Killer",
+            "beginOffset": 137
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Raekwon the Chef You",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/013w4h",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Raekwon"
+      },
+      "salience": 0.01623141,
+      "mentions": [
+        {
+          "text": {
+            "content": "Raekwon the Chef  \rYou",
+            "beginOffset": 109
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/0d05l6",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.01623141,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 132
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "MAN Hey",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01623141,
+      "mentions": [
+        {
+          "text": {
+            "content": "MAN  \r  \rHey",
+            "beginOffset": 253
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Ol Dirty Bastard",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/01vxxqm",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Ol%27_Dirty_Bastard"
+      },
+      "salience": 0.01623141,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ol Dirty Bastard",
+            "beginOffset": 74
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "GZA",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/01drbr",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/GZA"
+      },
+      "salience": 0.01623141,
+      "mentions": [
+        {
+          "text": {
+            "content": "GZA",
+            "beginOffset": 69
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "RZA",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/01w9jh4",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/RZA"
+      },
+      "salience": 0.01623141,
+      "mentions": [
+        {
+          "text": {
+            "content": "RZA",
+            "beginOffset": 60
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Wu-Tang Fading",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/0827v",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Wu-Tang_Clan"
+      },
+      "salience": 0.016027445,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wu-Tang Clan",
+            "beginOffset": 27
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Wu-Tang",
+            "beginOffset": 1432
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Wu-Tang",
+            "beginOffset": 2587
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Wu-Tang  \rFading",
+            "beginOffset": 3082
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Like Deck",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013247722,
+      "mentions": [
+        {
+          "text": {
+            "content": "Like Deck",
+            "beginOffset": 1169
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "method man",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.009874318,
+      "mentions": [
+        {
+          "text": {
+            "content": "method man",
+            "beginOffset": 454
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Hey hey hey",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0076280893,
+      "mentions": [
+        {
+          "text": {
+            "content": "sword",
+            "beginOffset": 1440
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Hey hey hey",
+            "beginOffset": 1448
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Comin",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0075320755,
+      "mentions": [
+        {
+          "text": {
+            "content": "Comin",
+            "beginOffset": 1215
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "flow",
+            "beginOffset": 1208
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "meth",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.007181111,
+      "mentions": [
+        {
+          "text": {
+            "content": "meth",
+            "beginOffset": 1590
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Humpty Hump Wow",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00704409,
+      "mentions": [
+        {
+          "text": {
+            "content": "Humpty Hump  \rWow",
+            "beginOffset": 2676
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "style",
+            "beginOffset": 2708
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Method Man",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/03j149k",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Method_Man"
+      },
+      "salience": 0.0068165543,
+      "mentions": [
+        {
+          "text": {
+            "content": "Method Man",
+            "beginOffset": 904
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Method Man",
+            "beginOffset": 1487
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Method Man",
+            "beginOffset": 3607
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "butter",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0063349474,
+      "mentions": [
+        {
+          "text": {
+            "content": "butter",
+            "beginOffset": 534
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Method",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0062469663,
+      "mentions": [
+        {
+          "text": {
+            "content": "Method",
+            "beginOffset": 1535
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cake patty cake",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0056895884,
+      "mentions": [
+        {
+          "text": {
+            "content": "cake patty cake",
+            "beginOffset": 430
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cause",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0056895884,
+      "mentions": [
+        {
+          "text": {
+            "content": "cause",
+            "beginOffset": 520
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jam",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0056895884,
+      "mentions": [
+        {
+          "text": {
+            "content": "jam",
+            "beginOffset": 714
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "angle",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004978085,
+      "mentions": [
+        {
+          "text": {
+            "content": "angle",
+            "beginOffset": 856
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "light",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004978085,
+      "mentions": [
+        {
+          "text": {
+            "content": "light",
+            "beginOffset": 783
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fact",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004978085,
+      "mentions": [
+        {
+          "text": {
+            "content": "fact",
+            "beginOffset": 546
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rubber Band",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.004978085,
+      "mentions": [
+        {
+          "text": {
+            "content": "rubber  \rBand",
+            "beginOffset": 570
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Upside downside",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004978085,
+      "mentions": [
+        {
+          "text": {
+            "content": "Upside downside",
+            "beginOffset": 797
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "green eggs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004978085,
+      "mentions": [
+        {
+          "text": {
+            "content": "green eggs",
+            "beginOffset": 621
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Style",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0048548356,
+      "mentions": [
+        {
+          "text": {
+            "content": "Style",
+            "beginOffset": 642
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "flam",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0042675594,
+      "mentions": [
+        {
+          "text": {
+            "content": "flam",
+            "beginOffset": 2204
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Sam Sam I am",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.004074241,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sam Sam I am",
+            "beginOffset": 590
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "poetry",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0039925934,
+      "mentions": [
+        {
+          "text": {
+            "content": "poetry",
+            "beginOffset": 1295
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "paw",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0039925934,
+      "mentions": [
+        {
+          "text": {
+            "content": "paw",
+            "beginOffset": 1285
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "commotion",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0038436165,
+      "mentions": [
+        {
+          "text": {
+            "content": "commotion",
+            "beginOffset": 1380
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "coast",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0038213711,
+      "mentions": [
+        {
+          "text": {
+            "content": "coast",
+            "beginOffset": 1323
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "skins",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0038213711,
+      "mentions": [
+        {
+          "text": {
+            "content": "skins",
+            "beginOffset": 1603
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "skin",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0038213711,
+      "mentions": [
+        {
+          "text": {
+            "content": "skin",
+            "beginOffset": 1350
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "coast",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0038213711,
+      "mentions": [
+        {
+          "text": {
+            "content": "coast",
+            "beginOffset": 1314
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "doubt",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0038147587,
+      "mentions": [
+        {
+          "text": {
+            "content": "doubt",
+            "beginOffset": 873
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "some",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00379268,
+      "mentions": [
+        {
+          "text": {
+            "content": "some",
+            "beginOffset": 995
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "some",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00379268,
+      "mentions": [
+        {
+          "text": {
+            "content": "some",
+            "beginOffset": 978
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shit",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.00379268,
+      "mentions": [
+        {
+          "text": {
+            "content": "shit",
+            "beginOffset": 949
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog shit",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0037732369,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog shit",
+            "beginOffset": 1110
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Peter Pan Peanut butter",
+      "type": "CONSUMER_GOOD",
+      "metadata": {
+        "mid": "/m/04xrpv",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Peter_Pan_(peanut_butter)"
+      },
+      "salience": 0.0037037977,
+      "mentions": [
+        {
+          "text": {
+            "content": "Peter Pan  \rPeanut butter",
+            "beginOffset": 492
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "behavior savior",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003607563,
+      "mentions": [
+        {
+          "text": {
+            "content": "behavior savior",
+            "beginOffset": 2125
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "All",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0034841618,
+      "mentions": [
+        {
+          "text": {
+            "content": "All",
+            "beginOffset": 2159
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lotion",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0033433433,
+      "mentions": [
+        {
+          "text": {
+            "content": "lotion",
+            "beginOffset": 1360
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lord",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0033433433,
+      "mentions": [
+        {
+          "text": {
+            "content": "lord",
+            "beginOffset": 1397
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "corn",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0033433433,
+      "mentions": [
+        {
+          "text": {
+            "content": "corn",
+            "beginOffset": 1412
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bags",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0033433433,
+      "mentions": [
+        {
+          "text": {
+            "content": "bags",
+            "beginOffset": 1682
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "skunk",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0033433433,
+      "mentions": [
+        {
+          "text": {
+            "content": "skunk",
+            "beginOffset": 1690
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "plan",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003318239,
+      "mentions": [
+        {
+          "text": {
+            "content": "plan",
+            "beginOffset": 935
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "master",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.003318239,
+      "mentions": [
+        {
+          "text": {
+            "content": "master",
+            "beginOffset": 921
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "putty tat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0033012265,
+      "mentions": [
+        {
+          "text": {
+            "content": "putty tat",
+            "beginOffset": 1041
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "licks",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0031265712,
+      "mentions": [
+        {
+          "text": {
+            "content": "licks",
+            "beginOffset": 2970
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "MAN",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.003120328,
+      "mentions": [
+        {
+          "text": {
+            "content": "MAN",
+            "beginOffset": 3393
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shorty",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0030594296,
+      "mentions": [
+        {
+          "text": {
+            "content": "shorty",
+            "beginOffset": 1833
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "flavor",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0030594296,
+      "mentions": [
+        {
+          "text": {
+            "content": "flavor",
+            "beginOffset": 2150
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pantie raider",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0030594296,
+      "mentions": [
+        {
+          "text": {
+            "content": "pantie raider",
+            "beginOffset": 2105
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Question",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0030594296,
+      "mentions": [
+        {
+          "text": {
+            "content": "Question",
+            "beginOffset": 2078
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "wind",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0030594296,
+      "mentions": [
+        {
+          "text": {
+            "content": "wind",
+            "beginOffset": 1976
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mic",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0030594296,
+      "mentions": [
+        {
+          "text": {
+            "content": "mic",
+            "beginOffset": 2009
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "snow",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0030594296,
+      "mentions": [
+        {
+          "text": {
+            "content": "snow",
+            "beginOffset": 1957
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "huff",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0030594296,
+      "mentions": [
+        {
+          "text": {
+            "content": "huff",
+            "beginOffset": 1929
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Hittin",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.002947305,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hittin",
+            "beginOffset": 834
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Skippy",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/04c7f0",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Skippy_(peanut_butter)"
+      },
+      "salience": 0.002947305,
+      "mentions": [
+        {
+          "text": {
+            "content": "Skippy",
+            "beginOffset": 477
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Jif",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/03wbdv",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Jif_(peanut_butter)"
+      },
+      "salience": 0.002947305,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jif",
+            "beginOffset": 485
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "flow",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0028618472,
+      "mentions": [
+        {
+          "text": {
+            "content": "flow",
+            "beginOffset": 2930
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "boom",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.002661171,
+      "mentions": [
+        {
+          "text": {
+            "content": "boom",
+            "beginOffset": 2018
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "motherfuckers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0026029204,
+      "mentions": [
+        {
+          "text": {
+            "content": "motherfuckers",
+            "beginOffset": 3099
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "crews",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0026029204,
+      "mentions": [
+        {
+          "text": {
+            "content": "crews",
+            "beginOffset": 3067
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "crew",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0026029204,
+      "mentions": [
+        {
+          "text": {
+            "content": "crew",
+            "beginOffset": 3148
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sperm",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0026029204,
+      "mentions": [
+        {
+          "text": {
+            "content": "sperm",
+            "beginOffset": 2881
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "no one",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0026029204,
+      "mentions": [
+        {
+          "text": {
+            "content": "no one",
+            "beginOffset": 2824
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "break Peep",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002277245,
+      "mentions": [
+        {
+          "text": {
+            "content": "break  \rPeep",
+            "beginOffset": 3034
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "center",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.002277245,
+      "mentions": [
+        {
+          "text": {
+            "content": "center",
+            "beginOffset": 3022
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bleach",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002277245,
+      "mentions": [
+        {
+          "text": {
+            "content": "bleach",
+            "beginOffset": 3118
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "glass",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002277245,
+      "mentions": [
+        {
+          "text": {
+            "content": "glass",
+            "beginOffset": 3173
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Child",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002277245,
+      "mentions": [
+        {
+          "text": {
+            "content": "Child",
+            "beginOffset": 2729
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "isle",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.002277245,
+      "mentions": [
+        {
+          "text": {
+            "content": "isle",
+            "beginOffset": 2751
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Saran Wrap",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0022452683,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saran  \rWrap",
+            "beginOffset": 959
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "soul",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002158508,
+      "mentions": [
+        {
+          "text": {
+            "content": "soul",
+            "beginOffset": 3520
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "song",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0019880065,
+      "mentions": [
+        {
+          "text": {
+            "content": "song",
+            "beginOffset": 2033
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "man",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.001982413,
+      "mentions": [
+        {
+          "text": {
+            "content": "man",
+            "beginOffset": 2217
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Fat Albert",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "mid": "/m/04_hmd",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Fat_Albert_(film)"
+      },
+      "salience": 0.0019791902,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fat Albert",
+            "beginOffset": 1465
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Method",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0019146678,
+      "mentions": [
+        {
+          "text": {
+            "content": "Method",
+            "beginOffset": 2456
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Ill",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0018110785,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ill",
+            "beginOffset": 2121
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Zoom",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0018110785,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zoom",
+            "beginOffset": 1993
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "cause",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0018020277,
+      "mentions": [
+        {
+          "text": {
+            "content": "cause",
+            "beginOffset": 3249
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "slums",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0017969357,
+      "mentions": [
+        {
+          "text": {
+            "content": "slums",
+            "beginOffset": 3462
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mother",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017969357,
+      "mentions": [
+        {
+          "text": {
+            "content": "mother",
+            "beginOffset": 3599
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "H-O-D",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0017233087,
+      "mentions": [
+        {
+          "text": {
+            "content": "H-O-D",
+            "beginOffset": 3366
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "H-O-D",
+            "beginOffset": 3386
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "posse",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0015765288,
+      "mentions": [
+        {
+          "text": {
+            "content": "posse",
+            "beginOffset": 3223
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "peace",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0015720738,
+      "mentions": [
+        {
+          "text": {
+            "content": "peace",
+            "beginOffset": 3631
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "swarm",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0015720738,
+      "mentions": [
+        {
+          "text": {
+            "content": "swarm",
+            "beginOffset": 3506
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chambers",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0015720738,
+      "mentions": [
+        {
+          "text": {
+            "content": "chambers",
+            "beginOffset": 3561
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "death",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0015720738,
+      "mentions": [
+        {
+          "text": {
+            "content": "death",
+            "beginOffset": 3573
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kid",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0015720738,
+      "mentions": [
+        {
+          "text": {
+            "content": "kid",
+            "beginOffset": 3580
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Word",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0015720738,
+      "mentions": [
+        {
+          "text": {
+            "content": "Word",
+            "beginOffset": 3591
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "friends",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0015566621,
+      "mentions": [
+        {
+          "text": {
+            "content": "friends",
+            "beginOffset": 3286
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Tootsie Roll",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0013479684,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tootsie Roll",
+            "beginOffset": 3009
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Chim chimmeny chim chim cherie Freak",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0013479684,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chim chimmeny chim chim cherie  \rFreak",
+            "beginOffset": 2889
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "flow",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0012551151,
+      "mentions": [
+        {
+          "text": {
+            "content": "flow",
+            "beginOffset": 2272
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "girls rumps",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0011776706,
+      "mentions": [
+        {
+          "text": {
+            "content": "girls rumps",
+            "beginOffset": 2650
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ballistics Missiles",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0009986636,
+      "mentions": [
+        {
+          "text": {
+            "content": "ballistics  \rMissiles",
+            "beginOffset": 2492
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "game",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0009986636,
+      "mentions": [
+        {
+          "text": {
+            "content": "game",
+            "beginOffset": 2524
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pistol Clip",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0009986636,
+      "mentions": [
+        {
+          "text": {
+            "content": "pistol  \rClip",
+            "beginOffset": 2536
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "slug",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0009986636,
+      "mentions": [
+        {
+          "text": {
+            "content": "slug",
+            "beginOffset": 2595
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jump",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0009986636,
+      "mentions": [
+        {
+          "text": {
+            "content": "jump",
+            "beginOffset": 2626
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "brain",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0009986636,
+      "mentions": [
+        {
+          "text": {
+            "content": "brain",
+            "beginOffset": 2610
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pump",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0009986636,
+      "mentions": [
+        {
+          "text": {
+            "content": "pump",
+            "beginOffset": 2667
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bitch squirm",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0009986636,
+      "mentions": [
+        {
+          "text": {
+            "content": "bitch squirm",
+            "beginOffset": 2345
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hoes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0009986636,
+      "mentions": [
+        {
+          "text": {
+            "content": "hoes",
+            "beginOffset": 2313
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "things",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0009986636,
+      "mentions": [
+        {
+          "text": {
+            "content": "things",
+            "beginOffset": 2293
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "M-E-T",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0009450525,
+      "mentions": [
+        {
+          "text": {
+            "content": "M-E-T",
+            "beginOffset": 3319
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Wu-Tang Killa Bee",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/06t5jf",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/The_Swarm_(album)"
+      },
+      "salience": 0.00093050476,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wu-Tang Killa Bee",
+            "beginOffset": 3481
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "butt",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0008799489,
+      "mentions": [
+        {
+          "text": {
+            "content": "butt",
+            "beginOffset": 2422
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Super Sperm",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.000675642,
+      "mentions": [
+        {
+          "text": {
+            "content": "Super Sperm",
+            "beginOffset": 2368
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Yo",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.000675642,
+      "mentions": [
+        {
+          "text": {
+            "content": "Yo",
+            "beginOffset": 2320
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Joe",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00059107854,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joe",
+            "beginOffset": 2252
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,19 @@
+{
+  "documentSentiment": {
+    "magnitude": 0.4,
+    "score": -0.4
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "I was so high, I did not recognize  \rThe fire burning in her eyes  \rThe chaos that controlled my mind  \rWhispered goodbye as she got on a plane  \rNever to return again  \rBut always in my heart  \r  \r[Chorus]  \rThis love has taken it's toll on me  \rShe said goodbye too many times before  \rAnd her heart is breaking in front of me  \rI have no choice 'cause I won't say goodbye anymore  \r  \rI tried my best to feed her appetite  \rKeep her coming every night  \rSo hard to keep her satisfied  \rKept playing love like it was just a game  \rPretending to feel the same  \rThen turn around and leave again  \r  \r[Chorus]  \r  \rI'll fix these broken things  \rRepair your broken wings  \rAnd make sure everything is alright  \rMy pressure on your hips  \rSinking my fingertips  \rInto every inch of you  \r'Cause I know that's what you want me to do  \r  \r[Chorus]",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    }
+  ]
+}

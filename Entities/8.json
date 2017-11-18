@@ -1,0 +1,627 @@
+{
+  "entities": [
+    {
+      "name": "greed Maidens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.29021952,
+      "mentions": [
+        {
+          "text": {
+            "content": "greed  \rMaidens",
+            "beginOffset": 49
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "lords",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.069150805,
+      "mentions": [
+        {
+          "text": {
+            "content": "lords",
+            "beginOffset": 40
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bishops",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.056473475,
+      "mentions": [
+        {
+          "text": {
+            "content": "bishops",
+            "beginOffset": 226
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gold",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.055441957,
+      "mentions": [
+        {
+          "text": {
+            "content": "gold",
+            "beginOffset": 76
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "wombs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05442667,
+      "mentions": [
+        {
+          "text": {
+            "content": "wombs",
+            "beginOffset": 108
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "all",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0347795,
+      "mentions": [
+        {
+          "text": {
+            "content": "all",
+            "beginOffset": 680
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Were",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.033217777,
+      "mentions": [
+        {
+          "text": {
+            "content": "Were",
+            "beginOffset": 26
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Starch",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026650265,
+      "mentions": [
+        {
+          "text": {
+            "content": "Starch",
+            "beginOffset": 184
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lives",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025668908,
+      "mentions": [
+        {
+          "text": {
+            "content": "lives",
+            "beginOffset": 169
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "laws",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021540673,
+      "mentions": [
+        {
+          "text": {
+            "content": "laws",
+            "beginOffset": 214
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "parchment",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021540673,
+      "mentions": [
+        {
+          "text": {
+            "content": "parchment",
+            "beginOffset": 195
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "guillotines",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021540673,
+      "mentions": [
+        {
+          "text": {
+            "content": "guillotines",
+            "beginOffset": 148
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "queens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.021540673,
+      "mentions": [
+        {
+          "text": {
+            "content": "queens",
+            "beginOffset": 137
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "swords",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016661298,
+      "mentions": [
+        {
+          "text": {
+            "content": "swords",
+            "beginOffset": 400
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ride",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.015736362,
+      "mentions": [
+        {
+          "text": {
+            "content": "ride",
+            "beginOffset": 243
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "turnin",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014592164,
+      "mentions": [
+        {
+          "text": {
+            "content": "turnin",
+            "beginOffset": 360
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nightmares",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014592164,
+      "mentions": [
+        {
+          "text": {
+            "content": "nightmares",
+            "beginOffset": 369
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Dreams",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014592164,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dreams",
+            "beginOffset": 390
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014409657,
+      "mentions": [
+        {
+          "text": {
+            "content": "life",
+            "beginOffset": 293
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Screams",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01397064,
+      "mentions": [
+        {
+          "text": {
+            "content": "Screams",
+            "beginOffset": 700
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Sailing ships",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013361222,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sailing ships",
+            "beginOffset": 417
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "father",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013361222,
+      "mentions": [
+        {
+          "text": {
+            "content": "father",
+            "beginOffset": 464
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "land",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.013361222,
+      "mentions": [
+        {
+          "text": {
+            "content": "land",
+            "beginOffset": 473
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "blood",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013361222,
+      "mentions": [
+        {
+          "text": {
+            "content": "blood",
+            "beginOffset": 455
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Kings",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.012809081,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kings",
+            "beginOffset": 127
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Deja vu",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009998348,
+      "mentions": [
+        {
+          "text": {
+            "content": "Deja vu",
+            "beginOffset": 635
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Tossin",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008663842,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tossin",
+            "beginOffset": 351
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Viking",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.007930833,
+      "mentions": [
+        {
+          "text": {
+            "content": "Viking",
+            "beginOffset": 436
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "reply",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007920082,
+      "mentions": [
+        {
+          "text": {
+            "content": "reply",
+            "beginOffset": 748
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Screams",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007920082,
+      "mentions": [
+        {
+          "text": {
+            "content": "Screams",
+            "beginOffset": 734
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "reply",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007920082,
+      "mentions": [
+        {
+          "text": {
+            "content": "reply",
+            "beginOffset": 714
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Died Lordy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.005819577,
+      "mentions": [
+        {
+          "text": {
+            "content": "Died  \rLordy",
+            "beginOffset": 767
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Lordy",
+            "beginOffset": 781
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "maidens",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00502435,
+      "mentions": [
+        {
+          "text": {
+            "content": "maidens",
+            "beginOffset": 553
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "swords",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00502435,
+      "mentions": [
+        {
+          "text": {
+            "content": "swords",
+            "beginOffset": 542
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "loss",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004396923,
+      "mentions": [
+        {
+          "text": {
+            "content": "loss",
+            "beginOffset": 594
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pride",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004396923,
+      "mentions": [
+        {
+          "text": {
+            "content": "pride",
+            "beginOffset": 602
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "death",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.004396923,
+      "mentions": [
+        {
+          "text": {
+            "content": "death",
+            "beginOffset": 577
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Sneer",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004396923,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sneer",
+            "beginOffset": 568
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mares",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004396923,
+      "mentions": [
+        {
+          "text": {
+            "content": "mares",
+            "beginOffset": 526
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "knights",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.004396923,
+      "mentions": [
+        {
+          "text": {
+            "content": "knights",
+            "beginOffset": 514
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "times",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004396923,
+      "mentions": [
+        {
+          "text": {
+            "content": "times",
+            "beginOffset": 505
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

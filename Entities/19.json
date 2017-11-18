@@ -1,0 +1,428 @@
+{
+  "entities": [
+    {
+      "name": "angels",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.1065489,
+      "mentions": [
+        {
+          "text": {
+            "content": "angels",
+            "beginOffset": 40
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "words",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.1065489,
+      "mentions": [
+        {
+          "text": {
+            "content": "words",
+            "beginOffset": 64
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.072917655,
+      "mentions": [
+        {
+          "text": {
+            "content": "Verse 1",
+            "beginOffset": 1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.059324965,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": 94
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "world",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.05202765,
+      "mentions": [
+        {
+          "text": {
+            "content": "world",
+            "beginOffset": 125
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.047392376,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chorus",
+            "beginOffset": 137
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "beauty",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.047072683,
+      "mentions": [
+        {
+          "text": {
+            "content": "beauty",
+            "beginOffset": 111
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.039793756,
+      "mentions": [
+        {
+          "text": {
+            "content": "Eyes",
+            "beginOffset": 267
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.039793756,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": 260
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0369132,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": 374
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Verse",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.03214825,
+      "mentions": [
+        {
+          "text": {
+            "content": "Verse",
+            "beginOffset": 278
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "blossom",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.031747296,
+      "mentions": [
+        {
+          "text": {
+            "content": "blossom",
+            "beginOffset": 180
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "storm",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.031747296,
+      "mentions": [
+        {
+          "text": {
+            "content": "storm",
+            "beginOffset": 208
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lightning",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.031747296,
+      "mentions": [
+        {
+          "text": {
+            "content": "lightning",
+            "beginOffset": 223
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.029443411,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chorus",
+            "beginOffset": 417
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puddles",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.028161846,
+      "mentions": [
+        {
+          "text": {
+            "content": "puddles",
+            "beginOffset": 332
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dirt",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.028161846,
+      "mentions": [
+        {
+          "text": {
+            "content": "dirt",
+            "beginOffset": 347
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "stars",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.028161846,
+      "mentions": [
+        {
+          "text": {
+            "content": "stars",
+            "beginOffset": 303
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hurts",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0257895,
+      "mentions": [
+        {
+          "text": {
+            "content": "hurts",
+            "beginOffset": 405
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "world",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.024223976,
+      "mentions": [
+        {
+          "text": {
+            "content": "world",
+            "beginOffset": 628
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "miracles",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019305278,
+      "mentions": [
+        {
+          "text": {
+            "content": "miracles",
+            "beginOffset": 569
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "world",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.01680963,
+      "mentions": [
+        {
+          "text": {
+            "content": "world",
+            "beginOffset": 675
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012189244,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": 540
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Believe",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/0p_1k",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Belief"
+      },
+      "salience": 0.01145536,
+      "mentions": [
+        {
+          "text": {
+            "content": "Believe",
+            "beginOffset": 558
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01145536,
+      "mentions": [
+        {
+          "text": {
+            "content": "Outro",
+            "beginOffset": 584
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "blossom",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009706245,
+      "mentions": [
+        {
+          "text": {
+            "content": "blossom",
+            "beginOffset": 460
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "storm",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.009706245,
+      "mentions": [
+        {
+          "text": {
+            "content": "storm",
+            "beginOffset": 488
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lightning",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009706245,
+      "mentions": [
+        {
+          "text": {
+            "content": "lightning",
+            "beginOffset": 503
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

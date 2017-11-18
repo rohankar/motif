@@ -1,0 +1,1330 @@
+{
+  "entities": [
+    {
+      "name": "victim",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.6116198,
+      "mentions": [
+        {
+          "text": {
+            "content": "victim",
+            "beginOffset": 745
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "man",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.06936026,
+      "mentions": [
+        {
+          "text": {
+            "content": "man",
+            "beginOffset": 532
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "man",
+            "beginOffset": 1141
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "man",
+            "beginOffset": 1364
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "man",
+            "beginOffset": 1592
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "man",
+            "beginOffset": 1988
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "message",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.032102264,
+      "mentions": [
+        {
+          "text": {
+            "content": "message",
+            "beginOffset": 595
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "change",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021295734,
+      "mentions": [
+        {
+          "text": {
+            "content": "change",
+            "beginOffset": 17
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "man",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.018546218,
+      "mentions": [
+        {
+          "text": {
+            "content": "man",
+            "beginOffset": 2045
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "man",
+            "beginOffset": 2055
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "man",
+            "beginOffset": 2065
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "man",
+            "beginOffset": 2649
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "each other",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.018371496,
+      "mentions": [
+        {
+          "text": {
+            "content": "each other",
+            "beginOffset": 409
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "wind",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011514061,
+      "mentions": [
+        {
+          "text": {
+            "content": "wind",
+            "beginOffset": 188
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mind",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011514061,
+      "mentions": [
+        {
+          "text": {
+            "content": "mind",
+            "beginOffset": 207
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "place",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.01071767,
+      "mentions": [
+        {
+          "text": {
+            "content": "place",
+            "beginOffset": 672
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "place",
+            "beginOffset": 1281
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "place",
+            "beginOffset": 1504
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kids",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010409562,
+      "mentions": [
+        {
+          "text": {
+            "content": "kids",
+            "beginOffset": 224
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ways",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010190832,
+      "mentions": [
+        {
+          "text": {
+            "content": "ways",
+            "beginOffset": 581
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "ways",
+            "beginOffset": 1190
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "ways",
+            "beginOffset": 1413
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "wind",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0100866575,
+      "mentions": [
+        {
+          "text": {
+            "content": "wind",
+            "beginOffset": 427
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "wind",
+            "beginOffset": 1034
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "man",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.009315417,
+      "mentions": [
+        {
+          "text": {
+            "content": "man",
+            "beginOffset": 386
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009178745,
+      "mentions": [
+        {
+          "text": {
+            "content": "life",
+            "beginOffset": 41
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "streets",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.009178745,
+      "mentions": [
+        {
+          "text": {
+            "content": "streets",
+            "beginOffset": 236
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "winter coat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009178745,
+      "mentions": [
+        {
+          "text": {
+            "content": "winter coat",
+            "beginOffset": 169
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Gonna",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0070161484,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gonna",
+            "beginOffset": 76
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Gonna",
+            "beginOffset": 102
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "difference",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0063683353,
+      "mentions": [
+        {
+          "text": {
+            "content": "difference",
+            "beginOffset": 89
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "change",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0054122927,
+      "mentions": [
+        {
+          "text": {
+            "content": "change",
+            "beginOffset": 721
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Change",
+            "beginOffset": 1557
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "man",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0051638833,
+      "mentions": [
+        {
+          "text": {
+            "content": "man",
+            "beginOffset": 1943
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "man",
+            "beginOffset": 1953
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "man",
+            "beginOffset": 1963
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "man",
+            "beginOffset": 1973
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Man",
+            "beginOffset": 2009
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "needs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0049663247,
+      "mentions": [
+        {
+          "text": {
+            "content": "needs",
+            "beginOffset": 323
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "collar",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.004947109,
+      "mentions": [
+        {
+          "text": {
+            "content": "collar",
+            "beginOffset": 145
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "summer disregard",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004376776,
+      "mentions": [
+        {
+          "text": {
+            "content": "summer disregard",
+            "beginOffset": 336
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "soul",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004376776,
+      "mentions": [
+        {
+          "text": {
+            "content": "soul",
+            "beginOffset": 390
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bottle top",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004376776,
+      "mentions": [
+        {
+          "text": {
+            "content": "bottle top",
+            "beginOffset": 363
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ways",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0038968842,
+      "mentions": [
+        {
+          "text": {
+            "content": "ways",
+            "beginOffset": 1654
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "ways",
+            "beginOffset": 2100
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "place",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0032998258,
+      "mentions": [
+        {
+          "text": {
+            "content": "place",
+            "beginOffset": 1068
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mind",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003194038,
+      "mentions": [
+        {
+          "text": {
+            "content": "mind",
+            "beginOffset": 1896
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "mind",
+            "beginOffset": 1929
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "look",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0028674013,
+      "mentions": [
+        {
+          "text": {
+            "content": "look",
+            "beginOffset": 687
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mirror",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0028414447,
+      "mentions": [
+        {
+          "text": {
+            "content": "mirror",
+            "beginOffset": 543
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "change",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002472642,
+      "mentions": [
+        {
+          "text": {
+            "content": "change",
+            "beginOffset": 2449
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "change",
+            "beginOffset": 2482
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "world",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.002401741,
+      "mentions": [
+        {
+          "text": {
+            "content": "world",
+            "beginOffset": 657
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Change",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0023950445,
+      "mentions": [
+        {
+          "text": {
+            "content": "Change",
+            "beginOffset": 2920
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "message",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0023593823,
+      "mentions": [
+        {
+          "text": {
+            "content": "message",
+            "beginOffset": 1204
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "message",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0023593823,
+      "mentions": [
+        {
+          "text": {
+            "content": "message",
+            "beginOffset": 1427
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "message",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002140393,
+      "mentions": [
+        {
+          "text": {
+            "content": "message",
+            "beginOffset": 1683
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "place",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0021136715,
+      "mentions": [
+        {
+          "text": {
+            "content": "place",
+            "beginOffset": 1760
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "change",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0020674027,
+      "mentions": [
+        {
+          "text": {
+            "content": "change",
+            "beginOffset": 1669
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "look",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0019266632,
+      "mentions": [
+        {
+          "text": {
+            "content": "look",
+            "beginOffset": 1519
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "look",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0019266632,
+      "mentions": [
+        {
+          "text": {
+            "content": "look",
+            "beginOffset": 1296
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mirror",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0019092091,
+      "mentions": [
+        {
+          "text": {
+            "content": "mirror",
+            "beginOffset": 1375
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mirror",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0018851802,
+      "mentions": [
+        {
+          "text": {
+            "content": "mirror",
+            "beginOffset": 1152
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Cause",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0018203954,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cause",
+            "beginOffset": 444
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Cause",
+            "beginOffset": 1050
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "look",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0017477794,
+      "mentions": [
+        {
+          "text": {
+            "content": "look",
+            "beginOffset": 1775
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mirror",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0017408619,
+      "mentions": [
+        {
+          "text": {
+            "content": "mirror",
+            "beginOffset": 1603
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kind",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0016727166,
+      "mentions": [
+        {
+          "text": {
+            "content": "kind",
+            "beginOffset": 765
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0016727166,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 773
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "world",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0016135739,
+      "mentions": [
+        {
+          "text": {
+            "content": "world",
+            "beginOffset": 1266
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "world",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0016135739,
+      "mentions": [
+        {
+          "text": {
+            "content": "world",
+            "beginOffset": 1489
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "change",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0015747547,
+      "mentions": [
+        {
+          "text": {
+            "content": "change",
+            "beginOffset": 1330
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Change",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0015278584,
+      "mentions": [
+        {
+          "text": {
+            "content": "Change",
+            "beginOffset": 2354
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "world",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0014637243,
+      "mentions": [
+        {
+          "text": {
+            "content": "world",
+            "beginOffset": 1745
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "change",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.001428506,
+      "mentions": [
+        {
+          "text": {
+            "content": "change",
+            "beginOffset": 1810
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "loan",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0011151341,
+      "mentions": [
+        {
+          "text": {
+            "content": "loan",
+            "beginOffset": 857
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nickel",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0011151341,
+      "mentions": [
+        {
+          "text": {
+            "content": "nickel",
+            "beginOffset": 847
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0011151341,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": 835
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "heart",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0011094183,
+      "mentions": [
+        {
+          "text": {
+            "content": "heart",
+            "beginOffset": 970
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "somebody",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0011094183,
+      "mentions": [
+        {
+          "text": {
+            "content": "somebody",
+            "beginOffset": 952
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dream",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0011094183,
+      "mentions": [
+        {
+          "text": {
+            "content": "dream",
+            "beginOffset": 995
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "willow",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0011094183,
+      "mentions": [
+        {
+          "text": {
+            "content": "willow",
+            "beginOffset": 929
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "man",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0011089979,
+      "mentions": [
+        {
+          "text": {
+            "content": "man",
+            "beginOffset": 2659
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pattern",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0010954464,
+      "mentions": [
+        {
+          "text": {
+            "content": "pattern",
+            "beginOffset": 1019
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "change",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0010604438,
+      "mentions": [
+        {
+          "text": {
+            "content": "change",
+            "beginOffset": 2303
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "change",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0010518519,
+      "mentions": [
+        {
+          "text": {
+            "content": "change",
+            "beginOffset": 2605
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "change",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0010471776,
+      "mentions": [
+        {
+          "text": {
+            "content": "change",
+            "beginOffset": 2793
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Man in the mirror",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.00089292205,
+      "mentions": [
+        {
+          "text": {
+            "content": "Man in the mirror",
+            "beginOffset": 2507
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Man in the mirror",
+            "beginOffset": 2666
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Man in the mirror",
+            "beginOffset": 2839
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "change",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0007237821,
+      "mentions": [
+        {
+          "text": {
+            "content": "change",
+            "beginOffset": 2940
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "message",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00069724437,
+      "mentions": [
+        {
+          "text": {
+            "content": "message",
+            "beginOffset": 2129
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "place",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0006885295,
+      "mentions": [
+        {
+          "text": {
+            "content": "place",
+            "beginOffset": 2206
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "change",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00067278335,
+      "mentions": [
+        {
+          "text": {
+            "content": "change",
+            "beginOffset": 2115
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "look",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00056922436,
+      "mentions": [
+        {
+          "text": {
+            "content": "look",
+            "beginOffset": 2221
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mirror",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0005656601,
+      "mentions": [
+        {
+          "text": {
+            "content": "mirror",
+            "beginOffset": 2020
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mirror",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0005656601,
+      "mentions": [
+        {
+          "text": {
+            "content": "mirror",
+            "beginOffset": 1999
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Hoo!",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0005088512,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hoo!",
+            "beginOffset": 2499
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Brother Hoo",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/g/11b7_wj6__"
+      },
+      "salience": 0.00050846016,
+      "mentions": [
+        {
+          "text": {
+            "content": "Brother  \rHoo",
+            "beginOffset": 2571
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "world",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.00047663692,
+      "mentions": [
+        {
+          "text": {
+            "content": "world",
+            "beginOffset": 2191
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "change",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0004651596,
+      "mentions": [
+        {
+          "text": {
+            "content": "change",
+            "beginOffset": 2256
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

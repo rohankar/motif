@@ -1,0 +1,515 @@
+{
+  "entities": [
+    {
+      "name": "way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.21785931,
+      "mentions": [
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": 83
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "man",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.13707359,
+      "mentions": [
+        {
+          "text": {
+            "content": "man",
+            "beginOffset": 14
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hands",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.061446678,
+      "mentions": [
+        {
+          "text": {
+            "content": "hands",
+            "beginOffset": 57
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pockets",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.061446678,
+      "mentions": [
+        {
+          "text": {
+            "content": "pockets",
+            "beginOffset": 69
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "things",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.042849734,
+      "mentions": [
+        {
+          "text": {
+            "content": "things",
+            "beginOffset": 571
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "promise",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.042560626,
+      "mentions": [
+        {
+          "text": {
+            "content": "promise",
+            "beginOffset": 323
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "offI",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.030181073,
+      "mentions": [
+        {
+          "text": {
+            "content": "offI",
+            "beginOffset": 233
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "time",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.028151982,
+      "mentions": [
+        {
+          "text": {
+            "content": "time",
+            "beginOffset": 706
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Intentions",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026273403,
+      "mentions": [
+        {
+          "text": {
+            "content": "Intentions",
+            "beginOffset": 26
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mind",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025621342,
+      "mentions": [
+        {
+          "text": {
+            "content": "mind",
+            "beginOffset": 130
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "offI",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.024999028,
+      "mentions": [
+        {
+          "text": {
+            "content": "offI",
+            "beginOffset": 272
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Beginning",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023759823,
+      "mentions": [
+        {
+          "text": {
+            "content": "Beginning",
+            "beginOffset": 150
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "offI",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.020440971,
+      "mentions": [
+        {
+          "text": {
+            "content": "offI",
+            "beginOffset": 450
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "heart",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019182937,
+      "mentions": [
+        {
+          "text": {
+            "content": "heart",
+            "beginOffset": 176
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "thinkIs",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.018045342,
+      "mentions": [
+        {
+          "text": {
+            "content": "thinkIs",
+            "beginOffset": 644
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "thinkI",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.016118651,
+      "mentions": [
+        {
+          "text": {
+            "content": "thinkI",
+            "beginOffset": 163
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "number",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016079754,
+      "mentions": [
+        {
+          "text": {
+            "content": "number",
+            "beginOffset": 363
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "wall",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016079754,
+      "mentions": [
+        {
+          "text": {
+            "content": "wall",
+            "beginOffset": 428
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "best",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015192195,
+      "mentions": [
+        {
+          "text": {
+            "content": "best",
+            "beginOffset": 661
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ears",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014720778,
+      "mentions": [
+        {
+          "text": {
+            "content": "ears",
+            "beginOffset": 541
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "stoneI",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01411136,
+      "mentions": [
+        {
+          "text": {
+            "content": "stoneI",
+            "beginOffset": 192
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013140103,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": 513
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "offI",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012288456,
+      "mentions": [
+        {
+          "text": {
+            "content": "offI",
+            "beginOffset": 468
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "callI",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011676617,
+      "mentions": [
+        {
+          "text": {
+            "content": "callI",
+            "beginOffset": 385
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "excuse",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01073576,
+      "mentions": [
+        {
+          "text": {
+            "content": "excuse",
+            "beginOffset": 398
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "back",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01073576,
+      "mentions": [
+        {
+          "text": {
+            "content": "back",
+            "beginOffset": 416
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "saidI",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010161458,
+      "mentions": [
+        {
+          "text": {
+            "content": "saidI",
+            "beginOffset": 348
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "offI",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0097087305,
+      "mentions": [
+        {
+          "text": {
+            "content": "offI",
+            "beginOffset": 806
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "offI",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0097087305,
+      "mentions": [
+        {
+          "text": {
+            "content": "offI",
+            "beginOffset": 845
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "offI",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0097087305,
+      "mentions": [
+        {
+          "text": {
+            "content": "offI",
+            "beginOffset": 884
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "forgetI",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009419294,
+      "mentions": [
+        {
+          "text": {
+            "content": "forgetI",
+            "beginOffset": 304
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "offMy",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.008731164,
+      "mentions": [
+        {
+          "text": {
+            "content": "offMy",
+            "beginOffset": 507
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "I fallI",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0065269377,
+      "mentions": [
+        {
+          "text": {
+            "content": "I fallI",
+            "beginOffset": 716
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "tallI",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0052632373,
+      "mentions": [
+        {
+          "text": {
+            "content": "tallI",
+            "beginOffset": 766
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

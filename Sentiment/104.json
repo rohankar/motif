@@ -1,0 +1,29 @@
+{
+  "documentSentiment": {
+    "magnitude": 0.6,
+    "score": -0.2
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "Wolf tickets are all you say I'm selling  \rWell that goes to show what you need to know  \rCause I ain't yackin' nothin' I ain't packin'  \rMy love can get with your love toe to toe  \r  \rSo when you're ready  \rReally, truly ready  \rHolding strong and steady  \rI'll be good to go  \rCause if you start it  \rI am gonna finish it  \rI am gonna knock it  \rLike it ain't been knocked before  \r  \rGetting with this  \rKnow you're gonna be  \rStepping off the edge of eternity  \rJust one kiss  \rKnow it's you and me  \rStepping off to the edge of eternity  \r  \rDead air time is all you say you're hearing  \rWell that shows how much you don't comprehend  \rCause it's not in the loud but in the quiet  \rWhere lies the thing that will make your head spin  \r  \rSo when you're willin'  \rReally, truly willin'  \rNot just simply illin'  \rYou just let me know  \rCause when you get it  \rI ain't gonna quit it  \rGirl, I'm gonna hit it  \rLike it ain't been hit before  \r  \rGettin' with this  \rKnow you're gonna be  \rStepping off to the edge of eternity  \rJust one kiss  \rKnow it's you and me  \rStepping off to the edge of eternity  \r  \rPie in the sky is all you say I can deliver  \rWell wait",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "til you feel what I've got in store  \rOne hundred and eighty pounds of good and plenty  \rAnd when you've got the need I've got some more  \r  \rSo when you mean it  \rReally, truly mean it  \rNot just scheming to get to it  \rWe can get it on  \rCause if you woo it  \rI'm going to get to it  \rGirl, we're gonna do it  \rUntil every ounce is gone  \r  \rGettin' with this  \rKnow you're gonna be  \rStepping off to the edge of eternity  \rJust one kiss  \rKnow it's you and me  \rStepping off to the edge of eternity  \r  \rAre you ready to step off the edge into eternity  \rReally, really ready to step off the edge into eternity  \rCause if you're ready to step off the edge into eternity  \rWe can step right off the edge into eternity  \r(Repeat)",
+        "beginOffset": 1167
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    }
+  ]
+}

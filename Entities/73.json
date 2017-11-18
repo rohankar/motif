@@ -1,0 +1,185 @@
+{
+  "entities": [
+    {
+      "name": "Thoughts",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.21297614,
+      "mentions": [
+        {
+          "text": {
+            "content": "Thoughts",
+            "beginOffset": 12
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mind",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.21297614,
+      "mentions": [
+        {
+          "text": {
+            "content": "mind",
+            "beginOffset": 45
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "car",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.08271671,
+      "mentions": [
+        {
+          "text": {
+            "content": "car",
+            "beginOffset": 143
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "head",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.08271671,
+      "mentions": [
+        {
+          "text": {
+            "content": "head",
+            "beginOffset": 172
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bus",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05603008,
+      "mentions": [
+        {
+          "text": {
+            "content": "bus",
+            "beginOffset": 332
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "train",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05603008,
+      "mentions": [
+        {
+          "text": {
+            "content": "train",
+            "beginOffset": 343
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cab",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05603008,
+      "mentions": [
+        {
+          "text": {
+            "content": "cab",
+            "beginOffset": 357
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lane",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.05603008,
+      "mentions": [
+        {
+          "text": {
+            "content": "lane",
+            "beginOffset": 368
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sky",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.051302906,
+      "mentions": [
+        {
+          "text": {
+            "content": "sky",
+            "beginOffset": 404
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "planes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.051302906,
+      "mentions": [
+        {
+          "text": {
+            "content": "planes",
+            "beginOffset": 432
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hands",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.051302906,
+      "mentions": [
+        {
+          "text": {
+            "content": "hands",
+            "beginOffset": 447
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nothing",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030585255,
+      "mentions": [
+        {
+          "text": {
+            "content": "nothing",
+            "beginOffset": 752
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

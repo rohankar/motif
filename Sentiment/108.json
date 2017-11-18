@@ -1,0 +1,49 @@
+{
+  "documentSentiment": {
+    "magnitude": 2.5,
+    "score": -0.6
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "Into each life there comes a time  \rWhen you must pay your lovers' dues  \rBreakin' out in a cold sweat  \rCause you've been rightfully accused  \r  \rI'm not such a strong man  \rThat love can't make me weak  \rYou're walkin' out the door  \rAnd it's hurting me so deep, so deep  \r  \rAnd I'm sorry  \rSorry that I made you cry  \rSorry, sorry that I told you lies  \rI'm sorry, sorry the way we fuss and fight  \rI'm sorry, sorry cause now you're  \rSaying goodbye to me  \r  \rEvery young boy will grow up  \rTo then become a man  \rThen the difference from wrong and right  \rHe clearly understands  \rI'm not such a big man  \rThat I can't break down in tears  \rCause my whole body went into shock  \rWhen you told me you were out of here!",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Out of here!",
+        "beginOffset": 724
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "And I'm sorry  \rSorry that I made you cry  \rSorry, sorry that I told you lies  \rI'm sorry, sorry the way we fuss and fight  \rI'm sorry, sorry cause now you're saying  \rGoodbye to me, to me  \r  \rI'm sorry baby, that I ever did it to you  \rI'm sorry baby, that I ever made you cry  \rI'm sorry baby, that I ever did it to you  \rI'm sorry baby, that I ever told you lies  \rI'm sorry baby, that I ever did it to you  \rI'm sorry baby, sorry the way we fuss and fight  \rI'm sorry baby, that I ever did it to you  \rI'm sorry baby, so sorry  \r  \rIf you added up all the good times  \rAnd compared them with the bad  \rYou'd realize that our love  \rWas the best you ever had  \r  \rI'm not such a proud man  \rThat I won't cop a plea  \rSee me baby girl, I'm on my knees  \rBeggin please, baby please, baby please, oh yeah  \r  \rI'm sorry, sorry that I made you cry  \rSorry, sorry that I told you lies  \rI'm sorry, I'm sorry the way we fuss and fight  \rI'm sorry, sorry cause now you're  \rSaying goodbye to me, me baby, me baby, me baby  \r  \rI'm",
+        "beginOffset": 742
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "sorry baby, that I ever did it to you  \rI'm sorry baby, that I ever told you lies  \rI'm sorry baby, that I ever did it to you  \rI'm sorry baby, that I ever made you cry  \rI'm sorry baby, that I ever did it to you  \rI'm sorry baby, sorry the way we fuss and fight  \rI'm sorry, I'm sorry, I'm sorry, sorry, sorry,  \rSorry, sorry (repeat)",
+        "beginOffset": 1770
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    }
+  ]
+}

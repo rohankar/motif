@@ -1,0 +1,372 @@
+{
+  "entities": [
+    {
+      "name": "ways",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.11903521,
+      "mentions": [
+        {
+          "text": {
+            "content": "ways",
+            "beginOffset": 70
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Yeah",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.073305435,
+      "mentions": [
+        {
+          "text": {
+            "content": "mark",
+            "beginOffset": 541
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Yeah",
+            "beginOffset": 548
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "daddy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.06917649,
+      "mentions": [
+        {
+          "text": {
+            "content": "daddy",
+            "beginOffset": 144
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "face",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06917649,
+      "mentions": [
+        {
+          "text": {
+            "content": "face",
+            "beginOffset": 170
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.052395884,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 381
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.052395884,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 397
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.052395884,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 413
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.052395884,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 429
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.047984194,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 445
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "door",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.038830336,
+      "mentions": [
+        {
+          "text": {
+            "content": "door",
+            "beginOffset": 362
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "door",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.038344413,
+      "mentions": [
+        {
+          "text": {
+            "content": "door",
+            "beginOffset": 220
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.035923947,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 692
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.035923947,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 670
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "song",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.033601522,
+      "mentions": [
+        {
+          "text": {
+            "content": "song",
+            "beginOffset": 480
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "horses",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03235447,
+      "mentions": [
+        {
+          "text": {
+            "content": "horses",
+            "beginOffset": 516
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dream",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03235447,
+      "mentions": [
+        {
+          "text": {
+            "content": "dream",
+            "beginOffset": 502
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ways",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030763013,
+      "mentions": [
+        {
+          "text": {
+            "content": "ways",
+            "beginOffset": 289
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "song",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.025138859,
+      "mentions": [
+        {
+          "text": {
+            "content": "song",
+            "beginOffset": 727
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "horses",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024204437,
+      "mentions": [
+        {
+          "text": {
+            "content": "horses",
+            "beginOffset": 763
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dream",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024204437,
+      "mentions": [
+        {
+          "text": {
+            "content": "dream",
+            "beginOffset": 749
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mark",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016777985,
+      "mentions": [
+        {
+          "text": {
+            "content": "mark",
+            "beginOffset": 788
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015810454,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 654
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015810454,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 638
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "door",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011695909,
+      "mentions": [
+        {
+          "text": {
+            "content": "door",
+            "beginOffset": 619
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

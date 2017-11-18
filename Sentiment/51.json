@@ -1,0 +1,49 @@
+{
+  "documentSentiment": {
+    "magnitude": 2.5,
+    "score": 0.6
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "Well we're,  \rI said we're traveling at a speed of a reborn man  \rWe got a lot of love to give  \rYou better come on if you can  \rSo I talk about love  \rThey try to run away  \rCheck yourself out baby  \rAnd then come with me today  \rMmm mmm good lover  \rOver here  \rHey  \rDooooo yeah!",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Dooooo yeah!",
+        "beginOffset": 285
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Mmm so good  \rYeah, oh so tasty  \rHere comes a woman  \rWrapped up in chain  \rYou're foolin' with that fool baby  \rYou put your life in pain  \rIf you want to be free  \rCome on along with me  \rAnd leave the hard headed man  \rHe'll never understand  \rI said a find yourself first  \rAnd then your talent  \rWork hard in your mind  \rFor it could come alive  \rThen prove to the man  \rThat understands  \rThe eyes are god  \r  \rWhoo  \rCome one baby  \r  \rDoodoo doodoo...",
+        "beginOffset": 303
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Everybody memorize  \rEverybody love a lot  \rEverybody here today  \r  \rHey  \rYeah, yeah  \rHey  \rCome on baby  \rCome on  \rCome on  \rFly with me baby",
+        "beginOffset": 769
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ]
+}

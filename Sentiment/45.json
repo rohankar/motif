@@ -1,0 +1,19 @@
+{
+  "documentSentiment": {
+    "magnitude": 0.8,
+    "score": 0.8
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "I'm gonna wait till the midnight hour  \rThat's when my love comes tumbling down  \rI'm gonna wait till the midnight hour  \rI'm gonna take you girl and hold you  \rDo all things I told you in the midnight hour  \r  \rI'm gonna hold you in my arms and see the twinkle in your eyes  \rI'm gonna wait till the midnight hour  \rThat's when my love begins to shine  \rYoure the only girl I know  \rReally love you so in the midnight hour",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ]
+}

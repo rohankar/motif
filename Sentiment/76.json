@@ -1,0 +1,29 @@
+{
+  "documentSentiment": {
+    "magnitude": 1.2,
+    "score": -0.6
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "Just shoot for the stars if it feels right  \rAnd aim for my heart if you feel like it  \rTake me away and make it okay  \rI swear I'll behave  \r  \rYou wanted control so we waited  \rI put on a show now we're naked  \rYou say I'm a kid my ego is big  \rI don't give a shit and it goes like this  \r  \rTake me by the tongue and I'll know you  \rKiss me 'til you're drunk and I'll show you all the moves like Jagger  \rI've got the moves like Jagger  \rI've got the moves like Jagger  \r  \rI don't need to try to control you  \rLook into my eyes and I'll own you with them moves like Jagger  \rI've got the moves like Jagger  \rI've got the moves like Jagger  \r  \rBaby it's hard when you feel like  \rYou're broken and scarred  \rNothing feels right, but when you're with me  \rI make you believe that I've got the key  \r  \rOh, so get in the car we can ride it  \rWherever you want get inside it  \rAnd you want to steer, but I'm shifting gear  \rI'll take it from here oh yeah yeah and it goes like this  \r  \rTake me by the tongue and I'll know you  \rKiss me 'til you're drunk and I'll show you all the moves like Jagger  \rI've got",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    },
+    {
+      "text": {
+        "content": "the moves like Jagger  \rI've got the moves like Jagger  \r  \rI don't need to try to control you  \rLook into my eyes and I'll own you with them moves like Jagger  \rI've got the moves like Jagger  \rI've got the moves like Jagger  \r  \rYou want to know how to make me smile  \rTake control, own me just for the night  \rBut if I share my secret you're gonna have to keep it  \rNobody else can see this  \r  \rSo watch and learn I won't show you twice  \rHead to toe, ooh baby, rub me right  \rBut if I share my secret you're gonna have to keep it  \rNobody else can see this  \r  \rAnd it goes like this  \r  \rTake me by the tongue and I'll know you  \rKiss me 'til you're drunk and I'll show you all the moves like Jagger  \rI've got the moves like Jagger  \rI've got the moves like Jagger  \r  \rI don't need to try to control you  \rLook into my eyes and I'll own you with them moves like Jagger  \rI've got the moves like Jagger  \rI've got the moves like Jagger",
+        "beginOffset": 1111
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ]
+}

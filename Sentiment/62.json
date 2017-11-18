@@ -1,0 +1,49 @@
+{
+  "documentSentiment": {
+    "magnitude": 2.5,
+    "score": -0.5
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "Don't let it fool you brother  \rBeware of what you see  \rYou've been consumed by all your visions of luxury  \rBetrayed your friends and burned the  \rBridges that carry you  \rBut when you need them later, they won't be there for you  \r  \rYou're so high now  \rYou think you'll never fall  \rBut when you come down, who will you call?",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "[Chorus]  \rWhatcha gonna do when your money's blown  \rYour friends are gone and you're all alone  \rNow you barely hanging on with no one else to run to  \rYou should know it won't make you whole  \rYou gain the world but lose your soul  \rSpend your life in the search for dough  \rYou'll find out it just won't save you  \r  \rOh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh  \r  \rYou think that having money brings joy and peace to you  \rBut the pursuit of it might bring out the beast in you  \rChase the American Dream but can't face reality  \rThat what you're chasing only lasts temporarily  \r  \rYou're so high now  \rYou think you'll never fall  \rBut when you come down, who will you call?",
+        "beginOffset": 336
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "[Chorus]  \r  \rOh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh yeah yeah  \r  \r[Chorus]  \r  \rWhatcha gon do  \rWhatcha gon do  \rWhatcha gon do  \rWhatcha gon do  \rWhatcha gon do  \rWhatcha gon do  \rWhatcha gon do  \rWhatcha gon do  \r  \rWhatcha gonna do when there's nowhere (Nowhere to run to) oh  \rI think you're gonna find that it just won't (Just won't save you) oh  \rWhatcha gonna do when there's nowhere (Nowhere to run to)  \rOoh you're gonna find that it just won't (Just won't save you) oh  \rWhatcha gonna do when there's nowhere (Nowhere to run to)  \rI think you're gonna find that it just won't (Just won't save you) Hey  \rWhatcha gonna do when there's nowhere to run to (Nowhere to run to)  \rI think you're gonna find that it just won't (Just won't save you) Hey, yeah\ryeah  \rWhatcha gonna do when there's nowhere (Nowhere to run to) oh, yeah, yeah  \rI think you're gonna find that it just won't (Just won't save you) Hey,\rthere's nowhere  \r  \rNowhere to run to  \rJust won't save you  \rNowhere to run to  \rJust won't save",
+        "beginOffset": 1028
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "you",
+        "beginOffset": 2054
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ]
+}

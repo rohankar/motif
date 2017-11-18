@@ -1,0 +1,19 @@
+{
+  "documentSentiment": {
+    "magnitude": 0.6,
+    "score": -0.6
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "I wake up  \rThoughts of you  \rTattooed to my mind  \rAs I wonder  \rWhat to wear  \rWhat to eat  \rWho to be  \rWill I see you again  \r  \rAnd as my car breaks down  \rI shake my head and say  \rWhat a day  \r  \rIf you only knew  \rWhat I went through just to get to you  \rI'm hanging from you  \rAnd I'll hold on if you want me to  \r  \rEvery bus, every train,  \rEver cab, every lane is jammed  \rSo I looked to the sky  \rAnd I reached for the planes with my hands  \r  \rIf all my days go wrong  \rI'll think about last night  \rIt went right  \r  \rIf you only knew  \rWhat I went through just to get to you  \rI'm hanging from you  \rAnd I'll hold on if you want me to  \r  \rIf you only knew  \rWhat I went through just to get to you  \rI'm swinging from you  \rAnd there's nothing I would rather do",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    }
+  ]
+}

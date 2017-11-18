@@ -1,0 +1,565 @@
+{
+  "entities": [
+    {
+      "name": "greed",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.5208005,
+      "mentions": [
+        {
+          "text": {
+            "content": "greed",
+            "beginOffset": 518
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "greed",
+            "beginOffset": 998
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "greed",
+            "beginOffset": 1077
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "greed",
+            "beginOffset": 1175
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "greed",
+            "beginOffset": 1254
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "greed",
+            "beginOffset": 1558
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "greed",
+            "beginOffset": 1637
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10840775,
+      "mentions": [
+        {
+          "text": {
+            "content": "lies",
+            "beginOffset": 495
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "lies",
+            "beginOffset": 975
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "lies",
+            "beginOffset": 1054
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "lies",
+            "beginOffset": 1152
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "lies",
+            "beginOffset": 1231
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "lies",
+            "beginOffset": 1535
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "lies",
+            "beginOffset": 1614
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "misery",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07457358,
+      "mentions": [
+        {
+          "text": {
+            "content": "misery",
+            "beginOffset": 551
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "misery",
+            "beginOffset": 1110
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "misery",
+            "beginOffset": 1287
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "misery",
+            "beginOffset": 1670
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "misery",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07457358,
+      "mentions": [
+        {
+          "text": {
+            "content": "misery",
+            "beginOffset": 472
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "misery",
+            "beginOffset": 1031
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "misery",
+            "beginOffset": 1208
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "misery",
+            "beginOffset": 1591
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Sayin",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.051254537,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sayin",
+            "beginOffset": 35
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "coffin",
+            "beginOffset": 26
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "I'ma",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04910623,
+      "mentions": [
+        {
+          "text": {
+            "content": "I'ma",
+            "beginOffset": 0
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "nail",
+            "beginOffset": 13
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pride",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022908648,
+      "mentions": [
+        {
+          "text": {
+            "content": "pride",
+            "beginOffset": 207
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "explanations",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014323913,
+      "mentions": [
+        {
+          "text": {
+            "content": "explanations",
+            "beginOffset": 116
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "patience",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014145147,
+      "mentions": [
+        {
+          "text": {
+            "content": "patience",
+            "beginOffset": 148
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "greed",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008453979,
+      "mentions": [
+        {
+          "text": {
+            "content": "greed",
+            "beginOffset": 439
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008184995,
+      "mentions": [
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": 266
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "composure",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006080849,
+      "mentions": [
+        {
+          "text": {
+            "content": "composure",
+            "beginOffset": 313
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0060125673,
+      "mentions": [
+        {
+          "text": {
+            "content": "lies",
+            "beginOffset": 416
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "all",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0060125673,
+      "mentions": [
+        {
+          "text": {
+            "content": "all",
+            "beginOffset": 533
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "all",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0060125673,
+      "mentions": [
+        {
+          "text": {
+            "content": "all",
+            "beginOffset": 454
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "breaking point sound",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0054962863,
+      "mentions": [
+        {
+          "text": {
+            "content": "breaking point sound",
+            "beginOffset": 360
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ego",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0054962863,
+      "mentions": [
+        {
+          "text": {
+            "content": "ego",
+            "beginOffset": 222
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "all",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0026526414,
+      "mentions": [
+        {
+          "text": {
+            "content": "all",
+            "beginOffset": 1013
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0024103567,
+      "mentions": [
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": 825
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "all",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.001982309,
+      "mentions": [
+        {
+          "text": {
+            "content": "all",
+            "beginOffset": 1269
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "breaking point",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0018473947,
+      "mentions": [
+        {
+          "text": {
+            "content": "breaking point",
+            "beginOffset": 918
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "failure",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0017888448,
+      "mentions": [
+        {
+          "text": {
+            "content": "failure",
+            "beginOffset": 612
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "right",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0017663238,
+      "mentions": [
+        {
+          "text": {
+            "content": "right",
+            "beginOffset": 678
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "all",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0013727463,
+      "mentions": [
+        {
+          "text": {
+            "content": "all",
+            "beginOffset": 1573
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "all",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0013727463,
+      "mentions": [
+        {
+          "text": {
+            "content": "all",
+            "beginOffset": 1652
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "threat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0012231198,
+      "mentions": [
+        {
+          "text": {
+            "content": "threat",
+            "beginOffset": 690
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "all",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0008697856,
+      "mentions": [
+        {
+          "text": {
+            "content": "all",
+            "beginOffset": 1092
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "all",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0008697856,
+      "mentions": [
+        {
+          "text": {
+            "content": "all",
+            "beginOffset": 1190
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

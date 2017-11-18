@@ -1,0 +1,19 @@
+{
+  "documentSentiment": {
+    "magnitude": 0.7,
+    "score": 0.7
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "Look at the stars  \rLook how they shine for you  \rAnd everything you do  \rYeah they were all yellow  \r  \rI came along  \rI wrote a song for you  \rAnd all the things you do  \rAnd it was called yellow  \r  \rSo then I took my turn  \rOh what a thing to have done  \rAnd it was all yellow  \r  \rYour skin  \rOh yeah your skin and bones  \rTurn into something beautiful  \rYou know you know I love you so  \rYou know I love you so  \r  \rI swam across  \rI jumped across for you  \rOh what a thing to do  \r  \rCause you were all yellow  \rI drew a line  \rI drew a line for you  \rOh what a thing to do  \rAnd it was all yellow  \r  \rYour skin  \rOh yeah your skin and bones  \rTurn into something beautiful  \rAnd you know  \rFor you I'd bleed myself dry  \rFor you I'd bleed myself dry  \r  \rIt's true  \rLook how they shine for you  \rLook how they shine for you  \rLook how they shine for  \rLook how they shine for you  \rLook how they shine for you  \rLook how they shine  \r  \rLook at the stars  \rLook how they shine for you  \rAnd all the things that you do",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    }
+  ]
+}

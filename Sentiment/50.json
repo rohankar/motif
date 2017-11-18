@@ -1,0 +1,159 @@
+{
+  "documentSentiment": {
+    "magnitude": 3.4,
+    "score": 0
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "You jump in front of my car when you, you know all the time that  \rNinety miles an hour, girl, is the speed I drive.",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "You tell me it's alright, you don't mind a little pain.",
+        "beginOffset": 119
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "You say you just want me to take you for a ride.",
+        "beginOffset": 177
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "You're just like crosstown traffic, so hard to get through to you.",
+        "beginOffset": 231
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Crosstown traffic, I don't need to run over you.",
+        "beginOffset": 300
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Crosstown traffic, all you do is slow me down  \rAnd I'm trying to get on the other side of town.",
+        "beginOffset": 351
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "I'm not the only soul who's accused of hit and run,  \rTire tracks all across your back, uh-huh, I can see you had your fun.",
+        "beginOffset": 453
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "But a darling, can't you see my signals turn from green to red  \rAnd with you I can see a traffic jam straight up ahead.",
+        "beginOffset": 579
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "You're just like Crosstown traffic, so hard to get through to you.",
+        "beginOffset": 705
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Crosstown traffic, I don't need to run over you.",
+        "beginOffset": 774
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Crosstown traffic, all you do is slow me down  \rAnd I got better things on the other side of town.",
+        "beginOffset": 825
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Yeah now crosstown traffic, look out, look out, baby, let me through.",
+        "beginOffset": 929
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Crosstown traffic yeah, look out.",
+        "beginOffset": 1001
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Crosstown traffic yeah, look out, look out, look out.",
+        "beginOffset": 1037
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Crosstown traffic yeah, look out, watch that street.",
+        "beginOffset": 1093
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ]
+}

@@ -1,0 +1,1087 @@
+{
+  "entities": [
+    {
+      "name": "Janie",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.6287454,
+      "mentions": [
+        {
+          "text": {
+            "content": "Janie",
+            "beginOffset": 250
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Janie",
+            "beginOffset": 270
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Janie",
+            "beginOffset": 428
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Janie",
+            "beginOffset": 522
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Janie",
+            "beginOffset": 581
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Janie",
+            "beginOffset": 601
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Janie",
+            "beginOffset": 1082
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Janie",
+            "beginOffset": 1102
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Janie",
+            "beginOffset": 1211
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Janie",
+            "beginOffset": 1584
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Janie",
+            "beginOffset": 1604
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Janie",
+            "beginOffset": 1624
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Janie",
+            "beginOffset": 1670
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Janie",
+            "beginOffset": 1792
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Cause",
+            "beginOffset": 1786
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Janie",
+            "beginOffset": 1837
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Janie",
+            "beginOffset": 1977
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Janie",
+            "beginOffset": 2000
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Dum",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.13839863,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dum",
+            "beginOffset": 0
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Dum",
+            "beginOffset": 42
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "sound",
+            "beginOffset": 66
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Dum",
+            "beginOffset": 84
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Dum",
+            "beginOffset": 126
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "sound",
+            "beginOffset": 150
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "daddy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.061374713,
+      "mentions": [
+        {
+          "text": {
+            "content": "daddy",
+            "beginOffset": 373
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "honey",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.045633357,
+      "mentions": [
+        {
+          "text": {
+            "content": "honey",
+            "beginOffset": 15
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "sound",
+            "beginOffset": 166
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gun",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.017106228,
+      "mentions": [
+        {
+          "text": {
+            "content": "gun",
+            "beginOffset": 78
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "honey",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011508838,
+      "mentions": [
+        {
+          "text": {
+            "content": "honey",
+            "beginOffset": 99
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "everybody",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010649546,
+      "mentions": [
+        {
+          "text": {
+            "content": "everybody",
+            "beginOffset": 1153
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "everybody",
+            "beginOffset": 1724
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "everybody",
+            "beginOffset": 1952
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Honey",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/03qmh",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Honey"
+      },
+      "salience": 0.0097172875,
+      "mentions": [
+        {
+          "text": {
+            "content": "Honey",
+            "beginOffset": 1749
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "honey",
+            "beginOffset": 1756
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog day",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0066944375,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog day",
+            "beginOffset": 1126
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "dog day",
+            "beginOffset": 1694
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "dog day",
+            "beginOffset": 2024
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pain",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005827946,
+      "mentions": [
+        {
+          "text": {
+            "content": "pain",
+            "beginOffset": 1005
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "pain",
+            "beginOffset": 1428
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "run",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.00493708,
+      "mentions": [
+        {
+          "text": {
+            "content": "run",
+            "beginOffset": 1173
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Yeah",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0043621864,
+      "mentions": [
+        {
+          "text": {
+            "content": "pain",
+            "beginOffset": 939
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Yeah",
+            "beginOffset": 946
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Yeah",
+            "beginOffset": 1012
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Yeah",
+            "beginOffset": 1435
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "daddy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.003578865,
+      "mentions": [
+        {
+          "text": {
+            "content": "daddy",
+            "beginOffset": 720
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gun",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0031272129,
+      "mentions": [
+        {
+          "text": {
+            "content": "gun",
+            "beginOffset": 264
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "man",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0024090107,
+      "mentions": [
+        {
+          "text": {
+            "content": "man",
+            "beginOffset": 489
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gun",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.00208662,
+      "mentions": [
+        {
+          "text": {
+            "content": "gun",
+            "beginOffset": 595
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gun",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.00208662,
+      "mentions": [
+        {
+          "text": {
+            "content": "gun",
+            "beginOffset": 284
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "run",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0018081894,
+      "mentions": [
+        {
+          "text": {
+            "content": "run",
+            "beginOffset": 672
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "everybody",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017461265,
+      "mentions": [
+        {
+          "text": {
+            "content": "everybody",
+            "beginOffset": 652
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "train",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0015470239,
+      "mentions": [
+        {
+          "text": {
+            "content": "train",
+            "beginOffset": 477
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "world",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0015470239,
+      "mentions": [
+        {
+          "text": {
+            "content": "world",
+            "beginOffset": 300
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sun",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0015470239,
+      "mentions": [
+        {
+          "text": {
+            "content": "sun",
+            "beginOffset": 351
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog day",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0014811656,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog day",
+            "beginOffset": 625
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "man",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0014621259,
+      "mentions": [
+        {
+          "text": {
+            "content": "man",
+            "beginOffset": 769
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gun",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0014414734,
+      "mentions": [
+        {
+          "text": {
+            "content": "gun",
+            "beginOffset": 1638
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pain",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0014126527,
+      "mentions": [
+        {
+          "text": {
+            "content": "pain",
+            "beginOffset": 901
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gun",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0013916694,
+      "mentions": [
+        {
+          "text": {
+            "content": "gun",
+            "beginOffset": 615
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gun",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0013916694,
+      "mentions": [
+        {
+          "text": {
+            "content": "gun",
+            "beginOffset": 536
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "daddy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0012928189,
+      "mentions": [
+        {
+          "text": {
+            "content": "daddy",
+            "beginOffset": 1195
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gun",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0012898451,
+      "mentions": [
+        {
+          "text": {
+            "content": "gun",
+            "beginOffset": 1096
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gun",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0012898451,
+      "mentions": [
+        {
+          "text": {
+            "content": "gun",
+            "beginOffset": 1116
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "run",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0012489905,
+      "mentions": [
+        {
+          "text": {
+            "content": "run",
+            "beginOffset": 1744
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "run",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0012489905,
+      "mentions": [
+        {
+          "text": {
+            "content": "run",
+            "beginOffset": 1664
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "someone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0011271994,
+      "mentions": [
+        {
+          "text": {
+            "content": "someone",
+            "beginOffset": 877
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "man",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0010555742,
+      "mentions": [
+        {
+          "text": {
+            "content": "man",
+            "beginOffset": 1338
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "spell",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0010446996,
+      "mentions": [
+        {
+          "text": {
+            "content": "spell",
+            "beginOffset": 809
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0010446996,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 758
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lightnin",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0010446996,
+      "mentions": [
+        {
+          "text": {
+            "content": "lightnin",
+            "beginOffset": 839
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gun",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.00096112426,
+      "mentions": [
+        {
+          "text": {
+            "content": "gun",
+            "beginOffset": 1598
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gun",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.00096112426,
+      "mentions": [
+        {
+          "text": {
+            "content": "gun",
+            "beginOffset": 1618
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gun",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.00096112426,
+      "mentions": [
+        {
+          "text": {
+            "content": "gun",
+            "beginOffset": 1684
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "brain",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00095334154,
+      "mentions": [
+        {
+          "text": {
+            "content": "brain",
+            "beginOffset": 1289
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bullet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00095334154,
+      "mentions": [
+        {
+          "text": {
+            "content": "bullet",
+            "beginOffset": 1275
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "run",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0008649799,
+      "mentions": [
+        {
+          "text": {
+            "content": "run",
+            "beginOffset": 1971
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "problem",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00075891137,
+      "mentions": [
+        {
+          "text": {
+            "content": "problem",
+            "beginOffset": 1774
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "thunder",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00071433047,
+      "mentions": [
+        {
+          "text": {
+            "content": "thunder",
+            "beginOffset": 857
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog day",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0007083872,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog day",
+            "beginOffset": 1893
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Everybody",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0006819583,
+      "mentions": [
+        {
+          "text": {
+            "content": "Everybody",
+            "beginOffset": 1644
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "daddy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0006670802,
+      "mentions": [
+        {
+          "text": {
+            "content": "daddy",
+            "beginOffset": 1863
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gun",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.00066554453,
+      "mentions": [
+        {
+          "text": {
+            "content": "gun",
+            "beginOffset": 2014
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gun",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.00066554453,
+      "mentions": [
+        {
+          "text": {
+            "content": "gun",
+            "beginOffset": 1991
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gun",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.00066554453,
+      "mentions": [
+        {
+          "text": {
+            "content": "gun",
+            "beginOffset": 1851
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gun",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.00066554453,
+      "mentions": [
+        {
+          "text": {
+            "content": "gun",
+            "beginOffset": 1806
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cradle robbin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0004932033,
+      "mentions": [
+        {
+          "text": {
+            "content": "cradle robbin",
+            "beginOffset": 1871
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Run",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0003924346,
+      "mentions": [
+        {
+          "text": {
+            "content": "Run",
+            "beginOffset": 1400
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "sleaze",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00036845432,
+      "mentions": [
+        {
+          "text": {
+            "content": "sleaze",
+            "beginOffset": 1353
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nobody",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00019054783,
+      "mentions": [
+        {
+          "text": {
+            "content": "nobody",
+            "beginOffset": 1313
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

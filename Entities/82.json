@@ -1,0 +1,651 @@
+{
+  "entities": [
+    {
+      "name": "Happy",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/016pp7",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Happiness"
+      },
+      "salience": 0.64110166,
+      "mentions": [
+        {
+          "text": {
+            "content": "hand",
+            "beginOffset": 306
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "mistake",
+            "beginOffset": 336
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Happy",
+            "beginOffset": 349
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": 362
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "cause",
+            "beginOffset": 472
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "luck",
+            "beginOffset": 597
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Happy",
+            "beginOffset": 901
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": 914
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "cause",
+            "beginOffset": 1024
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Happy",
+            "beginOffset": 1284
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": 1297
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "cause",
+            "beginOffset": 1407
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chance",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.1483994,
+      "mentions": [
+        {
+          "text": {
+            "content": "chance",
+            "beginOffset": 274
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Fallin",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05473635,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fallin",
+            "beginOffset": 556
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 549
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Fallin",
+            "beginOffset": 1108
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 1101
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Fallin",
+            "beginOffset": 1491
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 1484
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fall",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020033032,
+      "mentions": [
+        {
+          "text": {
+            "content": "fall",
+            "beginOffset": 71
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018660061,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 1119
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 1428
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 1502
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016200986,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 24
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Fallin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01440461,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fallin",
+            "beginOffset": 511
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Fallin",
+            "beginOffset": 1063
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Fallin",
+            "beginOffset": 1446
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Fallin",
+            "beginOffset": 1473
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "All",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013721336,
+      "mentions": [
+        {
+          "text": {
+            "content": "All",
+            "beginOffset": 422
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "All",
+            "beginOffset": 1357
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gambler",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010832065,
+      "mentions": [
+        {
+          "text": {
+            "content": "gambler",
+            "beginOffset": 145
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009825279,
+      "mentions": [
+        {
+          "text": {
+            "content": "life",
+            "beginOffset": 989
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "life",
+            "beginOffset": 1372
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004246488,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 567
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004246488,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 703
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0041932994,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 522
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0041932994,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 493
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "game",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0041205958,
+      "mentions": [
+        {
+          "text": {
+            "content": "game",
+            "beginOffset": 16
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "odds",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002786476,
+      "mentions": [
+        {
+          "text": {
+            "content": "odds",
+            "beginOffset": 222
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0027522566,
+      "mentions": [
+        {
+          "text": {
+            "content": "life",
+            "beginOffset": 437
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "times",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0027522566,
+      "mentions": [
+        {
+          "text": {
+            "content": "times",
+            "beginOffset": 729
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Fallin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002447387,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fallin",
+            "beginOffset": 538
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Fallin",
+            "beginOffset": 1090
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "freedom",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0024189332,
+      "mentions": [
+        {
+          "text": {
+            "content": "freedom",
+            "beginOffset": 1249
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "stars",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0023346634,
+      "mentions": [
+        {
+          "text": {
+            "content": "stars",
+            "beginOffset": 633
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hand",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002292031,
+      "mentions": [
+        {
+          "text": {
+            "content": "hand",
+            "beginOffset": 891
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "side",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0021916565,
+      "mentions": [
+        {
+          "text": {
+            "content": "side",
+            "beginOffset": 662
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "affair",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0020059973,
+      "mentions": [
+        {
+          "text": {
+            "content": "affair",
+            "beginOffset": 801
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "beginnings",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.001883065,
+      "mentions": [
+        {
+          "text": {
+            "content": "beginnings",
+            "beginOffset": 757
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Laughter",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/01j3sz",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Laughter"
+      },
+      "salience": 0.0016259697,
+      "mentions": [
+        {
+          "text": {
+            "content": "Laughter",
+            "beginOffset": 1207
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "dream",
+            "beginOffset": 1199
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0012782412,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 1074
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0012782412,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 1045
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Little",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0011886664,
+      "mentions": [
+        {
+          "text": {
+            "content": "Little",
+            "beginOffset": 826
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0009589625,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 1457
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "All",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0008902327,
+      "mentions": [
+        {
+          "text": {
+            "content": "All",
+            "beginOffset": 974
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

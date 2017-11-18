@@ -1,0 +1,59 @@
+{
+  "documentSentiment": {
+    "magnitude": 3.2,
+    "score": -0.4
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "From the slums of Shaolin, Wu-Tang Clan strikes again  \rThe RZA, the GZA, Ol Dirty Bastard, Inspecktah Deck, Raekwon the Chef  \rYou-God, Ghost Face Killer and the Method Man  \r  \rM-E-T, H-O-D, MAN  \rM-E-T, H-O-D, MAN  \rM-E-T, H-O-D, MAN  \rM-E-T, H-O-D, MAN  \r  \rHey, you, get off my cloud  \rYou don't know me and you don't know my style  \rWho be gettin' flam when they come to a jam?",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Here I am here I am, the Method Man  \rPatty cake patty cake hey the method man  \rDon't eat Skippy, Jif or Peter Pan  \rPeanut butter, 'cause I'm not butter  \rIn fact I snap back like a rubber  \rBand, I be Sam Sam I am  \rAnd I don't eat green eggs and ham  \rStyle will hit ya, wham!, then goddamn  \rYou be like oh shit that's the jam  \rTurn it up now hear me get buck wu-wu-wild  \rI'm about to blow light me up  \rUpside downside inside and outside  \rHittin you from every angle there's no doubt  \rI am, the one and only Method Man  \rThe master of the plan wrappin' shit like Saran  \rWrap, with some of this and some of that  \rHold up (what?)",
+        "beginOffset": 386
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "I tawt I tat I putty tat  \rOver there, but I think he best to beware  \rOf the diggy dog shit right here  \rYippy yippy yay yippy yah yippy yo  \rLike Deck said this ain't your average flow  \rComin' like rah ooh ah achie kah  \rTell me how ya like it so far baby paw  \rThe poetry's in motion coast to coast and  \rRub it on your skin like lotion  \rWhat's the commotion, oh my lord  \rAnother corn chopped by the Wu-Tang sword  \rHey hey hey like Fat Albert  \rIt's the Method Man ain't no if ands about it  \rIt's the Method  \r  \rAll right, y'all get ya White Owls, get ya meth, get ya skins  \rDon't forget your forty  \rAnd we gonna do it like this  \r  \rI got, fat bags of skunk  \rI got, White Owl blunts  \rAnd I'm about to go get lifted  \rYes I'm about to go get lifted  \r  \rI got, myself a forty  \rI got, myself a shorty  \rAnd I'm about to go and stick it  \rYes I'm about to go and stick it  \r  \rUhh  \rH-U-F-F huff and I puff  \rBlow like snow when the cold wind's blowin'  \rZoom, I hit the mic like boom  \rWrote a song about it like to hear it here it goes  \rQuestion what exactly is a pantie raider  \rIll behavior savior or major flavor",
+        "beginOffset": 1026
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "All of the above oh yeah plus I do so  \rAlso flam I'm the man call me super  \rNot an average Joe with an average flow  \rDoing average things with average hoes  \rYo I'm super I'll make a bitch squirm  \rFor my, Super Sperm (check it)  \rCheck it I give it to ya raw butt naked  \rI smell sex pass the Method  \rLet's get lifted as I kick ballistics  \rMissiles and shoot game like a pistol  \rClip is loaded when I click bang dang  \rA Wu-Tang slug hits your brain  \rJ-U-M-P jump and I thump  \rMake girls rumps like pump and Humpty Hump  \rWow, the Shaolin' style is all in me  \rChild, the whole damn isle is callin' me  \rP-A-N-T-Y R-A-I-D-E-R mad raw I don't cry  \rMeaning no one can burn or toss and turn me  \rOoh I be the super sperm  \rChim chimmeny chim chim cherie  \rFreak a flow and flow fancy free  \rNow how many licks does it take  \rFor me to hit the Tootsie Roll center of a break  \rPeep and don't sleep the crews mad deep Wu-Tang  \rFading motherfuckers like bleach  \rSo to each and every crew  \rYou're clear like glass I can see right through  \rYou're whole damn posse be catchin' 'em all cause you vic'd  \rAnd ya didn't have friends to begin with  \rI'm  \r  \rM-E-T, H-O-D, MAN  \rM-E-T",
+        "beginOffset": 2159
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": ", H-O-D, MAN  \rM-E-T, H-O-D, MAN  \rM-E-T, H-O-D, MAN  \r  \rHere I am, here I am, the Method Man  \r  \rStraight from the slums of Shaolin  \rWu-Tang Killa Bee's on a swarm  \r(Your soul have just been taken through the 36 chambers of death, kid)  \r  \r(Word to mother, Method Man signing off, peace)",
+        "beginOffset": 3344
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ]
+}

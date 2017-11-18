@@ -1,0 +1,29 @@
+{
+  "documentSentiment": {
+    "magnitude": 0.7,
+    "score": -0.3
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "Hey j-j-jaded, you got your mama's style  \rBut you're yesterday's child to me  \rSo jaded  \rYou think that's where it's at  \rBut is that where it's supposed to be  \rYou're gettin' it all over me, ex-rated  \r  \rMy my baby blue  \rYeah I been thinkin' about you  \rMy my baby blue  \rYeah you're so jaded  \rAnd I'm the one that jaded you  \r  \rHey j-j-jaded  \rIn all it's misery  \rIt will always be what I love and hated  \rAnd maybe take a ride to the other side  \rWe're thinkin' of  \rWe'll slip into the velvet glove  \rAnd be jaded  \r  \rMy my baby blue  \rYeah I'm thinkin' about you  \rMy my baby blue  \rYeah I'm so jaded  \rAnd baby I'm afraid of you  \r  \rYour thinking's so complicated  \rI've had it all up to here  \rBut it's so overrated  \rLove and hated  \rWouldn't trade it  \rLove me jaded  \r  \rHey j-j-jaded  \rThere ain't no baby please  \rWhen I'm shootin' the breeze with her  \rWhen everything you see is a blur  \rAnd ecstasy's what you prefer  \r  \rMy my baby blue  \rYeah I'm talkin' about you  \rMy my baby blue  \rYeah I've been thinkin' about you  \rMy my baby blue  \rYeah you're so jaded  \rBaby  \rJaded  \rBaby  \rYou're so jaded  \r'Cause I'm the one",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "that jaded you",
+        "beginOffset": 1148
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ]
+}

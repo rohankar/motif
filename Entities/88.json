@@ -1,0 +1,140 @@
+{
+  "entities": [
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.3272634,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": 19
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "heart",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.13269746,
+      "mentions": [
+        {
+          "text": {
+            "content": "heart",
+            "beginOffset": 158
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hands",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.1277806,
+      "mentions": [
+        {
+          "text": {
+            "content": "hands",
+            "beginOffset": 86
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10724556,
+      "mentions": [
+        {
+          "text": {
+            "content": "life",
+            "beginOffset": 275
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mind",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.090000495,
+      "mentions": [
+        {
+          "text": {
+            "content": "mind",
+            "beginOffset": 217
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "heart",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.08242593,
+      "mentions": [
+        {
+          "text": {
+            "content": "heart",
+            "beginOffset": 417
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "heart",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.061716136,
+      "mentions": [
+        {
+          "text": {
+            "content": "heart",
+            "beginOffset": 557
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mind",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04335774,
+      "mentions": [
+        {
+          "text": {
+            "content": "mind",
+            "beginOffset": 616
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mind",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.027512664,
+      "mentions": [
+        {
+          "text": {
+            "content": "mind",
+            "beginOffset": 476
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

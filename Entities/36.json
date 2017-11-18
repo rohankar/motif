@@ -1,0 +1,727 @@
+{
+  "entities": [
+    {
+      "name": "pulse",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.17336272,
+      "mentions": [
+        {
+          "text": {
+            "content": "pulse",
+            "beginOffset": 417
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "pulse",
+            "beginOffset": 794
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "pulse",
+            "beginOffset": 859
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "pulse",
+            "beginOffset": 1061
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "pulse",
+            "beginOffset": 1126
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "pulse",
+            "beginOffset": 1191
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hoop",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.069065645,
+      "mentions": [
+        {
+          "text": {
+            "content": "hoop",
+            "beginOffset": 152
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fire",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.069065645,
+      "mentions": [
+        {
+          "text": {
+            "content": "fire",
+            "beginOffset": 160
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "walks",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.06772652,
+      "mentions": [
+        {
+          "text": {
+            "content": "walks",
+            "beginOffset": 55
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "reads",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.065573946,
+      "mentions": [
+        {
+          "text": {
+            "content": "reads",
+            "beginOffset": 514
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "reads",
+            "beginOffset": 891
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "reads",
+            "beginOffset": 1223
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lips",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06553589,
+      "mentions": [
+        {
+          "text": {
+            "content": "lips",
+            "beginOffset": 185
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dreams",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.052711815,
+      "mentions": [
+        {
+          "text": {
+            "content": "dreams",
+            "beginOffset": 395
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "dreams",
+            "beginOffset": 772
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "dreams",
+            "beginOffset": 1039
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "reads",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.046323895,
+      "mentions": [
+        {
+          "text": {
+            "content": "reads",
+            "beginOffset": 449
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "reads",
+            "beginOffset": 1093
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "reads",
+            "beginOffset": 1158
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "things",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03871331,
+      "mentions": [
+        {
+          "text": {
+            "content": "things",
+            "beginOffset": 41
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nylon strings",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03871331,
+      "mentions": [
+        {
+          "text": {
+            "content": "nylon strings",
+            "beginOffset": 93
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "guitars",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.03871331,
+      "mentions": [
+        {
+          "text": {
+            "content": "guitars",
+            "beginOffset": 80
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "beaches",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.03871331,
+      "mentions": [
+        {
+          "text": {
+            "content": "beaches",
+            "beginOffset": 71
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pulse",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019280383,
+      "mentions": [
+        {
+          "text": {
+            "content": "pulse",
+            "beginOffset": 482
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "heat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018002966,
+      "mentions": [
+        {
+          "text": {
+            "content": "heat",
+            "beginOffset": 316
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hoop",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017909268,
+      "mentions": [
+        {
+          "text": {
+            "content": "hoop",
+            "beginOffset": 326
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fire",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017909268,
+      "mentions": [
+        {
+          "text": {
+            "content": "fire",
+            "beginOffset": 334
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "wealth",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014901651,
+      "mentions": [
+        {
+          "text": {
+            "content": "wealth",
+            "beginOffset": 257
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "evenings",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.014901651,
+      "mentions": [
+        {
+          "text": {
+            "content": "evenings",
+            "beginOffset": 247
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hoop",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008601706,
+      "mentions": [
+        {
+          "text": {
+            "content": "hoop",
+            "beginOffset": 527
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fire",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008601706,
+      "mentions": [
+        {
+          "text": {
+            "content": "fire",
+            "beginOffset": 535
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fire",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008601706,
+      "mentions": [
+        {
+          "text": {
+            "content": "fire",
+            "beginOffset": 470
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mistrust",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00853824,
+      "mentions": [
+        {
+          "text": {
+            "content": "mistrust",
+            "beginOffset": 622
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hoop",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008493637,
+      "mentions": [
+        {
+          "text": {
+            "content": "hoop",
+            "beginOffset": 462
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hoop",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007873066,
+      "mentions": [
+        {
+          "text": {
+            "content": "hoop",
+            "beginOffset": 704
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fire",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007873066,
+      "mentions": [
+        {
+          "text": {
+            "content": "fire",
+            "beginOffset": 712
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0066299196,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 564
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hoop",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0058639236,
+      "mentions": [
+        {
+          "text": {
+            "content": "hoop",
+            "beginOffset": 971
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fire",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0058639236,
+      "mentions": [
+        {
+          "text": {
+            "content": "fire",
+            "beginOffset": 979
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pressure",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004770725,
+      "mentions": [
+        {
+          "text": {
+            "content": "pressure",
+            "beginOffset": 597
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "places",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.004770725,
+      "mentions": [
+        {
+          "text": {
+            "content": "places",
+            "beginOffset": 579
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "strangers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.004770725,
+      "mentions": [
+        {
+          "text": {
+            "content": "strangers",
+            "beginOffset": 634
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nights",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.004770725,
+      "mentions": [
+        {
+          "text": {
+            "content": "nights",
+            "beginOffset": 550
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fire",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0040504164,
+      "mentions": [
+        {
+          "text": {
+            "content": "fire",
+            "beginOffset": 1244
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hoop",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0040504164,
+      "mentions": [
+        {
+          "text": {
+            "content": "hoop",
+            "beginOffset": 1236
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fire",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0040504164,
+      "mentions": [
+        {
+          "text": {
+            "content": "fire",
+            "beginOffset": 1179
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hoop",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0040504164,
+      "mentions": [
+        {
+          "text": {
+            "content": "hoop",
+            "beginOffset": 1171
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fire",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0040504164,
+      "mentions": [
+        {
+          "text": {
+            "content": "fire",
+            "beginOffset": 1114
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hoop",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0040504164,
+      "mentions": [
+        {
+          "text": {
+            "content": "hoop",
+            "beginOffset": 1106
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fire",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002574233,
+      "mentions": [
+        {
+          "text": {
+            "content": "fire",
+            "beginOffset": 912
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hoop",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002574233,
+      "mentions": [
+        {
+          "text": {
+            "content": "hoop",
+            "beginOffset": 904
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fire",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002574233,
+      "mentions": [
+        {
+          "text": {
+            "content": "fire",
+            "beginOffset": 847
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hoop",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002574233,
+      "mentions": [
+        {
+          "text": {
+            "content": "hoop",
+            "beginOffset": 839
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "reads",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002252288,
+      "mentions": [
+        {
+          "text": {
+            "content": "reads",
+            "beginOffset": 826
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

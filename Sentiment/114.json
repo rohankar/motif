@@ -1,0 +1,259 @@
+{
+  "documentSentiment": {
+    "magnitude": 8.7,
+    "score": 0.2
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "I want to go  \rTo see your house,  \rTo see how you're living.",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Living without you.",
+        "beginOffset": 64
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "And if you care,  \rI'm wanting you  \rFrom such a distance.",
+        "beginOffset": 89
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Living without you.",
+        "beginOffset": 150
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "And if you want to try  \rTo speak to me again  \rI'll be your bestest friend.",
+        "beginOffset": 175
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Whoa, ohhh, ohhh.",
+        "beginOffset": 254
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "And I want you.",
+        "beginOffset": 274
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Ohhh, ohhh, oohh.",
+        "beginOffset": 292
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "The things you wrote  \rTo cut me off  \rWhen I was trying.",
+        "beginOffset": 315
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Living without you.",
+        "beginOffset": 375
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "To get with you  \rWould be your friend.",
+        "beginOffset": 400
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Make me feel so bad.",
+        "beginOffset": 442
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Living without you.",
+        "beginOffset": 465
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "And if you want to try  \rTo speak to me again  \rI'll be your bestest friend.",
+        "beginOffset": 490
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Whoa, ohhh, ohhh.",
+        "beginOffset": 569
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "And I want you.",
+        "beginOffset": 589
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Ohhh, ohhh, oohh.",
+        "beginOffset": 607
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Yeah, sweet girl  \rI need you.",
+        "beginOffset": 630
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Oooh, I think it could be so good.",
+        "beginOffset": 663
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "[Solo]  \rAnd if you want to try  \rTo speak to me again  \rI'll be your bestest friend.",
+        "beginOffset": 703
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Whoa, ohhh, ohhh.",
+        "beginOffset": 791
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "And I want you.",
+        "beginOffset": 811
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Ohhh, ohhh, ohhh.",
+        "beginOffset": 829
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Yeah, sweet girl  \rI need you.",
+        "beginOffset": 852
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Oooh, I think it could be so good.",
+        "beginOffset": 885
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    }
+  ]
+}

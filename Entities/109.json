@@ -1,0 +1,232 @@
+{
+  "entities": [
+    {
+      "name": "Londie",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.27669138,
+      "mentions": [
+        {
+          "text": {
+            "content": "name",
+            "beginOffset": 483
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Londie",
+            "beginOffset": 490
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.24997926,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 428
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Life",
+            "beginOffset": 448
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Boy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.09378811,
+      "mentions": [
+        {
+          "text": {
+            "content": "Boy",
+            "beginOffset": 240
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0819434,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 113
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.055061057,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 189
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "heaven",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.03900676,
+      "mentions": [
+        {
+          "text": {
+            "content": "heaven",
+            "beginOffset": 273
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "angel",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.038520824,
+      "mentions": [
+        {
+          "text": {
+            "content": "angel",
+            "beginOffset": 225
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "meaning",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0348428,
+      "mentions": [
+        {
+          "text": {
+            "content": "meaning",
+            "beginOffset": 468
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0315212,
+      "mentions": [
+        {
+          "text": {
+            "content": "life",
+            "beginOffset": 348
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026614241,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 596
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/0d05l6",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.019941654,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 311
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019291729,
+      "mentions": [
+        {
+          "text": {
+            "content": "Life",
+            "beginOffset": 419
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01690725,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 393
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Aisha The",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015890347,
+      "mentions": [
+        {
+          "text": {
+            "content": "Aisha  \rThe",
+            "beginOffset": 456
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

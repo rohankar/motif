@@ -1,0 +1,65 @@
+{
+  "entities": [
+    {
+      "name": "people",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.6808701,
+      "mentions": [
+        {
+          "text": {
+            "content": "people",
+            "beginOffset": 19
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "summer sound",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.18244706,
+      "mentions": [
+        {
+          "text": {
+            "content": "summer sound",
+            "beginOffset": 66
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "wonder land",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.09957188,
+      "mentions": [
+        {
+          "text": {
+            "content": "wonder land",
+            "beginOffset": 330
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hand",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.037110962,
+      "mentions": [
+        {
+          "text": {
+            "content": "hand",
+            "beginOffset": 298
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

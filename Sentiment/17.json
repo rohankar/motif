@@ -1,0 +1,29 @@
+{
+  "documentSentiment": {
+    "magnitude": 0.9,
+    "score": -0.4
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "When you try your best but you don't succeed  \rWhen you get what you want but not what you need  \rWhen you feel so tired but you can't sleep  \rStuck in reverse  \r  \rWhen the tears come streaming down your face  \rWhen you lose something you can't replace  \rWhen you love someone but it goes to waste  \rCould it be worse?",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Lights will guide you home  \rAnd ignite your bones  \rAnd I will try to fix you  \r  \rHigh up above or down below  \rWhen you're too in love to let it go  \rIf you never try you'll never know  \rJust what you're worth  \r  \rLights will guide you home  \rAnd ignite your bones  \rAnd I will try to fix you  \r  \rTears come streaming down your face  \rWhen you lose something you cannot replace  \rTears come streaming down your face  \rAnd I  \r  \rTears come streaming down your face  \rI promise you I will learn from all my mistakes  \rTears come streaming down your face  \rAnd I  \r  \rLights will guide you home  \rAnd ignite your bones  \rAnd I will try to fix you",
+        "beginOffset": 325
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ]
+}

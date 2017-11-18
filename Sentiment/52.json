@@ -1,0 +1,29 @@
+{
+  "documentSentiment": {
+    "magnitude": 1.1,
+    "score": -0.3
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "Ah yeah!",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "There's a red house over yonder,  \rThat's where my baby stays  \rLord, there's a red house over yonder  \rLord, that's where my baby stays  \rI ain't been home to see my baby  \rIn ninety nine and one half days  \r  \rWait a minute, something's wrong here  \rThe key won't unlock this door  \rWait a minute, something's wrong, lord, have mercy  \rThis key won't unlock this door,  \rSomething's goin' on here  \rI have a bad bad feeling  \rThat my baby don't live here no more  \r  \rWell, I might as well go back over yonder,  \rWay back up on the hill  \rThat's something to do  \rLord, I might as well go back over yonder,  \rWay back yonder cross the hill  \r'Cause if my baby don't love me no more  \rI know her sister will  \rYeah.",
+        "beginOffset": 11
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    }
+  ]
+}

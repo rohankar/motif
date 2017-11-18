@@ -1,0 +1,646 @@
+{
+  "entities": [
+    {
+      "name": "death",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.6929553,
+      "mentions": [
+        {
+          "text": {
+            "content": "death",
+            "beginOffset": 1465
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "death",
+            "beginOffset": 1482
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "girls",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.11876646,
+      "mentions": [
+        {
+          "text": {
+            "content": "girls",
+            "beginOffset": 570
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "girls",
+            "beginOffset": 1223
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "girls",
+            "beginOffset": 1390
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "girls",
+            "beginOffset": 1443
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "girls",
+            "beginOffset": 1515
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "girls",
+            "beginOffset": 1592
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "birds",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.038553286,
+      "mentions": [
+        {
+          "text": {
+            "content": "birds",
+            "beginOffset": 154
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sun",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011405167,
+      "mentions": [
+        {
+          "text": {
+            "content": "sun",
+            "beginOffset": 131
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "car",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.009690192,
+      "mentions": [
+        {
+          "text": {
+            "content": "car",
+            "beginOffset": 40
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hunnies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009690192,
+      "mentions": [
+        {
+          "text": {
+            "content": "hunnies",
+            "beginOffset": 68
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "name",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009690192,
+      "mentions": [
+        {
+          "text": {
+            "content": "name",
+            "beginOffset": 177
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "money",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009690192,
+      "mentions": [
+        {
+          "text": {
+            "content": "money",
+            "beginOffset": 15
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "girls",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.008941478,
+      "mentions": [
+        {
+          "text": {
+            "content": "girls",
+            "beginOffset": 368
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "girls",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.007041639,
+      "mentions": [
+        {
+          "text": {
+            "content": "girls",
+            "beginOffset": 421
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Boy meets girl",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0057201292,
+      "mentions": [
+        {
+          "text": {
+            "content": "Boy meets girl",
+            "beginOffset": 790
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "life",
+            "beginOffset": 783
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "girls",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.005542918,
+      "mentions": [
+        {
+          "text": {
+            "content": "girls",
+            "beginOffset": 1074
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "girls",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0047046994,
+      "mentions": [
+        {
+          "text": {
+            "content": "girls",
+            "beginOffset": 493
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "death",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.004654175,
+      "mentions": [
+        {
+          "text": {
+            "content": "death",
+            "beginOffset": 1096
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "death",
+            "beginOffset": 1113
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "death",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0045286706,
+      "mentions": [
+        {
+          "text": {
+            "content": "death",
+            "beginOffset": 443
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "girls",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.004361598,
+      "mentions": [
+        {
+          "text": {
+            "content": "girls",
+            "beginOffset": 1021
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "roads",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0042500887,
+      "mentions": [
+        {
+          "text": {
+            "content": "roads",
+            "beginOffset": 267
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "death",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.00374729,
+      "mentions": [
+        {
+          "text": {
+            "content": "death",
+            "beginOffset": 460
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "matter",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00374729,
+      "mentions": [
+        {
+          "text": {
+            "content": "matter",
+            "beginOffset": 504
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "matter",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00374729,
+      "mentions": [
+        {
+          "text": {
+            "content": "matter",
+            "beginOffset": 527
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Start",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0032642356,
+      "mentions": [
+        {
+          "text": {
+            "content": "Start",
+            "beginOffset": 694
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "mess",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0032384428,
+      "mentions": [
+        {
+          "text": {
+            "content": "mess",
+            "beginOffset": 387
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0032375497,
+      "mentions": [
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": 248
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Guess",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0032232385,
+      "mentions": [
+        {
+          "text": {
+            "content": "Guess",
+            "beginOffset": 220
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "everything",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0031968865,
+      "mentions": [
+        {
+          "text": {
+            "content": "everything",
+            "beginOffset": 729
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "roads",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0026293322,
+      "mentions": [
+        {
+          "text": {
+            "content": "roads",
+            "beginOffset": 920
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lights",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0025141314,
+      "mentions": [
+        {
+          "text": {
+            "content": "lights",
+            "beginOffset": 653
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0025141314,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 831
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "wife",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0025141314,
+      "mentions": [
+        {
+          "text": {
+            "content": "wife",
+            "beginOffset": 820
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0025141314,
+      "mentions": [
+        {
+          "text": {
+            "content": "lies",
+            "beginOffset": 717
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "words",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0025141314,
+      "mentions": [
+        {
+          "text": {
+            "content": "words",
+            "beginOffset": 680
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mess",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002002598,
+      "mentions": [
+        {
+          "text": {
+            "content": "mess",
+            "beginOffset": 1040
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "girls",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0009471101,
+      "mentions": [
+        {
+          "text": {
+            "content": "girls",
+            "beginOffset": 1146
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "matter",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.000855562,
+      "mentions": [
+        {
+          "text": {
+            "content": "matter",
+            "beginOffset": 1526
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "matter",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.000855562,
+      "mentions": [
+        {
+          "text": {
+            "content": "matter",
+            "beginOffset": 1549
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "wild",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0007548786,
+      "mentions": [
+        {
+          "text": {
+            "content": "wild",
+            "beginOffset": 1141
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mess",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00071148074,
+      "mentions": [
+        {
+          "text": {
+            "content": "mess",
+            "beginOffset": 1409
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "matter",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00054209307,
+      "mentions": [
+        {
+          "text": {
+            "content": "matter",
+            "beginOffset": 1157
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "matter",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00054209307,
+      "mentions": [
+        {
+          "text": {
+            "content": "matter",
+            "beginOffset": 1180
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,19 @@
+{
+  "documentSentiment": {
+    "magnitude": 0,
+    "score": 0
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "All the times you came  \rI should've ran away  \r  \rYou told me that you'd always love me  \rYou told me that you'd always love me  \r  \rAnd the games you played  \rWere meant to lead me on  \r  \rYou told me that you'd always love me  \rYou told me that you'd always love me  \rAlways, oooh always  \rI do  \r  \rYou told me that you'd always love me  \rYou told me that you'd always love me  \rAlways, oooh always  \rI do  \r  \rNever more again  \rWill I believe the sun",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ]
+}

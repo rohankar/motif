@@ -1,0 +1,19 @@
+{
+  "documentSentiment": {
+    "magnitude": 0.6,
+    "score": -0.6
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "Well, I stand up next to a mountain  \rAnd I chop it down with the edge of my hand  \rYeah  \rWell, I stand up next to a mountain  \rAnd I chop it down with the edge of my hand  \rWell, I pick up all the pieces and make an island  \rMight even raise a little sand  \rYeah  \r'Cause I'm a voodoo child  \rLord knows I'm a voodoo child baby  \rI want to say one more last thing  \rI didn't mean to take up all your sweet time  \rI'll give it right back to ya one of these days  \rHahaha  \rI said I didn't mean to take up all your sweet time  \rI'll give it right back one of these days  \rOh yeah  \rIf I don't meet you no more in this world then uh  \rI'll meet ya on the next one  \rAnd don't be late  \rDon't be late  \r'Cause I'm a voodoo child voodoo child  \rLord knows I'm a voodoo child  \rHey hey hey  \rI'm a voodoo child baby  \rI don't take no for an answer  \rQuestion no  \rYeah",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    }
+  ]
+}

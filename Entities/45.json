@@ -1,0 +1,125 @@
+{
+  "entities": [
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.27079818,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 55
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "girl",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.15764844,
+      "mentions": [
+        {
+          "text": {
+            "content": "girl",
+            "beginOffset": 141
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "things",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.14356773,
+      "mentions": [
+        {
+          "text": {
+            "content": "things",
+            "beginOffset": 168
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "twinkle",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.12213246,
+      "mentions": [
+        {
+          "text": {
+            "content": "twinkle",
+            "beginOffset": 254
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "arms",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10781217,
+      "mentions": [
+        {
+          "text": {
+            "content": "arms",
+            "beginOffset": 237
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.098220386,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 332
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "girl",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.064133994,
+      "mentions": [
+        {
+          "text": {
+            "content": "girl",
+            "beginOffset": 370
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.035686634,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": 270
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

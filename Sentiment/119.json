@@ -1,0 +1,29 @@
+{
+  "documentSentiment": {
+    "magnitude": 0.1,
+    "score": 0
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "If you want it (oo-oo-oo)  \rYou can have it (oo-oo-oo)  \rBut you gotta learn to reach up there  \rAnd grab it (oo-oo-oo)  \r  \r'Cause everybody wants some love (oh baby)  \rShoot it from the stars above (oh baby)  \rAnd though my heart would break  \rIt's more than I can take  \rI can never get enough  \r  \rIf you need it (oo-oo-oo)  \rYou should show it (oo-oo-oo)  \r'Cause at my place overnight  \rSuggest you grow it (oo-oo-oo)  \r  \r'Cause everybody wants some hope (oh baby)  \rSomething they can barely know (oh baby)  \rAnd though my heart would break  \rIt's more than I could take  \rI can never let it go  \r  \rIt's in the photograph  \rIt's in the photograph  \rIt's in the photograph of love  \r  \r'Cause everybody wants a dream (oh baby)  \rSomething they can barely see (oh baby)  \rAnd though my heart would break  \rIt's more than I could take  \rI could never let it be  \r  \rIt's in the photograph  \rIt's in the photograph  \rIt's in the photograph of love  \r  \rIf you blew it (oo-oo-oo)  \rDon't reject it (oo-oo-oo)",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Just keep drawing up the plans and re-erect it  \r(oo-oo-oo) (x 3)",
+        "beginOffset": 1015
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ]
+}

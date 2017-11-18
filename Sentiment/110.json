@@ -1,0 +1,59 @@
+{
+  "documentSentiment": {
+    "magnitude": 3.2,
+    "score": 0.6
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "Some gonna get you  \rSome gonna grab you  \rSome gonna jump out of the bushes and grab you  \rWhole lotta folks, you better run faster.",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Some gonna grab you  \rSome gonna jump out of the bushes and grab you  \rSome gonna grab you  \rYou need this thing to grab you  \r  \rKeep on running  \rKeep on running from my love  \rKeep on running  \rKeep on running from my love  \r  \rSome folks say that you're really, really fine,  \rAll you want to be is just a friend of mine,  \rBut I know, the man your with gonna break your heart,  \rAnd you'll be sad real soon.",
+        "beginOffset": 139
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Keep on running,  \rKeep on running from my love,  \rKeep on running  \rKeep on running from my love.",
+        "beginOffset": 557
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Some folks say that you're really, really fine  \rBut all you want to be is just a friend of mine,  \rBut I know I'm gonna get you with him -real soon.",
+        "beginOffset": 661
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Why do you keep  \rKeep on running, running from my love  \rKeep on running from  \rKeep on running, running from my love  \rI need you baby  \rKeep on running, running from my love  \rAnd everyday  \rKeep on running, running from my love  \r  \rKeep on running  \rKeep on running from my love  \rKeep on running  \rKeep on running from my love  \r  \rSome folks say that your love is really good  \rAll you want to be is just a friend of mine,  \rBut I know, I'm gonna get you in the end  \r'Cause I need you so  \r  \rKeep on running  \rKeep on running, running from my love",
+        "beginOffset": 816
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    }
+  ]
+}

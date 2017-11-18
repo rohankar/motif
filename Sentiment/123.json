@@ -1,0 +1,39 @@
+{
+  "documentSentiment": {
+    "magnitude": 2.2,
+    "score": -0.3
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "God damn man these radio station be buggin  \rMan it's three o'clock in the mornin, damn  \rThis hip-hop shit just keep  \rDamn we got to slow this shit down man, ya know what I mean?",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Fiends were never waiting in the hill  \rThey ran one step ahead  \rBut the jiggy was always there  \r  \rUpon the project pavement  \rThere was death, enslavement of the mind  \rSingle mothers are filled with stress  \r  \rAs I lay there with my baby  \rWe would look, from the window, and cry  \rThen suddenly in the sky  \r  \rBetween the new world ages  \rWe were blessed, and Wu-Tang fills the ear  \rWith the melody of a train (Lord is suddenly here!)",
+        "beginOffset": 186
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "False MC's are melting  \rIn the dark, all the weak LP's are  \rgoing down  \r  \rGod released the tape out, early May  \rAnd, I don't think the world can take it  \rCause it took so long to make it  \rAnd the hip-hop game'll never be the same  \r  \rWu-Tang, Wu-Tang, Wu-Tang  \r  \rUpon the project pavement  \rThere was death, enslavement of the mind  \rSingle mothers are filled with stress  \r  \rBetween the new world ages  \rWe were blessed, and Wu-Tang fills the air  \rWith the knowledge that God possess  \r  \rAs I lay there with my baby  \rWe would look, from the window, and cry  \rThen the Wu-Tang sign appears, in the sky  \r  \rBillboards started melting  \rIn the dark, all the weak MC's are  \rGoing down  \r  \rGod released the tape of, Earthly pain  \r  \rAnd, I don't think the world can take it  \rCause it took so long to make it  \rAnd the hip-hop game'll never be the same  \r  \rAnd I don't think the world can take it  \rCause it took so long to make it  \rAnd the hip-hop game'll never be the same  \r  \rWu-Tang, Wu-Tang, Wu-Tang  \r  \rWu-Tang",
+        "beginOffset": 635
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    }
+  ]
+}

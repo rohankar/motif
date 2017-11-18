@@ -1,0 +1,347 @@
+{
+  "entities": [
+    {
+      "name": "child",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.4126211,
+      "mentions": [
+        {
+          "text": {
+            "content": "child",
+            "beginOffset": 66
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Baby",
+            "beginOffset": 1104
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Baby",
+            "beginOffset": 1089
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "one",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.33797267,
+      "mentions": [
+        {
+          "text": {
+            "content": "one",
+            "beginOffset": 313
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "one",
+            "beginOffset": 1144
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "misery",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.1804124,
+      "mentions": [
+        {
+          "text": {
+            "content": "style",
+            "beginOffset": 35
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "misery",
+            "beginOffset": 365
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Love",
+            "beginOffset": 735
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mama",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.019073153,
+      "mentions": [
+        {
+          "text": {
+            "content": "mama",
+            "beginOffset": 28
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "everything",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008189603,
+      "mentions": [
+        {
+          "text": {
+            "content": "everything",
+            "beginOffset": 881
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "blur",
+            "beginOffset": 905
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby blue",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005409134,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby blue",
+            "beginOffset": 215
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby blue",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005079937,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby blue",
+            "beginOffset": 266
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0038298524,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 621
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby blue",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0036627555,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby blue",
+            "beginOffset": 537
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby blue",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0033535322,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby blue",
+            "beginOffset": 585
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ride",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0027740153,
+      "mentions": [
+        {
+          "text": {
+            "content": "ride",
+            "beginOffset": 433
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby blue",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0025089807,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby blue",
+            "beginOffset": 953
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby blue",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0025089807,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby blue",
+            "beginOffset": 1000
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "thinking",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002445073,
+      "mentions": [
+        {
+          "text": {
+            "content": "thinking",
+            "beginOffset": 654
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "velvet glove",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0023246398,
+      "mentions": [
+        {
+          "text": {
+            "content": "velvet glove",
+            "beginOffset": 498
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "side",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0023246398,
+      "mentions": [
+        {
+          "text": {
+            "content": "side",
+            "beginOffset": 451
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ecstasy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0018285009,
+      "mentions": [
+        {
+          "text": {
+            "content": "ecstasy",
+            "beginOffset": 916
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby blue",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0017392953,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby blue",
+            "beginOffset": 1054
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0012604338,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 822
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "breeze",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00068129296,
+      "mentions": [
+        {
+          "text": {
+            "content": "breeze",
+            "beginOffset": 858
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

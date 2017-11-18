@@ -1,0 +1,29 @@
+{
+  "documentSentiment": {
+    "magnitude": 1,
+    "score": -0.2
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "I spent all my money on a big old fancy car  \rFor these bright-eyed hunnies  \rOh, yeah, you know who you are  \rKeep me up 'til the sun is high  \r'Til the birds start calling my name  \rI'm addicted and I don't know why  \rGuess I've always been this way  \r  \rAll these roads steer me wrong  \rBut I still drive them all night long, all night long  \r  \rAll you young wild girls  \rYou make a mess of me  \rYeah, you young wild girls  \rYou'll be the death of me, the death of me  \rAll you young wild girls  \rNo matter what you do (No matter what you do)  \rYeah, you young wild girls  \rI'll always come back to you, come back to you  \r  \rI get lost under these lights  \rI get lost in the words I say  \rStart believing my own lies  \rLike everything will be okay  \rOh, I still dream of simple life  \rBoy meets girl, makes her his wife  \rBut love don't exist  \rWhen you live like this  \rThat much I know, yes I know  \r  \rAll these roads steer me wrong  \rBut I still drive them all night long, all night long  \r  \rAll you young wild girls  \rYou make a mess of me  \rYeah, you young wild girls  \rYou'll be the death of me, the death of me  \rAll you young wild",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "girls  \rNo matter what you do (No matter what you do)  \rYeah, you young wild girls  \rI'll always come back to you, come back to you  \r  \rYou, you, you, you  \rYou, you, you, you  \rYeah, you, you, you  \rYou, you, you, you  \r  \rAll you young wild girls  \rYou make a mess of me  \rYeah, you young wild girls  \rYou'll be the death of me, the death of me  \rAll you young wild girls  \rNo matter what you do (No matter what you do)  \rYeah, you young wild girls  \rI'll always come back to you, come back to you",
+        "beginOffset": 1146
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ]
+}

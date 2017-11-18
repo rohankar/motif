@@ -1,0 +1,484 @@
+{
+  "entities": [
+    {
+      "name": "friend",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.28073186,
+      "mentions": [
+        {
+          "text": {
+            "content": "friend",
+            "beginOffset": 449
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "friend",
+            "beginOffset": 743
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "friend",
+            "beginOffset": 1230
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.23602124,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 360
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 600
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 650
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 867
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 930
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 988
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 1043
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 1095
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 1144
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 1368
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Keep",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.15217829,
+      "mentions": [
+        {
+          "text": {
+            "content": "Keep",
+            "beginOffset": 336
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Keep",
+            "beginOffset": 626
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Keep",
+            "beginOffset": 834
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Keep",
+            "beginOffset": 897
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Keep",
+            "beginOffset": 1071
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Keep",
+            "beginOffset": 1120
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Keep",
+            "beginOffset": 1335
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "folks",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.07038062,
+      "mentions": [
+        {
+          "text": {
+            "content": "folks",
+            "beginOffset": 104
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bushes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.059702743,
+      "mentions": [
+        {
+          "text": {
+            "content": "bushes",
+            "beginOffset": 70
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Some",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0577367,
+      "mentions": [
+        {
+          "text": {
+            "content": "Some",
+            "beginOffset": 0
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Some",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.027724937,
+      "mentions": [
+        {
+          "text": {
+            "content": "Some",
+            "beginOffset": 139
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017808603,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 311
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Keep",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0140453,
+      "mentions": [
+        {
+          "text": {
+            "content": "Keep",
+            "beginOffset": 287
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bushes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011006848,
+      "mentions": [
+        {
+          "text": {
+            "content": "bushes",
+            "beginOffset": 188
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0096035255,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 1179
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mine",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.008073031,
+      "mentions": [
+        {
+          "text": {
+            "content": "mine",
+            "beginOffset": 459
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "thing",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008070802,
+      "mentions": [
+        {
+          "text": {
+            "content": "thing",
+            "beginOffset": 246
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mine",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0074176374,
+      "mentions": [
+        {
+          "text": {
+            "content": "mine",
+            "beginOffset": 753
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "All",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0065175663,
+      "mentions": [
+        {
+          "text": {
+            "content": "All",
+            "beginOffset": 1201
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "heart",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006508867,
+      "mentions": [
+        {
+          "text": {
+            "content": "heart",
+            "beginOffset": 514
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "man",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.006427011,
+      "mentions": [
+        {
+          "text": {
+            "content": "man",
+            "beginOffset": 483
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mine",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0038293093,
+      "mentions": [
+        {
+          "text": {
+            "content": "mine",
+            "beginOffset": 1240
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "folks",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0032079385,
+      "mentions": [
+        {
+          "text": {
+            "content": "folks",
+            "beginOffset": 666
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "folks",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00319549,
+      "mentions": [
+        {
+          "text": {
+            "content": "folks",
+            "beginOffset": 375
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "end",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0030475934,
+      "mentions": [
+        {
+          "text": {
+            "content": "end",
+            "beginOffset": 1285
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Keep",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0026458604,
+      "mentions": [
+        {
+          "text": {
+            "content": "Keep",
+            "beginOffset": 1010
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "folks",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0021871596,
+      "mentions": [
+        {
+          "text": {
+            "content": "folks",
+            "beginOffset": 1159
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0019310815,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 948
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

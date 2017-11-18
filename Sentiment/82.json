@@ -1,0 +1,29 @@
+{
+  "documentSentiment": {
+    "magnitude": 0.9,
+    "score": 0.3
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "I've played the game of love before  \rToo young to know  \rHow hard the fall could be  \rI never thought I'd try again  \rSomehow you brought  \rThe gambler out in me  \r  \rYou can deal me in this time around  \rEven though the odds are high  \rWe'll play them down  \rYou may be a chance I need to take  \rAnd the hand I'm holdin' says it's no mistake  \r  \rHappy is the way I'm feelin'  \rAnd I know it comes from being with you  \rAll at once my life is changin'  \rAnd I know it's cause I'm fallin' in love  \rWith you  \rFallin' in love with you  \rFallin' in love  \rFallin' in love with you  \r  \rIf this is luck then let it ride  \rIf it's the stars  \rThey're surely on my side  \rI've never been so satisfied  \rBy love before  \rFor all the times I've tried  \r  \rThese beginnings could mean more  \rThan the brief affair I bargained for  \rLittle did I know when we began  \rThat my time had come to win a hand  \r  \rHappy is the way I'm feelin'  \rAnd I know it comes from being with you  \rAll at once my life is changin'  \rAnd I know it's cause I'm fallin' in love  \rWith you  \rFallin' in love with you  \rFallin' in love  \rFallin' in love with you  \r  \rPlease forgive me if",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "I seem  \rTo be walking through a waking dream  \rLaughter never came so easily  \rThere's a freedom here that's new to me  \r  \rHappy is the way I'm feelin'  \rAnd I know it comes from being with you  \rAll at once my life is changin'  \rAnd I know it's cause I'm fallin' in love  \rWith you  \rFallin' in love with you  \rFallin' in love  \rFallin' in love with you",
+        "beginOffset": 1159
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ]
+}

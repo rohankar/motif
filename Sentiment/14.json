@@ -1,0 +1,29 @@
+{
+  "documentSentiment": {
+    "magnitude": 1.3,
+    "score": 0.6
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "Oh I got a bottle full of liquor with a cocaine  \rKicker and I'm feeling like I'm thirty feet tall  \rSo lay it down, lay it down  \rYou got your legs up in the sky with the devil in your eyes  \rLet me hear you say you want it all  \rSay it now, say it now  \r  \rLook what you doing, look what you done  \rBut in this jungle you can't run  \r'Cause what I got for you  \rI promise is a killer, you'll be banging on my chest  \rBang bang, gorilla  \r  \rOoh ooh ooh yeah, you and me baby making love like gorillas  \rOoh ooh ooh yeah, you and me baby making love like gorillas  \r  \rYeah I got a fistful of your hair  \rBut you don't look like you're scared  \rYou're just smiling tell me daddy it's yours  \r'Cause you know how I like it use a dirty little lover  \rIf the neighbors call the cops, call the sheriff  \rCall the swat we don't stop  \rWe keep rocking while they knocking on our door  \rAnd you're screaming give it to me baby  \rGive it to me motherfucker  \r  \rOh look what you doing, look what you done  \rBut in this jungle you can't run  \r'Cause what I got for you  \rI promise is a killer, you'll be banging on my chest  \rBang bang, gorilla  \r  \rOoh",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "ooh ooh yeah, you and me baby making love like gorillas  \rOoh ooh ooh yeah, you and me baby making love like gorillas  \r  \rI bet you never ever felt so good, so good  \rI got your body trembling like it should, it should  \rYou'll never be the same baby once I'm done with you  \r  \rOh you with me baby making love like gorillas  \rOoh ooh ooh yeah, you and me baby we'll be fuckin' it like gorillas  \rOoh ooh ooh yeah  \rYou and me baby making love like gorillas",
+        "beginOffset": 1146
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ]
+}

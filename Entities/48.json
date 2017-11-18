@@ -1,0 +1,360 @@
+{
+  "entities": [
+    {
+      "name": "nightfall",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.18311994,
+      "mentions": [
+        {
+          "text": {
+            "content": "nightfall",
+            "beginOffset": 230
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "nightfall",
+            "beginOffset": 479
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Dark star crashes",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.15893559,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dark star crashes",
+            "beginOffset": 0
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ashes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.15893559,
+      "mentions": [
+        {
+          "text": {
+            "content": "ashes",
+            "beginOffset": 42
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "light",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10510104,
+      "mentions": [
+        {
+          "text": {
+            "content": "light",
+            "beginOffset": 31
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Reason tatters",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07752796,
+      "mentions": [
+        {
+          "text": {
+            "content": "Reason tatters",
+            "beginOffset": 51
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "axis",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03001805,
+      "mentions": [
+        {
+          "text": {
+            "content": "axis",
+            "beginOffset": 98
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "forces",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.03001805,
+      "mentions": [
+        {
+          "text": {
+            "content": "forces",
+            "beginOffset": 71
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "casting",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0298655,
+      "mentions": [
+        {
+          "text": {
+            "content": "casting",
+            "beginOffset": 118
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "diamonds",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02300521,
+      "mentions": [
+        {
+          "text": {
+            "content": "diamonds",
+            "beginOffset": 243
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "faults",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019963792,
+      "mentions": [
+        {
+          "text": {
+            "content": "faults",
+            "beginOffset": 130
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "clouds",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019963792,
+      "mentions": [
+        {
+          "text": {
+            "content": "clouds",
+            "beginOffset": 144
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "delusion",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019963792,
+      "mentions": [
+        {
+          "text": {
+            "content": "delusion",
+            "beginOffset": 154
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "reflections",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01839037,
+      "mentions": [
+        {
+          "text": {
+            "content": "reflections",
+            "beginOffset": 283
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "matter",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01839037,
+      "mentions": [
+        {
+          "text": {
+            "content": "matter",
+            "beginOffset": 298
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hand",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018348133,
+      "mentions": [
+        {
+          "text": {
+            "content": "hand",
+            "beginOffset": 314
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Searchlight",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.017743336,
+      "mentions": [
+        {
+          "text": {
+            "content": "Searchlight",
+            "beginOffset": 106
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "nights",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.017197898,
+      "mentions": [
+        {
+          "text": {
+            "content": "nights",
+            "beginOffset": 394
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "goodbye",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013698448,
+      "mentions": [
+        {
+          "text": {
+            "content": "goodbye",
+            "beginOffset": 404
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Mirror",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/054_l",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Mirror"
+      },
+      "salience": 0.010909682,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mirror",
+            "beginOffset": 255
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "diamonds",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010830336,
+      "mentions": [
+        {
+          "text": {
+            "content": "diamonds",
+            "beginOffset": 492
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "petal flowers",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006032208,
+      "mentions": [
+        {
+          "text": {
+            "content": "petal flowers",
+            "beginOffset": 337
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "velvet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006020446,
+      "mentions": [
+        {
+          "text": {
+            "content": "velvet",
+            "beginOffset": 372
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Lady",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.006020446,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lady",
+            "beginOffset": 364
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

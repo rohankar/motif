@@ -1,0 +1,79 @@
+{
+  "documentSentiment": {
+    "magnitude": 2.5,
+    "score": 0
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "One night at the disco I wanted to dance slow  \rI saw a sweet baby, such a fine lady  \rI walked up to ask her, but some dude just grabbed her  \rI told him to back off, cut me some slack off  \rI see you come here, drinkin' that cheap beer  \rAct like you own it, I can't condone it  \rYou show me now respect, you got to get off it  \rYou got to get with it.",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Time for a swift kick  \rYou see, I own this town.",
+        "beginOffset": 355
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "You best not come around  \rIf you wanna get by, then cool it down  \rIf you wanna start something, know one thing: I'm king.",
+        "beginOffset": 405
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "If you wanna mess around like that, that's just how it is  \rIf you wanna get by, then mind your biz.",
+        "beginOffset": 531
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "If you wanna start something, know one thing: I'm king  \r  \rYou wanted attention and did I mention:  \rNobody likes you, except for the losers  \rYou made a whole army, an army of babies  \rSome of them stupid, some of them crazy  \rPick up your action, act like a grown man  \rLook at the winners, you can be like them  \rLife is so easy, pleasant, and dreamy  \rIf you get off me, if you get with me  \rYou see I own this town.",
+        "beginOffset": 634
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "You best not come around  \rIf you wanna get by, then cool it down.",
+        "beginOffset": 1056
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "If you wanna start something, know one thing: I'm king  \rIf you wanna mess around like that, that's just how it is  \rIf you wanna get by, then mind your biz  \rIf you wanna start something, know one thing: I'm king  \r  \rYou can't break me  \rNever take me  \rThat's just how it is  \rYou can't break me  \rNever shake me  \rClear out of my biz",
+        "beginOffset": 1125
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ]
+}

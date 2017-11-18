@@ -1,0 +1,744 @@
+{
+  "entities": [
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.6332562,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 21
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 438
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 1100
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 1434
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sunlight",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.087876335,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cause",
+            "beginOffset": 391
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "sunlight",
+            "beginOffset": 412
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lot",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.058953445,
+      "mentions": [
+        {
+          "text": {
+            "content": "lot",
+            "beginOffset": 91
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "morphine",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.03951828,
+      "mentions": [
+        {
+          "text": {
+            "content": "morphine",
+            "beginOffset": 40
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "religion",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.027838105,
+      "mentions": [
+        {
+          "text": {
+            "content": "religion",
+            "beginOffset": 188
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "door",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02272085,
+      "mentions": [
+        {
+          "text": {
+            "content": "door",
+            "beginOffset": 55
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "medication",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019911457,
+      "mentions": [
+        {
+          "text": {
+            "content": "medication",
+            "beginOffset": 98
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Walkin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.009013675,
+      "mentions": [
+        {
+          "text": {
+            "content": "girl",
+            "beginOffset": 759
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Walkin",
+            "beginOffset": 766
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Ooh",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007004467,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ooh",
+            "beginOffset": 673
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "eye",
+            "beginOffset": 667
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mind",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0041624517,
+      "mentions": [
+        {
+          "text": {
+            "content": "mind",
+            "beginOffset": 280
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "door",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0041624517,
+      "mentions": [
+        {
+          "text": {
+            "content": "door",
+            "beginOffset": 379
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "same",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004011806,
+      "mentions": [
+        {
+          "text": {
+            "content": "same",
+            "beginOffset": 1535
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "same",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004001119,
+      "mentions": [
+        {
+          "text": {
+            "content": "same",
+            "beginOffset": 539
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0038142314,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 489
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "skies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0036711094,
+      "mentions": [
+        {
+          "text": {
+            "content": "skies",
+            "beginOffset": 466
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "side",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0036425814,
+      "mentions": [
+        {
+          "text": {
+            "content": "side",
+            "beginOffset": 337
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "floor",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0036425814,
+      "mentions": [
+        {
+          "text": {
+            "content": "floor",
+            "beginOffset": 257
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "matter",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0036425814,
+      "mentions": [
+        {
+          "text": {
+            "content": "matter",
+            "beginOffset": 221
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Ooh",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0031754638,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ooh",
+            "beginOffset": 265
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Ooh",
+            "beginOffset": 866
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "knees",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0031292166,
+      "mentions": [
+        {
+          "text": {
+            "content": "knees",
+            "beginOffset": 240
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "clouds",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0030361866,
+      "mentions": [
+        {
+          "text": {
+            "content": "clouds",
+            "beginOffset": 510
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0030361866,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": 522
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "favorite",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002959445,
+      "mentions": [
+        {
+          "text": {
+            "content": "favorite",
+            "beginOffset": 619
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sacrifices",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002937249,
+      "mentions": [
+        {
+          "text": {
+            "content": "sacrifices",
+            "beginOffset": 293
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "same",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0027716744,
+      "mentions": [
+        {
+          "text": {
+            "content": "same",
+            "beginOffset": 1201
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pieces",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.002559722,
+      "mentions": [
+        {
+          "text": {
+            "content": "pieces",
+            "beginOffset": 995
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "minds",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002559722,
+      "mentions": [
+        {
+          "text": {
+            "content": "minds",
+            "beginOffset": 911
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "thing",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0024474205,
+      "mentions": [
+        {
+          "text": {
+            "content": "thing",
+            "beginOffset": 724
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mother",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0024474205,
+      "mentions": [
+        {
+          "text": {
+            "content": "mother",
+            "beginOffset": 610
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shoes",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0024474205,
+      "mentions": [
+        {
+          "text": {
+            "content": "shoes",
+            "beginOffset": 695
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "guy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0024474205,
+      "mentions": [
+        {
+          "text": {
+            "content": "guy",
+            "beginOffset": 796
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "daddy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0023861981,
+      "mentions": [
+        {
+          "text": {
+            "content": "daddy",
+            "beginOffset": 635
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "something",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0022397498,
+      "mentions": [
+        {
+          "text": {
+            "content": "something",
+            "beginOffset": 832
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "darlin",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0022397498,
+      "mentions": [
+        {
+          "text": {
+            "content": "darlin",
+            "beginOffset": 881
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pieces",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0019127289,
+      "mentions": [
+        {
+          "text": {
+            "content": "pieces",
+            "beginOffset": 1329
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0018297926,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 1485
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sunlight",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0017610525,
+      "mentions": [
+        {
+          "text": {
+            "content": "sunlight",
+            "beginOffset": 1408
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "skies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0017610525,
+      "mentions": [
+        {
+          "text": {
+            "content": "skies",
+            "beginOffset": 1462
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "clouds",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0014561812,
+      "mentions": [
+        {
+          "text": {
+            "content": "clouds",
+            "beginOffset": 1506
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0014561812,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": 1518
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0011594419,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 1151
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sunlight",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0011158678,
+      "mentions": [
+        {
+          "text": {
+            "content": "sunlight",
+            "beginOffset": 1074
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "skies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0011158678,
+      "mentions": [
+        {
+          "text": {
+            "content": "skies",
+            "beginOffset": 1128
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "clouds",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0009226268,
+      "mentions": [
+        {
+          "text": {
+            "content": "clouds",
+            "beginOffset": 1172
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0009226268,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": 1184
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Cause",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0009226268,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cause",
+            "beginOffset": 1053
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

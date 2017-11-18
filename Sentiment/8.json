@@ -1,0 +1,19 @@
+{
+  "documentSentiment": {
+    "magnitude": 0.7,
+    "score": -0.7
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "Long ago in days untold  \rWere ruled by lords of greed  \rMaidens fared with gold they dared  \rTo bare their wombs that bleed  \rKings and queens and guillotines  \rTaking lives denied  \rStarch and parchment laid the laws  \rWhen bishops took the ride  \rOnly to deceive  \rOh I know I  \rLived this life afore  \rSomehow I know now  \rTruths I must be sure  \rTossin', turnin', nightmares burnin'  \rDreams of swords in hand  \rSailing ships, the Viking spits  \rThe blood of father's land  \rOnly to deceive  \rLiving times of knights and mares  \rRaising swords for maidens fair  \rSneer at death, fear only loss of pride  \rLiving other centuries  \rDeja vu or what you please  \rFollows true to all who do or die  \rScreams of no reply  \rThey died  \rScreams of no reply  \rAnd died  \rDied  \rLordy, Lordy, they died",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    }
+  ]
+}

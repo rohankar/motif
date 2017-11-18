@@ -1,0 +1,29 @@
+{
+  "documentSentiment": {
+    "magnitude": 0.9,
+    "score": -0.4
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "Never been too much for watching  \rCause there's too many things to view  \rAnd when eyes begin to wander  \rThey more than likely never get through  \rBut beyond my own temptation  \rI'm enticed by what I see  \rAnd I won't feel satisfaction  \rUntil she's where I want her to be  \r  \rI gotta have you, I gotta have you  \rI gotta have you for me  \rYou are a sight for sore eyes to see  \rI gotta make you my reality  \rI gotta have you, I gotta have you  \rI gotta have you for me  \rYou are a sight for sore eyes to see  \rCome on girl, make you my reality  \r  \rNever been too much for talking  \rCause there's too many things to say  \rAnd by the time that I start speaking  \rThe right moment has slipped away  \rBut I must break this old tradition  \rAnd try to muster up the words  \rAnd though someone else may have said them  \rI'll say them in way you've never heard  \r  \rI gotta have you, I gotta have you  \rI gotta have you for me  \rYou are a sight for sore eyes to see  \rI've gotta make you my reality  \rI gotta have you, I gotta have you  \rI gotta have you for me  \rYou are a sight for sore eyes to see  \rCome on girl, make",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "you my reality  \rGotta be, gotta be, gotta be reality, baby  \rGotta be, gotta be, gotta be reality, baby  \r(Repeat)  \r  \rNever been too much for touching  \rCause there's too many things to feel  \rPlus there's too much disappointment  \rWhen you find out those feelings ain't real  \rBut here's a time when inner senses  \rAre gonna have to shine the light  \rCause I have overly committed  \rMyself in thinking that you're alright  \r  \rI gotta have you, I gotta have you  \rI gotta have you for me  \rYou are a sight for sore eyes to see  \rI gotta make you my reality  \rI gotta have you, I gotta have you  \rI gotta have you for me  \rYou are a sight for sore eyes to see  \rCome on girl, make you my reality  \rGotta be, gotta be, gotta be reality, baby  \rGotta be, gotta be, gotta be reality, baby  \r(Repeat)",
+        "beginOffset": 1119
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ]
+}

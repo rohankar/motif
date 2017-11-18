@@ -1,0 +1,29 @@
+{
+  "documentSentiment": {
+    "magnitude": 1.1,
+    "score": -0.5
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "They told him don't you ever come around here  \rDon't want to see your face, you better disappear  \rThe fire's in their eyes and their words are really clear  \rSo beat it, just beat it  \r  \rYou better run, you better do what you can  \rDon't want to see no blood, don't be a macho man  \rYou want to be tough, better do what you can  \rSo beat it, but you want to be bad  \r  \rJust beat it, beat it, beat it, beat it  \rNo one wants to be defeated  \rShowin' how funky and strong is your fight  \rIt doesn't matter who's wrong or right  \rJust beat it, beat it  \rJust beat it, beat it  \rJust beat it, beat it  \rJust beat it, beat it  \r  \rThey're out to get you, better leave while you can  \rDon't want to be a boy, you want to be a man  \rYou want to stay alive, better do what you can  \rSo beat it, just beat it  \r  \rYou have to show them that you're really not scared  \rYou're playin' with your life, this ain't no truth or dare  \rThey'll kick you, then they beat you,  \rThen they'll tell you it's fair  \rSo beat it, but you want to be bad  \r  \rJust beat it, beat it,",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "beat it, beat it  \rNo one wants to be defeated  \rShowin' how funky and strong is your fight  \rIt doesn't matter who's wrong or right  \r  \rJust beat it, beat it, beat it, beat it  \rNo one wants to be defeated  \rShowin' how funky and strong is your fight  \rIt doesn't matter who's wrong or right  \r  \rJust beat it, beat it, beat it, beat it  \rNo one wants to be defeated  \rShowin' how funky and strong is your fight  \rIt doesn't matter who's wrong or right  \rJust beat it, beat it  \rBeat it, beat it, beat it  \r  \rNo one wants to be defeated  \rShowin' how funky and strong is your fight  \rIt doesn't matter who's wrong or who's right  \r  \rJust beat it, beat it, beat it, beat it  \rNo one wants to be defeated  \rShowin' how funky and strong is your fight  \rIt doesn't matter who's wrong or right  \r  \rJust beat it, beat it, beat it, beat it  \rNo one wants to be defeated  \rShowin' how funky and strong is your fight  \rIt doesn't matter who's wrong or right  \rJust beat it, beat it  \rBeat it, beat it, beat it",
+        "beginOffset": 1061
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ]
+}

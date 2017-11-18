@@ -1,0 +1,416 @@
+{
+  "entities": [
+    {
+      "name": "things",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.20946552,
+      "mentions": [
+        {
+          "text": {
+            "content": "things",
+            "beginOffset": 84
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "heaven",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0814765,
+      "mentions": [
+        {
+          "text": {
+            "content": "heaven",
+            "beginOffset": 483
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "heaven",
+            "beginOffset": 1014
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "heaven",
+            "beginOffset": 1311
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "heaven",
+            "beginOffset": 1435
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "sleep",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06827943,
+      "mentions": [
+        {
+          "text": {
+            "content": "sleep",
+            "beginOffset": 41
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "something",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06793153,
+      "mentions": [
+        {
+          "text": {
+            "content": "something",
+            "beginOffset": 160
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "talk",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.067081,
+      "mentions": [
+        {
+          "text": {
+            "content": "talk",
+            "beginOffset": 130
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sign",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.056940954,
+      "mentions": [
+        {
+          "text": {
+            "content": "sign",
+            "beginOffset": 154
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "watchin",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05070407,
+      "mentions": [
+        {
+          "text": {
+            "content": "watchin",
+            "beginOffset": 492
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mystery",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.043134745,
+      "mentions": [
+        {
+          "text": {
+            "content": "mystery",
+            "beginOffset": 194
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Show",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.042780668,
+      "mentions": [
+        {
+          "text": {
+            "content": "Show",
+            "beginOffset": 368
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.034293856,
+      "mentions": [
+        {
+          "text": {
+            "content": "Life",
+            "beginOffset": 302
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "reality",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.033804603,
+      "mentions": [
+        {
+          "text": {
+            "content": "reality",
+            "beginOffset": 253
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "meaning",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021875132,
+      "mentions": [
+        {
+          "text": {
+            "content": "meaning",
+            "beginOffset": 321
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "all",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019904425,
+      "mentions": [
+        {
+          "text": {
+            "content": "all",
+            "beginOffset": 558
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "price",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017417256,
+      "mentions": [
+        {
+          "text": {
+            "content": "price",
+            "beginOffset": 594
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "suffering",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.017417256,
+      "mentions": [
+        {
+          "text": {
+            "content": "suffering",
+            "beginOffset": 699
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mercy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017417256,
+      "mentions": [
+        {
+          "text": {
+            "content": "mercy",
+            "beginOffset": 680
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "peace",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017417256,
+      "mentions": [
+        {
+          "text": {
+            "content": "peace",
+            "beginOffset": 669
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017417256,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 663
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017417256,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 656
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "thanks",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017417256,
+      "mentions": [
+        {
+          "text": {
+            "content": "thanks",
+            "beginOffset": 540
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017198086,
+      "mentions": [
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": 362
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "world",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.015908599,
+      "mentions": [
+        {
+          "text": {
+            "content": "world",
+            "beginOffset": 727
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "light",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014773233,
+      "mentions": [
+        {
+          "text": {
+            "content": "light",
+            "beginOffset": 343
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "people",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012172118,
+      "mentions": [
+        {
+          "text": {
+            "content": "people",
+            "beginOffset": 796
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011268698,
+      "mentions": [
+        {
+          "text": {
+            "content": "life",
+            "beginOffset": 1205
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nme",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.009086047,
+      "mentions": [
+        {
+          "text": {
+            "content": "nme",
+            "beginOffset": 960
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

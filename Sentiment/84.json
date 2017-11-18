@@ -1,0 +1,319 @@
+{
+  "documentSentiment": {
+    "magnitude": 10.3,
+    "score": 0.1
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "I'm gonna make a change  \rFor once in my life  \rIt's gonna feel real good  \rGonna make a difference  \rGonna make it right  \r  \rAs I, turn up the collar on  \rMy favorite winter coat  \rThis wind is blowing my mind  \rI see the kids in the streets  \rWith not enough to eat  \rWho am I to be blind?",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Pretending not to see their needs  \r  \rA summer disregard, a broken bottle top  \rAnd a one man soul  \rThey follow each other on the wind ya' know  \r'Cause they got nowhere to go  \rThat's why I want you to know  \r  \rI'm starting with the man in the mirror  \rI'm asking him to change his ways  \rAnd no message could have been any clearer  \rIf you want to make the world a better place  \rTake a look at yourself, and then make a change  \r  \rI've been a victim of a selfish kind of love  \rIt's time that I realize  \rThat there are some with no home, not a nickel to loan  \rCould it be really me, pretending that they're not alone?",
+        "beginOffset": 295
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "A willow deeply scarred, somebody's broken heart  \rAnd a washed-out dream  \rThey follow the pattern of the wind ya' see  \r'Cause they got no place to be  \rThat's why I'm starting with me  \r  \rI'm starting with the man in the mirror  \rI'm asking him to change his ways  \rAnd no message could have been any clearer  \rIf you want to make the world a better place  \rTake a look at yourself, and then make a change  \r  \rI'm starting with the man in the mirror  \rI'm asking him to change his ways  \rAnd no message could have been any clearer  \rIf you want to make the world a better place  \rTake a look at yourself and then make that  \rChange!",
+        "beginOffset": 927
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "I'm starting with the man in the mirror  \r(Oh yeah!)",
+        "beginOffset": 1570
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "I'm asking him to change his ways  \r(Better change!)",
+        "beginOffset": 1625
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "No message could have been any clearer  \rIf you want to make the world a better place  \rTake a look at yourself and then make the change)  \rYou gotta get it right, while you got the time  \rYou can't close your, your mind!",
+        "beginOffset": 1680
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "(Then you close your, mind!)",
+        "beginOffset": 1907
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "That man, that man, that man, that man  \rWith the man in the mirror  \r(Man in the mirror, oh yeah!)",
+        "beginOffset": 1938
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "That man, that man, that man  \rI'm asking him to change his ways  \r(Better change!)",
+        "beginOffset": 2040
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "No message could have been any clearer  \rIf you want to make the world a better place  \rTake a look at yourself and then make the change  \r  \rOh no, no no  \r  \rI'm gonna make a change  \rIt's gonna feel real good!",
+        "beginOffset": 2126
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Chime on!",
+        "beginOffset": 2341
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "(Change)  \rJust lift yourself  \rYou know  \rYou've got to stop it  \rYourself!",
+        "beginOffset": 2353
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "(Yeah!",
+        "beginOffset": 2432
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Make that change!)",
+        "beginOffset": 2439
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "I've got to make that change, today!",
+        "beginOffset": 2460
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Hoo!",
+        "beginOffset": 2499
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "(Man in the mirror)  \rYou got to  \rYou got to not let yourself  \rBrother  \rHoo!",
+        "beginOffset": 2506
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "(Yeah!",
+        "beginOffset": 2588
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Make that change!)",
+        "beginOffset": 2595
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "You know, I've got to get  \rThat man, that man  \r(Man in the mirror)  \rYou've got to move!",
+        "beginOffset": 2616
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Chime on!",
+        "beginOffset": 2707
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Chime on!",
+        "beginOffset": 2719
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "You got to  \rStand up!",
+        "beginOffset": 2731
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Stand up!",
+        "beginOffset": 2754
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Stand up!",
+        "beginOffset": 2764
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "(Yeah!",
+        "beginOffset": 2776
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Make that change)  \rStand up and lift yourself, now!",
+        "beginOffset": 2783
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "(Man in the mirror)  \rYou know it!",
+        "beginOffset": 2838
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "You know it!",
+        "beginOffset": 2875
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "You know it!",
+        "beginOffset": 2890
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "You know it  \r(Change)  \rMake that change",
+        "beginOffset": 2905
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ]
+}

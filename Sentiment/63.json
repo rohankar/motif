@@ -1,0 +1,89 @@
+{
+  "documentSentiment": {
+    "magnitude": 6.1,
+    "score": 0.7
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "One man come in the name of love  \rOne man come and go  \rOne man come, he justify  \rOne man to overthrow  \r  \rIn the name of love  \rWhat more in the name of love?",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "In the name of love  \rWhat more in the name of love?",
+        "beginOffset": 165
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "One man caught on a barbed wire fence  \rOne man he resist  \rOne man washed on an empty beach  \rOne man betrayed with a kiss  \r  \rIn the name of love  \rWhat more in the name of love?",
+        "beginOffset": 223
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "In the name of love  \rWhat more in the name of love?",
+        "beginOffset": 407
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Late afternoon, April 4  \rShot rings out in the Memphis sky  \rFree at last, they took your life  \rThey could not take your pride  \r  \rIn the name of love  \rWhat more in the name of love?",
+        "beginOffset": 465
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "In the name of love  \rWhat more in the name of love?",
+        "beginOffset": 654
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "In the name of love  \rWhat more in the name of love?",
+        "beginOffset": 712
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "In the name of love  \rWhat more in the name of love?",
+        "beginOffset": 767
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ]
+}

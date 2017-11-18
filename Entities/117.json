@@ -1,0 +1,50 @@
+{
+  "entities": [
+    {
+      "name": "times",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.80690914,
+      "mentions": [
+        {
+          "text": {
+            "content": "times",
+            "beginOffset": 8
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sun",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10262538,
+      "mentions": [
+        {
+          "text": {
+            "content": "sun",
+            "beginOffset": 453
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "games",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.09046548,
+      "mentions": [
+        {
+          "text": {
+            "content": "games",
+            "beginOffset": 142
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

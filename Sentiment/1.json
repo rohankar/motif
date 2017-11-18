@@ -1,0 +1,59 @@
+{
+  "documentSentiment": {
+    "magnitude": 3.6,
+    "score": -0.7
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "Dum, dum, dum, honey what have you done  \rDum, dum, dum, it's the sound of my gun  \rDum, dum, dum, honey what have you done  \rDum, dum, dum, it's the sound, it's the sound...",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Nah, nah, nah...nah, nah, nah...",
+        "beginOffset": 177
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Nah, nah, nah...nah, nah, nah...",
+        "beginOffset": 212
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Janie's got a gun  \rJanie's got a gun  \rHer whole world's come undone  \rFrom lookin' straight at the sun  \r  \rWhat did her daddy do  \rWhat did he put you through  \rThey say when Janie was arrested  \rThey found him underneath a train  \rBut man, he had it comin'  \rNow that Janie's got a gun  \rShe ain't never gonna be the same  \r  \rJanie's got a gun  \rJanie's got a gun  \rHer dog day's just begun  \rNow everybody is on the run  \r  \rTell me now it's untrue  \rWhat did her daddy do  \rHe jacked the little bitty baby  \rThe man has got to be insane  \rThey say the spell that he was under  \rThe lightnin' and the thunder  \rKnew that someone had to stop the pain  \r  \rRun away, run away from the pain  \rYeah, yeah, yeah, yeah, yeah  \rRun away, run away from the pain  \rYeah, yeah, yeah, yeah, yeah  \rRun away, run away, run, run away  \r  \rJanie's got a gun  \rJanie's got a gun  \rHer dog day's just begun  \rNow everybody is on the run  \r  \rWhat did her daddy do  \rIt's Janie's last I.O.U.",
+        "beginOffset": 250
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    },
+    {
+      "text": {
+        "content": "She had to take him down easy  \rAnd put a bullet in his brain  \rShe said 'cause nobody believes me  \rThe man was such a sleaze  \rHe ain't never gonna be the same  \r  \rRun away, run away from the pain  \rYeah, yeah, yeah, yeah, yeah  \rRun away, run away, run, run away  \rYeah, yeah, yeah, yeah, yeah, yeah, yeah  \rRun away, run away, run, run away  \r  \rJanie's got a gun  \rJanie's got a gun  \rJanie's got a gun  \rEverybody is on the run  \rJanie's got a gun  \rHer dog day's just begun  \r  \rNow everybody is on the run (Honey, honey what's your problem)  \r'Cause Janie's got a gun (Tell me it ain't right)  \rJanie's got a gun (Was it daddy's cradle robbin')  \rHer dog day's just begun (That made you scream at night)  \rNow everybody's on the run  \rJanie's got a gun  \r  \rJanie's got a gun  \rHer dog day's just begun",
+        "beginOffset": 1233
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    }
+  ]
+}

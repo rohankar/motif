@@ -1,0 +1,39 @@
+{
+  "documentSentiment": {
+    "magnitude": 1.5,
+    "score": 0
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "Gotta be mine  \r'Cos you're so fine  \rI like your style, hey  \rIt makes me wild  \rYou give it to me good, wow  \rJust like you know you should  \rGet me on my knees  \rPlease, baby, please, listen, listen, listen, yeah  \r  \rYou look so great, everytime I see your face  \rYou put me in a state, uh, uh, uh, uh  \rA state of shock  \r  \rPlease, ooh, ow  \rLet it rip, ow, I like it  \rOw  \r  \rYou put me on my knees  \rPlease, baby, please  \rI know you like to tease  \rPlease, baby, please, wow, wow  \r  \rSo give it to me good, do it, do it  \rJust like you know you should, yeah, hey  \rI love the way you walk  \rTalk baby talk, listen, listen  \r  \rYou look so great, everytime I see your face  \rYou put me in a state, uh, uh, uh, uh  \rA state of shock  \r  \rWow, I got it  \rHey, a state of shock  \rOw  \rWow  \rOw, give it to me baby  \r  \rYeah, a state of shock  \rHey, listen, ow  \rDrive me wild  \rOw, let me see you walk baby  \rA state of shock  \rWow  \rUh, uh, uh, uh  \rA state of shock  \rA state of shock  \rEverybody sing with me,",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "listen  \r  \rNah, nah, nah, nah, nah, nah, nah, nah  \rNah, nah, nah, nah, nah, nah, nah, nah  \rNah, nah, nah, nah, nah, nah, nah, nah  \rWow  \rNah, nah, nah, nah  \rHa, ha, wow, wow, wow  \r  \rNa, na, na, na, na, na, yeah  \rNa, na, na, na, na, na, go for it  \rNa, na, na, na, na, na, wow, wow, wow  \rNa, na, na, na, na, na, yeah, yeah  \r  \rDa, da, da, da, da, da  \rDa, da, da, da, da, da, wow  \rDa, da, da, da, da, da  \rDa, da, da, da, da, da, yeah  \r  \rYeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah  \rA state of shock, I like it  \rA state of shock, I can feel it  \rA state of shock, go  \rA state of shock, ah ha  \rA state of shock, ah ha, uh  \rA state of shock, woo hoo  \rA state of shock  \r  \rNah, nah, nah, nah, nah, nah, nah,",
+        "beginOffset": 1020
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "nah  \rNah, nah, nah, nah, nah, nah, nah, nah  \rNah, nah, nah, nah, nah, nah, nah, nah",
+        "beginOffset": 1747
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    }
+  ]
+}

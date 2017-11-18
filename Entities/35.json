@@ -1,0 +1,207 @@
+{
+  "entities": [
+    {
+      "name": "silver spoon",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.55537426,
+      "mentions": [
+        {
+          "text": {
+            "content": "mirror",
+            "beginOffset": 258
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "silver spoon",
+            "beginOffset": 334
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "poem",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.20632179,
+      "mentions": [
+        {
+          "text": {
+            "content": "poem",
+            "beginOffset": 390
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sun",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07356401,
+      "mentions": [
+        {
+          "text": {
+            "content": "sun",
+            "beginOffset": 80
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "snow",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0407483,
+      "mentions": [
+        {
+          "text": {
+            "content": "snow",
+            "beginOffset": 66
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "birds",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0407483,
+      "mentions": [
+        {
+          "text": {
+            "content": "birds",
+            "beginOffset": 33
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "songs",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.014631087,
+      "mentions": [
+        {
+          "text": {
+            "content": "songs",
+            "beginOffset": 305
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "land",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.010835107,
+      "mentions": [
+        {
+          "text": {
+            "content": "land",
+            "beginOffset": 217
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lambs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010835107,
+      "mentions": [
+        {
+          "text": {
+            "content": "lambs",
+            "beginOffset": 236
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "moon",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.010835107,
+      "mentions": [
+        {
+          "text": {
+            "content": "moon",
+            "beginOffset": 285
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "drink",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.010700082,
+      "mentions": [
+        {
+          "text": {
+            "content": "drink",
+            "beginOffset": 158
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hand",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010700082,
+      "mentions": [
+        {
+          "text": {
+            "content": "hand",
+            "beginOffset": 182
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "wine",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.010700082,
+      "mentions": [
+        {
+          "text": {
+            "content": "wine",
+            "beginOffset": 193
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "page",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004006687,
+      "mentions": [
+        {
+          "text": {
+            "content": "page",
+            "beginOffset": 433
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

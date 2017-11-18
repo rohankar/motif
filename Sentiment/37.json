@@ -1,0 +1,29 @@
+{
+  "documentSentiment": {
+    "magnitude": 1.3,
+    "score": -0.1
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "It's so hard to say goodbye  \rWhen there's nothing left to give  \rWhen this house is just a hill of bones  \rWhere you and I once lived  \rIf we put it back together  \rBy the skin of our teeth  \rYou'd still pull it all apart  \rBit by bit, piece by piece  \rAnd I'll go it alone, call this house my home  \rBuild it up again with someone new  \rBuild it brick by brick, till I find a girl that fits  \rThis home's a whole lot better without you  \rThere's no passion alive  \rWhen you count your phony schemes  \rAnd the cars you drive to buy your friends  \rThey don't ever come back clean  \rIf the cards on the table  \rAlways turn up spades  \rThe cards that always cheat the hearts  \rThe spades you play just dug my grave  \rAnd I'll go it alone, call this house my home  \rBuild it up again with someone new  \rBuild it brick by brick, till I find a girl that fits  \rThis home's a whole lot better without you  \rAnd I'll go it alone, call this house my home  \rI'm gonna build it up again with someone new  \rBuild it brick by brick, till I find a girl that fits  \rThis home's a whole lot better without you  \rOh, I'll go it alone, call this house my home  \rBuild it up",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "again with someone new  \rI'll build it brick by brick, till I find a girl that fits  \rThis home's a whole lot better without you  \rWithout you  \rWithout you  \rWithout you  \rWithout you  \rWithout you  \rWithout you  \r...",
+        "beginOffset": 1157
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    }
+  ]
+}

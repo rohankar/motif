@@ -1,0 +1,239 @@
+{
+  "documentSentiment": {
+    "magnitude": 12.1,
+    "score": 0.1
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "Now greetings to the world!",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Standing at this liquor store,  \rWhiskey coming through my pores,  \rFeeling like I run this whole block.",
+        "beginOffset": 33
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Lotto tickets cheap beer  \rThat's why you can catch me here,  \rTryna scratch my way up to the top.",
+        "beginOffset": 140
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "'Cause my job got me going nowhere,  \rSo I ain't got a thing to lose.",
+        "beginOffset": 244
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Take me to a place where I don't care,  \rThis is me and my liquor store blues.",
+        "beginOffset": 316
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I'll take one shot for my pain,  \rOne drag for my sorrow.",
+        "beginOffset": 400
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Get messed up today,  \rI'll be ok tomorrow.",
+        "beginOffset": 460
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "One shot for my pain,  \rOne drag for my sorrow.",
+        "beginOffset": 506
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Get messed up today,  \rI'll be ok tomorrow.",
+        "beginOffset": 556
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Me and my guitar tonight,  \rSinging to the city lights,  \rTryna live on more than what I got.",
+        "beginOffset": 605
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "'Cause '68 cents ain't gonna pay the rent,  \rSo I'll be out here 'til they call the cops.",
+        "beginOffset": 701
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "'Cause my job got me going nowhere,  \rSo I ain't got a thing to lose.",
+        "beginOffset": 796
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Take me to a place where I don't care,  \rThis is me and my liquor store blues.",
+        "beginOffset": 868
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I'll take one shot for my pain,  \rOne drag for my sorrow.",
+        "beginOffset": 952
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Get messed up today,  \rI'll be ok tomorrow.",
+        "beginOffset": 1012
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "One shot for my pain,  \rOne drag for my sorrow.",
+        "beginOffset": 1058
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Get messed up today,  \rI'll be ok tomorrow.",
+        "beginOffset": 1108
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Here comes Junior Gong, I'm flying high like Superman  \rAnd thinking that I run the whole block,  \rI don't know if it's just because pineapple kush between my jaws  \rHas got me feeling like I'm on top  \r  \rGive me this one shot for my pain,  \rOne drag for my sorrow.",
+        "beginOffset": 1157
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Get messed up today,  \rI'll be ok tomorrow.",
+        "beginOffset": 1426
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "One shot for my pain,  \rOne drag for my sorrow.",
+        "beginOffset": 1472
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Get messed up today,  \rI'll be ok tomorrow.",
+        "beginOffset": 1522
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Now greetings to the world!",
+        "beginOffset": 1571
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "You best believe!",
+        "beginOffset": 1604
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ]
+}

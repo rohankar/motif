@@ -1,0 +1,19 @@
+{
+  "documentSentiment": {
+    "magnitude": 0.9,
+    "score": -0.9
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "In this farewell  \rThere's no blood, there's no alibi  \r'Cause I've drawn regret  \rFrom the truth of a thousand lies  \rSo let mercy come and wash away  \rWhat I've done  \r  \rI'll face myself to cross out what I've become  \rErase myself  \rAnd let go of what I've done  \r  \rPut to rest what you thought of me  \rWhile I clean this slate  \rWith the hands of uncertainty  \rSo let mercy come and wash away  \rWhat I've done  \r  \rI'll face myself to cross out what I've become  \rErase myself  \rAnd let go of what I've done  \r  \rFor what I've done  \rI start again  \rAnd whatever pain may come  \rToday this ends  \rI'm forgiving what I've done  \r  \rI'll face myself to cross out what I've become  \rErase myself  \rAnd let go of what I've done  \r  \r(Na na na, na na na, na na na, na na na)  \rWhat I've done  \r(Na na na, na na na, na na na, na na na)  \rForgiving what I've done  \r(Na na na, na na na, na na na, na na na, na na na)  \r(Na na na na)",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    }
+  ]
+}

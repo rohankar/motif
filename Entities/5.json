@@ -1,0 +1,501 @@
+{
+  "entities": [
+    {
+      "name": "girl",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.34762183,
+      "mentions": [
+        {
+          "text": {
+            "content": "girl",
+            "beginOffset": 211
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "woman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.22996522,
+      "mentions": [
+        {
+          "text": {
+            "content": "woman",
+            "beginOffset": 56
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "woman",
+            "beginOffset": 134
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "daddy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.11870955,
+      "mentions": [
+        {
+          "text": {
+            "content": "daddy",
+            "beginOffset": 283
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "daddy",
+            "beginOffset": 367
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Lordy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.048113406,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lordy",
+            "beginOffset": 702
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "god",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.040154953,
+      "mentions": [
+        {
+          "text": {
+            "content": "god",
+            "beginOffset": 153
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "man",
+            "beginOffset": 158
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "god",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.03145924,
+      "mentions": [
+        {
+          "text": {
+            "content": "god",
+            "beginOffset": 75
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Man",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.018733343,
+      "mentions": [
+        {
+          "text": {
+            "content": "Man",
+            "beginOffset": 621
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Lord",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017392056,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lord",
+            "beginOffset": 273
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01451806,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 891
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "blind",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013119462,
+      "mentions": [
+        {
+          "text": {
+            "content": "blind",
+            "beginOffset": 261
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eyesight",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012285714,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyesight",
+            "beginOffset": 245
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "millionaire",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.007946401,
+      "mentions": [
+        {
+          "text": {
+            "content": "millionaire",
+            "beginOffset": 306
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007946401,
+      "mentions": [
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": 345
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "millionaire",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.007930919,
+      "mentions": [
+        {
+          "text": {
+            "content": "millionaire",
+            "beginOffset": 390
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007930919,
+      "mentions": [
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": 429
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "deaf",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0074753487,
+      "mentions": [
+        {
+          "text": {
+            "content": "deaf",
+            "beginOffset": 485
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "state",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0070517217,
+      "mentions": [
+        {
+          "text": {
+            "content": "state",
+            "beginOffset": 740
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "state",
+            "beginOffset": 957
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cause",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0069138655,
+      "mentions": [
+        {
+          "text": {
+            "content": "cause",
+            "beginOffset": 319
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cause",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00690039,
+      "mentions": [
+        {
+          "text": {
+            "content": "cause",
+            "beginOffset": 403
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bed",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0064039663,
+      "mentions": [
+        {
+          "text": {
+            "content": "bed",
+            "beginOffset": 614
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "head",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006396245,
+      "mentions": [
+        {
+          "text": {
+            "content": "head",
+            "beginOffset": 686
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "back room",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.006396245,
+      "mentions": [
+        {
+          "text": {
+            "content": "back room",
+            "beginOffset": 632
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "time",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0044557005,
+      "mentions": [
+        {
+          "text": {
+            "content": "time",
+            "beginOffset": 1080
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "blind",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0041399905,
+      "mentions": [
+        {
+          "text": {
+            "content": "blind",
+            "beginOffset": 1133
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eyesight",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003876143,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyesight",
+            "beginOffset": 1117
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0036555303,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": 653
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "time",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0028340498,
+      "mentions": [
+        {
+          "text": {
+            "content": "time",
+            "beginOffset": 790
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Man",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/04yx4",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Man"
+      },
+      "salience": 0.0028198191,
+      "mentions": [
+        {
+          "text": {
+            "content": "Man",
+            "beginOffset": 983
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "blind",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0026331404,
+      "mentions": [
+        {
+          "text": {
+            "content": "blind",
+            "beginOffset": 842
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eyesight",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0024652462,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyesight",
+            "beginOffset": 826
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "woman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017551258,
+      "mentions": [
+        {
+          "text": {
+            "content": "woman",
+            "beginOffset": 860
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

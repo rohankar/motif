@@ -1,0 +1,29 @@
+{
+  "documentSentiment": {
+    "magnitude": 0.9,
+    "score": -0.4
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "You cut me down a tree  \rAnd brought it back to me  \rAnd that's what made me see  \rWhere I was going wrong  \rYou put me on a shelf  \rAnd kept me for yourself  \rI can only blame myself  \rYou can only blame me  \r  \rAnd I could write a song  \rA hundred miles long  \rWell, that's where I belong  \rAnd you belong to me  \r  \rAnd I could write it down  \rOr spread it all around  \rGet lost and then get found  \rOr swallowed in the sea  \r  \rYou put me on a line  \rAnd hung me out to dry  \rAnd darling that's when I  \rDecided to go to sea  \r  \rYou cut me down to size  \rAnd opened up my eyes  \rMade me realize  \rWhat I could not see  \r  \rAnd I could write a book  \rThe one they'll say that shook  \rThe world, and then it took  \rIt took it back from me  \r  \rAnd I could write it down  \rOr spread it all around  \rGet lost and then get found  \rAnd you'll come back to me  \rNot swallowed in the sea  \r  \rOoh  \r  \rAnd I could write a song  \rA hundred miles long  \rWell, that's where I belong  \rAnd you belong with me  \r  \rThe streets you're walking on  \rA thousand houses long  \rWell, that's where I belong  \rAnd you belong with me  \r  \rOh what good is it to live  \rWith nothing left to give  \rForget but not forgive  \rNot loving all",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    },
+    {
+      "text": {
+        "content": "you see  \r  \rOh the streets you're walking on  \rA thousand houses long  \rWell that's where I belong  \rAnd you belong with me  \rNot swallowed in the sea  \r  \rYou belong with me  \rNot swallowed in the sea  \rYeah, you belong with me  \rNot swallowed in the sea",
+        "beginOffset": 1219
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ]
+}

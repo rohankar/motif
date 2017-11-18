@@ -1,0 +1,349 @@
+{
+  "entities": [
+    {
+      "name": "Honey",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.21823867,
+      "mentions": [
+        {
+          "text": {
+            "content": "Honey",
+            "beginOffset": 0
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "everyone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.10439388,
+      "mentions": [
+        {
+          "text": {
+            "content": "everyone",
+            "beginOffset": 425
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Baby",
+            "beginOffset": 439
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "heart beating",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.09676286,
+      "mentions": [
+        {
+          "text": {
+            "content": "heart beating",
+            "beginOffset": 127
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gravity",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.093994364,
+      "mentions": [
+        {
+          "text": {
+            "content": "gravity",
+            "beginOffset": 394
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sound",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04628006,
+      "mentions": [
+        {
+          "text": {
+            "content": "sound",
+            "beginOffset": 162
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Oh",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0372221,
+      "mentions": [
+        {
+          "text": {
+            "content": "Oh",
+            "beginOffset": 277
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Oh",
+            "beginOffset": 722
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "sun",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03682238,
+      "mentions": [
+        {
+          "text": {
+            "content": "sun",
+            "beginOffset": 371
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03682238,
+      "mentions": [
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": 385
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sun",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.036360536,
+      "mentions": [
+        {
+          "text": {
+            "content": "sun",
+            "beginOffset": 253
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.036360536,
+      "mentions": [
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": 285
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gravity",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.036360536,
+      "mentions": [
+        {
+          "text": {
+            "content": "gravity",
+            "beginOffset": 294
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "everyone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.031137364,
+      "mentions": [
+        {
+          "text": {
+            "content": "everyone",
+            "beginOffset": 411
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sky",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.031137364,
+      "mentions": [
+        {
+          "text": {
+            "content": "sky",
+            "beginOffset": 353
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sun",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025045296,
+      "mentions": [
+        {
+          "text": {
+            "content": "sun",
+            "beginOffset": 698
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025045296,
+      "mentions": [
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": 730
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gravity",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025045296,
+      "mentions": [
+        {
+          "text": {
+            "content": "gravity",
+            "beginOffset": 739
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sun",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01735477,
+      "mentions": [
+        {
+          "text": {
+            "content": "sun",
+            "beginOffset": 797
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01735477,
+      "mentions": [
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": 829
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gravity",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014909203,
+      "mentions": [
+        {
+          "text": {
+            "content": "gravity",
+            "beginOffset": 838
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sky",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.014669283,
+      "mentions": [
+        {
+          "text": {
+            "content": "sky",
+            "beginOffset": 815
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "heart beating",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009358554,
+      "mentions": [
+        {
+          "text": {
+            "content": "heart beating",
+            "beginOffset": 567
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sound",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009324507,
+      "mentions": [
+        {
+          "text": {
+            "content": "sound",
+            "beginOffset": 605
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

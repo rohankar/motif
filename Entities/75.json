@@ -1,0 +1,592 @@
+{
+  "entities": [
+    {
+      "name": "news",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.19174862,
+      "mentions": [
+        {
+          "text": {
+            "content": "news",
+            "beginOffset": 46
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "things",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.14767103,
+      "mentions": [
+        {
+          "text": {
+            "content": "things",
+            "beginOffset": 256
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nothing",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.14022312,
+      "mentions": [
+        {
+          "text": {
+            "content": "nothing",
+            "beginOffset": 198
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fortune teller",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.077952236,
+      "mentions": [
+        {
+          "text": {
+            "content": "fortune teller",
+            "beginOffset": 116
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fortune teller",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.044606403,
+      "mentions": [
+        {
+          "text": {
+            "content": "fortune teller",
+            "beginOffset": 10
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "crystal ball",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.043675836,
+      "mentions": [
+        {
+          "text": {
+            "content": "crystal ball",
+            "beginOffset": 145
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mess",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.038379412,
+      "mentions": [
+        {
+          "text": {
+            "content": "mess",
+            "beginOffset": 601
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "mess",
+            "beginOffset": 1418
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "song",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.029762007,
+      "mentions": [
+        {
+          "text": {
+            "content": "song",
+            "beginOffset": 987
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Summer",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/078qz",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Summer"
+      },
+      "salience": 0.023182571,
+      "mentions": [
+        {
+          "text": {
+            "content": "Summer",
+            "beginOffset": 393
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Summer",
+            "beginOffset": 1210
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "fortune teller",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.02034265,
+      "mentions": [
+        {
+          "text": {
+            "content": "fortune teller",
+            "beginOffset": 792
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fortune teller",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.02008746,
+      "mentions": [
+        {
+          "text": {
+            "content": "fortune teller",
+            "beginOffset": 690
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "leaves",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019394312,
+      "mentions": [
+        {
+          "text": {
+            "content": "leaves",
+            "beginOffset": 417
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "matter",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019394312,
+      "mentions": [
+        {
+          "text": {
+            "content": "matter",
+            "beginOffset": 369
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "seasons",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.019394312,
+      "mentions": [
+        {
+          "text": {
+            "content": "seasons",
+            "beginOffset": 349
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kind",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014961214,
+      "mentions": [
+        {
+          "text": {
+            "content": "kind",
+            "beginOffset": 1025
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "TV",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013694136,
+      "mentions": [
+        {
+          "text": {
+            "content": "TV",
+            "beginOffset": 834
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "future",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012465106,
+      "mentions": [
+        {
+          "text": {
+            "content": "future",
+            "beginOffset": 632
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "things",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01199767,
+      "mentions": [
+        {
+          "text": {
+            "content": "things",
+            "beginOffset": 1073
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dream",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01147196,
+      "mentions": [
+        {
+          "text": {
+            "content": "dream",
+            "beginOffset": 889
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01147196,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 896
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mind",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01147196,
+      "mentions": [
+        {
+          "text": {
+            "content": "mind",
+            "beginOffset": 969
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "American",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.006796989,
+      "mentions": [
+        {
+          "text": {
+            "content": "American",
+            "beginOffset": 880
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "fortune teller",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0066253734,
+      "mentions": [
+        {
+          "text": {
+            "content": "fortune teller",
+            "beginOffset": 1826
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fortune teller",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0066253734,
+      "mentions": [
+        {
+          "text": {
+            "content": "fortune teller",
+            "beginOffset": 1609
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "matter",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005706898,
+      "mentions": [
+        {
+          "text": {
+            "content": "matter",
+            "beginOffset": 1186
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "leaves",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005706898,
+      "mentions": [
+        {
+          "text": {
+            "content": "leaves",
+            "beginOffset": 1234
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "seasons",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.005706898,
+      "mentions": [
+        {
+          "text": {
+            "content": "seasons",
+            "beginOffset": 1166
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fortune teller",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00458834,
+      "mentions": [
+        {
+          "text": {
+            "content": "fortune teller",
+            "beginOffset": 1932
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fortune teller",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00458834,
+      "mentions": [
+        {
+          "text": {
+            "content": "fortune teller",
+            "beginOffset": 2034
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fortune teller",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00458834,
+      "mentions": [
+        {
+          "text": {
+            "content": "fortune teller",
+            "beginOffset": 2133
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "future",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0041062725,
+      "mentions": [
+        {
+          "text": {
+            "content": "future",
+            "beginOffset": 1768
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "questions",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0037309176,
+      "mentions": [
+        {
+          "text": {
+            "content": "questions",
+            "beginOffset": 1732
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "answers",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0036839298,
+      "mentions": [
+        {
+          "text": {
+            "content": "answers",
+            "beginOffset": 1701
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rivers",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0036375332,
+      "mentions": [
+        {
+          "text": {
+            "content": "rivers",
+            "beginOffset": 1664
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "feeling",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0030076997,
+      "mentions": [
+        {
+          "text": {
+            "content": "feeling",
+            "beginOffset": 1634
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fortune teller",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002907363,
+      "mentions": [
+        {
+          "text": {
+            "content": "fortune teller",
+            "beginOffset": 1507
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "future",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0028432321,
+      "mentions": [
+        {
+          "text": {
+            "content": "future",
+            "beginOffset": 1976
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "future",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.001801314,
+      "mentions": [
+        {
+          "text": {
+            "content": "future",
+            "beginOffset": 1449
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

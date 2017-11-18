@@ -1,0 +1,39 @@
+{
+  "documentSentiment": {
+    "magnitude": 1.3,
+    "score": -0.4
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "She was more like a beauty queen from a movie scene  \rI said don't mind, but what do you mean, I am the one  \rWho will dance on the floor in the round  \rShe said I am the one, who will dance on the floor in the round  \r  \rShe told me her name was Billie Jean, as she caused a scene  \rThen every head turned with eyes that dreamed of being the one  \rWho will dance on the floor in the round  \r  \rPeople always told me be careful of what you do  \rAnd don't go around breaking young girls' hearts  \rAnd mother always told me be careful of who you love  \rAnd be careful of what you do 'cause the lie becomes the truth  \r  \rBillie Jean is not my lover  \rShe's just a girl who claims that I am the one  \rBut the kid is not my son  \rShe says I am the one, but the kid is not my son  \r  \rFor forty days and forty nights  \rThe law was on her side  \rBut who can stand when she's in demand  \rHer schemes and plans  \r'Cause we danced on the floor in the round  \rSo take my strong advice, just remember to always think twice  \r(Don't think twice, don't think twice)  \r  \rShe told my baby we'd danced till three, then she looked at me  \rThen showed a photo my baby",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "cried his eyes were like mine (oh, no!)",
+        "beginOffset": 1151
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "'Cause we danced on the floor in the round, baby  \r  \rPeople always told me be careful of what you do  \rAnd don't go around breaking young girls' hearts  \rShe came and stood right by me  \rJust the smell of sweet perfume  \rThis happened much too soon  \rShe called me to her room  \r  \rBillie Jean is not my lover  \rShe's just a girl who claims that I am the one  \rBut the kid is not my son  \r  \rBillie Jean is not my lover  \rShe's just a girl who claims that I am the one  \rBut the kid is not my son  \rShe says I am the one, but the kid is not my son  \r  \rShe says I am the one, but the kid is not my son  \r  \rBillie Jean is not my lover  \rShe's just a girl who claims that I am the one  \rBut the kid is not my son  \rShe says I am the one, but the kid is not my son  \r  \rShe says I am the one,  \r(you know what you did, (she says he is my son)breaking my heart babe)  \rShe says I am the one  \r  \rBillie Jean is not my lover  \rBillie Jean is not my lover  \rBillie Jean is not my lover  \rBillie Jean is not my lover (don't Billie Jean)  \rBillie Jean is not my lover  \rBillie Jean is not my lover",
+        "beginOffset": 1193
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ]
+}

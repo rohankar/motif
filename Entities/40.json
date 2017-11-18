@@ -1,0 +1,637 @@
+{
+  "entities": [
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.13327362,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 447
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 712
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 845
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Turn",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0955273,
+      "mentions": [
+        {
+          "text": {
+            "content": "Turn",
+            "beginOffset": 201
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Turn",
+            "beginOffset": 466
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Turn",
+            "beginOffset": 731
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Turn",
+            "beginOffset": 864
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Dig",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/g/11bv2017hr",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Digging"
+      },
+      "salience": 0.088616066,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dig",
+            "beginOffset": 235
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Dig",
+            "beginOffset": 500
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Dig",
+            "beginOffset": 765
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Dig",
+            "beginOffset": 898
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "everybody",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.053599652,
+      "mentions": [
+        {
+          "text": {
+            "content": "everybody",
+            "beginOffset": 5
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "round",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.047076505,
+      "mentions": [
+        {
+          "text": {
+            "content": "round",
+            "beginOffset": 24
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bongo sound",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.047076505,
+      "mentions": [
+        {
+          "text": {
+            "content": "bongo sound",
+            "beginOffset": 47
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "one",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.047076505,
+      "mentions": [
+        {
+          "text": {
+            "content": "one",
+            "beginOffset": 76
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "reach",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.047076505,
+      "mentions": [
+        {
+          "text": {
+            "content": "reach",
+            "beginOffset": 88
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "clam",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04285248,
+      "mentions": [
+        {
+          "text": {
+            "content": "clam",
+            "beginOffset": 143
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "clam",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03514377,
+      "mentions": [
+        {
+          "text": {
+            "content": "clam",
+            "beginOffset": 156
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "clam",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.029158948,
+      "mentions": [
+        {
+          "text": {
+            "content": "clam",
+            "beginOffset": 408
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.024616534,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 182
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hand",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024616534,
+      "mentions": [
+        {
+          "text": {
+            "content": "hand",
+            "beginOffset": 194
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tease",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024616534,
+      "mentions": [
+        {
+          "text": {
+            "content": "tease",
+            "beginOffset": 210
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "clam",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023877995,
+      "mentions": [
+        {
+          "text": {
+            "content": "clam",
+            "beginOffset": 421
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "clam",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023581188,
+      "mentions": [
+        {
+          "text": {
+            "content": "clam",
+            "beginOffset": 259
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "clam",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021875253,
+      "mentions": [
+        {
+          "text": {
+            "content": "clam",
+            "beginOffset": 524
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "beach",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.01826521,
+      "mentions": [
+        {
+          "text": {
+            "content": "beach",
+            "beginOffset": 125
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hand",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016691493,
+      "mentions": [
+        {
+          "text": {
+            "content": "hand",
+            "beginOffset": 459
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tease",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016691493,
+      "mentions": [
+        {
+          "text": {
+            "content": "tease",
+            "beginOffset": 475
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "heart",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014939535,
+      "mentions": [
+        {
+          "text": {
+            "content": "heart",
+            "beginOffset": 286
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Everybody",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012933938,
+      "mentions": [
+        {
+          "text": {
+            "content": "Everybody",
+            "beginOffset": 534
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "appetite",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012369785,
+      "mentions": [
+        {
+          "text": {
+            "content": "appetite",
+            "beginOffset": 387
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "outside",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012214983,
+      "mentions": [
+        {
+          "text": {
+            "content": "outside",
+            "beginOffset": 309
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "clam",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009576652,
+      "mentions": [
+        {
+          "text": {
+            "content": "clam",
+            "beginOffset": 806
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "clam",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008515564,
+      "mentions": [
+        {
+          "text": {
+            "content": "clam",
+            "beginOffset": 642
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "clam",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007825588,
+      "mentions": [
+        {
+          "text": {
+            "content": "clam",
+            "beginOffset": 819
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "clam",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007825588,
+      "mentions": [
+        {
+          "text": {
+            "content": "clam",
+            "beginOffset": 789
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "beat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0075638113,
+      "mentions": [
+        {
+          "text": {
+            "content": "beat",
+            "beginOffset": 555
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Moon",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/04wv_",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Moon"
+      },
+      "salience": 0.007250411,
+      "mentions": [
+        {
+          "text": {
+            "content": "Moon",
+            "beginOffset": 330
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "clam",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0066405185,
+      "mentions": [
+        {
+          "text": {
+            "content": "clam",
+            "beginOffset": 953
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tease",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0054545864,
+      "mentions": [
+        {
+          "text": {
+            "content": "tease",
+            "beginOffset": 740
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hand",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0054545864,
+      "mentions": [
+        {
+          "text": {
+            "content": "hand",
+            "beginOffset": 724
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "clam Dig",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004913565,
+      "mentions": [
+        {
+          "text": {
+            "content": "clam  \rDig",
+            "beginOffset": 922
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "clam",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004212057,
+      "mentions": [
+        {
+          "text": {
+            "content": "clam",
+            "beginOffset": 673
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hand",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0037794176,
+      "mentions": [
+        {
+          "text": {
+            "content": "hand",
+            "beginOffset": 857
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tease",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0037794176,
+      "mentions": [
+        {
+          "text": {
+            "content": "tease",
+            "beginOffset": 873
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "clam",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0034398942,
+      "mentions": [
+        {
+          "text": {
+            "content": "clam",
+            "beginOffset": 686
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,29 @@
+{
+  "documentSentiment": {
+    "magnitude": 1.4,
+    "score": -0.7
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "Where I come from isn't all that great  \rMy automobile is a piece of crap  \rMy fashion sense is a little whack  \rAnd my friends are just as screwy as me  \r  \rI didn't go to boarding schools  \rPreppie girls never looked at me  \rWhy should they?",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I ain't nobody, got nothing in my pocket  \r  \rBeverly Hills, that's where I want to be  \rLivin' in Beverly Hills  \rBeverly Hills, rolling like a celebrity  \rLivin' in Beverly Hills  \r  \rLook at all those movie stars  \rThey're all so beautiful and clean  \rWhen the housemaids scrub the floors  \rThey get the spaces in between  \r  \rI want to live a life like that  \rI want to be just like a king  \rTake my picture by the pool  \r'Cause I'm the next big thing  \r  \rBeverly Hills, that's where I want to be  \rLivin' in Beverly Hills  \rBeverly Hills, rolling like a celebrity  \rLivin' in Beverly Hills  \r  \rThe truth is I don't stand a chance  \rIt's something that you're born into  \rAnd I just don't belong  \r  \rNo I don't, I'm just a no-class beat down fool  \rAnd I will always be that way  \rI might as well enjoy my life  \rAnd watch the stars play  \r  \rBeverly Hills, that's where I want to be  \rLivin' in Beverly Hills  \rBeverly Hills , rolling like a celebrity  \rLivin' in Beverly Hills  \r  \rBeverly Hills, Beverly Hills  \rBeverly Hills, Beverly Hills, livin' in Beverly Hills",
+        "beginOffset": 246
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    }
+  ]
+}

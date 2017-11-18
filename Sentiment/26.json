@@ -1,0 +1,29 @@
+{
+  "documentSentiment": {
+    "magnitude": 0.5,
+    "score": 0.2
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "Oh, angel sent from up above  \rYou know you make my world light up  \rWhen I was down, when I was hurt  \rYou came to lift me up  \r  \rLife is a drink and loves a drug  \rOh, now I think I must be miles up  \rWhen I was a river dried up  \rYou came to rain a flood  \r  \rAnd said drink from me, drink from me  \rWhen I was so thirsty  \rPour on a symphony, now I just can't get enough  \r  \rPut your wings on me, wings on me  \rWhen I was so heavy  \rPour on a symphony when I'm low, low, low, low  \r  \rI, oh I, oh I, got me feeling drunk and high  \rSo high, so high  \rOh I, oh I, oh I, I'm feeling drunk and high  \rSo high, so high  \r  \rOh, angel sent from up above  \rI feel you coursing through my blood  \rLife is a drink and your love's  \rAbout to make the stars come out  \r  \rPut your wings on me, wings on me  \rWhen I was so heavy  \rPour on a symphony, when I'm low, low, low, low  \r  \rI, oh I, oh I, got me feeling drunk and high  \rSo high, so high  \rOh I, oh I, oh I, I'm feeling drunk and high  \rSo high, so",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "high  \r  \rI, oh I, oh I, lalala lalalala  \rSo high, so high  \r  \rI, oh I, oh I, I'm feeling drunk and high  \rSo high, so high  \r  \rLet me shoot across the sky  \rLet me shoot across the  \rLet me shoot across the sky  \rLet me shoot across the  \r  \rLet me shoot across the sky  \rLet me shoot across the  \rLet me shoot across the sky  \rLet me shoot across the",
+        "beginOffset": 1004
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    }
+  ]
+}

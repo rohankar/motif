@@ -1,0 +1,29 @@
+{
+  "documentSentiment": {
+    "magnitude": 1,
+    "score": 0
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "Boys, it looks, are ready to rumble  \rThe word on the street some heads are gonna tumble  \rBlades gonna flash when streets gang clash  \rIn the avenue tonight  \r  \rWhen the lightning strikes  \rZip gun Johnny's finger is itchin'  \rThe lid's gonna blow up in hell's kitchen  \rIt's an eye for an eye  \rAnd a tooth for a tooth  \rIt's so ruthless when they fight  \r  \rWhen the lightning strikes  \rAnd it's free for all in the parking lot  \rAnd who'll rule the street  \rAnd the night explodes  \rWhen the cops bring down the heat  \r  \rAnd the chains they crash like thunder  \rWhile the weak ones all retreat  \rGotta draw first blood  \rOr they'll read your funeral rights  \r  \rWhen the lightning strikes  \rIt's dog eat dog when you meet your rival  \rAnd the combat zone it's your means of survival  \rGonna get last licks on a suicide blitz  \rWith a broken dagger knife  \rWhen the lightning strikes  \r  \rAnd it's free for all in the parking lot  \rAnd who'll rule the street  \rAnd the night explodes  \rWhen the cops bring down the heat  \r  \rAnd the chains they crash like thunder  \rWhile the weak ones all retreat  \rGotta draw first blood  \rOr they'll read your funeral rights  \r  \rOh, oh...",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "When the lightning strikes  \rWhen the lightning strikes  \rWhen the lightning strikes  \rLightning and thunder  \rWhen the lightning strikes...",
+        "beginOffset": 1183
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    }
+  ]
+}

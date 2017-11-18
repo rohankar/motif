@@ -1,0 +1,636 @@
+{
+  "entities": [
+    {
+      "name": "kid",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.726945,
+      "mentions": [
+        {
+          "text": {
+            "content": "kid",
+            "beginOffset": 227
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Jagger Baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.078458376,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jagger",
+            "beginOffset": 399
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Jagger",
+            "beginOffset": 432
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Jagger",
+            "beginOffset": 465
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Jagger",
+            "beginOffset": 570
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Jagger",
+            "beginOffset": 603
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Jagger  \r  \rBaby",
+            "beginOffset": 636
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Jagger",
+            "beginOffset": 1093
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Jagger",
+            "beginOffset": 1126
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Jagger",
+            "beginOffset": 1159
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Jagger",
+            "beginOffset": 1264
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Jagger",
+            "beginOffset": 1297
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Jagger",
+            "beginOffset": 1330
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Jagger",
+            "beginOffset": 1810
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Jagger",
+            "beginOffset": 1843
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Jagger",
+            "beginOffset": 1876
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Jagger",
+            "beginOffset": 1981
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Jagger",
+            "beginOffset": 2014
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Jagger",
+            "beginOffset": 2047
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "moves",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0557111,
+      "mentions": [
+        {
+          "text": {
+            "content": "moves",
+            "beginOffset": 388
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "moves",
+            "beginOffset": 1115
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "moves",
+            "beginOffset": 1799
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022513248,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": 527
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": 1221
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": 1938
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gear",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.017542241,
+      "mentions": [
+        {
+          "text": {
+            "content": "gear",
+            "beginOffset": 918
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "stars",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0149502605,
+      "mentions": [
+        {
+          "text": {
+            "content": "stars",
+            "beginOffset": 19
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ego",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009351183,
+      "mentions": [
+        {
+          "text": {
+            "content": "ego",
+            "beginOffset": 234
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "control",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009067075,
+      "mentions": [
+        {
+          "text": {
+            "content": "control",
+            "beginOffset": 156
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shit",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008837373,
+      "mentions": [
+        {
+          "text": {
+            "content": "shit",
+            "beginOffset": 262
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "show",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.007942363,
+      "mentions": [
+        {
+          "text": {
+            "content": "show",
+            "beginOffset": 190
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "heart",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007942363,
+      "mentions": [
+        {
+          "text": {
+            "content": "heart",
+            "beginOffset": 60
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "control",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0068595037,
+      "mentions": [
+        {
+          "text": {
+            "content": "control",
+            "beginOffset": 1387
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "moves",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0056067607,
+      "mentions": [
+        {
+          "text": {
+            "content": "moves",
+            "beginOffset": 592
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "moves",
+            "beginOffset": 1148
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "moves",
+            "beginOffset": 1286
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "moves",
+            "beginOffset": 1319
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "moves",
+            "beginOffset": 1832
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "moves",
+            "beginOffset": 1865
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "moves",
+            "beginOffset": 2003
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "moves",
+            "beginOffset": 2036
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "moves",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0040249615,
+      "mentions": [
+        {
+          "text": {
+            "content": "moves",
+            "beginOffset": 421
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "moves",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0040249615,
+      "mentions": [
+        {
+          "text": {
+            "content": "moves",
+            "beginOffset": 454
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tongue",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003824581,
+      "mentions": [
+        {
+          "text": {
+            "content": "tongue",
+            "beginOffset": 309
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "moves",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002686155,
+      "mentions": [
+        {
+          "text": {
+            "content": "moves",
+            "beginOffset": 625
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tongue",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0025847182,
+      "mentions": [
+        {
+          "text": {
+            "content": "tongue",
+            "beginOffset": 1003
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "moves",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002139126,
+      "mentions": [
+        {
+          "text": {
+            "content": "moves",
+            "beginOffset": 1082
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "car",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0020577295,
+      "mentions": [
+        {
+          "text": {
+            "content": "car",
+            "beginOffset": 823
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Nothing",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0020318513,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nothing",
+            "beginOffset": 712
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "secret",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00087906834,
+      "mentions": [
+        {
+          "text": {
+            "content": "secret",
+            "beginOffset": 1610
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tongue",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0008407129,
+      "mentions": [
+        {
+          "text": {
+            "content": "tongue",
+            "beginOffset": 1720
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Oh",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.00081264606,
+      "mentions": [
+        {
+          "text": {
+            "content": "Oh",
+            "beginOffset": 805
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00068223797,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 1571
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "toe",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0006690317,
+      "mentions": [
+        {
+          "text": {
+            "content": "toe",
+            "beginOffset": 1562
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Nobody",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00043775848,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nobody",
+            "beginOffset": 1648
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "secret",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00038562776,
+      "mentions": [
+        {
+          "text": {
+            "content": "secret",
+            "beginOffset": 1442
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Nobody",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00019198078,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nobody",
+            "beginOffset": 1480
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

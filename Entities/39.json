@@ -1,0 +1,480 @@
+{
+  "entities": [
+    {
+      "name": "Chesay Chesay",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/g/11clt87x6y"
+      },
+      "salience": 0.16698796,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chesay  \rChesay",
+            "beginOffset": 72
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Chesay",
+            "beginOffset": 89
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Chesay",
+            "beginOffset": 140
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Chesay",
+            "beginOffset": 392
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Chesay",
+            "beginOffset": 443
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Chesay  \rChesay",
+            "beginOffset": 698
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Chesay",
+            "beginOffset": 715
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Chesay",
+            "beginOffset": 766
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Chesay",
+            "beginOffset": 799
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Chesay",
+            "beginOffset": 889
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Chesay",
+            "beginOffset": 979
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Chesay",
+            "beginOffset": 132
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "gypsy way",
+            "beginOffset": 158
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Trouble",
+            "beginOffset": 173
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "name",
+            "beginOffset": 194
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Chesay",
+            "beginOffset": 435
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "gypsy way",
+            "beginOffset": 461
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Chesay",
+            "beginOffset": 608
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Chesay",
+            "beginOffset": 758
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": 790
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Chesay",
+            "beginOffset": 851
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Chesay",
+            "beginOffset": 859
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": 883
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Chesay",
+            "beginOffset": 941
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Chesay",
+            "beginOffset": 949
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": 973
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Chesay",
+            "beginOffset": 384
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Chesay",
+            "beginOffset": 807
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Chesay",
+            "beginOffset": 897
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "luck",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025385348,
+      "mentions": [
+        {
+          "text": {
+            "content": "luck",
+            "beginOffset": 111
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "devil",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020329539,
+      "mentions": [
+        {
+          "text": {
+            "content": "devil",
+            "beginOffset": 31
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "drink",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020329539,
+      "mentions": [
+        {
+          "text": {
+            "content": "drink",
+            "beginOffset": 14
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Magic",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0072255204,
+      "mentions": [
+        {
+          "text": {
+            "content": "Magic",
+            "beginOffset": 44
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Magic",
+            "beginOffset": 670
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "crying shame",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0068988996,
+      "mentions": [
+        {
+          "text": {
+            "content": "crying shame",
+            "beginOffset": 219
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "luck",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0066907243,
+      "mentions": [
+        {
+          "text": {
+            "content": "luck",
+            "beginOffset": 414
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "things",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0062383306,
+      "mentions": [
+        {
+          "text": {
+            "content": "things",
+            "beginOffset": 314
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nothing",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0052962047,
+      "mentions": [
+        {
+          "text": {
+            "content": "nothing",
+            "beginOffset": 254
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cup",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004668915,
+      "mentions": [
+        {
+          "text": {
+            "content": "cup",
+            "beginOffset": 484
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lucky star",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004610402,
+      "mentions": [
+        {
+          "text": {
+            "content": "lucky star",
+            "beginOffset": 351
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gypsy love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004274323,
+      "mentions": [
+        {
+          "text": {
+            "content": "gypsy love",
+            "beginOffset": 491
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Chesay Swallow",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0025351797,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chesay  \rSwallow",
+            "beginOffset": 539
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "luck",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002173107,
+      "mentions": [
+        {
+          "text": {
+            "content": "luck",
+            "beginOffset": 737
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "luck",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002173107,
+      "mentions": [
+        {
+          "text": {
+            "content": "luck",
+            "beginOffset": 830
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "luck",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0015054905,
+      "mentions": [
+        {
+          "text": {
+            "content": "luck",
+            "beginOffset": 920
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "drink",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00075939385,
+      "mentions": [
+        {
+          "text": {
+            "content": "drink",
+            "beginOffset": 640
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "devil",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00075939385,
+      "mentions": [
+        {
+          "text": {
+            "content": "devil",
+            "beginOffset": 657
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

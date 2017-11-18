@@ -1,0 +1,571 @@
+{
+  "entities": [
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.3687643,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 22
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "feeling",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.064939514,
+      "mentions": [
+        {
+          "text": {
+            "content": "feeling",
+            "beginOffset": 193
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "thought",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06369076,
+      "mentions": [
+        {
+          "text": {
+            "content": "thought",
+            "beginOffset": 215
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Nothing",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.055618696,
+      "mentions": [
+        {
+          "text": {
+            "content": "Nothing",
+            "beginOffset": 657
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sho",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04913064,
+      "mentions": [
+        {
+          "text": {
+            "content": "sho",
+            "beginOffset": 86
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tha door",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04888001,
+      "mentions": [
+        {
+          "text": {
+            "content": "tha door",
+            "beginOffset": 159
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "neighbor",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.04378919,
+      "mentions": [
+        {
+          "text": {
+            "content": "neighbor",
+            "beginOffset": 1773
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "denial",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03143156,
+      "mentions": [
+        {
+          "text": {
+            "content": "denial",
+            "beginOffset": 868
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/0d05l6",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.028995147,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 261
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Mom and Dad",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.028995147,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mom and Dad",
+            "beginOffset": 269
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Yea",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012882401,
+      "mentions": [
+        {
+          "text": {
+            "content": "Yea",
+            "beginOffset": 1293
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Ice cold",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012868211,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ice cold",
+            "beginOffset": 1336
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Ice cold",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012849027,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ice cold",
+            "beginOffset": 1412
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "daddy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012387899,
+      "mentions": [
+        {
+          "text": {
+            "content": "daddy",
+            "beginOffset": 1009
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "caddy",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.012387899,
+      "mentions": [
+        {
+          "text": {
+            "content": "caddy",
+            "beginOffset": 1045
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "momma",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012366963,
+      "mentions": [
+        {
+          "text": {
+            "content": "momma",
+            "beginOffset": 1124
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "exception",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012255875,
+      "mentions": [
+        {
+          "text": {
+            "content": "exception",
+            "beginOffset": 789
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012255875,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 780
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fellas",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0112785995,
+      "mentions": [
+        {
+          "text": {
+            "content": "fellas",
+            "beginOffset": 1283
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "feelings",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010544421,
+      "mentions": [
+        {
+          "text": {
+            "content": "feelings",
+            "beginOffset": 610
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "picture",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.010524773,
+      "mentions": [
+        {
+          "text": {
+            "content": "picture",
+            "beginOffset": 1926
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "picture",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.010513503,
+      "mentions": [
+        {
+          "text": {
+            "content": "picture",
+            "beginOffset": 2060
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "picture",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0072753383,
+      "mentions": [
+        {
+          "text": {
+            "content": "picture",
+            "beginOffset": 2189
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Beyonce",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/01mpq7s",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Beyonc%C3%A9"
+      },
+      "salience": 0.007152239,
+      "mentions": [
+        {
+          "text": {
+            "content": "Beyonce",
+            "beginOffset": 2083
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "tha floor",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0066194492,
+      "mentions": [
+        {
+          "text": {
+            "content": "tha floor",
+            "beginOffset": 2134
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tha floor",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0066194492,
+      "mentions": [
+        {
+          "text": {
+            "content": "tha floor",
+            "beginOffset": 2151
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Polaroid",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/017zf_",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Polaroid_Corporation"
+      },
+      "salience": 0.0058558593,
+      "mentions": [
+        {
+          "text": {
+            "content": "Polaroid",
+            "beginOffset": 1917
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Polaroid",
+            "beginOffset": 2051
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Polaroid",
+            "beginOffset": 2180
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "baby dolls",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005791418,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby dolls",
+            "beginOffset": 2113
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Lucy Lu",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/011zd3",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Lucy_Liu"
+      },
+      "salience": 0.0049520563,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lucy Lu",
+            "beginOffset": 2098
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Yea",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004206433,
+      "mentions": [
+        {
+          "text": {
+            "content": "Yea",
+            "beginOffset": 1575
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "thang",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004204685,
+      "mentions": [
+        {
+          "text": {
+            "content": "thang",
+            "beginOffset": 1672
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nothin",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004204685,
+      "mentions": [
+        {
+          "text": {
+            "content": "nothin",
+            "beginOffset": 1687
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "thang",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004204685,
+      "mentions": [
+        {
+          "text": {
+            "content": "thang",
+            "beginOffset": 1606
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sugar",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0042029927,
+      "mentions": [
+        {
+          "text": {
+            "content": "sugar",
+            "beginOffset": 1756
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ladies",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0036817014,
+      "mentions": [
+        {
+          "text": {
+            "content": "ladies",
+            "beginOffset": 1565
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "badest behavior",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0036785894,
+      "mentions": [
+        {
+          "text": {
+            "content": "badest behavior",
+            "beginOffset": 1724
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

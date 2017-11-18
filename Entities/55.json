@@ -1,0 +1,467 @@
+{
+  "entities": [
+    {
+      "name": "Things",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.15965952,
+      "mentions": [
+        {
+          "text": {
+            "content": "Things",
+            "beginOffset": 132
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Things",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.15965952,
+      "mentions": [
+        {
+          "text": {
+            "content": "Things",
+            "beginOffset": 157
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "words",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10679398,
+      "mentions": [
+        {
+          "text": {
+            "content": "words",
+            "beginOffset": 190
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chance",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10415579,
+      "mentions": [
+        {
+          "text": {
+            "content": "chance",
+            "beginOffset": 595
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "chance",
+            "beginOffset": 1124
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Chorus) Heaven",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.08681572,
+      "mentions": [
+        {
+          "text": {
+            "content": "Heaven",
+            "beginOffset": 0
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Chorus]  \rHeaven",
+            "beginOffset": 439
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Heaven",
+            "beginOffset": 1016
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "mind",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06455006,
+      "mentions": [
+        {
+          "text": {
+            "content": "mind",
+            "beginOffset": 384
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "thing",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.051109184,
+      "mentions": [
+        {
+          "text": {
+            "content": "thing",
+            "beginOffset": 273
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hand",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.043270614,
+      "mentions": [
+        {
+          "text": {
+            "content": "hand",
+            "beginOffset": 175
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "things",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03927445,
+      "mentions": [
+        {
+          "text": {
+            "content": "things",
+            "beginOffset": 286
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "secrets",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025339087,
+      "mentions": [
+        {
+          "text": {
+            "content": "secrets",
+            "beginOffset": 363
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "end",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.02220851,
+      "mentions": [
+        {
+          "text": {
+            "content": "end",
+            "beginOffset": 401
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014526038,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chorus",
+            "beginOffset": 972
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "repeat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013972399,
+      "mentions": [
+        {
+          "text": {
+            "content": "repeat",
+            "beginOffset": 624
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "words",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01278898,
+      "mentions": [
+        {
+          "text": {
+            "content": "words",
+            "beginOffset": 689
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dance",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011192623,
+      "mentions": [
+        {
+          "text": {
+            "content": "dance",
+            "beginOffset": 652
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sound",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011192623,
+      "mentions": [
+        {
+          "text": {
+            "content": "sound",
+            "beginOffset": 715
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "touch",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011192623,
+      "mentions": [
+        {
+          "text": {
+            "content": "touch",
+            "beginOffset": 741
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.009210359,
+      "mentions": [
+        {
+          "text": {
+            "content": "Baby",
+            "beginOffset": 947
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Let",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008375788,
+      "mentions": [
+        {
+          "text": {
+            "content": "romance",
+            "beginOffset": 820
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Let",
+            "beginOffset": 830
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "control",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008323382,
+      "mentions": [
+        {
+          "text": {
+            "content": "control",
+            "beginOffset": 937
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007196604,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chorus",
+            "beginOffset": 1193
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "repeat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0065462296,
+      "mentions": [
+        {
+          "text": {
+            "content": "repeat",
+            "beginOffset": 1153
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hands",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005761342,
+      "mentions": [
+        {
+          "text": {
+            "content": "hands",
+            "beginOffset": 799
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kiss",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0050410815,
+      "mentions": [
+        {
+          "text": {
+            "content": "kiss",
+            "beginOffset": 842
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ground",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0036723404,
+      "mentions": [
+        {
+          "text": {
+            "content": "ground",
+            "beginOffset": 776
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0036723404,
+      "mentions": [
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": 907
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002542724,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 890
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Heaven",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.001956082,
+      "mentions": [
+        {
+          "text": {
+            "content": "Heaven",
+            "beginOffset": 469
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Heaven",
+            "beginOffset": 489
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Heaven",
+            "beginOffset": 509
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

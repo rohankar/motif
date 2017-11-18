@@ -1,0 +1,19 @@
+{
+  "documentSentiment": {
+    "magnitude": 0.6,
+    "score": -0.6
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "You know that it would be untrue  \rYou know that I would be a liar  \rIf I was to say to you  \rGirl, we couldn't get much higher  \r  \rCome on baby, light my fire  \rCome on baby, light my fire  \rTry to set the night on fire  \r  \rThe time to hesitate is through  \rNo time to wallow in the mire  \rTry now we can only lose  \rAnd our love become a funeral pyre  \r  \rCome on baby, light my fire  \rCome on baby, light my fire  \rTry to set the night on fire, yeah  \r  \rThe time to hesitate is through  \rNo time to wallow in the mire  \rTry now we can only lose  \rAnd our love become a funeral pyre  \r  \rCome on baby, light my fire  \rCome on baby, light my fire  \rTry to set the night on fire, yeah  \r  \rYou know that it would be untrue  \rYou know that I would be a liar  \rIf I was to say to you  \rGirl, we couldn't get much higher  \r  \rCome on baby, light my fire  \rCome on baby, light my fire  \rTry to set the night on fire  \rTry to set the night on fire  \rTry to set the night on fire  \rTry to set the night on fire",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    }
+  ]
+}

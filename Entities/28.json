@@ -1,0 +1,290 @@
+{
+  "entities": [
+    {
+      "name": "creatures",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.16410016,
+      "mentions": [
+        {
+          "text": {
+            "content": "creatures",
+            "beginOffset": 390
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Love Street",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/025tcrf",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Love_Street"
+      },
+      "salience": 0.15686506,
+      "mentions": [
+        {
+          "text": {
+            "content": "Love Street",
+            "beginOffset": 13
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Love Street",
+            "beginOffset": 43
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Love Street",
+            "beginOffset": 347
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Love Street",
+            "beginOffset": 516
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Love Street",
+            "beginOffset": 546
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.1301975,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": 67
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "garden",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.1301975,
+      "mentions": [
+        {
+          "text": {
+            "content": "garden",
+            "beginOffset": 77
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "store",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.07649224,
+      "mentions": [
+        {
+          "text": {
+            "content": "store",
+            "beginOffset": 374
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "wisdom",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05069646,
+      "mentions": [
+        {
+          "text": {
+            "content": "wisdom",
+            "beginOffset": 200
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "robes",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.04442293,
+      "mentions": [
+        {
+          "text": {
+            "content": "robes",
+            "beginOffset": 129
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "flunkies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04442293,
+      "mentions": [
+        {
+          "text": {
+            "content": "flunkies",
+            "beginOffset": 178
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "diamond",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04442293,
+      "mentions": [
+        {
+          "text": {
+            "content": "diamond",
+            "beginOffset": 162
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "la",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.036031142,
+      "mentions": [
+        {
+          "text": {
+            "content": "la",
+            "beginOffset": 688
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "wisdom",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.033929154,
+      "mentions": [
+        {
+          "text": {
+            "content": "wisdom",
+            "beginOffset": 267
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "La",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.03263926,
+      "mentions": [
+        {
+          "text": {
+            "content": "La",
+            "beginOffset": 627
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "La",
+            "beginOffset": 684
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "la, La, la",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.01898354,
+      "mentions": [
+        {
+          "text": {
+            "content": "la, La, la",
+            "beginOffset": 651
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "la, La, la",
+            "beginOffset": 708
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "la",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015879672,
+      "mentions": [
+        {
+          "text": {
+            "content": "la",
+            "beginOffset": 631
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.010359782,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": 570
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "garden",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.010359782,
+      "mentions": [
+        {
+          "text": {
+            "content": "garden",
+            "beginOffset": 580
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

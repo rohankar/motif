@@ -1,0 +1,169 @@
+{
+  "documentSentiment": {
+    "magnitude": 6.4,
+    "score": 0.2
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "Well, well, well, well  \r  \rYou were talking about your woman.",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "I wish to god that you could see mine.",
+        "beginOffset": 65
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "You were talking about your woman.",
+        "beginOffset": 106
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I wish to god, man, that you could see mine.",
+        "beginOffset": 143
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Every time my little girl start to lovin',  \rShe bring eyesight to the blind.",
+        "beginOffset": 190
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Lord, her daddy must have been a millionaire, cause I could tell by the way\rshe walked.",
+        "beginOffset": 273
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Her daddy must have been a millionaire, cause I could tell by the way she\rwalked.",
+        "beginOffset": 363
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Every time she start to lovin',  \rThe deaf and dumb begin to talk.",
+        "beginOffset": 447
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Yeah, you know what they say.",
+        "beginOffset": 516
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I remember one Friday morning,  \rWe was lying down across your bed.",
+        "beginOffset": 551
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Man in the back room was dying, eyes were sad, and I stroked his head and I\rsaid Lordy ain't she pretty, and the whole state knows she's fine.",
+        "beginOffset": 621
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "And every, every, every time she start to lovin', she bring eyesight to the\rblind  \r  \rWhat a woman I got here.",
+        "beginOffset": 766
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Lean on me baby, lean on me.",
+        "beginOffset": 880
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Yes, I declare she's pretty, and the whole state knows she's fine.",
+        "beginOffset": 914
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Man, I declare she's pretty, lordy, lordy, I declare she's fine.",
+        "beginOffset": 983
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Every, every, every, every time she starts to lovin', she bring eyesight to\rthe blind.",
+        "beginOffset": 1053
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    }
+  ]
+}

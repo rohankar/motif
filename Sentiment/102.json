@@ -1,0 +1,29 @@
+{
+  "documentSentiment": {
+    "magnitude": 1.1,
+    "score": 0
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "Let me begin by telling you  \rSomething that happened turned my head around  \rI took a walk on a cloudy day  \rI met a friend, this is what he said  \r  \rNow is the time for change  \rI'm trying to get to a higher place  \rLife is surrounded by grace  \rLet's join together singing songs of freedom  \r  \rWhat do you do when you gain the world  \rYou pay the price, baby, you lose your soul  \rLive in a world of make believe  \rIt won't work, baby, can't you see?",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Now is the time for change  \rI'm trying to get to a higher place  \rLife is surrounded by grace  \rLet's join together singing songs of freedom  \r  \rPraise  \rPraise  \r  \rIt's three o' clock in the mornin'  \rWhen I'm all by myself  \rAnd I feel the spirit comin' on again  \r  \rNow is the time for change  \rI'm trying to get to a higher place  \rLife is surrounded by grace  \rLet's join together singing songs of freedom",
+        "beginOffset": 461
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    }
+  ]
+}

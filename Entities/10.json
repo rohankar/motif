@@ -1,0 +1,413 @@
+{
+  "entities": [
+    {
+      "name": "advice",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.377099,
+      "mentions": [
+        {
+          "text": {
+            "content": "advice",
+            "beginOffset": 166
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "something",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.29816785,
+      "mentions": [
+        {
+          "text": {
+            "content": "something",
+            "beginOffset": 35
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Bruno Mars",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/0bs1g5r",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Bruno_Mars"
+      },
+      "salience": 0.030444834,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bruno Mars",
+            "beginOffset": 1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Try",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024716964,
+      "mentions": [
+        {
+          "text": {
+            "content": "Try",
+            "beginOffset": 291
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ball",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016738595,
+      "mentions": [
+        {
+          "text": {
+            "content": "ball",
+            "beginOffset": 617
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ball",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016529106,
+      "mentions": [
+        {
+          "text": {
+            "content": "ball",
+            "beginOffset": 371
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ball",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.016529106,
+      "mentions": [
+        {
+          "text": {
+            "content": "ball",
+            "beginOffset": 417
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Try",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015325733,
+      "mentions": [
+        {
+          "text": {
+            "content": "Try",
+            "beginOffset": 752
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Keep",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013851777,
+      "mentions": [
+        {
+          "text": {
+            "content": "Keep",
+            "beginOffset": 202
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "end",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0133375125,
+      "mentions": [
+        {
+          "text": {
+            "content": "end",
+            "beginOffset": 558
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "boat",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0133375125,
+      "mentions": [
+        {
+          "text": {
+            "content": "boat",
+            "beginOffset": 691
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "air",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0133375125,
+      "mentions": [
+        {
+          "text": {
+            "content": "air",
+            "beginOffset": 594
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hands",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0133375125,
+      "mentions": [
+        {
+          "text": {
+            "content": "hands",
+            "beginOffset": 577
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "toes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013170345,
+      "mentions": [
+        {
+          "text": {
+            "content": "toes",
+            "beginOffset": 492
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chin",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013170345,
+      "mentions": [
+        {
+          "text": {
+            "content": "chin",
+            "beginOffset": 483
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "belly",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013170345,
+      "mentions": [
+        {
+          "text": {
+            "content": "belly",
+            "beginOffset": 471
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nose",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013170345,
+      "mentions": [
+        {
+          "text": {
+            "content": "nose",
+            "beginOffset": 451
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "head",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013170345,
+      "mentions": [
+        {
+          "text": {
+            "content": "head",
+            "beginOffset": 432
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "luck",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013170345,
+      "mentions": [
+        {
+          "text": {
+            "content": "luck",
+            "beginOffset": 399
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "top",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012210203,
+      "mentions": [
+        {
+          "text": {
+            "content": "top",
+            "beginOffset": 787
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rowing",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010899012,
+      "mentions": [
+        {
+          "text": {
+            "content": "rowing",
+            "beginOffset": 710
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "floor",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.009132525,
+      "mentions": [
+        {
+          "text": {
+            "content": "floor",
+            "beginOffset": 1087
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rollerskates",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.00815066,
+      "mentions": [
+        {
+          "text": {
+            "content": "rollerskates",
+            "beginOffset": 829
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Try",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0054602795,
+      "mentions": [
+        {
+          "text": {
+            "content": "Try",
+            "beginOffset": 1213
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "grooving",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004346485,
+      "mentions": [
+        {
+          "text": {
+            "content": "grooving",
+            "beginOffset": 1168
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "trip",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.00401287,
+      "mentions": [
+        {
+          "text": {
+            "content": "trip",
+            "beginOffset": 974
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tip",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00401287,
+      "mentions": [
+        {
+          "text": {
+            "content": "tip",
+            "beginOffset": 995
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,29 @@
+{
+  "documentSentiment": {
+    "magnitude": 1.2,
+    "score": 0.6
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "Hey, everybody, gather 'round  \rListen to that bongo sound  \rGrab the first one in your reach  \rNow we're going to shake the beach  \r  \rDo the clam, do the clam  \rGrab your barefoot baby by the hand  \rTurn and tease, hug and squeeze  \rDig right in and do the clam  \r  \rYou can get your heart to spin  \rOn the outside looking in  \rMoon ain't gonna last all night  \rWell, let's work up an appetite  \r  \rDo the clam, do the clam  \rGrab your barefoot baby by the hand  \rTurn and tease, hug and squeeze  \rDig right in and do the clam  \r  \rEverybody's got that beat  \rWell, listen to those happy feet  \rAin't you glad that you found out  \rWhat the clam is all about?",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Do the clam, do the clam  \rGrab your barefoot baby by the hand  \rTurn and tease, hug and squeeze  \rDig right in and do the clam  \r  \rDo the clam, do the clam  \rGrab your barefoot baby by the hand  \rTurn and tease, hug and squeeze  \rDig right in and do the clam  \rDig right in and do the clam",
+        "beginOffset": 666
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    }
+  ]
+}

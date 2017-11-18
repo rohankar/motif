@@ -1,0 +1,274 @@
+{
+  "entities": [
+    {
+      "name": "possibilities",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.38326302,
+      "mentions": [
+        {
+          "text": {
+            "content": "possibilities",
+            "beginOffset": 339
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "possibilities",
+            "beginOffset": 1304
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "faithlessness",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.25194713,
+      "mentions": [
+        {
+          "text": {
+            "content": "faithlessness",
+            "beginOffset": 369
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "faithlessness",
+            "beginOffset": 1334
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "disbelief",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.069047,
+      "mentions": [
+        {
+          "text": {
+            "content": "disbelief",
+            "beginOffset": 108
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "memories",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03518441,
+      "mentions": [
+        {
+          "text": {
+            "content": "memories",
+            "beginOffset": 189
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "possibilities",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03518441,
+      "mentions": [
+        {
+          "text": {
+            "content": "possibilities",
+            "beginOffset": 211
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "memories",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03518441,
+      "mentions": [
+        {
+          "text": {
+            "content": "memories",
+            "beginOffset": 317
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "possibilities",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.029883865,
+      "mentions": [
+        {
+          "text": {
+            "content": "possibilities",
+            "beginOffset": 789
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "possibilities",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023827394,
+      "mentions": [
+        {
+          "text": {
+            "content": "possibilities",
+            "beginOffset": 661
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "memories",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023827394,
+      "mentions": [
+        {
+          "text": {
+            "content": "memories",
+            "beginOffset": 639
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "memories",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021816207,
+      "mentions": [
+        {
+          "text": {
+            "content": "memories",
+            "beginOffset": 767
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "faithlessness",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021665523,
+      "mentions": [
+        {
+          "text": {
+            "content": "faithlessness",
+            "beginOffset": 819
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "disbelief",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017823705,
+      "mentions": [
+        {
+          "text": {
+            "content": "disbelief",
+            "beginOffset": 556
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "memories",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016322866,
+      "mentions": [
+        {
+          "text": {
+            "content": "memories",
+            "beginOffset": 1154
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "possibilities",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016322866,
+      "mentions": [
+        {
+          "text": {
+            "content": "possibilities",
+            "beginOffset": 1176
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "apologies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010816353,
+      "mentions": [
+        {
+          "text": {
+            "content": "apologies",
+            "beginOffset": 1114
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "memories",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0053842426,
+      "mentions": [
+        {
+          "text": {
+            "content": "memories",
+            "beginOffset": 1282
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "control",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0024992116,
+      "mentions": [
+        {
+          "text": {
+            "content": "control",
+            "beginOffset": 1385
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

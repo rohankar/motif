@@ -1,0 +1,507 @@
+{
+  "entities": [
+    {
+      "name": "Wonderin",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.3005712,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wonderin",
+            "beginOffset": 156
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "fire",
+            "beginOffset": 149
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gypsy eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.12771553,
+      "mentions": [
+        {
+          "text": {
+            "content": "gypsy eyes",
+            "beginOffset": 50
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gypsy eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.120065406,
+      "mentions": [
+        {
+          "text": {
+            "content": "gypsy eyes",
+            "beginOffset": 74
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tree",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07384166,
+      "mentions": [
+        {
+          "text": {
+            "content": "tree",
+            "beginOffset": 126
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "girl",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.059958413,
+      "mentions": [
+        {
+          "text": {
+            "content": "girl",
+            "beginOffset": 611
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Gypsy Way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.043981023,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gypsy  \r  \rWay",
+            "beginOffset": 102
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "country side",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.035680227,
+      "mentions": [
+        {
+          "text": {
+            "content": "country side",
+            "beginOffset": 256
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "world",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.02843222,
+      "mentions": [
+        {
+          "text": {
+            "content": "world",
+            "beginOffset": 180
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "one",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.023472399,
+      "mentions": [
+        {
+          "text": {
+            "content": "one",
+            "beginOffset": 381
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015009019,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": 598
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rubble road side",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011350692,
+      "mentions": [
+        {
+          "text": {
+            "content": "rubble road side",
+            "beginOffset": 358
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "road",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.011350692,
+      "mentions": [
+        {
+          "text": {
+            "content": "road",
+            "beginOffset": 446
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gypsy eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0108834775,
+      "mentions": [
+        {
+          "text": {
+            "content": "gypsy eyes",
+            "beginOffset": 945
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "girl",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.009570251,
+      "mentions": [
+        {
+          "text": {
+            "content": "girl",
+            "beginOffset": 644
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tears",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009150563,
+      "mentions": [
+        {
+          "text": {
+            "content": "tears",
+            "beginOffset": 584
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009035437,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 470
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "some",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009035437,
+      "mentions": [
+        {
+          "text": {
+            "content": "some",
+            "beginOffset": 489
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "men",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.008374418,
+      "mentions": [
+        {
+          "text": {
+            "content": "men",
+            "beginOffset": 724
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "death",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.008374418,
+      "mentions": [
+        {
+          "text": {
+            "content": "death",
+            "beginOffset": 744
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "time",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008117777,
+      "mentions": [
+        {
+          "text": {
+            "content": "time",
+            "beginOffset": 563
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Gypsy Well",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.008026533,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gypsy  \r  \rWell",
+            "beginOffset": 313
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "road",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.007822503,
+      "mentions": [
+        {
+          "text": {
+            "content": "road",
+            "beginOffset": 1047
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "side",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007822503,
+      "mentions": [
+        {
+          "text": {
+            "content": "side",
+            "beginOffset": 1080
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gypsy eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0070762713,
+      "mentions": [
+        {
+          "text": {
+            "content": "gypsy eyes",
+            "beginOffset": 1123
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "battle",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0068899984,
+      "mentions": [
+        {
+          "text": {
+            "content": "battle",
+            "beginOffset": 1021
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "worry knees",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0068899984,
+      "mentions": [
+        {
+          "text": {
+            "content": "worry knees",
+            "beginOffset": 1055
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "getaway",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0057999482,
+      "mentions": [
+        {
+          "text": {
+            "content": "getaway",
+            "beginOffset": 702
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gypsy eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004777824,
+      "mentions": [
+        {
+          "text": {
+            "content": "gypsy eyes",
+            "beginOffset": 873
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gypsy eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004777824,
+      "mentions": [
+        {
+          "text": {
+            "content": "gypsy eyes",
+            "beginOffset": 897
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gypsy eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004777824,
+      "mentions": [
+        {
+          "text": {
+            "content": "gypsy eyes",
+            "beginOffset": 921
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "call",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0043113697,
+      "mentions": [
+        {
+          "text": {
+            "content": "call",
+            "beginOffset": 1113
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Lord",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0043113697,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lord",
+            "beginOffset": 1226
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "highway",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0027457525,
+      "mentions": [
+        {
+          "text": {
+            "content": "highway",
+            "beginOffset": 799
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

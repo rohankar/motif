@@ -1,0 +1,659 @@
+{
+  "entities": [
+    {
+      "name": "Chorus",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.51010436,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chorus",
+            "beginOffset": 630
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.18264425,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chorus",
+            "beginOffset": 1474
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "photograph",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.07276671,
+      "mentions": [
+        {
+          "text": {
+            "content": "photograph",
+            "beginOffset": 13
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Lot",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.040396467,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lot",
+            "beginOffset": 516
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030973986,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": 74
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Kim",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.022057781,
+      "mentions": [
+        {
+          "text": {
+            "content": "Kim",
+            "beginOffset": 1285
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "girl",
+            "beginOffset": 1301
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cops",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0149318185,
+      "mentions": [
+        {
+          "text": {
+            "content": "cops",
+            "beginOffset": 1044
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hell",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0121437395,
+      "mentions": [
+        {
+          "text": {
+            "content": "hell",
+            "beginOffset": 106
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dollar",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010763232,
+      "mentions": [
+        {
+          "text": {
+            "content": "dollar",
+            "beginOffset": 1013
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "head",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010308679,
+      "mentions": [
+        {
+          "text": {
+            "content": "head",
+            "beginOffset": 124
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "owner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010256111,
+      "mentions": [
+        {
+          "text": {
+            "content": "owner",
+            "beginOffset": 181
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "times",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0061929054,
+      "mentions": [
+        {
+          "text": {
+            "content": "times",
+            "beginOffset": 437
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Joey",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.006115996,
+      "mentions": [
+        {
+          "text": {
+            "content": "Joey",
+            "beginOffset": 117
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "record",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004806445,
+      "mentions": [
+        {
+          "text": {
+            "content": "record",
+            "beginOffset": 375
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "things",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004485771,
+      "mentions": [
+        {
+          "text": {
+            "content": "things",
+            "beginOffset": 351
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "floor",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004485771,
+      "mentions": [
+        {
+          "text": {
+            "content": "floor",
+            "beginOffset": 248
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "school",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.003925559,
+      "mentions": [
+        {
+          "text": {
+            "content": "school",
+            "beginOffset": 312
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "photo",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0035716628,
+      "mentions": [
+        {
+          "text": {
+            "content": "photo",
+            "beginOffset": 857
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "somebody",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0031450673,
+      "mentions": [
+        {
+          "text": {
+            "content": "somebody",
+            "beginOffset": 1082
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "door",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0030188474,
+      "mentions": [
+        {
+          "text": {
+            "content": "door",
+            "beginOffset": 838
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "memory",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0030188474,
+      "mentions": [
+        {
+          "text": {
+            "content": "memory",
+            "beginOffset": 806
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bedroom floor",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0030188474,
+      "mentions": [
+        {
+          "text": {
+            "content": "bedroom floor",
+            "beginOffset": 724
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "door",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0030188474,
+      "mentions": [
+        {
+          "text": {
+            "content": "door",
+            "beginOffset": 677
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bye",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0030188474,
+      "mentions": [
+        {
+          "text": {
+            "content": "bye",
+            "beginOffset": 784
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "memory",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0029808604,
+      "mentions": [
+        {
+          "text": {
+            "content": "memory",
+            "beginOffset": 646
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bye",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0027627528,
+      "mentions": [
+        {
+          "text": {
+            "content": "bye",
+            "beginOffset": 946
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "photo album",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0026415498,
+      "mentions": [
+        {
+          "text": {
+            "content": "photo album",
+            "beginOffset": 695
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "friend",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0026415498,
+      "mentions": [
+        {
+          "text": {
+            "content": "friend",
+            "beginOffset": 870
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "arcade",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0018763134,
+      "mentions": [
+        {
+          "text": {
+            "content": "arcade",
+            "beginOffset": 992
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "faces",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0018012234,
+      "mentions": [
+        {
+          "text": {
+            "content": "faces",
+            "beginOffset": 1519
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "town",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0018012234,
+      "mentions": [
+        {
+          "text": {
+            "content": "town",
+            "beginOffset": 1499
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kids",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0018012234,
+      "mentions": [
+        {
+          "text": {
+            "content": "kids",
+            "beginOffset": 1379
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Oh",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0017653999,
+      "mentions": [
+        {
+          "text": {
+            "content": "Oh",
+            "beginOffset": 595
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/0d05l6",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.0017336983,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 617
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1422
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1461
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "photograph",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0016868585,
+      "mentions": [
+        {
+          "text": {
+            "content": "photograph",
+            "beginOffset": 1757
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0015672785,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chorus",
+            "beginOffset": 1731
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "thing",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0013898426,
+      "mentions": [
+        {
+          "text": {
+            "content": "thing",
+            "beginOffset": 1695
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Oh",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0012189506,
+      "mentions": [
+        {
+          "text": {
+            "content": "Oh",
+            "beginOffset": 1439
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "couple",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00079018157,
+      "mentions": [
+        {
+          "text": {
+            "content": "couple",
+            "beginOffset": 1369
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "steering wheel",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00079018157,
+      "mentions": [
+        {
+          "text": {
+            "content": "steering wheel",
+            "beginOffset": 1265
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "song",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.00079018157,
+      "mentions": [
+        {
+          "text": {
+            "content": "song",
+            "beginOffset": 1177
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "radio",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00079018157,
+      "mentions": [
+        {
+          "text": {
+            "content": "radio",
+            "beginOffset": 1143
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

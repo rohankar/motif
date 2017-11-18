@@ -1,0 +1,19 @@
+{
+  "documentSentiment": {
+    "magnitude": 0.3,
+    "score": -0.3
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "Don't ya love her madly  \rDon't ya need her badly  \rDon't ya love her ways  \rTell me what you say  \r  \rDon't ya love her madly  \rWant to be her daddy  \rDon't ya love her face  \rDon't ya love her as she's walkin' out the door  \r  \rLike she did one thousand times before  \rDon't ya love her ways  \rTell me what you say  \rDon't ya love her as she's walkin' out the door  \r  \rAll your love  \rAll your love  \rAll your love  \rAll your love  \rAll your love is gone  \r  \rSo sing a lonely song  \rOf a deep blue dream  \rSeven horses seem to be on the mark  \rYeah, don't you love her  \rDon't you love her as she's walkin' out the door  \r  \rAll your love  \rAll your love  \rAll your love  \rYeah, all your love is gone  \r  \rSo sing a lonely song  \rOf a deep blue dream  \rSeven horses seem to be on the mark  \rWell, don't ya love her madly  \rDon't ya love her madly  \rDon't ya love her madly",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    }
+  ]
+}

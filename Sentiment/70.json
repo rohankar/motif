@@ -1,0 +1,29 @@
+{
+  "documentSentiment": {
+    "magnitude": 1.6,
+    "score": -0.8
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "It starts with one thing  \rI don't know why  \rIt doesn't even matter how hard you try  \rKeep that in mind  \rI designed this rhyme  \rTo explain in due time  \rAll I know  \rTime is a valuable thing  \rWatch it fly by as the pendulum swings  \rWatch it count down to the end of the day  \rThe clock ticks life away  \r  \rIt's so unreal  \rDidn't look out below  \rWatch the time go right out the window  \rTrying to hold on, but you didn't even know  \rWasted it all just to watch you go  \rI kept everything inside  \rAnd even though I tried, it all fell apart  \rWhat it meant to me  \rWill eventually be a memory of a time when  \r  \rI tried so hard  \rAnd got so far  \rBut in the end  \rIt doesn't even matter  \rI had to fall  \rTo lose it all  \rBut in the end  \rIt doesn't even matter  \r  \rOne thing, I don't know why  \rIt doesn't even matter how hard you try  \rKeep that in mind  \rI designed this rhyme  \rTo remind myself how  \rI tried so hard  \rIn spite of the way you were mocking me  \rActing like I was part of your property  \rRemembering all the times you fought with me  \rI'm surprised it got so  \rThings aren't the way they were before  \rYou wouldn't even recognize me anymore  \rNot that you knew me back then  \rBut it all",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "comes back to me in the end  \rYou kept everything inside  \rAnd even though I tried, it all fell apart  \rWhat it meant to me will eventually be a memory of a time when  \r  \rI tried so hard  \rAnd got so far  \rBut in the end  \rIt doesn't even matter  \rI had to fall  \rTo lose it all  \rBut in the end  \rIt doesn't even matter  \r  \rI've put my trust in you  \rPushed as far as I can go  \rFor all this  \rThere's only one thing you should know  \rI've put my trust in you  \rPushed as far as I can go  \rFor all this  \rThere's only one thing you should know  \r  \rI tried so hard  \rAnd got so far  \rBut in the end  \rIt doesn't even matter  \rI had to fall  \rTo lose it all  \rBut in the end  \rIt doesn't even matter",
+        "beginOffset": 1215
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    }
+  ]
+}

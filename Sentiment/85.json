@@ -1,0 +1,29 @@
+{
+  "documentSentiment": {
+    "magnitude": 1,
+    "score": 0.1
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "When the world is on your shoulder  \rGotta straighten up your act and boogie down  \rIf you can't hang with the feelin'  \rThen there ain't no room for you this part of town  \r'Cause we're the party people night and day  \rLivin' crazy that's the only way  \r  \r[Chorus]  \rSo tonight gotta leave that nine to five upon the shelf  \rAnd just enjoy yourself  \rGroove, let the madness in the music get to you  \rLife ain't so bad at all  \rIf you live it off the wall  \rLife ain't so bad at all (live life off the wall)  \rLive your life off the wall (live it off the wall)  \r  \rYou can shout out all you want to  \r'Cause there ain't no sin in folks all getting loud  \rIf you take the chance and do it  \rThere there ain't no one who's gonna put you down  \r'Cause we're the party people night and day  \rLivin' crazy that's the only way  \r  \r[Chorus]  \r  \rDo what you want to do  \rThere ain't no rules it's up to you (ain't no rules it's all up to you)  \rIt's time to come alive  \rAnd party on right through the night (all right)  \r  \rGotta hide your inhibitions  \rGotta let that fool loose deep inside your soul  \rWant to see an exhibition",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Better do it now before you get too old  \r'Cause we're the party people night and day  \rLivin' crazy that's the only way  \r  \r[Chorus]  \r  \rSo tonight gotta leave that nine to five upon the shelf  \rAnd just enjoy yourself  \rCome on and groove (yeah) and let the madness in the music get to you  \rLife ain't so bad at all  \rIf you live it off the wall  \r  \rSo tonight gotta leave that nine to five upon the shelf  \rAnd just enjoy yourself  \rCome on and groove (yeah) and let the madness in the music get to you  \rLife ain't so bad at all  \rIf you live it off the wall",
+        "beginOffset": 1130
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    }
+  ]
+}

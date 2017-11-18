@@ -1,0 +1,29 @@
+{
+  "documentSentiment": {
+    "magnitude": 0.6,
+    "score": -0.3
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "I wonder, wonder wonder  \rWhy your eyes they wonder?",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "I wonder, wonder wonder  \rAbout the spell that you are under  \rTell me its some hocus pocus  \rMade to lose your focus  \rI wonder why the cold kiss and you think I wouldn't notice  \r  \r[Bridge]  \rYou don't love me like you say you do  \rYou don't want me the way that I want you  \rYou don't love me like you say you do (you do) you do  \r  \r[Chorus: x2]  \rCan I get me some satisfaction [Repeat: x3]  \rThat's all I'm asking you, you, of you  \rGive me the magic pass, that's all I ask of you  \r  \rI wonder if it's over, middle of October  \rI don't know why in autumn, she keeps giving a cold shoulder  \rShe knows how much I love her don't know what I could have told her  \rI wonder why she makes me think I didn't even know her  \r  \r[Bridge]  \r  \rWhy don't you give me (give me give me give me give me your love)  \rGive me your love (give me give me give me your love  \rIs that too much to ask you can I  \rGet some satisfaction from you  \r  \r[Bridge]  \r  \r[Chorus: Repeats]",
+        "beginOffset": 55
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "documentSentiment": {
+    "magnitude": 0.7,
+    "score": 0
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "[Verse 1]  \rThey say sing what you know  \rBut I've sung what they want  \rSome folks do what they're told  \rBut baby this time I won't  \rWhen I look through that door  \rI know the truth from lie  \rSome things I've done before I can't justify  \r  \r[Pre-Chorus]  \rThere are kings in my past  \rThings no one can be proud of  \rBut I stand in the light I've cast  \rAnd turn away from any lack of love  \rOh, when I walked through that door  \rI say here I go  \rYou see me and nothing more  \rI'm singing what I know  \r  \r[Chorus]  \rI know better  \rI know better  \r  \r[Verse 2]  \rLegend is just a name  \rI know better than to be so proud  \rI won't drink in all this fame  \rI'll take more love than I'm allowed  \r  \r[Pre-Chorus]  \rI won't hide or cut it off from where it came  \rMy history has brought me to this place  \rThis power and the color of my face  \r  \r[Chorus]  \rAnd I know better  \rI know better  \r  \r[Bridge]  \rI'll rise from the floor if I don't win  \rI'll bust open that door so let me in  \rAnd if music chooses me to sing I let her  \rI'll sing what I know, yes  \r  \r[Chorus]  \rI know better, oh  \rI know better, yes",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "I know better  \rI know better",
+        "beginOffset": 1122
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    }
+  ]
+}

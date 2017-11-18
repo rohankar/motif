@@ -1,0 +1,99 @@
+{
+  "documentSentiment": {
+    "magnitude": 3.7,
+    "score": -0.3
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "If I could have my wasted days back  \rWould I use them to get back on track?",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Stop to warm at karmas burning  \rOr look ahead, but keep on turning?",
+        "beginOffset": 79
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Do I have the strength  \rTo know how I'll go?",
+        "beginOffset": 153
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Can I find it inside  \rTo deal with what I shouldn't know?",
+        "beginOffset": 201
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Could I have my wasted days back  \rWould I use them to get back on track?",
+        "beginOffset": 265
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "You live it or lie it!",
+        "beginOffset": 344
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "My lifestyle determines my deathstyle  \r  \rKeep searching, keep on searching  \rThis search goes on, this search goes on  \r  \rFrantic tick tick tick tick tick tick tock  \rFrantic tick tick tick tick tick tick tock  \r  \rI've worn out always being afraid  \rAn endless stream of fear that I've made  \rTreading water full of worry  \rThis frantic tick tick talk of hurry  \r  \rDo I have the strength  \rTo know how I'll go?",
+        "beginOffset": 372
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Can I find it inside  \rTo deal with what I shouldn't know  \r  \rWorn out always being afraid  \rAn endless stream of fear that I've made  \r  \rYou live it or lie it!",
+        "beginOffset": 790
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "My lifestyle determines my deathstyle  \r  \rKeep searching, keep on searching  \rThis search goes on, this search goes on  \r  \rFrantic tick tick tick tick tick tick tock  \rFrantic tick tick tick tick tick tick tock  \r  \rMy lifestyle (Birth is pain)  \rDetermines by deathstyle (Life is pain)  \rA rising tide (Death is pain)  \rThat pushes to the other side (It's all the same)",
+        "beginOffset": 958
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    }
+  ]
+}

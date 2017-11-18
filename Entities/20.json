@@ -1,0 +1,311 @@
+{
+  "entities": [
+    {
+      "name": "refuge",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.40549248,
+      "mentions": [
+        {
+          "text": {
+            "content": "refuge",
+            "beginOffset": 187
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "thing",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.1857216,
+      "mentions": [
+        {
+          "text": {
+            "content": "thing",
+            "beginOffset": 43
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.12655783,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 379
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 656
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "power",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05475166,
+      "mentions": [
+        {
+          "text": {
+            "content": "power",
+            "beginOffset": 120
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "power",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.039576784,
+      "mentions": [
+        {
+          "text": {
+            "content": "power",
+            "beginOffset": 89
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.035376884,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 368
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 645
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sea",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.03468133,
+      "mentions": [
+        {
+          "text": {
+            "content": "sea",
+            "beginOffset": 100
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Moses",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.020624695,
+      "mentions": [
+        {
+          "text": {
+            "content": "Moses",
+            "beginOffset": 79
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "air",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015141109,
+      "mentions": [
+        {
+          "text": {
+            "content": "air",
+            "beginOffset": 223
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "air",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015141109,
+      "mentions": [
+        {
+          "text": {
+            "content": "air",
+            "beginOffset": 233
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "somewhere",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.013254389,
+      "mentions": [
+        {
+          "text": {
+            "content": "somewhere",
+            "beginOffset": 195
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "wish",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011250147,
+      "mentions": [
+        {
+          "text": {
+            "content": "wish",
+            "beginOffset": 390
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "difference",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008925501,
+      "mentions": [
+        {
+          "text": {
+            "content": "difference",
+            "beginOffset": 450
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "opportunity",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008845455,
+      "mentions": [
+        {
+          "text": {
+            "content": "opportunity",
+            "beginOffset": 281
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "II",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.008375001,
+      "mentions": [
+        {
+          "text": {
+            "content": "I  \rI",
+            "beginOffset": 384
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "I  \rI",
+            "beginOffset": 661
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "matter",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008169217,
+      "mentions": [
+        {
+          "text": {
+            "content": "matter",
+            "beginOffset": 503
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sky",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0045370446,
+      "mentions": [
+        {
+          "text": {
+            "content": "sky",
+            "beginOffset": 819
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sky",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0019909118,
+      "mentions": [
+        {
+          "text": {
+            "content": "sky",
+            "beginOffset": 719
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Oh",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0015868574,
+      "mentions": [
+        {
+          "text": {
+            "content": "Oh",
+            "beginOffset": 686
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

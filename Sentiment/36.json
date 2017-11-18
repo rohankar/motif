@@ -1,0 +1,59 @@
+{
+  "documentSentiment": {
+    "magnitude": 1.1,
+    "score": 0
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "You say that all you want are the simple things  \rLong walks on lonely beaches, guitars with nylon strings  \rBut underneath you'd rather leap through a hoop of fire  \rYou shy away from lips that want, that want to kiss you  \rTongue-tied on formal evenings, wealth don't impress you  \rBut if you ask me, you like the heat in a hoop of fire?",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "And it's hard to read just how you feel or what your dreams desire?",
+        "beginOffset": 342
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Your pulse that races when I'm close reads like a hoop of fire  \rYour pulse that races when I'm close reads like a hoop of fire  \rNo late nights making love in secret places  \rYou feel pressure all around you, mistrust in strangers faces  \rBut don't pretend you wouldn't spend some time in a hoop of fire  \rAnd it's hard to read just how you feel or what your dreams desire?",
+        "beginOffset": 412
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Your pulse that races when I'm close reads like a hoop of fire  \rYour pulse that races when I'm close reads like a hoop of fire  \rBut don't pretend you wouldn't spend some time in a hoop of fire  \rAnd it's hard to read just how you feel or what your dreams desire?",
+        "beginOffset": 789
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Your pulse that races when I'm close reads like a hoop of fire  \rYour pulse that races when I'm close reads like a hoop of fire  \rYour pulse that races when I'm close reads like a hoop of fire",
+        "beginOffset": 1056
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    }
+  ]
+}

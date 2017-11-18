@@ -1,0 +1,1074 @@
+{
+  "entities": [
+    {
+      "name": "Damn",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.35925806,
+      "mentions": [
+        {
+          "text": {
+            "content": "money",
+            "beginOffset": 451
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "M O N E Y",
+            "beginOffset": 476
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "money",
+            "beginOffset": 507
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Damn",
+            "beginOffset": 525
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "honey",
+            "beginOffset": 514
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "money",
+            "beginOffset": 837
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "money",
+            "beginOffset": 1497
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "money",
+            "beginOffset": 1732
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lover",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.3388436,
+      "mentions": [
+        {
+          "text": {
+            "content": "lover",
+            "beginOffset": 298
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "lover",
+            "beginOffset": 804
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "lover",
+            "beginOffset": 1229
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "lover",
+            "beginOffset": 1464
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "lover",
+            "beginOffset": 1699
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "honey",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.047656085,
+      "mentions": [
+        {
+          "text": {
+            "content": "honey",
+            "beginOffset": 338
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "money",
+            "beginOffset": 394
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "money",
+            "beginOffset": 1795
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "money",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.040815506,
+      "mentions": [
+        {
+          "text": {
+            "content": "money",
+            "beginOffset": 775
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "money",
+            "beginOffset": 1382
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "money",
+            "beginOffset": 1435
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "money",
+            "beginOffset": 1617
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "honey",
+            "beginOffset": 1624
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "money",
+            "beginOffset": 1670
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "honey",
+            "beginOffset": 1677
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "honey",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.027238175,
+      "mentions": [
+        {
+          "text": {
+            "content": "honey",
+            "beginOffset": 907
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "honey",
+            "beginOffset": 1332
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "honey",
+            "beginOffset": 1567
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "honey",
+            "beginOffset": 1802
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "honey",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022455433,
+      "mentions": [
+        {
+          "text": {
+            "content": "honey",
+            "beginOffset": 276
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "money",
+            "beginOffset": 331
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.020643383,
+      "mentions": [
+        {
+          "text": {
+            "content": "Baby",
+            "beginOffset": 915
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Baby",
+            "beginOffset": 1340
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Baby",
+            "beginOffset": 1575
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Baby",
+            "beginOffset": 1810
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "MONEY",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019562237,
+      "mentions": [
+        {
+          "text": {
+            "content": "M O N E Y",
+            "beginOffset": 7
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pieces",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018177023,
+      "mentions": [
+        {
+          "text": {
+            "content": "pieces",
+            "beginOffset": 941
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "pieces",
+            "beginOffset": 1366
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "pieces",
+            "beginOffset": 1601
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "pieces",
+            "beginOffset": 1836
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Jag",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.016501987,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jag",
+            "beginOffset": 51
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "money",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015740948,
+      "mentions": [
+        {
+          "text": {
+            "content": "money",
+            "beginOffset": 900
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "money",
+            "beginOffset": 1325
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "money",
+            "beginOffset": 1560
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mistress",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.009497074,
+      "mentions": [
+        {
+          "text": {
+            "content": "mistress",
+            "beginOffset": 819
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "mistress",
+            "beginOffset": 1479
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "mistress",
+            "beginOffset": 1714
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "knees",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005063994,
+      "mentions": [
+        {
+          "text": {
+            "content": "knees",
+            "beginOffset": 203
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "k-kisses",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0032930444,
+      "mentions": [
+        {
+          "text": {
+            "content": "k-kisses",
+            "beginOffset": 757
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "k-kisses",
+            "beginOffset": 1417
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "k-kisses",
+            "beginOffset": 1652
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mansion",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0030819552,
+      "mentions": [
+        {
+          "text": {
+            "content": "mansion",
+            "beginOffset": 72
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "islands",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0030819552,
+      "mentions": [
+        {
+          "text": {
+            "content": "islands",
+            "beginOffset": 131
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "trips",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0030819552,
+      "mentions": [
+        {
+          "text": {
+            "content": "trips",
+            "beginOffset": 118
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0030819552,
+      "mentions": [
+        {
+          "text": {
+            "content": "jet",
+            "beginOffset": 60
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "k-kisses",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0028693157,
+      "mentions": [
+        {
+          "text": {
+            "content": "k-kisses",
+            "beginOffset": 251
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "money",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0027059668,
+      "mentions": [
+        {
+          "text": {
+            "content": "money",
+            "beginOffset": 269
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "honey",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0025949755,
+      "mentions": [
+        {
+          "text": {
+            "content": "honey",
+            "beginOffset": 401
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "honey",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0025949755,
+      "mentions": [
+        {
+          "text": {
+            "content": "honey",
+            "beginOffset": 458
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gifts",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002583708,
+      "mentions": [
+        {
+          "text": {
+            "content": "gifts",
+            "beginOffset": 108
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "K-k",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002479569,
+      "mentions": [
+        {
+          "text": {
+            "content": "K-k",
+            "beginOffset": 1180
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "money",
+            "beginOffset": 1262
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0019356412,
+      "mentions": [
+        {
+          "text": {
+            "content": "Baby",
+            "beginOffset": 409
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "honey",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0017549585,
+      "mentions": [
+        {
+          "text": {
+            "content": "honey",
+            "beginOffset": 782
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "honey",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0017549585,
+      "mentions": [
+        {
+          "text": {
+            "content": "honey",
+            "beginOffset": 844
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pieces",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0016943767,
+      "mentions": [
+        {
+          "text": {
+            "content": "pieces",
+            "beginOffset": 435
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mistress",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0016943767,
+      "mentions": [
+        {
+          "text": {
+            "content": "mistress",
+            "beginOffset": 313
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "money",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0016753294,
+      "mentions": [
+        {
+          "text": {
+            "content": "money",
+            "beginOffset": 957
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "honey",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0016064406,
+      "mentions": [
+        {
+          "text": {
+            "content": "honey",
+            "beginOffset": 964
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "money",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0013943601,
+      "mentions": [
+        {
+          "text": {
+            "content": "money",
+            "beginOffset": 1852
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "M O N E Y",
+            "beginOffset": 1877
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "knees",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0012990568,
+      "mentions": [
+        {
+          "text": {
+            "content": "knees",
+            "beginOffset": 709
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0011975159,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 1053
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "boat",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0008391323,
+      "mentions": [
+        {
+          "text": {
+            "content": "boat",
+            "beginOffset": 542
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "girls",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00078766316,
+      "mentions": [
+        {
+          "text": {
+            "content": "girls",
+            "beginOffset": 633
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "west coast",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.00078766316,
+      "mentions": [
+        {
+          "text": {
+            "content": "west coast",
+            "beginOffset": 567
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "beach",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.00078766316,
+      "mentions": [
+        {
+          "text": {
+            "content": "beach",
+            "beginOffset": 554
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "things",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00078766316,
+      "mentions": [
+        {
+          "text": {
+            "content": "things",
+            "beginOffset": 1007
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "candle",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00073004246,
+      "mentions": [
+        {
+          "text": {
+            "content": "candle",
+            "beginOffset": 1156
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tender",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00073004246,
+      "mentions": [
+        {
+          "text": {
+            "content": "tender",
+            "beginOffset": 1095
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "babe",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00073004246,
+      "mentions": [
+        {
+          "text": {
+            "content": "babe",
+            "beginOffset": 1082
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "champagne",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.00065970706,
+      "mentions": [
+        {
+          "text": {
+            "content": "champagne",
+            "beginOffset": 614
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "honey",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0005713861,
+      "mentions": [
+        {
+          "text": {
+            "content": "honey",
+            "beginOffset": 1442
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "honey",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0005713861,
+      "mentions": [
+        {
+          "text": {
+            "content": "honey",
+            "beginOffset": 1504
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0005696569,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 1170
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0005696569,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 1164
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "honey",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00039568913,
+      "mentions": [
+        {
+          "text": {
+            "content": "honey",
+            "beginOffset": 1739
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "honey",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00039568913,
+      "mentions": [
+        {
+          "text": {
+            "content": "honey",
+            "beginOffset": 1859
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "money",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00026150479,
+      "mentions": [
+        {
+          "text": {
+            "content": "money",
+            "beginOffset": 1200
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "honey",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00025071518,
+      "mentions": [
+        {
+          "text": {
+            "content": "honey",
+            "beginOffset": 1207
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "honey",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00025071518,
+      "mentions": [
+        {
+          "text": {
+            "content": "honey",
+            "beginOffset": 1269
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "honey",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00025071518,
+      "mentions": [
+        {
+          "text": {
+            "content": "honey",
+            "beginOffset": 1389
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mistress",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00016336811,
+      "mentions": [
+        {
+          "text": {
+            "content": "mistress",
+            "beginOffset": 1244
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

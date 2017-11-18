@@ -1,0 +1,438 @@
+{
+  "entities": [
+    {
+      "name": "Life",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/04nr2",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Life"
+      },
+      "salience": 0.3232867,
+      "mentions": [
+        {
+          "text": {
+            "content": "Life",
+            "beginOffset": 219
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "place",
+            "beginOffset": 211
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Life",
+            "beginOffset": 528
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "place",
+            "beginOffset": 520
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Life",
+            "beginOffset": 801
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "place",
+            "beginOffset": 793
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "time",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.16205423,
+      "mentions": [
+        {
+          "text": {
+            "content": "time",
+            "beginOffset": 163
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "time",
+            "beginOffset": 472
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "time",
+            "beginOffset": 745
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Something",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.13337873,
+      "mentions": [
+        {
+          "text": {
+            "content": "Something",
+            "beginOffset": 30
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "head",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07551604,
+      "mentions": [
+        {
+          "text": {
+            "content": "head",
+            "beginOffset": 64
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "songs",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.05351865,
+      "mentions": [
+        {
+          "text": {
+            "content": "songs",
+            "beginOffset": 277
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "songs",
+            "beginOffset": 859
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "walk",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.04440873,
+      "mentions": [
+        {
+          "text": {
+            "content": "walk",
+            "beginOffset": 87
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "friend",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.03712558,
+      "mentions": [
+        {
+          "text": {
+            "content": "friend",
+            "beginOffset": 118
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "soul",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030063547,
+      "mentions": [
+        {
+          "text": {
+            "content": "soul",
+            "beginOffset": 379
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "change",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019794123,
+      "mentions": [
+        {
+          "text": {
+            "content": "change",
+            "beginOffset": 172
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "grace",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013246371,
+      "mentions": [
+        {
+          "text": {
+            "content": "grace",
+            "beginOffset": 241
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "freedom",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013246371,
+      "mentions": [
+        {
+          "text": {
+            "content": "freedom",
+            "beginOffset": 286
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Praise Praise",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012373581,
+      "mentions": [
+        {
+          "text": {
+            "content": "Praise  \rPraise",
+            "beginOffset": 608
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "freedom",
+            "beginOffset": 595
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "clock",
+            "beginOffset": 643
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012209331,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 359
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "world",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.012209331,
+      "mentions": [
+        {
+          "text": {
+            "content": "world",
+            "beginOffset": 396
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "world",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.012056626,
+      "mentions": [
+        {
+          "text": {
+            "content": "world",
+            "beginOffset": 332
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011179396,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 435
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "price",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01069158,
+      "mentions": [
+        {
+          "text": {
+            "content": "price",
+            "beginOffset": 352
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "change",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005858319,
+      "mentions": [
+        {
+          "text": {
+            "content": "change",
+            "beginOffset": 481
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "change",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0043800296,
+      "mentions": [
+        {
+          "text": {
+            "content": "change",
+            "beginOffset": 754
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "spirit",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003486921,
+      "mentions": [
+        {
+          "text": {
+            "content": "spirit",
+            "beginOffset": 706
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "grace",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0030345074,
+      "mentions": [
+        {
+          "text": {
+            "content": "grace",
+            "beginOffset": 823
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "freedom",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0030345074,
+      "mentions": [
+        {
+          "text": {
+            "content": "freedom",
+            "beginOffset": 868
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "grace",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0019233965,
+      "mentions": [
+        {
+          "text": {
+            "content": "grace",
+            "beginOffset": 550
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "songs",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0019233965,
+      "mentions": [
+        {
+          "text": {
+            "content": "songs",
+            "beginOffset": 586
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,1600 @@
+{
+  "entities": [
+    {
+      "name": "star",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.12542008,
+      "mentions": [
+        {
+          "text": {
+            "content": "star",
+            "beginOffset": 619
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rock stars",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.07773185,
+      "mentions": [
+        {
+          "text": {
+            "content": "rock stars",
+            "beginOffset": 863
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "rock stars",
+            "beginOffset": 1826
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "rock stars",
+            "beginOffset": 2658
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.038002603,
+      "mentions": [
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": 167
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bleach blond hair",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.033695765,
+      "mentions": [
+        {
+          "text": {
+            "content": "bleach blond hair",
+            "beginOffset": 1171
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "bleach blond hair",
+            "beginOffset": 2136
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "bleach blond hair",
+            "beginOffset": 2968
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Hey",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.030771866,
+      "mentions": [
+        {
+          "text": {
+            "content": "rock star",
+            "beginOffset": 1227
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Hey",
+            "beginOffset": 1239
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Hey",
+            "beginOffset": 2386
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Hey",
+            "beginOffset": 3218
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "cars",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.02951792,
+      "mentions": [
+        {
+          "text": {
+            "content": "cars",
+            "beginOffset": 919
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "cars",
+            "beginOffset": 1882
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "cars",
+            "beginOffset": 2714
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bars",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.02951792,
+      "mentions": [
+        {
+          "text": {
+            "content": "bars",
+            "beginOffset": 1056
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "bars",
+            "beginOffset": 2019
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "bars",
+            "beginOffset": 2851
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "VIP",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02951792,
+      "mentions": [
+        {
+          "text": {
+            "content": "VIP",
+            "beginOffset": 1070
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "VIP",
+            "beginOffset": 2033
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "VIP",
+            "beginOffset": 2865
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Playboy bunny",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02951792,
+      "mentions": [
+        {
+          "text": {
+            "content": "Playboy bunny",
+            "beginOffset": 1150
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Playboy bunny",
+            "beginOffset": 2113
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Playboy bunny",
+            "beginOffset": 2945
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.029318118,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": 237
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.027256088,
+      "mentions": [
+        {
+          "text": {
+            "content": "life",
+            "beginOffset": 132
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hair",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025791835,
+      "mentions": [
+        {
+          "text": {
+            "content": "hair",
+            "beginOffset": 802
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "hair",
+            "beginOffset": 1766
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "clubs",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.024808504,
+      "mentions": [
+        {
+          "text": {
+            "content": "clubs",
+            "beginOffset": 39
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "king size tub",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021724788,
+      "mentions": [
+        {
+          "text": {
+            "content": "king size tub",
+            "beginOffset": 316
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bathroom",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.021724788,
+      "mentions": [
+        {
+          "text": {
+            "content": "bathroom",
+            "beginOffset": 276
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Cribs",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.021724788,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cribs",
+            "beginOffset": 262
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "line",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021724788,
+      "mentions": [
+        {
+          "text": {
+            "content": "line",
+            "beginOffset": 29
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "episode",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.021724788,
+      "mentions": [
+        {
+          "text": {
+            "content": "episode",
+            "beginOffset": 251
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ninth",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021724788,
+      "mentions": [
+        {
+          "text": {
+            "content": "ninth",
+            "beginOffset": 93
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bottom",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021724788,
+      "mentions": [
+        {
+          "text": {
+            "content": "bottom",
+            "beginOffset": 79
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "limit",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016947903,
+      "mentions": [
+        {
+          "text": {
+            "content": "limit",
+            "beginOffset": 424
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "anything",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015870541,
+      "mentions": [
+        {
+          "text": {
+            "content": "anything",
+            "beginOffset": 2265
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "anything",
+            "beginOffset": 3097
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "girls",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012299086,
+      "mentions": [
+        {
+          "text": {
+            "content": "girls",
+            "beginOffset": 1893
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Everybody",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010593433,
+      "mentions": [
+        {
+          "text": {
+            "content": "Everybody",
+            "beginOffset": 2297
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Everybody",
+            "beginOffset": 3129
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dictionary",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010593433,
+      "mentions": [
+        {
+          "text": {
+            "content": "dictionary",
+            "beginOffset": 2214
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "dictionary",
+            "beginOffset": 3046
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rooms",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.010593433,
+      "mentions": [
+        {
+          "text": {
+            "content": "rooms",
+            "beginOffset": 2190
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "rooms",
+            "beginOffset": 3022
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baseball",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010580207,
+      "mentions": [
+        {
+          "text": {
+            "content": "baseball",
+            "beginOffset": 296
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "centerfold",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010368319,
+      "mentions": [
+        {
+          "text": {
+            "content": "centerfold",
+            "beginOffset": 1588
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "body guards",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010368319,
+      "mentions": [
+        {
+          "text": {
+            "content": "body guards",
+            "beginOffset": 1342
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "songs",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.00925664,
+      "mentions": [
+        {
+          "text": {
+            "content": "songs",
+            "beginOffset": 2447
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "credit card",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008512451,
+      "mentions": [
+        {
+          "text": {
+            "content": "credit card",
+            "beginOffset": 398
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gold digger",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008149797,
+      "mentions": [
+        {
+          "text": {
+            "content": "gold digger",
+            "beginOffset": 1108
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "gold digger",
+            "beginOffset": 2071
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "gold digger",
+            "beginOffset": 2903
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rock star",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.006101592,
+      "mentions": [
+        {
+          "text": {
+            "content": "rock star",
+            "beginOffset": 1264
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Gonna",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.006062835,
+      "mentions": [
+        {
+          "text": {
+            "content": "mansion",
+            "beginOffset": 1565
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Gonna",
+            "beginOffset": 1575
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "drugs",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.005239494,
+      "mentions": [
+        {
+          "text": {
+            "content": "drugs",
+            "beginOffset": 954
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "movie stars",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0049825576,
+      "mentions": [
+        {
+          "text": {
+            "content": "movie stars",
+            "beginOffset": 1083
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004946602,
+      "mentions": [
+        {
+          "text": {
+            "content": "life",
+            "beginOffset": 758
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "drugs",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0048247837,
+      "mentions": [
+        {
+          "text": {
+            "content": "drugs",
+            "beginOffset": 1917
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "girls",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0045846095,
+      "mentions": [
+        {
+          "text": {
+            "content": "girls",
+            "beginOffset": 930
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fortune",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004499478,
+      "mentions": [
+        {
+          "text": {
+            "content": "fortune",
+            "beginOffset": 767
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fame",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004499478,
+      "mentions": [
+        {
+          "text": {
+            "content": "fame",
+            "beginOffset": 779
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bedroom",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0039572464,
+      "mentions": [
+        {
+          "text": {
+            "content": "bedroom",
+            "beginOffset": 459
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0039572464,
+      "mentions": [
+        {
+          "text": {
+            "content": "jet",
+            "beginOffset": 448
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tour bus",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0039572464,
+      "mentions": [
+        {
+          "text": {
+            "content": "tour bus",
+            "beginOffset": 581
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "guitars",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0039572464,
+      "mentions": [
+        {
+          "text": {
+            "content": "guitars",
+            "beginOffset": 602
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mile high club",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0039343555,
+      "mentions": [
+        {
+          "text": {
+            "content": "mile high club",
+            "beginOffset": 490
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fashion",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0038384644,
+      "mentions": [
+        {
+          "text": {
+            "content": "fashion",
+            "beginOffset": 1519
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cause",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003769255,
+      "mentions": [
+        {
+          "text": {
+            "content": "cause",
+            "beginOffset": 996
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Cause",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003769255,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cause",
+            "beginOffset": 832
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "drugs",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0036052598,
+      "mentions": [
+        {
+          "text": {
+            "content": "drugs",
+            "beginOffset": 2749
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hilltop houses",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.003549528,
+      "mentions": [
+        {
+          "text": {
+            "content": "hilltop houses",
+            "beginOffset": 888
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cause",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0034707852,
+      "mentions": [
+        {
+          "text": {
+            "content": "cause",
+            "beginOffset": 1959
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hilltop houses",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.003268439,
+      "mentions": [
+        {
+          "text": {
+            "content": "hilltop houses",
+            "beginOffset": 1851
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "door",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0032555119,
+      "mentions": [
+        {
+          "text": {
+            "content": "door",
+            "beginOffset": 1541
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cause",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0031761753,
+      "mentions": [
+        {
+          "text": {
+            "content": "cause",
+            "beginOffset": 2791
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "girls",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0031544308,
+      "mentions": [
+        {
+          "text": {
+            "content": "girls",
+            "beginOffset": 2725
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0030367556,
+      "mentions": [
+        {
+          "text": {
+            "content": "life",
+            "beginOffset": 1722
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "name",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002999695,
+      "mentions": [
+        {
+          "text": {
+            "content": "name",
+            "beginOffset": 821
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rock star",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002864401,
+      "mentions": [
+        {
+          "text": {
+            "content": "rock star",
+            "beginOffset": 3243
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rock star",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002864401,
+      "mentions": [
+        {
+          "text": {
+            "content": "rock star",
+            "beginOffset": 3206
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tassels",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0027962306,
+      "mentions": [
+        {
+          "text": {
+            "content": "tassels",
+            "beginOffset": 1321
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "name",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002762109,
+      "mentions": [
+        {
+          "text": {
+            "content": "name",
+            "beginOffset": 1785
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fortune",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002762109,
+      "mentions": [
+        {
+          "text": {
+            "content": "fortune",
+            "beginOffset": 1731
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fame",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002762109,
+      "mentions": [
+        {
+          "text": {
+            "content": "fame",
+            "beginOffset": 1743
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Lip sync",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002674534,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lip sync",
+            "beginOffset": 2570
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "money",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002658003,
+      "mentions": [
+        {
+          "text": {
+            "content": "money",
+            "beginOffset": 1623
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ass",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002658003,
+      "mentions": [
+        {
+          "text": {
+            "content": "ass",
+            "beginOffset": 1497
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "couple autographs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002658003,
+      "mentions": [
+        {
+          "text": {
+            "content": "couple autographs",
+            "beginOffset": 1393
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "meals",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002658003,
+      "mentions": [
+        {
+          "text": {
+            "content": "meals",
+            "beginOffset": 1429
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "quesadilla",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0026245264,
+      "mentions": [
+        {
+          "text": {
+            "content": "quesadilla",
+            "beginOffset": 1461
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hilltop houses",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0024419914,
+      "mentions": [
+        {
+          "text": {
+            "content": "hilltop houses",
+            "beginOffset": 2683
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0024323305,
+      "mentions": [
+        {
+          "text": {
+            "content": "fat",
+            "beginOffset": 1662
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "assholes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002401694,
+      "mentions": [
+        {
+          "text": {
+            "content": "assholes",
+            "beginOffset": 1375
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "movie stars",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0023684544,
+      "mentions": [
+        {
+          "text": {
+            "content": "movie stars",
+            "beginOffset": 2878
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Hollywood Boulevard Somewhere",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0023432046,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hollywood Boulevard  \rSomewhere",
+            "beginOffset": 627
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "James Dean",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/James_Dean",
+        "mid": "/m/01w32s8"
+      },
+      "salience": 0.0023432046,
+      "mentions": [
+        {
+          "text": {
+            "content": "James Dean",
+            "beginOffset": 678
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Cher",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/01vtj38",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Cher"
+      },
+      "salience": 0.0023432046,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cher",
+            "beginOffset": 667
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Playboy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0021284816,
+      "mentions": [
+        {
+          "text": {
+            "content": "Playboy",
+            "beginOffset": 1557
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "songs",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0020636055,
+      "mentions": [
+        {
+          "text": {
+            "content": "songs",
+            "beginOffset": 2562
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rock star",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0018190846,
+      "mentions": [
+        {
+          "text": {
+            "content": "rock star",
+            "beginOffset": 2411
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rock star",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0018190846,
+      "mentions": [
+        {
+          "text": {
+            "content": "rock star",
+            "beginOffset": 2374
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "censors",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0018054446,
+      "mentions": [
+        {
+          "text": {
+            "content": "censors",
+            "beginOffset": 2471
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pills",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0018054446,
+      "mentions": [
+        {
+          "text": {
+            "content": "pills",
+            "beginOffset": 2494
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dispenser",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0018054446,
+      "mentions": [
+        {
+          "text": {
+            "content": "dispenser",
+            "beginOffset": 2513
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "singers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0018054446,
+      "mentions": [
+        {
+          "text": {
+            "content": "singers",
+            "beginOffset": 2539
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Elvis",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/02jq1",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Elvis_Presley"
+      },
+      "salience": 0.0015736151,
+      "mentions": [
+        {
+          "text": {
+            "content": "Elvis",
+            "beginOffset": 1303
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "movie stars",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.001504038,
+      "mentions": [
+        {
+          "text": {
+            "content": "movie stars",
+            "beginOffset": 2046
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "speed dial",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0014254252,
+      "mentions": [
+        {
+          "text": {
+            "content": "speed dial",
+            "beginOffset": 3162
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "drug dealer",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0014254252,
+      "mentions": [
+        {
+          "text": {
+            "content": "drug dealer",
+            "beginOffset": 3147
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "smile",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0014254252,
+      "mentions": [
+        {
+          "text": {
+            "content": "smile",
+            "beginOffset": 3121
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Gonna",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0012216192,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gonna",
+            "beginOffset": 2481
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Pez",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0010687562,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pez",
+            "beginOffset": 2509
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "smile",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00090508664,
+      "mentions": [
+        {
+          "text": {
+            "content": "smile",
+            "beginOffset": 2289
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "speed dial",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00090508664,
+      "mentions": [
+        {
+          "text": {
+            "content": "speed dial",
+            "beginOffset": 2330
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "drug dealer",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0006031673,
+      "mentions": [
+        {
+          "text": {
+            "content": "drug dealer",
+            "beginOffset": 2315
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,19 @@
+{
+  "documentSentiment": {
+    "magnitude": 0.6,
+    "score": -0.6
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "Whoa-oh-oh x 2  \r  \rAny time that you want  \rI'll be here in your arms  \rSilently hlding on  \rTo the girl with the charms  \r  \rBut if there  \rComes a day  \rYou should turn your heart away  \rI'll be down  \rOn my knees  \rBegging for that girl to stay  \r  \rDon't let go  \rOo whoa-oh-oh (x 2)  \r  \rAnything you desire  \rI will set at your feet  \rWith a kiss in the air  \rFor the Gods to receive  \r  \rBut if there  \rComes a day  \rYou should turn your heart away  \rI'll be down  \rOn my knees  \rBegging for that girl to stay  \r  \rConfrontations in my mind  \rGot me running out of time  \r  \rDon't let go  \rOo whoa-oh-oh (x 2)  \r  \rBut if there  \rComes a day  \rYou should turn your heart away  \rI'll be down  \rOn my knees  \rBegging for that girl to stay  \r  \rConfrontations in my mind  \rGot me running out of time  \r  \rDon't let go  \rOo whoa-oh-oh (x 4)",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    }
+  ]
+}

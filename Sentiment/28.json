@@ -1,0 +1,19 @@
+{
+  "documentSentiment": {
+    "magnitude": 0.9,
+    "score": 0.9
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "She lives on Love Street  \rLingers long on Love Street  \rShe has a house and garden  \rI would like to see what happens  \rShe has robes and she has monkeys  \rLazy diamond studded flunkies  \r  \rShe has wisdom and knows what to do  \rShe has me and she has you  \rShe has wisdom and knows what to do  \rShe has me and she has you  \r  \rI see you live on Love Street  \rThere's this store where the creatures meet  \rI wonder what they do in there  \rSummer Sunday and a year  \r  \rI guess I like it fine, so far  \rShe lives on Love Street  \rLingers long on Love Street  \rShe has a house and garden  \rI would like to see what happens  \r  \rLa, la, la, la, la, la, la, La, la, la, la, la, la, la  \rLa, la, la, la, la, la, la, La, la, la, la, la, la, la",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ]
+}

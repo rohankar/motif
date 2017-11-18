@@ -1,0 +1,670 @@
+{
+  "entities": [
+    {
+      "name": "first",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.55237377,
+      "mentions": [
+        {
+          "text": {
+            "content": "first",
+            "beginOffset": 1154
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bed",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.13417014,
+      "mentions": [
+        {
+          "text": {
+            "content": "bed",
+            "beginOffset": 5
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "man",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.029678317,
+      "mentions": [
+        {
+          "text": {
+            "content": "man",
+            "beginOffset": 1595
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hand",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02910064,
+      "mentions": [
+        {
+          "text": {
+            "content": "hand",
+            "beginOffset": 923
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "hand",
+            "beginOffset": 1348
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "friends",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.02050938,
+      "mentions": [
+        {
+          "text": {
+            "content": "friends",
+            "beginOffset": 116
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cause",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02005152,
+      "mentions": [
+        {
+          "text": {
+            "content": "cause",
+            "beginOffset": 465
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "dance",
+            "beginOffset": 496
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cause",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016836908,
+      "mentions": [
+        {
+          "text": {
+            "content": "cause",
+            "beginOffset": 1016
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Cause",
+            "beginOffset": 1432
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bit",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0148221925,
+      "mentions": [
+        {
+          "text": {
+            "content": "bit",
+            "beginOffset": 36
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "song",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0148221925,
+      "mentions": [
+        {
+          "text": {
+            "content": "song",
+            "beginOffset": 57
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "radio",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0148221925,
+      "mentions": [
+        {
+          "text": {
+            "content": "radio",
+            "beginOffset": 69
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "heart",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0148221925,
+      "mentions": [
+        {
+          "text": {
+            "content": "heart",
+            "beginOffset": 185
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ooh ooh hoo hoo Mm",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014754135,
+      "mentions": [
+        {
+          "text": {
+            "content": "ooh",
+            "beginOffset": 258
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "ooh ooh hoo hoo  \rMm",
+            "beginOffset": 263
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "chance",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0146722505,
+      "mentions": [
+        {
+          "text": {
+            "content": "chance",
+            "beginOffset": 982
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "dance",
+            "beginOffset": 1047
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011113538,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 514
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pride",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008529584,
+      "mentions": [
+        {
+          "text": {
+            "content": "pride",
+            "beginOffset": 574
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "flowers",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0069742417,
+      "mentions": [
+        {
+          "text": {
+            "content": "flowers",
+            "beginOffset": 348
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "name",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005697943,
+      "mentions": [
+        {
+          "text": {
+            "content": "name",
+            "beginOffset": 224
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hand",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0056280233,
+      "mentions": [
+        {
+          "text": {
+            "content": "hand",
+            "beginOffset": 372
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "man",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0051390897,
+      "mentions": [
+        {
+          "text": {
+            "content": "man",
+            "beginOffset": 562
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dancing",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0051390897,
+      "mentions": [
+        {
+          "text": {
+            "content": "dancing",
+            "beginOffset": 521
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "party",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0047759754,
+      "mentions": [
+        {
+          "text": {
+            "content": "party",
+            "beginOffset": 458
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chance",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0047759754,
+      "mentions": [
+        {
+          "text": {
+            "content": "chance",
+            "beginOffset": 431
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "flowers",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0043168203,
+      "mentions": [
+        {
+          "text": {
+            "content": "flowers",
+            "beginOffset": 899
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ooh",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0040279618,
+      "mentions": [
+        {
+          "text": {
+            "content": "ooh",
+            "beginOffset": 809
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "woman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0038515774,
+      "mentions": [
+        {
+          "text": {
+            "content": "woman",
+            "beginOffset": 642
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mess",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0038515774,
+      "mentions": [
+        {
+          "text": {
+            "content": "mess",
+            "beginOffset": 718
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0038515774,
+      "mentions": [
+        {
+          "text": {
+            "content": "life",
+            "beginOffset": 672
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ways",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0038515774,
+      "mentions": [
+        {
+          "text": {
+            "content": "ways",
+            "beginOffset": 614
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "needs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003803189,
+      "mentions": [
+        {
+          "text": {
+            "content": "needs",
+            "beginOffset": 592
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ego",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003803189,
+      "mentions": [
+        {
+          "text": {
+            "content": "ego",
+            "beginOffset": 584
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.003395816,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 1065
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0028431695,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": 775
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "flowers",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0015745803,
+      "mentions": [
+        {
+          "text": {
+            "content": "flowers",
+            "beginOffset": 1317
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "man",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0015645371,
+      "mentions": [
+        {
+          "text": {
+            "content": "man",
+            "beginOffset": 1113
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dancing",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0015645371,
+      "mentions": [
+        {
+          "text": {
+            "content": "dancing",
+            "beginOffset": 1072
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "party",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0014536679,
+      "mentions": [
+        {
+          "text": {
+            "content": "party",
+            "beginOffset": 1009
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mistakes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0012531453,
+      "mentions": [
+        {
+          "text": {
+            "content": "mistakes",
+            "beginOffset": 1254
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "things",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0012147166,
+      "mentions": [
+        {
+          "text": {
+            "content": "things",
+            "beginOffset": 1490
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "things",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0012147166,
+      "mentions": [
+        {
+          "text": {
+            "content": "things",
+            "beginOffset": 1551
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "man",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0011735826,
+      "mentions": [
+        {
+          "text": {
+            "content": "man",
+            "beginOffset": 1534
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chance",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0010903915,
+      "mentions": [
+        {
+          "text": {
+            "content": "chance",
+            "beginOffset": 1396
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "party",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0010903915,
+      "mentions": [
+        {
+          "text": {
+            "content": "party",
+            "beginOffset": 1423
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

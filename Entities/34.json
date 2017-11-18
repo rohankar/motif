@@ -1,0 +1,397 @@
+{
+  "entities": [
+    {
+      "name": "Crystal",
+      "type": "CONSUMER_GOOD",
+      "metadata": {
+        "mid": "/m/01t4h",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Crystal"
+      },
+      "salience": 0.3133638,
+      "mentions": [
+        {
+          "text": {
+            "content": "Crystal",
+            "beginOffset": 44
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "lie",
+            "beginOffset": 158
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Crystal",
+            "beginOffset": 485
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "one",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.24458398,
+      "mentions": [
+        {
+          "text": {
+            "content": "one",
+            "beginOffset": 222
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pearl",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.13436796,
+      "mentions": [
+        {
+          "text": {
+            "content": "pearl",
+            "beginOffset": 418
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "captives",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.13130747,
+      "mentions": [
+        {
+          "text": {
+            "content": "captives",
+            "beginOffset": 718
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "friendship",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024982816,
+      "mentions": [
+        {
+          "text": {
+            "content": "friendship",
+            "beginOffset": 83
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "knots",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022763459,
+      "mentions": [
+        {
+          "text": {
+            "content": "knots",
+            "beginOffset": 74
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "web",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021935035,
+      "mentions": [
+        {
+          "text": {
+            "content": "web",
+            "beginOffset": 21
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jewel",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016387649,
+      "mentions": [
+        {
+          "text": {
+            "content": "jewel",
+            "beginOffset": 437
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "friend",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012077496,
+      "mentions": [
+        {
+          "text": {
+            "content": "friend",
+            "beginOffset": 450
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Crystal",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.009949401,
+      "mentions": [
+        {
+          "text": {
+            "content": "Crystal",
+            "beginOffset": 373
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Crystal",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008037336,
+      "mentions": [
+        {
+          "text": {
+            "content": "Crystal",
+            "beginOffset": 309
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "oyster",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007494366,
+      "mentions": [
+        {
+          "text": {
+            "content": "oyster",
+            "beginOffset": 401
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "world",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.006776807,
+      "mentions": [
+        {
+          "text": {
+            "content": "world",
+            "beginOffset": 387
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "distance",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005753391,
+      "mentions": [
+        {
+          "text": {
+            "content": "distance",
+            "beginOffset": 345
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "care",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005681345,
+      "mentions": [
+        {
+          "text": {
+            "content": "care",
+            "beginOffset": 284
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "run",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.005681345,
+      "mentions": [
+        {
+          "text": {
+            "content": "run",
+            "beginOffset": 208
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "end",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00526751,
+      "mentions": [
+        {
+          "text": {
+            "content": "end",
+            "beginOffset": 480
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "truth",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0046433248,
+      "mentions": [
+        {
+          "text": {
+            "content": "truth",
+            "beginOffset": 628
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "heart",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00394062,
+      "mentions": [
+        {
+          "text": {
+            "content": "heart",
+            "beginOffset": 677
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "peace",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0031390889,
+      "mentions": [
+        {
+          "text": {
+            "content": "peace",
+            "beginOffset": 778
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cells",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0027315428,
+      "mentions": [
+        {
+          "text": {
+            "content": "cells",
+            "beginOffset": 743
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bars",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0027315428,
+      "mentions": [
+        {
+          "text": {
+            "content": "bars",
+            "beginOffset": 797
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Crystal",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0024863645,
+      "mentions": [
+        {
+          "text": {
+            "content": "Crystal",
+            "beginOffset": 524
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "girl",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0020942865,
+      "mentions": [
+        {
+          "text": {
+            "content": "girl",
+            "beginOffset": 514
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fight",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0018220993,
+      "mentions": [
+        {
+          "text": {
+            "content": "fight",
+            "beginOffset": 585
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

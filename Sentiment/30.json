@@ -1,0 +1,19 @@
+{
+  "documentSentiment": {
+    "magnitude": 0.1,
+    "score": -0.1
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "Well, I'm the Crawlin' King Snake  \rAnd I rule my den  \rI'm the Crawlin' King Snake  \rAnd I rule my den  \rYeah, don't mess 'round with my mate  \rGonna use her for myself  \r  \rCaught me crawlin', baby, window  \rGrass is very high  \rKeep on crawlin' till the day I die  \rCrawlin' King Snake  \rAnd I rule my den  \rYou better give me what I want  \rGonna crawl no more  \r  \rCaught me crawlin', baby  \rCrawlin' 'round your door  \rSeein' everything I want  \rI'm gonna crawl on your floor  \rLet's crawl  \rAnd I rule my den  \rC'mon, give me what I want  \rAin't gonna crawl no more  \r  \rAlright, crawl a while  \r  \rC'mon crawl  \rC'mon crawl  \rGet on out there on your hands and knees, baby  \rCrawl all over me  \rJust like the spider on the wall  \rOoo, we gonn' crawl, one more  \r  \rWell, I'm the Crawlin' King Snake  \rAnd I rule my den  \rCall me the Crawlin' King Snake  \rAnd I rule my den  \rYeah, don't mess 'round with my mate  \rGonna use her for myself",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    }
+  ]
+}

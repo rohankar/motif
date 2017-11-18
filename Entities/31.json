@@ -1,0 +1,320 @@
+{
+  "entities": [
+    {
+      "name": "end",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.22075349,
+      "mentions": [
+        {
+          "text": {
+            "content": "end",
+            "beginOffset": 24
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "highway",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.1463966,
+      "mentions": [
+        {
+          "text": {
+            "content": "highway",
+            "beginOffset": 9
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "journey",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05923307,
+      "mentions": [
+        {
+          "text": {
+            "content": "journey",
+            "beginOffset": 87
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Some",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.050872706,
+      "mentions": [
+        {
+          "text": {
+            "content": "Some",
+            "beginOffset": 258
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Some",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.050872706,
+      "mentions": [
+        {
+          "text": {
+            "content": "Some",
+            "beginOffset": 225
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Some",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05025191,
+      "mentions": [
+        {
+          "text": {
+            "content": "Some",
+            "beginOffset": 192
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "delight",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.045684136,
+      "mentions": [
+        {
+          "text": {
+            "content": "delight",
+            "beginOffset": 248
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "delight",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.045684136,
+      "mentions": [
+        {
+          "text": {
+            "content": "delight",
+            "beginOffset": 215
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "realms",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04512478,
+      "mentions": [
+        {
+          "text": {
+            "content": "realms",
+            "beginOffset": 174
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Realms",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.04512478,
+      "mentions": [
+        {
+          "text": {
+            "content": "Realms",
+            "beginOffset": 157
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "light",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.038298275,
+      "mentions": [
+        {
+          "text": {
+            "content": "light",
+            "beginOffset": 184
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bliss",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.038298275,
+      "mentions": [
+        {
+          "text": {
+            "content": "bliss",
+            "beginOffset": 167
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Some",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.035129633,
+      "mentions": [
+        {
+          "text": {
+            "content": "Some",
+            "beginOffset": 470
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "delight",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.031513505,
+      "mentions": [
+        {
+          "text": {
+            "content": "delight",
+            "beginOffset": 460
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Some",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015597388,
+      "mentions": [
+        {
+          "text": {
+            "content": "Some",
+            "beginOffset": 404
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Some",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015597388,
+      "mentions": [
+        {
+          "text": {
+            "content": "Some",
+            "beginOffset": 437
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Realms",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.013973592,
+      "mentions": [
+        {
+          "text": {
+            "content": "Realms",
+            "beginOffset": 369
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "realms",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013973592,
+      "mentions": [
+        {
+          "text": {
+            "content": "realms",
+            "beginOffset": 386
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "delight",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013973592,
+      "mentions": [
+        {
+          "text": {
+            "content": "delight",
+            "beginOffset": 427
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bliss",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011823222,
+      "mentions": [
+        {
+          "text": {
+            "content": "bliss",
+            "beginOffset": 379
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "light",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011823222,
+      "mentions": [
+        {
+          "text": {
+            "content": "light",
+            "beginOffset": 396
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

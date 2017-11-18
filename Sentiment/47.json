@@ -1,0 +1,89 @@
+{
+  "documentSentiment": {
+    "magnitude": 3.3,
+    "score": 0
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "Cosmic Charlie how do you do  \rTruckin' in style along the avenue  \rDum de dum de do da lee do  \rGo on home your mama's calling you.",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Calico Cal, ya come tell me the news  \rCalamity's waiting for a way to get to her  \rRosey red and electric blue  \rI bought you a paddle for your paper canoe.",
+        "beginOffset": 138
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Say you'll come back when you can  \rWhenever your airplane happens to land  \rMaybe I'll be back here too  \rIt all depends on what's with you.",
+        "beginOffset": 301
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Woke up waiting for a windy day  \rCat on I ? since the first of February  \rMama keeps saying that the wind might blow  \rBut standing here I say I just don't know.",
+        "beginOffset": 448
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "New ones come in as the old ones go  \rEverything's moving here but much too slowly  \rA little bit quicker and we might have time  \rTo say how do you do before we left behind.",
+        "beginOffset": 616
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Calliope wail like a seaside zoo  \rThe very last lately inquired about you  \rIt's really very one or two  \rThe first you wanted the last I knew.",
+        "beginOffset": 796
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "I just wonder if you shouldn't feel  \rLess concerned about the people unreal  \rThe very first word is how do you do  \rThe last go home your mama's calling you.",
+        "beginOffset": 946
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Calling you oh, oh, oh, oh, h,  \rCalling you oh, oh, oh,  \rCalling you oh, oh, oh,  \rCalling you oh, oh, oh  \r  \rCalling you oh, oh, oh,  \rGo on home your mama's calling you  \rCalling you oh, oh, oh,  \rGo on home your mama's calling you  \rCalling you oh, oh, oh,  \rGo on home your mama's calling you  \rGo on home your mama's calling you",
+        "beginOffset": 1111
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    }
+  ]
+}

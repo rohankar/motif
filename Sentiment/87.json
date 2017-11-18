@@ -1,0 +1,29 @@
+{
+  "documentSentiment": {
+    "magnitude": 0.8,
+    "score": -0.4
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "From underneath the trees, we watch the sky  \rConfusing stars for satellites  \rI never dreamed that you'd be mine  \rBut here we are, we're here tonight  \r  \rSinging Amen, I'm alive (I'm alive)  \rSinging Amen, I'm alive  \r  \rIf everyone cared and nobody cried  \rIf everyone loved and nobody lied  \rIf everyone shared and swallowed their pride  \rThen we'd see the day when nobody died  \rAnd I'm singing  \r  \rAmen I, Amen I, Amen I, I'm alive  \rAmen I, Amen I, Amen I, I'm alive  \r  \rAnd in the air the fireflies  \rOur only light in paradise  \rWe'll show the world they were wrong  \rAnd teach them all to sing along  \r  \rSinging Amen, I, I'm alive (I'm alive)  \rSinging Amen, I, I'm alive  \r  \rIf everyone cared and nobody cried  \rIf everyone loved and nobody lied  \rIf everyone shared and swallowed their pride  \rThen we'd see the day when nobody died  \rIf everyone cared and nobody cried  \rIf everyone loved and nobody lied  \rIf everyone shared and swallowed their pride  \rThen we'd see the day when nobody died  \r  \rAnd as we lie beneath the stars  \rWe realize how small we are  \rIf they could love like you and me  \rImagine what the world could be  \r  \rIf everyone cared and nobody cried  \rIf everyone loved and nobody lied  \rIf everyone shared and swallowed",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "their pride  \rThen we'd see the day when nobody died  \rIf everyone cared and nobody cried  \rIf everyone loved and nobody lied  \rIf everyone shared and swallowed their pride  \rThen we'd see the day when nobody died  \r  \rThen we'd see the day, we'd see the day  \rWhen nobody died  \rThen we'd see the day, we'd see the day  \rWhen nobody died  \rThen we'd see the day when nobody died",
+        "beginOffset": 1260
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    }
+  ]
+}

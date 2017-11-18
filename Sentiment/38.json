@@ -1,0 +1,29 @@
+{
+  "documentSentiment": {
+    "magnitude": 1,
+    "score": 0
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "As I awoke this evening with the smell of wood smoke clinging  \rLike a gentle cobweb hanging upon a painted tepee  \rOh I went to see my chieftain with my warlance and my woman  \rFor he told us that the yellow moon would very soon be leaving  \rThis I can't believe I said, I can't believe our warlord's dead  \rOh he would not leave the chosen ones to the buzzards and the soldiers guns  \r  \rOh great father of the Iroquois ever since I was young  \rI've read the writing of the smoke and breast fed on the sound of drums  \rI've learned to hurl the tomahawk and ride a painted pony wild  \rTo run the gauntlet of the Sioux, to make a chieftain's daughter mine  \r  \rAnd now you ask that I should watch  \rThe red man's race be slowly crushed  \rWhat kind of words are these to hear  \rFrom Yellow Dog whom white man fears  \r  \rI take only what is mine Lord, my pony, my squaw, and my child  \rI can't stay to see you die along with my tribe's pride  \rI go to search for the yellow moon and the fathers of our sons  \rWhere the red sun sinks in the hills of gold and the healing waters run  \r  \rTrampling down the prairie rose leaving hoof tracks in the sand  \rThose who wish to follow me I welcome with my hands  \rI heard from passing",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "renegades Geronimo was dead  \rHe'd been laying down his weapons when they filled him full of lead  \r  \rNow there seems no reason why I should carry on  \rIn this land that once was my land I can't find a home  \rIt's lonely and it's quiet and the horse soldiers are coming  \rAnd I think it's time I strung my bow and ceased my senseless running  \rFor soon I'll find the yellow moon along with my loved ones  \rWhere the buffaloes graze in clover fields without the sound of guns  \r  \rAnd the red sun sinks at last into the hills of gold  \rAnd peace to this young warrior comes with a bullet hole",
+        "beginOffset": 1225
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ]
+}

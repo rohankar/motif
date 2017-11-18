@@ -1,0 +1,29 @@
+{
+  "documentSentiment": {
+    "magnitude": 1.8,
+    "score": -0.9
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "I'ma be that nail in your coffin  \rSayin' that I soften  \rI was duckin' down to reload  \rSo you can save your petty explanations  \rI don't have the patience  \r  \rBefore you even say it I know  \rYou let your pride and your ego  \rTalk slick to me no  \rThat is not the way I get down  \rAnd look at how you lose your composure  \rNow let me show ya exactly how the breaking point sound  \r  \rI wanna see you choke on your lies  \rSwallow up your greed  \rSuffer all alone in your misery  \rChoke on your lies  \rSwallow up your greed  \rSuffer all alone in your misery  \r  \rWhat is it you want me to tell ya?",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    },
+    {
+      "text": {
+        "content": "I'm not the failure  \rI would rather live and let be  \rBut you can't make the right kinda threat to  \rPush me to let you  \rNo, you can't intimidate me  \rYou disrespect me so clearly  \rNow you better hear me  \rThat is not the way it goes down  \rYou did it to yourself and it's over  \rNow let me show ya exactly how the breaking point sounds  \r  \rI wanna see you choke on your lies  \rSwallow up your greed  \rSuffer all alone in your misery  \rChoke on your lies  \rSwallow up your greed  \rSuffer all alone in your misery  \r  \rI wanna see you choke on your lies  \rSwallow up your greed  \rSuffer all alone in your misery  \rChoke on your lies  \rSwallow up your greed  \rSuffer all alone in your misery  \r  \rYou did it to yourself  \rYou did it to yourself  \rYou did it to yourself  \rYou did it to yourself  \r  \rYou did it to yourself  \rYou did it to yourself  \rYou did it to yourself  \rYou did it to yourself  \r  \rI wanna see you choke on your lies  \rSwallow up your greed  \rSuffer all alone in your misery  \rChoke on your lies  \rSwallow up your greed  \rSuffer all alone in your misery",
+        "beginOffset": 600
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    }
+  ]
+}

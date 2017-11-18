@@ -1,0 +1,19 @@
+{
+  "documentSentiment": {
+    "magnitude": 0.9,
+    "score": 0.9
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "Take the highway to the end of the night  \rEnd of the night, end of the night  \rTake a journey to the bright midnight  \rEnd of the night, end of the night  \rRealms of bliss, realms of light  \rSome are born to sweet delight  \rSome are born to sweet delight  \rSome are born to the endless night  \rEnd of the night, end of the night  \rEnd of the night, end of the night  \rRealms of bliss, realms of light  \rSome are born to sweet delight  \rSome are born to sweet delight  \rSome are born to the endless night  \rEnd of the night, end of the night  \rEnd of the night, end of the night",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ]
+}

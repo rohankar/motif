@@ -1,0 +1,19 @@
+{
+  "documentSentiment": {
+    "magnitude": 0.8,
+    "score": -0.8
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "One, two, three... well  \rI ran away from you  \rThat's all I ever do  \rAnd though I started here  \rI ran away from you  \r  \rI'm gonna come on in  \rAnd see it through  \r  \rI ran away from you  \rThat's all I ever do  \r  \rAnd when I heard you call to  \rCome back to me  \rAnd though I should stay  \rI don't have the stomach to  \r  \rEveryone I know  \rSays I'm a fool mess with you  \rEveryone I know  \rSays it's a stupid thing to do  \r  \rI have your love on call  \rAnd yet my day is not so full  \rThere might be nothing left to do  \rSo I ran away from you  \r  \rI'm gonna come on in  \rMy eyes are closed  \r  \rI can feel it there  \rThe sun's so close  \rI'm gonna come on out  \rAnd burn the sky  \r  \rA star arose in my own cage  \rI'm stuck in line  \rAnd in a cage  \r  \rJust a single star  \rI sing for  \r  \rEveryone I know  \rSays I'm a fool mess with you  \rEveryone I know  \rSays it's a stupid thing to do  \r  \rI have your love on call  \rAnd yet my day is not so full  \rAnd I did not know what to do  \rAnd so I ran away from you",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    }
+  ]
+}

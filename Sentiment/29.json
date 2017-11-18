@@ -1,0 +1,19 @@
+{
+  "documentSentiment": {
+    "magnitude": 0.3,
+    "score": -0.3
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "Well I used to know someone fair  \rShe had orange ribbons in her hair  \rShe was such a trip  \rShe was hardly there  \rBut I loved her  \rJust the same  \r  \rThere was rain in our window  \rThe FM set was ragged  \rBut she could talk, yeah  \rWe learned to speak  \r  \rAnd one year  \rHas gone by  \r  \rSuch a long long road to seek it  \rAll we did was break and freak it  \rWe had all  \rThat lovers ever had  \rWe just blew it  \rAnd I'm not sad  \r  \rWell I'm mad  \r  \rAnd I'm bad  \r  \rAnd two years  \rHave gone by  \r  \rNow her world was bright orange  \rAnd the fire glowed  \rAnd her friend had a baby  \rAnd she lived with us  \rYeah, we broke through the window  \rYeah, we knocked on the door  \rHer phone would not answer  \rYeah, but she's still home  \r  \rNow her father has passed over  \rAnd her sister is a star  \rAnd her mother smokes diamonds  \rAnd she sleeps out in the car  \r  \rYeah, but she remembers Chicago  \rThe musicians and guitars  \rAnd grass by the lake  \rAnd people who laugh'd  \rAnd made her poor heart ache  \r  \rNow we live down in the valley  \rWe work out on the farm  \rWe climb up to the mountains  \rAnd everything's fine  \r  \rAnd I'm still here  \rAnd you're still there  \rAnd we're still around",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    }
+  ]
+}

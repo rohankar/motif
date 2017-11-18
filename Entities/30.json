@@ -1,0 +1,509 @@
+{
+  "entities": [
+    {
+      "name": "Crawlin' King Snake",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "mid": "/m/04yd7py",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Crawling_King_Snake"
+      },
+      "salience": 0.16756633,
+      "mentions": [
+        {
+          "text": {
+            "content": "Crawlin' King Snake",
+            "beginOffset": 14
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Crawlin' King Snake",
+            "beginOffset": 64
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Crawlin' King Snake",
+            "beginOffset": 269
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Crawlin' King Snake",
+            "beginOffset": 786
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Crawlin' King Snake",
+            "beginOffset": 840
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Gonna",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.16047661,
+      "mentions": [
+        {
+          "text": {
+            "content": "mate",
+            "beginOffset": 138
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Gonna",
+            "beginOffset": 145
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Gonna",
+            "beginOffset": 344
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Gonna",
+            "beginOffset": 921
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "den",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.107678354,
+      "mentions": [
+        {
+          "text": {
+            "content": "den",
+            "beginOffset": 50
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "den",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.107678354,
+      "mentions": [
+        {
+          "text": {
+            "content": "den",
+            "beginOffset": 100
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Seein",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.042636037,
+      "mentions": [
+        {
+          "text": {
+            "content": "Seein",
+            "beginOffset": 424
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "door",
+            "beginOffset": 417
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.034849603,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 195
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "window Grass",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.032718252,
+      "mentions": [
+        {
+          "text": {
+            "content": "window  \rGrass",
+            "beginOffset": 201
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "round",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.03172267,
+      "mentions": [
+        {
+          "text": {
+            "content": "round",
+            "beginOffset": 124
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Ooo",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.029249968,
+      "mentions": [
+        {
+          "text": {
+            "content": "wall",
+            "beginOffset": 730
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Ooo",
+            "beginOffset": 737
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "den",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.027983023,
+      "mentions": [
+        {
+          "text": {
+            "content": "den",
+            "beginOffset": 305
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.023592623,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 389
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "crawl",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022518067,
+      "mentions": [
+        {
+          "text": {
+            "content": "crawl",
+            "beginOffset": 751
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "den C'mon",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02159995,
+      "mentions": [
+        {
+          "text": {
+            "content": "den  \rC'mon",
+            "beginOffset": 511
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "more",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021469679,
+      "mentions": [
+        {
+          "text": {
+            "content": "more",
+            "beginOffset": 359
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Crawlin",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019514699,
+      "mentions": [
+        {
+          "text": {
+            "content": "Crawlin",
+            "beginOffset": 396
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "den",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.019416187,
+      "mentions": [
+        {
+          "text": {
+            "content": "den",
+            "beginOffset": 822
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "everything",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018796202,
+      "mentions": [
+        {
+          "text": {
+            "content": "everything",
+            "beginOffset": 431
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "floor",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0172067,
+      "mentions": [
+        {
+          "text": {
+            "content": "floor",
+            "beginOffset": 475
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "den",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.013462191,
+      "mentions": [
+        {
+          "text": {
+            "content": "den",
+            "beginOffset": 876
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Ai",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011197206,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ai",
+            "beginOffset": 546
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Alright",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0102031445,
+      "mentions": [
+        {
+          "text": {
+            "content": "Alright",
+            "beginOffset": 577
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "round",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.010189292,
+      "mentions": [
+        {
+          "text": {
+            "content": "round",
+            "beginOffset": 900
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mate",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010189292,
+      "mentions": [
+        {
+          "text": {
+            "content": "mate",
+            "beginOffset": 914
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "C'mon crawl C'mon crawl",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009907294,
+      "mentions": [
+        {
+          "text": {
+            "content": "C'mon crawl  \rC'mon crawl",
+            "beginOffset": 605
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0071021835,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 675
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hands",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0056530186,
+      "mentions": [
+        {
+          "text": {
+            "content": "hands",
+            "beginOffset": 658
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "knees",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0056530186,
+      "mentions": [
+        {
+          "text": {
+            "content": "knees",
+            "beginOffset": 668
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "spider",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0056530186,
+      "mentions": [
+        {
+          "text": {
+            "content": "spider",
+            "beginOffset": 716
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Crawl",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/0fq1l67",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Crawling_(human)"
+      },
+      "salience": 0.0041170497,
+      "mentions": [
+        {
+          "text": {
+            "content": "Crawl",
+            "beginOffset": 682
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

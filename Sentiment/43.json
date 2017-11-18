@@ -1,0 +1,29 @@
+{
+  "documentSentiment": {
+    "magnitude": 1.2,
+    "score": 0
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "Some guys fall in love with one girl, I gotta fall for two  \rThere's just so much loving that one heart's supposed to do  \rSo I go around with my heart dragging on the ground  \rDogging me around, I'm the sorriest sight in town  \r  \r[Chorus]  \rI got double trouble, I got double trouble  \rI got double trouble twice as much as anybody else oh yeah!",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "I guess there's gotta be two dark clouds hanging over me  \rMy future looks a bumpy as a matchbox on the sea  \rEvery time I think that I have finally got it made  \rSome losing cards are played, I just can't make the grade  \r  \r[Chorus: x2]",
+        "beginOffset": 353
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    }
+  ]
+}

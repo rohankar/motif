@@ -1,0 +1,19 @@
+{
+  "documentSentiment": {
+    "magnitude": 0.2,
+    "score": 0.2
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "[Verse 1]  \rFrom up above I heard  \rThe angels sing to me these words  \rAnd sometimes in your eyes  \rI see the beauty in the world  \r  \r[Chorus]  \rOh, now I'm floating so high  \rI blossom and die  \rSend your storm and your lightning to strike  \rMe between the eyes  \rEyes  \r  \r[Verse 2]  \rSometimes the stars decide  \rTo reflect in puddles in the dirt  \rWhen I look in your eyes  \rI forget all about what hurts  \r  \r[Chorus]  \rOh, now I'm floating so high  \rI blossom and die  \rSend your storm and your lightning to strike  \rMe between the eyes and cry  \r  \rBelieve in miracles  \r  \r[Outro]  \rOh hey  \rI'm floating up above the world now  \rOh hey  \rI'm floating up above the world now  \r  \rOoh, Oh, Oh  \rOh yeah, yeah, yeah",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    }
+  ]
+}

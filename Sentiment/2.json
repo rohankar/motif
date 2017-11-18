@@ -1,0 +1,29 @@
+{
+  "documentSentiment": {
+    "magnitude": 1.2,
+    "score": -0.6
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "Somebody better call a doctor, doctor  \rOr wake me up with a shove  \rI'm gonna knock you off your rocker, rocker  \r'Cause I think I'm in love  \rI tried to get a message to ya  \rBut you walked the other way  \rI need your magic touch, don't you know  \rI've got a habit and I can't let go  \rFeel the fire burnin' slow  \rYou better get it while it's hot now babe  \r'Cause I can't let go  \rDon't need no wedding with a shotgun, shotgun  \rSo don't you push me too far  \rDon't try to take me for a fool child, who child  \rDo you think that you are  \rYou really got it coming to ya  \rIt's gonna come as no surprise  \rI need your magic touch, don't you know  \rI'm after you and now I can't let go  \rTake it easy, take it slow  \rYou better get it while it's hot now babe  \r'Cause I can't let go  \rYou never know what you got  \rTill they take it away  \rI'm comin' ready or not  \rGonna get you some day  \rI need your magic touch, don't you know  \rI'm after you and now I can't let go  \rFeel the fire, burnin' slow  \rI got a habit and I'm back for more  \rYour",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "magic touch, don't you know  \rI'm after you and now I can't let go  \rFeel the fire, burnin' slow  \rYou better get it while it's hot now babe  \r'Cause I can't, can't, can't let you go",
+        "beginOffset": 1047
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    }
+  ]
+}

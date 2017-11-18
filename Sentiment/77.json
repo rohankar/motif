@@ -1,0 +1,29 @@
+{
+  "documentSentiment": {
+    "magnitude": 1.7,
+    "score": -0.8
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "Man, it's been a long day  \rStuck thinking 'bout it driving on the freeway  \rWondering if I really tried everything I could  \rNot knowing if I should try a little harder  \r  \rOoh, but I'm scared to death  \rThat there may not be another one like this  \rAnd I confess  \rThat I'm only holding on by a thin, thin thread  \rI'm kicking the curb 'cause you never heard  \rThe words that you needed so bad  \rAnd I'm kicking the dirt 'cause I never gave you  \rThe things that you needed to have  \rI'm so sad, sad  \r  \rMan, it's been a long night  \rJust sitting here trying not to look back  \rStill looking at the road we never drove on  \rAnd wondering if the one I chose was the right one  \r  \rOoh, but I'm scared to death  \rThat there may not be another one like this  \rAnd I confess  \rThat I'm only holding on by a thin, thin thread  \rI'm kicking the curb 'cause you never heard  \rThe words that you needed so bad  \rAnd I'm kicking the dirt 'cause I never gave you  \rThe things that you needed to have  \rI'm so sad, sad  \r  \rSo sad, so sad  \r  \rOoh, but I'm scared to death  \rThat there may not be another one like this  \rAnd I confess  \rThat I'm only holding on by",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "a thin, thin thread  \rI'm kicking the curb 'cause you never heard  \rThe words that you needed so bad  \rAnd I'm kicking the dirt 'cause I never gave you  \rThe things that you needed to have  \r  \rAnd I'm kicking the curb 'cause you never heard  \rThe words that you needed so bad  \rI'm so sad, so sad",
+        "beginOffset": 1158
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    }
+  ]
+}

@@ -1,0 +1,509 @@
+{
+  "entities": [
+    {
+      "name": "thing",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.70938516,
+      "mentions": [
+        {
+          "text": {
+            "content": "All",
+            "beginOffset": 157
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "thing",
+            "beginOffset": 189
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "part",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.070975676,
+      "mentions": [
+        {
+          "text": {
+            "content": "part",
+            "beginOffset": 992
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "thing",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.048743915,
+      "mentions": [
+        {
+          "text": {
+            "content": "thing",
+            "beginOffset": 779
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "thing",
+            "beginOffset": 1629
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "thing",
+            "beginOffset": 1740
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "thing",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02291376,
+      "mentions": [
+        {
+          "text": {
+            "content": "thing",
+            "beginOffset": 19
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mind",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017416725,
+      "mentions": [
+        {
+          "text": {
+            "content": "mind",
+            "beginOffset": 101
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rhyme",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017416725,
+      "mentions": [
+        {
+          "text": {
+            "content": "rhyme",
+            "beginOffset": 124
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pendulum swings",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0152672,
+      "mentions": [
+        {
+          "text": {
+            "content": "pendulum swings",
+            "beginOffset": 220
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Time",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Time",
+        "mid": "/m/07c_l"
+      },
+      "salience": 0.013678512,
+      "mentions": [
+        {
+          "text": {
+            "content": "Time",
+            "beginOffset": 170
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "end",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0065050675,
+      "mentions": [
+        {
+          "text": {
+            "content": "end",
+            "beginOffset": 741
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "end",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0064235535,
+      "mentions": [
+        {
+          "text": {
+            "content": "end",
+            "beginOffset": 666
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "clock",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0058728377,
+      "mentions": [
+        {
+          "text": {
+            "content": "clock",
+            "beginOffset": 286
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "window",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0058728377,
+      "mentions": [
+        {
+          "text": {
+            "content": "window",
+            "beginOffset": 386
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "memory",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0054132063,
+      "mentions": [
+        {
+          "text": {
+            "content": "memory",
+            "beginOffset": 593
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Things",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005116086,
+      "mentions": [
+        {
+          "text": {
+            "content": "Things",
+            "beginOffset": 1089
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rhyme",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0045360476,
+      "mentions": [
+        {
+          "text": {
+            "content": "rhyme",
+            "beginOffset": 883
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0045360476,
+      "mentions": [
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": 948
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mind",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0045360476,
+      "mentions": [
+        {
+          "text": {
+            "content": "mind",
+            "beginOffset": 860
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "everything",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0044791047,
+      "mentions": [
+        {
+          "text": {
+            "content": "everything",
+            "beginOffset": 485
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "times",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004259966,
+      "mentions": [
+        {
+          "text": {
+            "content": "times",
+            "beginOffset": 1036
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004176189,
+      "mentions": [
+        {
+          "text": {
+            "content": "life",
+            "beginOffset": 298
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "spite",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003970323,
+      "mentions": [
+        {
+          "text": {
+            "content": "spite",
+            "beginOffset": 935
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "property",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0036340938,
+      "mentions": [
+        {
+          "text": {
+            "content": "property",
+            "beginOffset": 1005
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0035677205,
+      "mentions": [
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": 1107
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "end",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0021202206,
+      "mentions": [
+        {
+          "text": {
+            "content": "end",
+            "beginOffset": 1508
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "trust",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0014766379,
+      "mentions": [
+        {
+          "text": {
+            "content": "trust",
+            "beginOffset": 1554
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "trust",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0014766379,
+      "mentions": [
+        {
+          "text": {
+            "content": "trust",
+            "beginOffset": 1665
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "end",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0014685029,
+      "mentions": [
+        {
+          "text": {
+            "content": "end",
+            "beginOffset": 1813
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "end",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0014685029,
+      "mentions": [
+        {
+          "text": {
+            "content": "end",
+            "beginOffset": 1888
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "end",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00093059026,
+      "mentions": [
+        {
+          "text": {
+            "content": "end",
+            "beginOffset": 1239
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "end",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00093059026,
+      "mentions": [
+        {
+          "text": {
+            "content": "end",
+            "beginOffset": 1433
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "memory",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0007835935,
+      "mentions": [
+        {
+          "text": {
+            "content": "memory",
+            "beginOffset": 1360
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "everything",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00064789853,
+      "mentions": [
+        {
+          "text": {
+            "content": "everything",
+            "beginOffset": 1254
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,19 @@
+{
+  "documentSentiment": {
+    "magnitude": 0.9,
+    "score": -0.9
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "Oh I'm really feeling mighty low  \rNo, no, no, I got no place that I can go  \rSo I've got some blues to sing  \rAnd oh, so much remembering, woe  \r  \rBlack cats, keep away from me  \rTake my advice, go shinning up a tree  \rI got hard luck, the hardest kind a luck you'll find  \rI ain't lyin', I've got the bluest kinda blues  \rDrivin' me right outta my mind  \r  \rShe's gone, said toodle-loo  \rKissed her good-bye and my-my, my money too  \rI've got hard luck, the hardest kinda luck you've seen  \rI mean, the way I'm runnin' lately  \rMy lucky number is thirteen  \r  \rWhere do I belong, everything I do is wrong, all wrong  \rWrong as can be  \rWho's stacking all the decks, lady luck has got the hex on me  \rI'm on her knee  \r  \rShove off, oh I'm warning you  \rThis thing I caught, you know could be catchin' too  \rI've got hard luck, the hardest kinda luck there can be  \rYes siree, I guess hard luck always chooses  \rNatural born losers like me",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    }
+  ]
+}

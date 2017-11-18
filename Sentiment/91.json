@@ -1,0 +1,59 @@
+{
+  "documentSentiment": {
+    "magnitude": 1.4,
+    "score": -0.1
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "Look at this photograph  \rEvery time I do it makes me laugh  \rHow did our eyes get so red?",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "And what the hell is on Joey's head?",
+        "beginOffset": 93
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "This is where I grew up  \rI think the present owner fixed it up  \rI never knew we ever went without  \rThe second floor is hard for sneakin' out  \r  \rAnd this is where I went to school  \rMost of the time I had better things to do  \rCriminal record says I broke in twice  \rI must of done it half a dozen times  \r  \rI wonder if it's too late  \rShould I go back and try to graduate?",
+        "beginOffset": 135
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Lot's better now than it was back then  \rIf I was them, I wouldn't let me in  \rOh, whoa, whoa, whoa, God, I  \r  \r[Chorus]  \rEvery memory of lookin' out the back door  \rI have the photo album spread out on my bedroom floor  \rIt's hard to say it  \rTime to say it  \rGood bye, good bye  \rEvery memory of walkin' out the front door  \rI found the photo of the friend that I was lookin' for  \rIt's hard to say it  \rTime to say it  \rGood bye, good bye, good bye  \r  \rRemember the old arcade?",
+        "beginOffset": 516
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Blew every dollar that we ever made  \rThe cops hated us hangin' out  \rThey said somebody went and burnt it down  \r  \rWe use to listen to the radio  \rAnd sing along with every song we know  \rWe said someday we'd find out how it feels  \rTo sing to more than just a steering wheel  \r  \rKim's the first girl I kissed  \rI was so nervous that I nearly missed  \rShe's had a couple of kids since then  \rI haven't seen her since God knows when  \rOh, whoa, whoa, whoa, God, I  \r  \r[Chorus]  \r  \rI miss that town  \rI miss their faces  \rYou can't erase  \rYou can't replace it  \rI miss it now  \rI can't believe it  \rSo hard to stay  \rToo hard to leave it  \r  \rIf I could relive those days  \rI know the one thing that would never change  \r  \r[Chorus]  \r  \rLook at this photograph  \rEvery time I do it makes me laugh  \rEvery time I do it makes me",
+        "beginOffset": 1002
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    }
+  ]
+}

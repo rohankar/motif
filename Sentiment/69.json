@@ -1,0 +1,29 @@
+{
+  "documentSentiment": {
+    "magnitude": 1.3,
+    "score": -0.6
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "Sometimes I need to remember just to breathe  \rSometimes I need you to stay away from me  \rSometimes I'm in disbelief, I didn't know  \rSomehow I need you to go  \r  \rDon't stay  \rForget our memories  \rForget our possibilities  \rWhat you were changing me into  \r(Just give me myself back and)  \rDon't stay  \rForget our memories  \rForget our possibilities  \rTake all your faithlessness with you  \r(Just give me myself back and)  \rDon't stay  \r  \rSometimes I feel like I trusted you too well  \rSometimes I just feel like screaming at myself  \rSometimes I'm in disbelief, I didn't know  \rSomehow I need to be alone  \r  \rDon't stay  \rForget our memories  \rForget our possibilities  \rWhat you were changing me into  \r(Just give me myself back and)  \rDon't stay  \rForget our memories  \rForget our possibilities  \rTake all your faithlessness with you  \r(Just give me myself back and)  \rDon't stay  \r  \rI don't need you anymore, don't want to be ignored  \rI don't need one more day, of you wasting me away  \rI don't need you anymore, I don't want to be ignored  \rI don't need one more day, of you wasting me away  \r(With no apologies)  \r  \rDon't stay  \rForget our memories  \rForget our possibilities  \rWhat you were changing me into  \r(Just give me myself back and)  \rDon't stay  \rForget our",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "memories  \rForget our possibilities  \rTake all your faithlessness with you  \r(Just give me myself back control)  \rDon't stay  \rDon't stay  \rDon't stay",
+        "beginOffset": 1282
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    }
+  ]
+}

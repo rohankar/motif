@@ -1,0 +1,516 @@
+{
+  "entities": [
+    {
+      "name": "mirror",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.17478664,
+      "mentions": [
+        {
+          "text": {
+            "content": "mirror",
+            "beginOffset": 30
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Lord",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.12474248,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lord",
+            "beginOffset": 777
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Lord",
+            "beginOffset": 1316
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.071389884,
+      "mentions": [
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": 150
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Everybody",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.062772736,
+      "mentions": [
+        {
+          "text": {
+            "content": "Everybody",
+            "beginOffset": 156
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "face",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05511143,
+      "mentions": [
+        {
+          "text": {
+            "content": "face",
+            "beginOffset": 61
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "past",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05511143,
+      "mentions": [
+        {
+          "text": {
+            "content": "past",
+            "beginOffset": 88
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lines",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05511143,
+      "mentions": [
+        {
+          "text": {
+            "content": "lines",
+            "beginOffset": 49
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Lord",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.026695251,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lord",
+            "beginOffset": 609
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sin",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025128813,
+      "mentions": [
+        {
+          "text": {
+            "content": "sin",
+            "beginOffset": 282
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "everybody",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.024365915,
+      "mentions": [
+        {
+          "text": {
+            "content": "everybody",
+            "beginOffset": 270
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024365915,
+      "mentions": [
+        {
+          "text": {
+            "content": "life",
+            "beginOffset": 184
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "things",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019795097,
+      "mentions": [
+        {
+          "text": {
+            "content": "things",
+            "beginOffset": 447
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "laughter",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019504467,
+      "mentions": [
+        {
+          "text": {
+            "content": "laughter",
+            "beginOffset": 523
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tear",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019504467,
+      "mentions": [
+        {
+          "text": {
+            "content": "tear",
+            "beginOffset": 546
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "books",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.018588789,
+      "mentions": [
+        {
+          "text": {
+            "content": "books",
+            "beginOffset": 346
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Lord",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.018315721,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lord",
+            "beginOffset": 1157
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tear",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017860597,
+      "mentions": [
+        {
+          "text": {
+            "content": "tear",
+            "beginOffset": 714
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "laughter",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017860597,
+      "mentions": [
+        {
+          "text": {
+            "content": "laughter",
+            "beginOffset": 691
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01629638,
+      "mentions": [
+        {
+          "text": {
+            "content": "life",
+            "beginOffset": 336
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pages",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015782943,
+      "mentions": [
+        {
+          "text": {
+            "content": "pages",
+            "beginOffset": 361
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sages",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01426968,
+      "mentions": [
+        {
+          "text": {
+            "content": "sages",
+            "beginOffset": 406
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fools",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01426968,
+      "mentions": [
+        {
+          "text": {
+            "content": "fools",
+            "beginOffset": 389
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dues",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01426968,
+      "mentions": [
+        {
+          "text": {
+            "content": "dues",
+            "beginOffset": 176
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "laughter",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013368254,
+      "mentions": [
+        {
+          "text": {
+            "content": "laughter",
+            "beginOffset": 1071
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tear",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013368254,
+      "mentions": [
+        {
+          "text": {
+            "content": "tear",
+            "beginOffset": 1094
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dreams",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012441685,
+      "mentions": [
+        {
+          "text": {
+            "content": "dreams",
+            "beginOffset": 856
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dreams",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012441685,
+      "mentions": [
+        {
+          "text": {
+            "content": "dreams",
+            "beginOffset": 925
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Sing",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011639541,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sing",
+            "beginOffset": 1217
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nobody",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011371617,
+      "mentions": [
+        {
+          "text": {
+            "content": "nobody",
+            "beginOffset": 208
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Dream on Dream on Dream on Dream",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "mid": "/g/1s05ym3_v"
+      },
+      "salience": 0.0056406376,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dream on  \rDream on  \rDream on  \rDream",
+            "beginOffset": 806
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Dream on  \rDream on  \rDream on  \rDream",
+            "beginOffset": 875
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Dream on Dream on Dream on Dream on Dream on Dream on Dream on Sing",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0050024856,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dream on  \rDream on  \rDream on  \rDream on  \rDream on  \rDream on  \rDream on  \r  \rSing",
+            "beginOffset": 944
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "laughter",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0044129076,
+      "mentions": [
+        {
+          "text": {
+            "content": "laughter",
+            "beginOffset": 1230
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tear",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0044129076,
+      "mentions": [
+        {
+          "text": {
+            "content": "tear",
+            "beginOffset": 1253
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

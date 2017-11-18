@@ -1,0 +1,131 @@
+{
+  "entities": [
+    {
+      "name": "friend",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.9301794,
+      "mentions": [
+        {
+          "text": {
+            "content": "friend",
+            "beginOffset": 244
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "friend",
+            "beginOffset": 559
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "friend",
+            "beginOffset": 781
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.03653337,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": 27
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "girl",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015704,
+      "mentions": [
+        {
+          "text": {
+            "content": "girl",
+            "beginOffset": 642
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "girl",
+            "beginOffset": 864
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "friend",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.006487942,
+      "mentions": [
+        {
+          "text": {
+            "content": "friend",
+            "beginOffset": 432
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "distance",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005975569,
+      "mentions": [
+        {
+          "text": {
+            "content": "distance",
+            "beginOffset": 138
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "things",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003934515,
+      "mentions": [
+        {
+          "text": {
+            "content": "things",
+            "beginOffset": 319
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Solo",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0011851718,
+      "mentions": [
+        {
+          "text": {
+            "content": "Solo",
+            "beginOffset": 704
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

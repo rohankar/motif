@@ -1,0 +1,29 @@
+{
+  "documentSentiment": {
+    "magnitude": 1.4,
+    "score": -0.1
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "Same bed but it feels just a little bit bigger now  \rOur song on the radio but it doesn't sound the same  \rWhen our friends talk about you, all it does is just tear me down  \r'Cause my heart breaks a little when I hear your name  \r  \rIt all just sounds like ooh, ooh ooh hoo hoo  \rMm, too young, too dumb to realize  \rThat I should have bought you flowers  \rAnd held your hand  \rShould have given you all my hours  \rWhen I had the chance  \rTake you to every party 'cause all you wanted to do was dance  \r  \rNow my baby's dancing  \rBut she's dancing with another man  \r  \rMy pride, my ego, my needs, and my selfish ways  \rCaused a good strong woman like you to walk out my life  \rNow I never, never get to clean up the mess I made, oh  \rAnd it haunts me every time I close my eyes  \r  \rIt all just sounds like ooh, ooh ooh ooh ooh  \rMm, too young, too dumb to realize  \rThat I should have bought you flowers  \rAnd held your hand  \rShould have given you all my hours  \rWhen I had the chance  \rTake you to every party 'cause all you wanted to do was dance  \r  \rNow my baby's dancing  \rBut she's dancing with another man  \r  \rAlthough it hurts  \rI'll be the first to say that I",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "was wrong  \rOh, I know I'm probably much too late  \rTo try and apologize for my mistakes  \rBut I just want you to know  \r  \rI hope he buys you flowers  \rI hope he holds your hand  \rGive you all his hours  \rWhen he has the chance  \rTake you to every party  \r'Cause I remember how much you loved to dance  \rDo all the things I should have done  \rWhen I was your man  \rDo all the things I should have done  \rWhen I was your man",
+        "beginOffset": 1174
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ]
+}

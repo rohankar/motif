@@ -1,0 +1,39 @@
+{
+  "documentSentiment": {
+    "magnitude": 1.2,
+    "score": 0.4
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "Well I realizes I've been hypnotized  \rI love you gypsy eyes  \rI love you gypsy eyes  \r  \rAll right  \rGypsy  \r  \rWay up in my tree I'm sitting by my fire  \rWonderin' where in this world might you be  \rAnd known' all the time  \rYour still rollin' along the country side  \rDo you still think about me?",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Oh my  \rGypsy  \r  \rWell I walked right on up to your rubble road side  \rThe one that rambles on for a million miles  \rYes I walked down this road searching for your love  \rAnd I found some too  \rBut I found her I ain't gonna let go  \r  \rI remember the first time I saw you  \rThe tears in your eyes oh that girl's tryin' to say  \rOh little girl you know I could love you  \rBut first I must make my getaway  \rTwo strange men fightin' to the death over me today  \rI'll try and meet you by the old highway  \rHey!",
+        "beginOffset": 305
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Well I realize that I've been hypnotized  \rI love you gypsy eyes  \rI love you gypsy eyes  \rI love you gypsy eyes  \rI love you gypsy eyes  \r  \rI've been searching so long  \rI think they made me lose the battle  \rDown against the road my worry knees  \rOff to the side I fall but I hear her sweet call  \rMy gypsy eyes fine and I've been saved  \rOh I've been saved  \rThat's why I love you  \rI said I love you  \rLord I love you",
+        "beginOffset": 819
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    }
+  ]
+}

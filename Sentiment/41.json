@@ -1,0 +1,19 @@
+{
+  "documentSentiment": {
+    "magnitude": 0.7,
+    "score": 0.7
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "Earth boy dream of angel  \rAngel she be sweet and make him have happy heart  \rIn land of love  \rAngel dream of earth boy, earth boy who'll be true  \rAnd love her till sun grow cold in land of love  \rAngel walk on street  \rEarth boy walking too  \rAll at once they meet  \rOo-oo-oo dreams come true  \rNow best part of story  \rLike two doves in land of love we will always be  \rHappy angel is you  \rHappy earth boy is me  \rAngel walk on street  \rEarth boy walking too  \rAll at once they meet  \rOo-oo-oo dreams come true  \rNow best part of story  \rLike two doves in land of love we will always be  \rHappy angel is you  \rHappy earth boy is me  \rEarth boy dream of angel  \rAngel dream of earth boy  \rEarth boy dream of angel  \rAngel dream of earth boy  \rEarth boy dream of angel",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    }
+  ]
+}

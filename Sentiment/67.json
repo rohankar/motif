@@ -1,0 +1,309 @@
+{
+  "documentSentiment": {
+    "magnitude": 6.7,
+    "score": 0
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "Oh-oh-oh-oh-oh!",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Oh-oh-oh-oh-oh-oh!",
+        "beginOffset": 16
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Caught in a bad romance  \rOh-oh-oh-oh-oh!",
+        "beginOffset": 37
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Oh-oh-oh-oh-oh-oh!",
+        "beginOffset": 79
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Caught in a bad romance  \r  \rRah rah ah-ah-ah!",
+        "beginOffset": 100
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Ro mah ro-mah-mah  \rGaga oh-la-la!",
+        "beginOffset": 149
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Want your bad romance  \r  \rRah rah ah-ah-ah!",
+        "beginOffset": 186
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Ro mah ro-mah-mah  \rGaga ooh-la-la!",
+        "beginOffset": 233
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Want your bad romance  \r  \rI want your ugly  \rI want your disease  \rI want your everything  \rAs long as it's free  \rI want your love  \rLove-love-love  \rI want your love  \r  \rI want your drama  \rThe touch of your hand  \rI want your leather studded kiss in the sand  \rI want your love  \rLove-love-love, I want your love (Love-love-love, I want your love)  \r  \rYou know that I want you  \rAnd you know that I need you  \rI want it bad  \rYour bad romance  \r  \rI want your love and  \rI want your revenge  \rYou and me could write a bad romance  \r(Oh-oh-oh-oh-oooh!)",
+        "beginOffset": 271
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "I want your love and  \rAll your lovers revenge  \rYou and me could write a bad romance  \r  \rOh-oh-oh-oh-oh!",
+        "beginOffset": 831
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Oh-oh-oh-oh-oh-oh!",
+        "beginOffset": 938
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Caught in a bad romance  \r  \rOh-oh-oh-oh-ooh!",
+        "beginOffset": 959
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Oh-oh-ooh-oh-oh-oh!",
+        "beginOffset": 1005
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Caught in a bad romance  \r  \rRah rah ah-ah-ah!",
+        "beginOffset": 1027
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Ro mah ro-mah-mah  \rGaga ooh-la-la!",
+        "beginOffset": 1076
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Want your bad romance  \r  \rI want your horror  \rI want your design  \r'Cause you're a criminal  \rAs long as your mine  \rI want your love  \rLove-love-love  \rI want your love  \r  \rI want your psycho, your vertigo shtick  \rWant you in my rear window  \rBaby you're sick, I want your love  \rLove-love-love, I want your love (Love-love-love, I want your love)  \r  \rYou know that I want you  \rAnd you know that I need you  \rI want it bad, bad romance  \r  \rI want your love and  \rI want your revenge  \rYou and me could write a bad romance  \r(Oh-oh-oh-oh-ooh!)",
+        "beginOffset": 1114
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "I want your love and  \rAll your lovers revenge  \rYou and me could write a bad romance  \r  \rOh-oh-oh-oh-ooh!",
+        "beginOffset": 1667
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Oh-oh-ooh-oh-oh-oh!",
+        "beginOffset": 1775
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Caught in a bad romance  \r  \rOh-oh-oh-oh-ooh!",
+        "beginOffset": 1797
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Oh-oh-ooh-oh-oh-oh!",
+        "beginOffset": 1843
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Caught in a bad romance  \r  \rRah rah ah-ah-ah!",
+        "beginOffset": 1865
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Ro mah ro-mah-mah  \rGaga ooh-la-la!",
+        "beginOffset": 1914
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Want your bad romance  \r  \rRah rah ah-ah-ah!",
+        "beginOffset": 1952
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Ro mah ro-mah-mah  \rGaga oh-la-la!",
+        "beginOffset": 1999
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Want your bad romance  \r  \rWalk, walk fashion baby, work it move that bitch crazy  \rWalk-walk fashion baby, work it move that bitch crazy  \rWalk-walk fashion baby, work it move that bitch crazy  \rWalk-walk passion baby, work it I'm a free bitch baby  \r  \rI want your love  \rAnd I want your revenge  \rI want your love  \rI don't wanna be friends  \r  \r(J'veux ton amour et je veux ta revanche j'veux ton amour)  \rI don't wanna be friends, I don't wanna be friends  \rI don't wanna be friends, I don't wanna be friends  \rWant your bad romance (caught in a bad romance) want your bad romance  \r  \rI want your love and  \rI want your revenge  \rYou and me could write a bad romance  \r(Oh-oh-oh-oh-ooh!)",
+        "beginOffset": 2036
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I want your love and  \rAll your lovers revenge  \rYou and me could write a bad romance  \r  \rOh-oh-oh-oh-ooh!",
+        "beginOffset": 2732
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Want your bad romance  \rCaught in a bad romance  \rWant your bad romance  \rOh-oh-oh-oh-ooh!",
+        "beginOffset": 2840
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Want your bad romance  \rCaught in a bad romance  \r  \rRah rah ah-ah-ah!",
+        "beginOffset": 2931
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Ro mah ro-mah-mah  \rGaga ooh-la-la!",
+        "beginOffset": 3004
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Want your bad romance",
+        "beginOffset": 3042
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    }
+  ]
+}

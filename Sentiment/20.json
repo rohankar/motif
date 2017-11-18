@@ -1,0 +1,49 @@
+{
+  "documentSentiment": {
+    "magnitude": 1,
+    "score": 0
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "Come on now, don't you want to see?",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "This thing that's happening to me  \rLike Moses has power over sea  \rSo you've got power over me  \r  \rCome on now, don't you want to know?",
+        "beginOffset": 38
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "You're a refuge, somewhere I can go  \rYou're air that, air that I can breathe  \rCause you're my golden opportunity  \r  \rAnd oh, oh yes I would  \rIf I only could  \rAnd you know I would  \rAnd baby I, oh baby I  \rI wish  \r  \rCome on now, don't you want to see?",
+        "beginOffset": 178
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Just what a difference you've made in me  \rI'll be waiting oh no matter what you say  \rCause I've been waiting for days, days, days  \r  \rAnd oh, oh yes I would  \rIf I only could  \rAnd you know I would  \rAnd baby I, oh baby I  \rI wish  \rI wish  \r  \rOh, oh, oh  \rOh, oh, oh  \rIf the sky's gonna fall down, let it fall on me  \rIf you're gonna break down, you can break on me  \rIf the sky's gonna fall down, let it fall on me  \rIf it's gonna rain down, it can rain on me  \rIt can rain on me",
+        "beginOffset": 438
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    }
+  ]
+}

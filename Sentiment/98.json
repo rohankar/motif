@@ -1,0 +1,19 @@
+{
+  "documentSentiment": {
+    "magnitude": 0.4,
+    "score": -0.4
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "Pretty pink baby blue  \rWhy dont(why dontcha) teach me sumthin new  \rWe're all(we're all) just babies in my veiw  \rSo crawl baby crawl baby  \r(repeat)  \r  \rMiss lady  \rYou coulda been born a little later but I don't care  \rSo what if yo head sports a couple of gray hairs  \rSame hea and actually I think its funky  \r(in a Claire Huxtible type of way)  \rMiss lady  \rIt looks to me like you need a little juice in ya life  \rCall me when dat big old house get lonelyfied  \rAnd I'll telleport from here to there  \rYou show me how its sposed to be done  \rI'll make sure you have young fun  \r  \rPretty pink baby blue  \rWhy dont(why dontcha) teach me sumthin new  \rWe're all(we're all) just babies in my veiw  \rSo crawl baby crawl baby  \r(repeat)  \r  \rYou're so sophisticated  \rJust me and miss lady  \rGot me talkin like a baby  \rYou got me talkin like a baby that baby talk  \r(keep repeating until fade)",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    }
+  ]
+}

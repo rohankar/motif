@@ -1,0 +1,19 @@
+{
+  "documentSentiment": {
+    "magnitude": 0.5,
+    "score": 0.5
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "Oh yeah  \rAlright  \r  \rSomebody's Heine'  \rIs crowdin' my icebox  \rSomebody's cold one  \rIs givin' me chills  \rGuess I'll just close my eyes  \r  \rOh yeah  \rAlright  \rFeels good  \rInside  \r  \rFlip on the tele  \rWrestle with Jimmy  \rSomething is bubbling  \rBehind my back  \rThe bottle is ready to blow  \r  \rSay it ain't so  \rYour drug is a heart breaker  \rSay it ain't so  \rMy love is a life taker  \r  \rI can't confront you  \rI never could do  \rThat which might hurt you  \rSo try and be cool  \rWhen I say  \rThis way is a water slide away from me  \rThat takes you further every day  \rSo be cool  \r  \rSay it ain't so  \rYour drug is a heart breaker  \rSay it ain't so  \rMy love is a life taker  \r  \rDear Daddy  \rI write you in spite of years of silence  \rYou've cleaned up, found Jesus, things are good or so I hear  \rThis bottle of Steven's awakens ancient feelings  \rLike father, stepfather, the son is drowning in the flood  \rYeah, yeah, yeah, yeah  \r  \rSay it ain't so  \rYour drug is a heart breaker  \rSay it ain't so  \rMy love is a life taker",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    }
+  ]
+}

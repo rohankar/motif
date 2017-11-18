@@ -1,0 +1,69 @@
+{
+  "documentSentiment": {
+    "magnitude": 1.9,
+    "score": 0.1
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "I'm through with standing in line  \rTo clubs I'll never get in  \rIt's like the bottom of the ninth  \rAnd I'm never gonna win  \rThis life hasn't turned out  \rQuite the way I want it to be  \r(Tell me what you want)  \r  \rI want a brand new house  \rOn an episode of Cribs  \rAnd a bathroom I can play baseball in  \rAnd a king size tub big enough  \rFor ten plus me  \r(So what you need?)",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "I'll need a credit card that's got no limit  \rAnd a big black jet with a bedroom in it  \rGonna join the mile high club  \rAt thirty-seven thousand feet  \r(Been there, done that)  \r  \rI want a new tour bus full of old guitars  \rMy own star on Hollywood Boulevard  \rSomewhere between Cher and  \rJames Dean is fine for me  \r(So how you gonna do it?)",
+        "beginOffset": 386
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "I'm gonna trade this life for fortune and fame  \rI'd even cut my hair and change my name  \r  \r'Cause we all just wanna be big rock stars  \rAnd live in hilltop houses driving fifteen cars  \rThe girls come easy and the drugs come cheap  \rWe'll all stay skinny 'cause we just won't eat  \rAnd we'll hang out in the coolest bars  \rIn the VIP with the movie stars  \rEvery good gold digger's gonna wind up there  \rEvery Playboy bunny in her bleach blond hair, and we'll  \rHey, hey, I want to be a rock star  \rHey, hey, I want to be a rock star  \r  \rI want to be great like Elvis without the tassels  \rHire eight body guards that love to beat up assholes  \rSign a couple autographs  \rSo I can eat my meals for free  \r(I'll have the quesadilla)  \r  \rI'm gonna dress my ass  \rWith the latest fashion  \rGet a front door key to the Playboy mansion  \rGonna date a centerfold that loves to  \rBlow my money for me  \r(Does this make me look fat?)",
+        "beginOffset": 737
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "(So how you gonna do it?)",
+        "beginOffset": 1670
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I'm gonna trade this life for fortune and fame  \rI'd even cut my hair and change my name  \r  \rCause we all just wanna be big rock stars  \rAnd live in hilltop houses driving fifteen cars  \rThe girls come easy and the drugs come cheap  \rWe'll all stay skinny 'cause we just won't eat  \rAnd we'll hang out in the coolest bars  \rIn the VIP with the movie stars  \rEvery good gold digger's gonna wind up there  \rEvery Playboy bunny with her bleach blond hair  \rAnd we'll hide out in the private rooms  \rWith the latest dictionary and today's who's who  \rThey'll get you anything with that evil smile  \rEverybody's got a drug dealer on speed dial, well  \rHey, hey, I want to be a rock star  \rHey, hey, I want to be a rock star  \r  \rI'm gonna sing those songs  \rThat offend the censors  \rGonna pop my pills  \rFrom a Pez dispenser  \rGet washed-up singers writing all my songs  \rLip sync 'em every night so I don't get 'em wrong  \r  \rWell, we all just want to be big rock stars  \rAnd live in hilltop houses driving fifteen cars  \rThe girls come easy and the drugs come cheap  \rWe'll all stay skinny 'cause we just won't eat  \rAnd we'll hang out in the coolest bars  \rIn the VIP with",
+        "beginOffset": 1701
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "the movie stars  \rEvery good gold digger's gonna wind up there  \rEvery Playboy bunny with her bleach blond hair  \rAnd we'll hide out in the private rooms  \rWith the latest dictionary and today's who's who  \rThey'll get you anything with that evil smile  \rEverybody's got a drug dealer on speed dial, well  \rHey, hey, I want to be a rock star  \rHey, hey, I want to be a rock star",
+        "beginOffset": 2874
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ]
+}

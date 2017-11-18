@@ -1,0 +1,29 @@
+{
+  "documentSentiment": {
+    "magnitude": 1.3,
+    "score": 0.6
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "God I love the sweet taste of India  \rLingers on the tip of my tongue  \rGotta love the sweet taste of India  \rBlame it on the beat of the drum  \r  \rGod I love the sweet taste of India  \rLingers on the tip of my tongue  \rGotta know that what's gotten into you  \rAny cat man do when it's done  \r  \rYeah, she's got that kind of love incense  \rThat lives in her back room  \rAnd when it mixes with the funk my friend  \rIt turns into perfume  \r  \rWhen you are born  \rYou're afraid of the darkness  \rThen you're afraid of the light  \rBut I'm not afraid  \rWhen I dance with my shadow  \r  \rThis time I'm gonna get it right  \rTo think of what I'll get tonight  \rJust lookin' for a little taste  \r(A Taste Of India)  \rShe'll steal the smile right off your face  \r  \rHer Yin and Yang  \rIs just the thing  \rShe's unpredictable my friend  \r  \rGod I love the sweet taste of India  \rLingers on the tip of my tongue  \rGotta know that what's gotten into you  \rAny cat man do when it's done  \r  \rIt's like your first taste, love, of vindaloo  \rThat sets your heart on fire  \rAnd if you let her stuff get into you  \rIt will be all that you desire  \r  \rWhen you make love to  \rA sweet tantric priestess  \rYou drink in the bliss of delight",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "But I'm not afraid  \rWhen I dance with her shadow  \r  \rThis time I'm gonna get it right  \rShe's gonna wake my appetite  \rJust lookin' for a little taste  \r(A Taste Of India)  \rShe'll steal the smile right off your face  \r  \rShe a friend of mine  \rShe a concubine  \rThe sweetest wine  \rI gotta make her mine  \r  \rGod I love the sweet taste of India  \rLingers on the tip of my tongue  \rGotta love the sweet taste of India  \rBlame it on the beat of the drum  \r  \rGod I love the sweet taste of India  \rLingers on the tip of my tongue  \rGotta know that what's gotten into you  \rAny cat man do when it's done  \r  \rJust think of what I'll get tonight  \rShe's gonna wake my appetite  \rJust lookin' for a little taste  \r(A Taste Of India)  \rShe'll steal the smile right off your face  \r  \rYow, yow...",
+        "beginOffset": 1220
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ]
+}

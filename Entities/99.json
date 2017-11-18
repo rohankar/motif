@@ -1,0 +1,670 @@
+{
+  "entities": [
+    {
+      "name": "outkast",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.29878613,
+      "mentions": [
+        {
+          "text": {
+            "content": "outkast",
+            "beginOffset": 721
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Operatin",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.15669698,
+      "mentions": [
+        {
+          "text": {
+            "content": "Operatin",
+            "beginOffset": 0
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "system",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05350645,
+      "mentions": [
+        {
+          "text": {
+            "content": "system",
+            "beginOffset": 36
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "society",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05350645,
+      "mentions": [
+        {
+          "text": {
+            "content": "society",
+            "beginOffset": 130
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "outkast",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04894291,
+      "mentions": [
+        {
+          "text": {
+            "content": "outkast",
+            "beginOffset": 185
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Outkast",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/011z3g",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Outkast"
+      },
+      "salience": 0.043025687,
+      "mentions": [
+        {
+          "text": {
+            "content": "Outkast",
+            "beginOffset": 54
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "existance",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.037084498,
+      "mentions": [
+        {
+          "text": {
+            "content": "existance",
+            "beginOffset": 1016
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "rube",
+            "beginOffset": 1059
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "american",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.03194908,
+      "mentions": [
+        {
+          "text": {
+            "content": "american",
+            "beginOffset": 27
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Adjective",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/09b_9",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Adjective"
+      },
+      "salience": 0.03194908,
+      "mentions": [
+        {
+          "text": {
+            "content": "Adjective",
+            "beginOffset": 85
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "someone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.028958503,
+      "mentions": [
+        {
+          "text": {
+            "content": "someone",
+            "beginOffset": 493
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hair",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02685929,
+      "mentions": [
+        {
+          "text": {
+            "content": "hair",
+            "beginOffset": 633
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nigga",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020002231,
+      "mentions": [
+        {
+          "text": {
+            "content": "nigga",
+            "beginOffset": 414
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "outkast",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010619016,
+      "mentions": [
+        {
+          "text": {
+            "content": "outkast",
+            "beginOffset": 482
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Tamperin",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010335987,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tamperin",
+            "beginOffset": 930
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "food",
+            "beginOffset": 913
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "principles",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009865844,
+      "mentions": [
+        {
+          "text": {
+            "content": "principles",
+            "beginOffset": 233
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "muzik",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009865844,
+      "mentions": [
+        {
+          "text": {
+            "content": "muzik",
+            "beginOffset": 291
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "truths",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009865844,
+      "mentions": [
+        {
+          "text": {
+            "content": "truths",
+            "beginOffset": 262
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "part",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008059462,
+      "mentions": [
+        {
+          "text": {
+            "content": "part",
+            "beginOffset": 529
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "world",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0076177106,
+      "mentions": [
+        {
+          "text": {
+            "content": "world",
+            "beginOffset": 548
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cracker",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00752198,
+      "mentions": [
+        {
+          "text": {
+            "content": "cracker",
+            "beginOffset": 400
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cracker",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00752198,
+      "mentions": [
+        {
+          "text": {
+            "content": "cracker",
+            "beginOffset": 436
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cadillac do",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006582932,
+      "mentions": [
+        {
+          "text": {
+            "content": "cadillac do",
+            "beginOffset": 369
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hoes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006582932,
+      "mentions": [
+        {
+          "text": {
+            "content": "hoes",
+            "beginOffset": 352
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "clothes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006101675,
+      "mentions": [
+        {
+          "text": {
+            "content": "clothes",
+            "beginOffset": 620
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "skin color",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006101675,
+      "mentions": [
+        {
+          "text": {
+            "content": "skin color",
+            "beginOffset": 675
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "occupation",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006101675,
+      "mentions": [
+        {
+          "text": {
+            "content": "occupation",
+            "beginOffset": 644
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "beliefs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006101675,
+      "mentions": [
+        {
+          "text": {
+            "content": "beliefs",
+            "beginOffset": 660
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "niggaz",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005184941,
+      "mentions": [
+        {
+          "text": {
+            "content": "niggaz",
+            "beginOffset": 850
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004537112,
+      "mentions": [
+        {
+          "text": {
+            "content": "life",
+            "beginOffset": 994
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "engineering control",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004537112,
+      "mentions": [
+        {
+          "text": {
+            "content": "engineering control",
+            "beginOffset": 964
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "water",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004537112,
+      "mentions": [
+        {
+          "text": {
+            "content": "water",
+            "beginOffset": 922
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "punk",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003142378,
+      "mentions": [
+        {
+          "text": {
+            "content": "punk",
+            "beginOffset": 1040
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "real",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003142378,
+      "mentions": [
+        {
+          "text": {
+            "content": "real",
+            "beginOffset": 1087
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "death",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.003142378,
+      "mentions": [
+        {
+          "text": {
+            "content": "death",
+            "beginOffset": 1097
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fakers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.003142378,
+      "mentions": [
+        {
+          "text": {
+            "content": "fakers",
+            "beginOffset": 1110
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Peace",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003142378,
+      "mentions": [
+        {
+          "text": {
+            "content": "Peace",
+            "beginOffset": 1119
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ciggarettes Disease",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0026871825,
+      "mentions": [
+        {
+          "text": {
+            "content": "ciggarettes  \rDisease",
+            "beginOffset": 942
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Poisonin",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0026871825,
+      "mentions": [
+        {
+          "text": {
+            "content": "Poisonin",
+            "beginOffset": 897
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "world",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0022759268,
+      "mentions": [
+        {
+          "text": {
+            "content": "world",
+            "beginOffset": 834
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "anything",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0019912687,
+      "mentions": [
+        {
+          "text": {
+            "content": "anything",
+            "beginOffset": 776
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fact",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0019912687,
+      "mentions": [
+        {
+          "text": {
+            "content": "fact",
+            "beginOffset": 759
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "matter",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0019912687,
+      "mentions": [
+        {
+          "text": {
+            "content": "matter",
+            "beginOffset": 749
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fuck",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.001754202,
+      "mentions": [
+        {
+          "text": {
+            "content": "fuck",
+            "beginOffset": 765
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

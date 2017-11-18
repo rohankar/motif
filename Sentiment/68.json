@@ -1,0 +1,29 @@
+{
+  "documentSentiment": {
+    "magnitude": 1.9,
+    "score": 0.9
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "That's M O N E Y, so sexy, I  \r  \rDamn, I love the Jag, the jet and the mansion  \rOh yeah  \rAnd I enjoy the gifts and trips to the islands  \rOh yeah  \r  \rIt's good to live expensive you know it  \rBut my knees get weak, intensive  \r  \rWhen you give me k-kisses  \rThat's money, honey  \rWhen I'm your lover and your mistress  \rThat's money, honey  \r  \rWhen you touch me it's so delicious  \rThat's money, honey  \rBaby, when you tear me to pieces  \rThat's money, honey  \r  \rThat's M O N E Y, so sexy, I  \rThat's money, honey  \r  \rDamn, I'd love a boat by the beach on the west coast  \rOh yeah  \rAnd I'd enjoy some fine champagne while my girls toast  \rOh yeah  \r  \rIt's good to live expensive you know it  \rBut my knees get weak, intensive  \r  \rWhen you give me k-kisses  \rThat's money, honey  \rWhen I'm your lover and your mistress  \rThat's money, honey  \r  \rWhen you touch me it's so delicious  \rThat's money, honey  \rBaby, when you tear me to pieces  \rThat's money, honey  \r  \rYou know I appreciate the finer things  \rBut it's not what makes me happiest, baby  \r(I can do without it, babe)  \rYour tender loving's more than I can handle  \rNever burn out this candle",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": ", baby, baby  \r  \rK-k-kisses  \rThat's money, honey  \rWhen I'm your lover and your mistress  \rThat's money, honey  \r  \rWhen you touch me it's so delicious  \rThat's money, honey  \rBaby, when you tear me to pieces  \rThat's money, honey  \r  \rWhen you give me k-kisses  \rThat's money, honey  \rWhen I'm your lover and your mistress  \rThat's money, honey  \r  \rWhen you touch me it's so delicious  \rThat's money, honey  \rBaby, when you tear me to pieces  \rThat's money, honey  \r  \rWhen you give me k-kisses  \rThat's money, honey  \rWhen I'm your lover and your mistress  \rThat's money, honey  \r  \rWhen you touch me it's so delicious  \rThat's money, honey  \rBaby, when you tear me to pieces  \rThat's money, honey  \r  \rThat's M O N E Y, so sexy, I",
+        "beginOffset": 1162
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ]
+}

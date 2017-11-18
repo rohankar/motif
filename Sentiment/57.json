@@ -1,0 +1,49 @@
+{
+  "documentSentiment": {
+    "magnitude": 1.1,
+    "score": 0.2
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "I pray for better days to come  \rI pray that I would see the sun  \rCuz life is so burdensome  \rWhen everyday's a rainy one  \r  \rBut suddenly there's no more clouds  \rI believe without a doubt  \rThat heaven sent an angel down  \rAnd then she turned my life around  \r  \rYou know and I know  \rFriends come and friends go  \rStorms rise and winds blow  \rBut one thing I know for sure  \r  \rWhen it's cold outside  \rThere's no need to worry cuz  \rI'm so warm inside  \rYou give me peace  \rWhen the storm's outside  \rCuz we're in love I know  \rIt'll be alright  \rAlright it's alright  \r  \rOooh...",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Now peace is so hard to find  \rWe're terrorized and victimized  \rBut that's when I close my eyes  \rAnd think of you to ease my mind  \rYou take me to another place  \rThere's no more war (no more war)  \rJust love and grace  \rBaby you restore my faith  \rI know the struggle's not in vain  \rYou know and I know  \rThrough all the battles  \rBaghdad to Israel  \rThere's one thing I know for sure  \r  \rWhen it's cold outside  \rThere's no need to worry cuz  \rI'm so warm inside  \rYou give me peace  \rWhen the storm's outside  \rCuz we're in love I know  \rIt'll be alright  \rAlright it's alright  \r  \rAlright it's alright  \rAlright it's alright  \rAlright it's alright  \r  \rOh...",
+        "beginOffset": 592
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "When it's cold outside  \rThere's no need to worry cuz  \rI'm so warm inside  \rYou give me peace  \rWhen the storm's outside  \rCuz we're in love I know  \rIt'll be alright  \rAlright it's alright  \r  \rOh it's gonna be alright  \rOoh...",
+        "beginOffset": 1262
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Cuz you give me peace  \rIn the middle of the storm  \rWhen it's cold you're keeping me warm  \rIt's alright  \rIt's alright  \rI'm never gonna leave  \rYou give me what I need  \rIt's alright, alright",
+        "beginOffset": 1497
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ]
+}

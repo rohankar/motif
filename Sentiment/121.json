@@ -1,0 +1,79 @@
+{
+  "documentSentiment": {
+    "magnitude": 3.2,
+    "score": -0.4
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "It's Wu motherfuckers, ah Wu-Tang motherfuckers  \r  \rReunited, double LP, world excited  \rStruck a match to the underground, industry ignited  \rFrom metaphorical parables to fertilize the Earth  \rWicked niggas come, try to burglarize the turf  \rScattin' off soft-ass beats them niggas rap happily  \rTragically, that style, deter-iate, rapidly  \rUncompleted missions, throwin' your best known compositions  \rYou couldn't add it up, if you mastered addition  \rWhere I come from, gettin' visual is habitual  \rDe-mon-strate walkin' on hot coal, in rituals  \rI splash the paint on the wall, it formed the mural  \rHe took a look, saw the manifestation of it, was plural  \rRhymin' while impaired, dart hit your garment  \rPierced your internal, streamlined compartments  \rJust consider the unparallel advantage  \rOf a natural disaster that's impossible to manage  \r  \rBitch ass niggaz counterfeit the funk  \rI smoke the feet of the skunk, tree top of the trunk  \rMoonshine drunken monk, Ya head, get shrunk  \rThe touch of skunk, I be fuckin' bitches by the chunk  \rMy name black, do words wanna play in my dirt?",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Bitch stop my momma serve, free lunch from the church  \rI come like a thousand doves  \rBitch you quiet at the bus, makin' the fuss, I gots tough love  \rUnglove the news, watch a nigga transfuse  \rDirty add to the fuse, heavy at the booze  \rI don't walk, I get carried  \rGold and platinum frisbee's on my wall, lookin' properly  \rBut come-ly, I U.F.O.",
+        "beginOffset": 1106
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "you Wright Brothers  \rThe Indian that sold Manhattan to the white man  \rMy grandfather, step up and get knocked right the fuck out  \rCome to the cook-out, Dirty bitch at the mouth  \rYou scared?",
+        "beginOffset": 1457
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Run around like a plane about to crash  \r  \rWu-Tang motherfuckers  \rWu-Tang motherfuckers  \rYeah, and RZA  \r  \rYo, yo, The Riddler, funny bone tickler, freak Caligula  \rBigger dick sex enigma pistol fertilize your stigma  \rStink box, order from pink dot  \rMC's get stuck on ink blots as I plug to the sink box  \rWu-Tang Incorp.",
+        "beginOffset": 1651
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "take your brain on spacewalk  \rTalk strange like B-jork, great hero Jim Thorpe  \rHow can I put it?",
+        "beginOffset": 1979
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Life is like video footage  \rHard to edit, directors, that never understood it  \rI'm too impulsive, my deadly corrosive dosage  \rAttack when you least notice through explosive postage  \rI don't play, the rap souflee saute for the day  \rRuler Zig-Zag-Zig A, Leg Leg Arm Head  \rSpread like plague, we drink Hennessee by the jig  \rI got the golden egg plus the goose  \rEighty proof, Absolut, mixed with cranberry fruit juice  \rGinseng boost, I got yo' neck in a noose  \rKeep my money wrinkled, the rap star twinkle killer instinct  \rSixteen bar nickle sell more copies than Kinko  \rGrow like a fetus with no hands and feet to complete us  \rAnd we return like Jesus, when the whole world need us  \r  \rIs it appetite for destruction  \rSlap a murder rap on this production, I touch somethin' trust nothin'  \rIron Lung, Twisted Metal  \rI see em duckin' my dart gun, bustin', from every angle  \rWorldwide total carnage, the sickest flow  \rThat be code named Agent Orange, killin' you slow  \rIt's only right you pay homage  \rTo those that's bout to blow like that shit up your nose, solid  \rAs a rock when I strike target, verbal  \rBe screamin' on you like a drill sergeant, her-bals  \rGot me where I wanna be right now,",
+        "beginOffset": 2078
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "don't know the time  \rCheck the hour on your sundial, watch me shine  \rDrunk off of cheap wine  \rEach line be on point when I speak mine  \rOn behalf of my crew, Su, enter the Wu  \rThirty-Six more deadly Chambers, to take you through  \r  \rIt's Wu motherfuckers, Wu-Tang motherfuckers",
+        "beginOffset": 3290
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    }
+  ]
+}

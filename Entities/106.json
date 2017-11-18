@@ -1,0 +1,635 @@
+{
+  "entities": [
+    {
+      "name": "sight",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.7744941,
+      "mentions": [
+        {
+          "text": {
+            "content": "sight",
+            "beginOffset": 353
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "sight",
+            "beginOffset": 485
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "sight",
+            "beginOffset": 936
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "sight",
+            "beginOffset": 1071
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "sight",
+            "beginOffset": 1623
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "sight",
+            "beginOffset": 1755
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "reality",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.061671276,
+      "mentions": [
+        {
+          "text": {
+            "content": "reality",
+            "beginOffset": 402
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "reality",
+            "beginOffset": 1672
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "reality",
+            "beginOffset": 1810
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.049682435,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": 368
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": 1638
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": 1770
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01471244,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": 84
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "things",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0126636755,
+      "mentions": [
+        {
+          "text": {
+            "content": "things",
+            "beginOffset": 58
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Cause",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011111637,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cause",
+            "beginOffset": 35
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Cause",
+            "beginOffset": 587
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Cause",
+            "beginOffset": 1275
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "temptation",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008805366,
+      "mentions": [
+        {
+          "text": {
+            "content": "temptation",
+            "beginOffset": 167
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "satisfaction",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008805366,
+      "mentions": [
+        {
+          "text": {
+            "content": "satisfaction",
+            "beginOffset": 225
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "reality",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008640027,
+      "mentions": [
+        {
+          "text": {
+            "content": "reality",
+            "beginOffset": 988
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "reality",
+            "beginOffset": 1126
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Gotta",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.006644463,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gotta",
+            "beginOffset": 1181
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 1174
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Gotta",
+            "beginOffset": 1865
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 1858
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "reality",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005765595,
+      "mentions": [
+        {
+          "text": {
+            "content": "reality",
+            "beginOffset": 540
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0036026048,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": 951
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0035573905,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": 500
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0032977269,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": 1086
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "things",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0032554257,
+      "mentions": [
+        {
+          "text": {
+            "content": "things",
+            "beginOffset": 610
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "girl",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0028329024,
+      "mentions": [
+        {
+          "text": {
+            "content": "girl",
+            "beginOffset": 522
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "girl",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0026259508,
+      "mentions": [
+        {
+          "text": {
+            "content": "girl",
+            "beginOffset": 1108
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0022842675,
+      "mentions": [
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": 835
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "words",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0022842675,
+      "mentions": [
+        {
+          "text": {
+            "content": "words",
+            "beginOffset": 765
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tradition",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0022555531,
+      "mentions": [
+        {
+          "text": {
+            "content": "tradition",
+            "beginOffset": 728
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "someone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0021172913,
+      "mentions": [
+        {
+          "text": {
+            "content": "someone",
+            "beginOffset": 784
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "reality",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0017430302,
+      "mentions": [
+        {
+          "text": {
+            "content": "reality",
+            "beginOffset": 1165
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "reality",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0009021386,
+      "mentions": [
+        {
+          "text": {
+            "content": "reality",
+            "beginOffset": 1894
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "reality",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0009021386,
+      "mentions": [
+        {
+          "text": {
+            "content": "reality",
+            "beginOffset": 1849
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00069573655,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 1903
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "girl",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00064641004,
+      "mentions": [
+        {
+          "text": {
+            "content": "girl",
+            "beginOffset": 1792
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00064478756,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 1219
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Repeat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00058793835,
+      "mentions": [
+        {
+          "text": {
+            "content": "Repeat",
+            "beginOffset": 1911
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "reality",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0005716333,
+      "mentions": [
+        {
+          "text": {
+            "content": "reality",
+            "beginOffset": 1210
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "things",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00047083772,
+      "mentions": [
+        {
+          "text": {
+            "content": "things",
+            "beginOffset": 1298
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Cause",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0004408074,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cause",
+            "beginOffset": 1474
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "disappointment",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0003746592,
+      "mentions": [
+        {
+          "text": {
+            "content": "disappointment",
+            "beginOffset": 1337
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Repeat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00037249018,
+      "mentions": [
+        {
+          "text": {
+            "content": "Repeat",
+            "beginOffset": 1227
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "feelings",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00032588252,
+      "mentions": [
+        {
+          "text": {
+            "content": "feelings",
+            "beginOffset": 1378
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "senses",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00021174282,
+      "mentions": [
+        {
+          "text": {
+            "content": "senses",
+            "beginOffset": 1429
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

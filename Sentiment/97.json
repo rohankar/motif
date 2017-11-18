@@ -1,0 +1,19 @@
+{
+  "documentSentiment": {
+    "magnitude": 0.7,
+    "score": 0.7
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "In the eye of the storm  \rLooking out through the rain  \rGabriel, blow your horn  \rThey shield me from tsunamis and the hurricane  \r  \r[Chorus]  \rCatch the right ride in the nick of time  \rSoldiers stay affronted then they blow your mind  \rBold ass soldiers marching off to war  \rNo idea what we're in for  \rPowerful, magnificent and so divine  \rSoldiers stay affronted it'll blow your mind  \r  \rHear a thunderous voice  \rShouting there will be no peace  \rUntil our people rejoice  \rWhen every boy and girl is freed  \rYou see it's going down  \rThe wars and the mysteries  \rBut my friends, there'll be better days  \rAnd a better way  \rAccording to the prophecy  \r  \r[Bridge]  \rIt would be so nice  \rTo look up at paradise  \rBy all means we must go  \rOr are you in the know  \rLike all the way up, so child,  \r  \rYou been a friend of mine  \r  \r[Chorus]  \r  \rYou been a friend of mine  \r  \r[Bridge]",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    }
+  ]
+}

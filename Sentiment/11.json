@@ -1,0 +1,49 @@
+{
+  "documentSentiment": {
+    "magnitude": 1.9,
+    "score": -0.2
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "If you ever leave me baby,  \rLeave some morphine at my door  \r'Cause it would take a whole lot of medication  \rTo realize what we used to have,  \rWe don't have it anymore.",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "There's no religion that could save me  \rNo matter how long my knees are on the floor  \rOoh so keep in mind all the sacrifices I'm makin'  \rWill keep you by my side  \rWill keep you from walkin' out the door.",
+        "beginOffset": 177
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "'Cause there'll be no sunlight  \rIf I lose you, baby  \rThere'll be no clear skies  \rIf I lose you, baby  \rJust like the clouds  \rMy eyes will do the same, if you walk away  \rEveryday it will rain  \r  \rI'll never be your mother's favorite  \rYour daddy can't even look me in the eye  \rOoh if I was in their shoes, I'd be doing the same thing  \rSayin there goes my little girl  \rWalkin' with that troublesome guy  \r  \rBut they're just afraid of something they can't understand  \rOoh but little darlin' watch me change their minds  \rYea for you I'll try I'll try I'll try I'll try  \rI'll pick up these broken pieces 'til I'm bleeding  \rIf that'll make you mine  \r  \r'Cause there'll be no sunlight  \rIf I lose you, baby  \rThere'll be no clear skies  \rIf I lose you, baby  \rJust like the clouds  \rMy eyes will do the same, if you walk away  \rEveryday it will rain  \r  \rDon't you say, goodbye  \rDon't you say, goodbye  \rI'll pick up these broken pieces 'til I'm bleeding  \rIf that'll make it right  \r  \r'Cause there'll be no sunlight  \rIf I lose you, baby  \rThere'll be no clear skies  \rIf I lose you, baby  \rJust like the clouds  \rMy eyes will do",
+        "beginOffset": 390
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "the same, if you walk away  \rEveryday it will rain",
+        "beginOffset": 1531
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ]
+}

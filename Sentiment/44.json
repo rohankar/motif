@@ -1,0 +1,19 @@
+{
+  "documentSentiment": {
+    "magnitude": 0.8,
+    "score": 0.8
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "When your asleep beside me, I watch you lying there  \rYour hand upon the pillow and moonlight in your hair  \rI get the warmest feeling, so good I almost cry  \rI kiss your sleeping lips and say I'll love you 'till I die  \rOh girl of mine you make my day  \rOne sunny smile and all the clouds just roll away  \rEyes deep as the sea seem to say to me  \rOur love will always be  \rSo girl of mine turn out the light  \rAnd in my arms together we'll make sweet love tonight  \rDown life's golden road and you'll always know  \rI love you ... girl of mine  \rSometimes I know I hurt you when things ain't goin' right  \rI walk away and leave you to face the lonely night  \rI wouldn't blame you darlin' if you walked out on me  \rBut I return to find you there still waiting patiently  \rOh girl of mine you make my day  \rOne sunny smile and all the clouds just roll away  \rEyes deep as the sea seem to say to me  \rOur love will always be  \rSo girl of mine turn out the light  \rAnd in my arms together we'll make sweet love tonight  \rDown life's golden road and you'll always know  \rI love you ... girl of mine",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ]
+}

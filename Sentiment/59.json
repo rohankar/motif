@@ -1,0 +1,169 @@
+{
+  "documentSentiment": {
+    "magnitude": 6.6,
+    "score": 0.1
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "Oh... oh...",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I realize as I lay down to sleep, we haven't spoke in weeks  \rSo many things that I'd like to know...",
+        "beginOffset": 14
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Come have a talk with me  \rI need a sign, something I can see  \rWhy all the mystery?",
+        "beginOffset": 118
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "I try not to fall for make-believe, but what is reality?",
+        "beginOffset": 205
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Where do we go, what do we know?",
+        "beginOffset": 267
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Life has to have a meaning  \rShow me the light, show me the way  \rShow that you're listening  \rShow me, that you love me  \rShow me that you walk with me  \rHopefully, just above me, heaven's watchin over me  \r  \rGuess it's funny how I say thanks to you for all you've given me  \rSometimes the price of what you gave to me,  \rI can't stop questioning  \rOh God of love, peace, and mercy, why so much suffering?",
+        "beginOffset": 302
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "I pray for the world, it gets worse to me  \rWonder if you're listening...",
+        "beginOffset": 712
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "When people go, why do they go?",
+        "beginOffset": 791
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Why don't you choose me?",
+        "beginOffset": 825
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "But someday I'll know that I'm gonna go  \rI hope you're waiting for me  \r  \rShow me that you love me  \rShow nme that you walk with me  \rHopefully, just above me, heaven's watching over me  \rOh...",
+        "beginOffset": 852
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Show me...",
+        "beginOffset": 1053
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Oh...",
+        "beginOffset": 1064
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Oh...",
+        "beginOffset": 1070
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Show me...",
+        "beginOffset": 1076
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Maybe we'll talk some other night  \rRight now I'll take it easy  \rWon't spend my time waiting to die  \rEnjoy the life I'm living  \r  \rShow me that you love me  \rShow me that you walk with me  \rHopefully, just above me, heaven's watching over me  \rOh...",
+        "beginOffset": 1092
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Show me that you love me  \rShow me that you walk with me  \rHopefully, just above me, heaven's watching over me  \rOh...",
+        "beginOffset": 1350
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ]
+}

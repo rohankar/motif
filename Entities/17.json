@@ -1,0 +1,378 @@
+{
+  "entities": [
+    {
+      "name": "face",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.46177608,
+      "mentions": [
+        {
+          "text": {
+            "content": "face",
+            "beginOffset": 205
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "face",
+            "beginOffset": 658
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "face",
+            "beginOffset": 741
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "face",
+            "beginOffset": 790
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "face",
+            "beginOffset": 878
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "best",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.27775696,
+      "mentions": [
+        {
+          "text": {
+            "content": "best",
+            "beginOffset": 18
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tears",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.049171407,
+      "mentions": [
+        {
+          "text": {
+            "content": "tears",
+            "beginOffset": 174
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "something",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03440841,
+      "mentions": [
+        {
+          "text": {
+            "content": "something",
+            "beginOffset": 226
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "reverse",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024815679,
+      "mentions": [
+        {
+          "text": {
+            "content": "reverse",
+            "beginOffset": 152
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "someone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.022164376,
+      "mentions": [
+        {
+          "text": {
+            "content": "someone",
+            "beginOffset": 270
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "waste",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016582409,
+      "mentions": [
+        {
+          "text": {
+            "content": "waste",
+            "beginOffset": 293
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Tears",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01091358,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tears",
+            "beginOffset": 847
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Tears",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01091358,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tears",
+            "beginOffset": 759
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bones",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010047384,
+      "mentions": [
+        {
+          "text": {
+            "content": "bones",
+            "beginOffset": 370
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Lights",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009921158,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lights",
+            "beginOffset": 325
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.009921158,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": 347
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Lights",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009196314,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lights",
+            "beginOffset": 543
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.009196314,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": 565
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007999601,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 458
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mistakes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0054722223,
+      "mentions": [
+        {
+          "text": {
+            "content": "mistakes",
+            "beginOffset": 836
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Tears",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0047947806,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tears",
+            "beginOffset": 627
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Lights",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004761975,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lights",
+            "beginOffset": 896
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.004761975,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": 918
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bones",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004761975,
+      "mentions": [
+        {
+          "text": {
+            "content": "bones",
+            "beginOffset": 941
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "something",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004195447,
+      "mentions": [
+        {
+          "text": {
+            "content": "something",
+            "beginOffset": 679
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Tears",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003449269,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tears",
+            "beginOffset": 710
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bones",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0030179487,
+      "mentions": [
+        {
+          "text": {
+            "content": "bones",
+            "beginOffset": 588
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

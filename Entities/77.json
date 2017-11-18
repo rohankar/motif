@@ -1,0 +1,582 @@
+{
+  "entities": [
+    {
+      "name": "thinking",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.18017848,
+      "mentions": [
+        {
+          "text": {
+            "content": "thinking",
+            "beginOffset": 34
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Ooh",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10132164,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ooh",
+            "beginOffset": 175
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "words",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.059696082,
+      "mentions": [
+        {
+          "text": {
+            "content": "words",
+            "beginOffset": 368
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "freeway",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.053810626,
+      "mentions": [
+        {
+          "text": {
+            "content": "freeway",
+            "beginOffset": 67
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "everything",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.050553083,
+      "mentions": [
+        {
+          "text": {
+            "content": "everything",
+            "beginOffset": 105
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "things",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04768158,
+      "mentions": [
+        {
+          "text": {
+            "content": "things",
+            "beginOffset": 454
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cause",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.044634264,
+      "mentions": [
+        {
+          "text": {
+            "content": "cause",
+            "beginOffset": 340
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "words",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.037114464,
+      "mentions": [
+        {
+          "text": {
+            "content": "words",
+            "beginOffset": 877
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "one",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.033780493,
+      "mentions": [
+        {
+          "text": {
+            "content": "one",
+            "beginOffset": 236
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "curb",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.027975734,
+      "mentions": [
+        {
+          "text": {
+            "content": "curb",
+            "beginOffset": 334
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cause",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.027702583,
+      "mentions": [
+        {
+          "text": {
+            "content": "cause",
+            "beginOffset": 849
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Man",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.026707646,
+      "mentions": [
+        {
+          "text": {
+            "content": "Man",
+            "beginOffset": 0
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Man",
+            "beginOffset": 508
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "thread",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026006026,
+      "mentions": [
+        {
+          "text": {
+            "content": "thread",
+            "beginOffset": 309
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "death",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.026006026,
+      "mentions": [
+        {
+          "text": {
+            "content": "death",
+            "beginOffset": 198
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "one",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.022871561,
+      "mentions": [
+        {
+          "text": {
+            "content": "one",
+            "beginOffset": 745
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cause",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021807672,
+      "mentions": [
+        {
+          "text": {
+            "content": "cause",
+            "beginOffset": 425
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Ooh",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.019219056,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ooh",
+            "beginOffset": 684
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "death",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.017594533,
+      "mentions": [
+        {
+          "text": {
+            "content": "death",
+            "beginOffset": 707
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dirt",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01737389,
+      "mentions": [
+        {
+          "text": {
+            "content": "dirt",
+            "beginOffset": 419
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "curb",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017330471,
+      "mentions": [
+        {
+          "text": {
+            "content": "curb",
+            "beginOffset": 843
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "thread",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016106667,
+      "mentions": [
+        {
+          "text": {
+            "content": "thread",
+            "beginOffset": 818
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "things",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014614326,
+      "mentions": [
+        {
+          "text": {
+            "content": "things",
+            "beginOffset": 963
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "road",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.014013758,
+      "mentions": [
+        {
+          "text": {
+            "content": "road",
+            "beginOffset": 603
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "words",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013260824,
+      "mentions": [
+        {
+          "text": {
+            "content": "words",
+            "beginOffset": 1230
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "words",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009190285,
+      "mentions": [
+        {
+          "text": {
+            "content": "words",
+            "beginOffset": 1406
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "things",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009190285,
+      "mentions": [
+        {
+          "text": {
+            "content": "things",
+            "beginOffset": 1316
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cause",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0072007375,
+      "mentions": [
+        {
+          "text": {
+            "content": "cause",
+            "beginOffset": 1202
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "one",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.006886314,
+      "mentions": [
+        {
+          "text": {
+            "content": "one",
+            "beginOffset": 1098
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cause",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0066481754,
+      "mentions": [
+        {
+          "text": {
+            "content": "cause",
+            "beginOffset": 934
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "curb",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0061686058,
+      "mentions": [
+        {
+          "text": {
+            "content": "curb",
+            "beginOffset": 1196
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "thread",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005379968,
+      "mentions": [
+        {
+          "text": {
+            "content": "thread",
+            "beginOffset": 1171
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "death",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.005291653,
+      "mentions": [
+        {
+          "text": {
+            "content": "death",
+            "beginOffset": 1060
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dirt",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005291653,
+      "mentions": [
+        {
+          "text": {
+            "content": "dirt",
+            "beginOffset": 928
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cause",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0049876417,
+      "mentions": [
+        {
+          "text": {
+            "content": "cause",
+            "beginOffset": 1287
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cause",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0049876417,
+      "mentions": [
+        {
+          "text": {
+            "content": "cause",
+            "beginOffset": 1378
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "curb",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0042723264,
+      "mentions": [
+        {
+          "text": {
+            "content": "curb",
+            "beginOffset": 1372
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dirt",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0039695427,
+      "mentions": [
+        {
+          "text": {
+            "content": "dirt",
+            "beginOffset": 1281
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Ooh",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0031736935,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ooh",
+            "beginOffset": 1037
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

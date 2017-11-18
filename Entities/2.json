@@ -1,0 +1,417 @@
+{
+  "entities": [
+    {
+      "name": "fire burnin",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.2069759,
+      "mentions": [
+        {
+          "text": {
+            "content": "fire burnin",
+            "beginOffset": 297
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "doctor",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.2041079,
+      "mentions": [
+        {
+          "text": {
+            "content": "doctor",
+            "beginOffset": 23
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "doctor",
+            "beginOffset": 31
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rocker",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06300129,
+      "mentions": [
+        {
+          "text": {
+            "content": "rocker",
+            "beginOffset": 98
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rocker",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06300129,
+      "mentions": [
+        {
+          "text": {
+            "content": "rocker",
+            "beginOffset": 106
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Somebody",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.05524672,
+      "mentions": [
+        {
+          "text": {
+            "content": "Somebody",
+            "beginOffset": 0
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shove",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05524672,
+      "mentions": [
+        {
+          "text": {
+            "content": "shove",
+            "beginOffset": 61
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05524672,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 137
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fool child",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.04359201,
+      "mentions": [
+        {
+          "text": {
+            "content": "fool child",
+            "beginOffset": 491
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "message",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026039504,
+      "mentions": [
+        {
+          "text": {
+            "content": "message",
+            "beginOffset": 161
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "magic touch",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024091447,
+      "mentions": [
+        {
+          "text": {
+            "content": "magic touch",
+            "beginOffset": 220
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021286942,
+      "mentions": [
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": 202
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "babe",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.017846726,
+      "mentions": [
+        {
+          "text": {
+            "content": "babe",
+            "beginOffset": 354
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "babe",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01654531,
+      "mentions": [
+        {
+          "text": {
+            "content": "babe",
+            "beginOffset": 756
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "child",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016445426,
+      "mentions": [
+        {
+          "text": {
+            "content": "child",
+            "beginOffset": 507
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "magic touch",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016296944,
+      "mentions": [
+        {
+          "text": {
+            "content": "magic touch",
+            "beginOffset": 621
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shotgun",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.016239144,
+      "mentions": [
+        {
+          "text": {
+            "content": "shotgun",
+            "beginOffset": 414
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shotgun",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.016239144,
+      "mentions": [
+        {
+          "text": {
+            "content": "shotgun",
+            "beginOffset": 423
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "habit",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016239144,
+      "mentions": [
+        {
+          "text": {
+            "content": "habit",
+            "beginOffset": 261
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "surprise",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014395829,
+      "mentions": [
+        {
+          "text": {
+            "content": "surprise",
+            "beginOffset": 598
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fire",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012374075,
+      "mentions": [
+        {
+          "text": {
+            "content": "fire",
+            "beginOffset": 983
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "wedding",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.011910388,
+      "mentions": [
+        {
+          "text": {
+            "content": "wedding",
+            "beginOffset": 399
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "habit",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007510186,
+      "mentions": [
+        {
+          "text": {
+            "content": "habit",
+            "beginOffset": 1012
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "magic touch",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004900398,
+      "mentions": [
+        {
+          "text": {
+            "content": "magic touch",
+            "beginOffset": 905
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fire",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0040783463,
+      "mentions": [
+        {
+          "text": {
+            "content": "fire",
+            "beginOffset": 1125
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "babe",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0040783463,
+      "mentions": [
+        {
+          "text": {
+            "content": "babe",
+            "beginOffset": 1183
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Gonna",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00370022,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gonna",
+            "beginOffset": 868
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "magic touch",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0033639346,
+      "mentions": [
+        {
+          "text": {
+            "content": "magic touch",
+            "beginOffset": 1047
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

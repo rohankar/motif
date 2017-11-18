@@ -1,0 +1,492 @@
+{
+  "entities": [
+    {
+      "name": "folks",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.16840175,
+      "mentions": [
+        {
+          "text": {
+            "content": "folks",
+            "beginOffset": 78
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "no one",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.15656878,
+      "mentions": [
+        {
+          "text": {
+            "content": "no one",
+            "beginOffset": 297
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Legend",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.089714475,
+      "mentions": [
+        {
+          "text": {
+            "content": "Legend",
+            "beginOffset": 570
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "name",
+            "beginOffset": 587
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.06727534,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 111
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.052205388,
+      "mentions": [
+        {
+          "text": {
+            "content": "Verse 1",
+            "beginOffset": 1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "kings",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.04566457,
+      "mentions": [
+        {
+          "text": {
+            "content": "kings",
+            "beginOffset": 271
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "door",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03254373,
+      "mentions": [
+        {
+          "text": {
+            "content": "door",
+            "beginOffset": 161
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "things",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.029620813,
+      "mentions": [
+        {
+          "text": {
+            "content": "things",
+            "beginOffset": 201
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Things",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.029620813,
+      "mentions": [
+        {
+          "text": {
+            "content": "Things",
+            "beginOffset": 290
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lie",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025938371,
+      "mentions": [
+        {
+          "text": {
+            "content": "lie",
+            "beginOffset": 190
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Pre-Chorus",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025938371,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pre-Chorus",
+            "beginOffset": 247
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "truth",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022297252,
+      "mentions": [
+        {
+          "text": {
+            "content": "truth",
+            "beginOffset": 179
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022023879,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chorus",
+            "beginOffset": 513
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "door",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021747852,
+      "mentions": [
+        {
+          "text": {
+            "content": "door",
+            "beginOffset": 428
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019789472,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 390
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nothing",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017543772,
+      "mentions": [
+        {
+          "text": {
+            "content": "nothing",
+            "beginOffset": 468
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lack",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017323636,
+      "mentions": [
+        {
+          "text": {
+            "content": "lack",
+            "beginOffset": 382
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "light",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017323636,
+      "mentions": [
+        {
+          "text": {
+            "content": "light",
+            "beginOffset": 341
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fame",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01605939,
+      "mentions": [
+        {
+          "text": {
+            "content": "fame",
+            "beginOffset": 656
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Pre-Chorus",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01605939,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pre-Chorus",
+            "beginOffset": 706
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "door",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0150804985,
+      "mentions": [
+        {
+          "text": {
+            "content": "door",
+            "beginOffset": 974
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "music",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.012008323,
+      "mentions": [
+        {
+          "text": {
+            "content": "music",
+            "beginOffset": 1001
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "floor",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.012008323,
+      "mentions": [
+        {
+          "text": {
+            "content": "floor",
+            "beginOffset": 931
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Bridge",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.012008323,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bridge",
+            "beginOffset": 902
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.011886191,
+      "mentions": [
+        {
+          "text": {
+            "content": "Verse 2",
+            "beginOffset": 559
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010451532,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chorus",
+            "beginOffset": 1071
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "power",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006794632,
+      "mentions": [
+        {
+          "text": {
+            "content": "power",
+            "beginOffset": 815
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0066265436,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chorus",
+            "beginOffset": 852
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "color",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0052741934,
+      "mentions": [
+        {
+          "text": {
+            "content": "color",
+            "beginOffset": 829
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "face",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0052741934,
+      "mentions": [
+        {
+          "text": {
+            "content": "face",
+            "beginOffset": 841
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "place",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0052741934,
+      "mentions": [
+        {
+          "text": {
+            "content": "place",
+            "beginOffset": 802
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "history",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0036523705,
+      "mentions": [
+        {
+          "text": {
+            "content": "history",
+            "beginOffset": 771
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

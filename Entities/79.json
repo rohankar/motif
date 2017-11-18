@@ -1,0 +1,505 @@
+{
+  "entities": [
+    {
+      "name": "lifestyle",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.23951802,
+      "mentions": [
+        {
+          "text": {
+            "content": "lifestyle",
+            "beginOffset": 375
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "lifestyle",
+            "beginOffset": 961
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "track",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.11226125,
+      "mentions": [
+        {
+          "text": {
+            "content": "track",
+            "beginOffset": 70
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Keep searching",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.08463587,
+      "mentions": [
+        {
+          "text": {
+            "content": "Keep searching",
+            "beginOffset": 415
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Keep searching",
+            "beginOffset": 1001
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "karmas",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.047317747,
+      "mentions": [
+        {
+          "text": {
+            "content": "karmas",
+            "beginOffset": 95
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "stream",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.041767795,
+      "mentions": [
+        {
+          "text": {
+            "content": "stream",
+            "beginOffset": 637
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "search",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.040473875,
+      "mentions": [
+        {
+          "text": {
+            "content": "search",
+            "beginOffset": 1063
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.039927628,
+      "mentions": [
+        {
+          "text": {
+            "content": "Life",
+            "beginOffset": 1233
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "pain",
+            "beginOffset": 1241
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Death",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.039927628,
+      "mentions": [
+        {
+          "text": {
+            "content": "Death",
+            "beginOffset": 1264
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "pain",
+            "beginOffset": 1273
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Birth",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.029580582,
+      "mentions": [
+        {
+          "text": {
+            "content": "Birth",
+            "beginOffset": 1190
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "pain",
+            "beginOffset": 1199
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "search",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.029452968,
+      "mentions": [
+        {
+          "text": {
+            "content": "search",
+            "beginOffset": 477
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "stream",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.025675572,
+      "mentions": [
+        {
+          "text": {
+            "content": "stream",
+            "beginOffset": 895
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "strength",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024100965,
+      "mentions": [
+        {
+          "text": {
+            "content": "strength",
+            "beginOffset": 167
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tick tick tick tick tick",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023917548,
+      "mentions": [
+        {
+          "text": {
+            "content": "tick tick tick tick tick",
+            "beginOffset": 505
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tick",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021894937,
+      "mentions": [
+        {
+          "text": {
+            "content": "tick",
+            "beginOffset": 713
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tick tick tick tick tick tick tock",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021762725,
+      "mentions": [
+        {
+          "text": {
+            "content": "tick tick tick tick tick tick tock",
+            "beginOffset": 550
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "search",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.018003387,
+      "mentions": [
+        {
+          "text": {
+            "content": "search",
+            "beginOffset": 456
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tick tick tick tick tick tick tock",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0148493145,
+      "mentions": [
+        {
+          "text": {
+            "content": "tick tick tick tick tick tick tock",
+            "beginOffset": 1136
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tick tick tick tick tick",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0148493145,
+      "mentions": [
+        {
+          "text": {
+            "content": "tick tick tick tick tick",
+            "beginOffset": 1091
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "strength",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0147537,
+      "mentions": [
+        {
+          "text": {
+            "content": "strength",
+            "beginOffset": 756
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fear",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013800484,
+      "mentions": [
+        {
+          "text": {
+            "content": "fear",
+            "beginOffset": 647
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "track",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013685155,
+      "mentions": [
+        {
+          "text": {
+            "content": "track",
+            "beginOffset": 332
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "search",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.012437376,
+      "mentions": [
+        {
+          "text": {
+            "content": "search",
+            "beginOffset": 1042
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lifestyle",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011134118,
+      "mentions": [
+        {
+          "text": {
+            "content": "lifestyle",
+            "beginOffset": 1179
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hurry",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011053779,
+      "mentions": [
+        {
+          "text": {
+            "content": "hurry",
+            "beginOffset": 731
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "worry",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011053779,
+      "mentions": [
+        {
+          "text": {
+            "content": "worry",
+            "beginOffset": 692
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "water",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011053779,
+      "mentions": [
+        {
+          "text": {
+            "content": "water",
+            "beginOffset": 678
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "talk",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00785352,
+      "mentions": [
+        {
+          "text": {
+            "content": "talk",
+            "beginOffset": 723
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "deathstyle",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007712796,
+      "mentions": [
+        {
+          "text": {
+            "content": "deathstyle",
+            "beginOffset": 1221
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tide",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0057036453,
+      "mentions": [
+        {
+          "text": {
+            "content": "tide",
+            "beginOffset": 1258
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "side",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0057036453,
+      "mentions": [
+        {
+          "text": {
+            "content": "side",
+            "beginOffset": 1306
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fear",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004137103,
+      "mentions": [
+        {
+          "text": {
+            "content": "fear",
+            "beginOffset": 905
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

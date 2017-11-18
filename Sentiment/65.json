@@ -1,0 +1,349 @@
+{
+  "documentSentiment": {
+    "magnitude": 9.4,
+    "score": 0
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "Red wine, Konvict, Gaga (oh, yeah)  \r  \rI've had a little bit too much - much oh oh woah!",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "All of the people start to rush, start to rush by.",
+        "beginOffset": 92
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "How does she twist the dance  \rCan't find my drink, or man.",
+        "beginOffset": 145
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Where are my keys, I lost my phone.",
+        "beginOffset": 207
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "What's going on out on the floor?",
+        "beginOffset": 245
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "I love this record baby, but I can't see straight anymore.",
+        "beginOffset": 281
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Keep it cool, what's the name of this club?",
+        "beginOffset": 342
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "I can't remember but it's alright, alright.",
+        "beginOffset": 388
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "[Chorus]  \rJust dance, gonna be OK.",
+        "beginOffset": 437
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Da da doo doo just dance spin that record babe.",
+        "beginOffset": 475
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Da-da-doo-doo just dance, gonna be OK.",
+        "beginOffset": 525
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Duh-duh-duh dance, dance, dance, just dance.",
+        "beginOffset": 566
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Wish I could shut my playboy mouth.",
+        "beginOffset": 616
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "How'd I turn my shirt inside out?",
+        "beginOffset": 654
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Inside out right.",
+        "beginOffset": 688
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Control your poison babe  \rRoses have thorns they say.",
+        "beginOffset": 708
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "And we're all gettin' hosed tonight.",
+        "beginOffset": 765
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "What's going on on the floor?",
+        "beginOffset": 804
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "I love this record baby, but I can't see straight anymore.",
+        "beginOffset": 836
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Keep it cool, what's the name of this club?",
+        "beginOffset": 897
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "I can't remember but it's alright, alright.",
+        "beginOffset": 943
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "[Chorus]  \r  \rWhen I come through on the dance floor checkin' out that catalog.",
+        "beginOffset": 992
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Can't believe my eyes so many women without a flaw.",
+        "beginOffset": 1074
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      }
+    },
+    {
+      "text": {
+        "content": "And I ain't gonna give it up, steady tryin' to pick it up like the car  \rI'm a hit it, I'm a hit it and flex until the 'till done until tomorrow yeah.",
+        "beginOffset": 1128
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Shawty I can see that you got so much energy,  \rThe way you twirling up them hips round and round  \rThere's no reason, I know why you can't leave here with me  \rIn the meantime stand, let me watch you break it down and dance  \r  \rGonna be okay da-da-doo-doo  \rJust dance, spin that record babe.",
+        "beginOffset": 1284
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Da-da-doo-doo Just dance, gonna be OK.",
+        "beginOffset": 1581
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Da-da-doo-doo just dance, spin that record babe.",
+        "beginOffset": 1622
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Da-da-doo-doo just dance, gonna be OK.",
+        "beginOffset": 1673
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Duh-duh-duh dance, dance, dance, just dance  \r  \rHalf psychotic sick-hypnotic  \rGot my blueprint it's symphonic  \rHalf psychotic sick-hypnotic  \rGot my blueprint electronic  \rHalf psychotic sick-hypnotic  \rGot my blueprint it's symphonic  \rHalf psychotic sick-hypnotic  \rGot my blueprint electronic  \r  \rGo, use your muscle carve it out work it, hustle  \r(I got it, just stay close enough to get it)  \rDon't slow, drive it, clean it Lysol, bleed it  \rSpend the last dough (I got it) on your pocko (I got it)  \r  \rJust dance, gonna be okay.",
+        "beginOffset": 1714
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Da-da-doo-doo just dance, spin that record babe.",
+        "beginOffset": 2256
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Da-da-doo-doo just dance, gonna be OK.",
+        "beginOffset": 2307
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Da-da-doo-doo just dance, spin that record babe.",
+        "beginOffset": 2348
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Da-da-doo-doo just dance, gonna be OK.",
+        "beginOffset": 2399
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Duh-duh-duh dance, dance, dance, just dance.",
+        "beginOffset": 2440
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    }
+  ]
+}

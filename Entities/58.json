@@ -1,0 +1,320 @@
+{
+  "entities": [
+    {
+      "name": "cast",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.12442596,
+      "mentions": [
+        {
+          "text": {
+            "content": "cast",
+            "beginOffset": 39
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "case",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.12442596,
+      "mentions": [
+        {
+          "text": {
+            "content": "case",
+            "beginOffset": 25
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "stars",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.09719602,
+      "mentions": [
+        {
+          "text": {
+            "content": "stars",
+            "beginOffset": 708
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "face",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07724044,
+      "mentions": [
+        {
+          "text": {
+            "content": "face",
+            "beginOffset": 73
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "light",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.068132065,
+      "mentions": [
+        {
+          "text": {
+            "content": "light",
+            "beginOffset": 96
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "prisoners",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.06732622,
+      "mentions": [
+        {
+          "text": {
+            "content": "prisoners",
+            "beginOffset": 130
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sparks",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.065076895,
+      "mentions": [
+        {
+          "text": {
+            "content": "sparks",
+            "beginOffset": 321
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "history",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.059376433,
+      "mentions": [
+        {
+          "text": {
+            "content": "history",
+            "beginOffset": 143
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "minds",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.059162058,
+      "mentions": [
+        {
+          "text": {
+            "content": "minds",
+            "beginOffset": 170
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.058996305,
+      "mentions": [
+        {
+          "text": {
+            "content": "life",
+            "beginOffset": 214
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "miracles",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.053247694,
+      "mentions": [
+        {
+          "text": {
+            "content": "miracles",
+            "beginOffset": 899
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "flame",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022396302,
+      "mentions": [
+        {
+          "text": {
+            "content": "flame",
+            "beginOffset": 379
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "face",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017782796,
+      "mentions": [
+        {
+          "text": {
+            "content": "face",
+            "beginOffset": 829
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "line",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017104859,
+      "mentions": [
+        {
+          "text": {
+            "content": "line",
+            "beginOffset": 533
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "distance",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014990303,
+      "mentions": [
+        {
+          "text": {
+            "content": "distance",
+            "beginOffset": 729
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "name",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014940599,
+      "mentions": [
+        {
+          "text": {
+            "content": "name",
+            "beginOffset": 407
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "clouds",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014924154,
+      "mentions": [
+        {
+          "text": {
+            "content": "clouds",
+            "beginOffset": 440
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "space",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.013719201,
+      "mentions": [
+        {
+          "text": {
+            "content": "space",
+            "beginOffset": 753
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "people",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0129507035,
+      "mentions": [
+        {
+          "text": {
+            "content": "people",
+            "beginOffset": 1280
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hero",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.008526637,
+      "mentions": [
+        {
+          "text": {
+            "content": "hero",
+            "beginOffset": 1298
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "light",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008058399,
+      "mentions": [
+        {
+          "text": {
+            "content": "light",
+            "beginOffset": 1323
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

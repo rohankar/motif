@@ -1,0 +1,29 @@
+{
+  "documentSentiment": {
+    "magnitude": 1.6,
+    "score": 0.1
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "When I was a young boy I tried to listen  \rAnd I want to feel like that  \rLittle white shadows blink and I missed em  \rPart of a system I am  \r  \rIf you ever feel like something's missing  \rThings you'll never understand  \rLittle white shadows sparkle and glisten  \rPart of a system plan  \r  \rAll this noise, I'm waking up  \rAll this space I'm taking up  \rAll this sound is breaking up  \r  \rWhoa oh  \r  \rMaybe you'll get what you wanted  \rMaybe you'll stumble upon it  \rEverything you ever wanted  \rIn a permanent state  \r  \rMaybe you'll know when you see it  \rMaybe if you say it you'll mean it  \rAnd when you find it you'll keep it  \rIn a permanent state  \rA permanent state  \r  \rWhen I was a young boy I tried to listen  \rDon't you want to feel like that  \r  \rYou're part of the human race  \rAll of the stars and the outer space  \rPart of the system plan  \r  \rAll this noise, I'm waking up  \rAll this space I'm taking up  \rI cannot hear, you're breaking up  \r  \rWhoa oh  \r  \rMaybe you'll get what you wanted  \rMaybe you'll stumble upon it  \rEverything you ever wanted  \rIn a permanent state  \r  \rMaybe you'll know when you see it  \rMaybe if you say it, you'll mean it  \rAnd when you find it you'll keep it  \rIn a permanent state  \rA permanent",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "state  \r  \rSwimming on a sea of faces  \rA tide of the human race  \rSo, an answer now is what I need  \r  \rI see it in the new sun rising  \rI see it break on your horizon  \rOh come on love, stay with me",
+        "beginOffset": 1246
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ]
+}

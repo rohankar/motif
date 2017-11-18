@@ -1,0 +1,696 @@
+{
+  "entities": [
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.73517036,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 946
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 990
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 1033
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 1077
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 1121
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 1165
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 1215
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 1259
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 1776
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 1820
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 1864
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 1908
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 1951
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 1995
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cause",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.11443065,
+      "mentions": [
+        {
+          "text": {
+            "content": "cause",
+            "beginOffset": 420
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "cause",
+            "beginOffset": 884
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "cause",
+            "beginOffset": 1694
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025073385,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 180
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Sorry",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014921702,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sorry",
+            "beginOffset": 322
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Sorry",
+            "beginOffset": 786
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Sorry",
+            "beginOffset": 1592
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "man",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010797987,
+      "mentions": [
+        {
+          "text": {
+            "content": "man",
+            "beginOffset": 169
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Cause",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0106635,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cause",
+            "beginOffset": 105
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lovers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00991528,
+      "mentions": [
+        {
+          "text": {
+            "content": "lovers",
+            "beginOffset": 59
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007906889,
+      "mentions": [
+        {
+          "text": {
+            "content": "life",
+            "beginOffset": 10
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "door",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007906889,
+      "mentions": [
+        {
+          "text": {
+            "content": "door",
+            "beginOffset": 229
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sweat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007906889,
+      "mentions": [
+        {
+          "text": {
+            "content": "sweat",
+            "beginOffset": 97
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dues",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007906889,
+      "mentions": [
+        {
+          "text": {
+            "content": "dues",
+            "beginOffset": 67
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "boy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0048073074,
+      "mentions": [
+        {
+          "text": {
+            "content": "boy",
+            "beginOffset": 477
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Breakin",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0046964497,
+      "mentions": [
+        {
+          "text": {
+            "content": "Breakin",
+            "beginOffset": 74
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "man",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0044189417,
+      "mentions": [
+        {
+          "text": {
+            "content": "man",
+            "beginOffset": 513
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0043492336,
+      "mentions": [
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": 379
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "man",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.003565159,
+      "mentions": [
+        {
+          "text": {
+            "content": "man",
+            "beginOffset": 606
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "difference",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0032706216,
+      "mentions": [
+        {
+          "text": {
+            "content": "difference",
+            "beginOffset": 528
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0032691248,
+      "mentions": [
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": 1181
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shock",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0020225039,
+      "mentions": [
+        {
+          "text": {
+            "content": "shock",
+            "beginOffset": 677
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tears",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0020225039,
+      "mentions": [
+        {
+          "text": {
+            "content": "tears",
+            "beginOffset": 639
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "body",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0020225039,
+      "mentions": [
+        {
+          "text": {
+            "content": "body",
+            "beginOffset": 662
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.001437575,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 1756
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.001437575,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 1747
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.001437575,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 1738
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0013739897,
+      "mentions": [
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": 843
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0012808443,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 1372
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "times",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0010134864,
+      "mentions": [
+        {
+          "text": {
+            "content": "times",
+            "beginOffset": 1308
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0009515296,
+      "mentions": [
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": 1653
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00065646885,
+      "mentions": [
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": 2011
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00063084846,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 1527
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00063084846,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 1514
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "repeat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0004570321,
+      "mentions": [
+        {
+          "text": {
+            "content": "repeat",
+            "beginOffset": 2098
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "man",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00039809523,
+      "mentions": [
+        {
+          "text": {
+            "content": "man",
+            "beginOffset": 1431
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby girl",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00032987862,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby girl",
+            "beginOffset": 1470
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "knees",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0002905904,
+      "mentions": [
+        {
+          "text": {
+            "content": "knees",
+            "beginOffset": 1491
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "plea",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0002905904,
+      "mentions": [
+        {
+          "text": {
+            "content": "plea",
+            "beginOffset": 1456
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Beggin",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/g/1s05n40bm"
+      },
+      "salience": 0.00017200083,
+      "mentions": [
+        {
+          "text": {
+            "content": "Beggin",
+            "beginOffset": 1499
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "best",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00016631703,
+      "mentions": [
+        {
+          "text": {
+            "content": "best",
+            "beginOffset": 1387
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

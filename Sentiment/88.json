@@ -1,0 +1,19 @@
+{
+  "documentSentiment": {
+    "magnitude": 0.2,
+    "score": -0.2
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "I want to take his eyes out  \rJust for looking at you  \rYes I do  \rI want to take his hands off  \rJust for touching you  \rYes I do  \r  \rAnd I want to rip his heart out  \rJust for hurting you  \rAnd I want to break his mind down  \rYes I do  \r  \rAnd I want to make him  \rRegret life since the day he met you  \rYes I do  \rAnd I want to make him  \rTake back all that he took from you  \rYes I do  \r  \rAnd I want to rip his heart out  \rJust for hurting you  \rAnd I want to break his mind down  \rYes I do  \rYes I do  \rYes I do  \rYes I do  \r  \rAnd I want to rip his heart out  \rJust for hurting you  \rAnd I want to break his mind down  \rYes I do  \rYes I do  \rYes I do  \rYes I do",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    }
+  ]
+}

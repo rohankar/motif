@@ -1,0 +1,802 @@
+{
+  "entities": [
+    {
+      "name": "sorrow",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.15811668,
+      "mentions": [
+        {
+          "text": {
+            "content": "sorrow",
+            "beginOffset": 450
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "sorrow",
+            "beginOffset": 546
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "sorrow",
+            "beginOffset": 1002
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "sorrow",
+            "beginOffset": 1098
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "sorrow",
+            "beginOffset": 1416
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "sorrow",
+            "beginOffset": 1512
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pain",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.15811668,
+      "mentions": [
+        {
+          "text": {
+            "content": "pain",
+            "beginOffset": 426
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "pain",
+            "beginOffset": 522
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "pain",
+            "beginOffset": 978
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "pain",
+            "beginOffset": 1074
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "pain",
+            "beginOffset": 1392
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "pain",
+            "beginOffset": 1488
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "world",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.05933493,
+      "mentions": [
+        {
+          "text": {
+            "content": "world",
+            "beginOffset": 21
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "greetings",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.05933493,
+      "mentions": [
+        {
+          "text": {
+            "content": "greetings",
+            "beginOffset": 4
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "place",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.056248102,
+      "mentions": [
+        {
+          "text": {
+            "content": "place",
+            "beginOffset": 329
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shot",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.036635295,
+      "mentions": [
+        {
+          "text": {
+            "content": "shot",
+            "beginOffset": 966
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "shot",
+            "beginOffset": 1380
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "place",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.034496386,
+      "mentions": [
+        {
+          "text": {
+            "content": "place",
+            "beginOffset": 881
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shot",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.033072185,
+      "mentions": [
+        {
+          "text": {
+            "content": "shot",
+            "beginOffset": 1062
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "shot",
+            "beginOffset": 1476
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "liquor store",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.031197088,
+      "mentions": [
+        {
+          "text": {
+            "content": "liquor store",
+            "beginOffset": 50
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "top",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.028247554,
+      "mentions": [
+        {
+          "text": {
+            "content": "top",
+            "beginOffset": 234
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pores",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024859339,
+      "mentions": [
+        {
+          "text": {
+            "content": "pores",
+            "beginOffset": 92
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Lotto tickets",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024732556,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lotto tickets",
+            "beginOffset": 140
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "beer",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.024732556,
+      "mentions": [
+        {
+          "text": {
+            "content": "beer",
+            "beginOffset": 160
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024732556,
+      "mentions": [
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": 220
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "block",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02128845,
+      "mentions": [
+        {
+          "text": {
+            "content": "block",
+            "beginOffset": 131
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "block",
+            "beginOffset": 1247
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shot",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016909841,
+      "mentions": [
+        {
+          "text": {
+            "content": "shot",
+            "beginOffset": 414
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Whiskey",
+      "type": "CONSUMER_GOOD",
+      "metadata": {
+        "mid": "/m/082bv",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Whisky"
+      },
+      "salience": 0.0147480415,
+      "mentions": [
+        {
+          "text": {
+            "content": "Whiskey",
+            "beginOffset": 66
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Tryna",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013779012,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tryna",
+            "beginOffset": 203
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Tryna",
+            "beginOffset": 663
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "job",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010777448,
+      "mentions": [
+        {
+          "text": {
+            "content": "job",
+            "beginOffset": 254
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nowhere",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010777448,
+      "mentions": [
+        {
+          "text": {
+            "content": "nowhere",
+            "beginOffset": 271
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "liquor store blues",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010747062,
+      "mentions": [
+        {
+          "text": {
+            "content": "liquor store blues",
+            "beginOffset": 375
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cents",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010500792,
+      "mentions": [
+        {
+          "text": {
+            "content": "cents",
+            "beginOffset": 712
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "drag",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0094513055,
+      "mentions": [
+        {
+          "text": {
+            "content": "drag",
+            "beginOffset": 438
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shot",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009416954,
+      "mentions": [
+        {
+          "text": {
+            "content": "shot",
+            "beginOffset": 510
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "drag",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009416954,
+      "mentions": [
+        {
+          "text": {
+            "content": "drag",
+            "beginOffset": 534
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "drag",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008666628,
+      "mentions": [
+        {
+          "text": {
+            "content": "drag",
+            "beginOffset": 990
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "thing",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007187773,
+      "mentions": [
+        {
+          "text": {
+            "content": "thing",
+            "beginOffset": 299
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "job",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0071788025,
+      "mentions": [
+        {
+          "text": {
+            "content": "job",
+            "beginOffset": 806
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nowhere",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0065697795,
+      "mentions": [
+        {
+          "text": {
+            "content": "nowhere",
+            "beginOffset": 823
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "liquor store blues",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006563123,
+      "mentions": [
+        {
+          "text": {
+            "content": "liquor store blues",
+            "beginOffset": 927
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "drag",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0064562964,
+      "mentions": [
+        {
+          "text": {
+            "content": "drag",
+            "beginOffset": 1404
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "city lights",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0062960703,
+      "mentions": [
+        {
+          "text": {
+            "content": "city lights",
+            "beginOffset": 648
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rent",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006288474,
+      "mentions": [
+        {
+          "text": {
+            "content": "rent",
+            "beginOffset": 738
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cops",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.006288474,
+      "mentions": [
+        {
+          "text": {
+            "content": "cops",
+            "beginOffset": 785
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "guitar",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006216824,
+      "mentions": [
+        {
+          "text": {
+            "content": "guitar",
+            "beginOffset": 615
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pineapple kush",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0052337474,
+      "mentions": [
+        {
+          "text": {
+            "content": "pineapple kush",
+            "beginOffset": 1290
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "top",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0048840526,
+      "mentions": [
+        {
+          "text": {
+            "content": "top",
+            "beginOffset": 1354
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "drag",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004465219,
+      "mentions": [
+        {
+          "text": {
+            "content": "drag",
+            "beginOffset": 1500
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "thing",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0043800953,
+      "mentions": [
+        {
+          "text": {
+            "content": "thing",
+            "beginOffset": 851
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jaws",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0042733173,
+      "mentions": [
+        {
+          "text": {
+            "content": "jaws",
+            "beginOffset": 1316
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Cause",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0037239434,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cause",
+            "beginOffset": 702
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "greetings",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.003373375,
+      "mentions": [
+        {
+          "text": {
+            "content": "greetings",
+            "beginOffset": 1575
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "world",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.003373375,
+      "mentions": [
+        {
+          "text": {
+            "content": "world",
+            "beginOffset": 1592
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "drag",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0028373287,
+      "mentions": [
+        {
+          "text": {
+            "content": "drag",
+            "beginOffset": 1086
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Superman",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/070vn",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Superman"
+      },
+      "salience": 0.0025300998,
+      "mentions": [
+        {
+          "text": {
+            "content": "Superman",
+            "beginOffset": 1202
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Junior Gong",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/01mskc3",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Damian_Marley"
+      },
+      "salience": 0.0015430538,
+      "mentions": [
+        {
+          "text": {
+            "content": "Junior Gong",
+            "beginOffset": 1168
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

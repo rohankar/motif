@@ -1,0 +1,29 @@
+{
+  "documentSentiment": {
+    "magnitude": 0.1,
+    "score": 0
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "Music is a world within itself  \rWith a language we all understand  \rWith an equal opportunity  \rFor all to sing, dance and clap their hands  \rBut just because a record has a groove  \rDon't make it in the groove  \rBut you can tell right away at letter A  \rWhen the people start to move  \r  \rThey can feel it all over  \rThey can feel it all over people  \rThey can feel it all over  \rThey can feel it all over people  \r  \rMusic knows it is and always will  \rBe one of the things that life just won't quit  \rBut here are some of music's pioneers  \rThat time will not allow us to forget  \rFor there's Basie, Miller, Sachmo  \rAnd the king of all Sir Duke  \rAnd with a voice like Ella's ringing out  \rThere's no way the band can lose  \r  \rYou can feel it all over  \rYou can feel it all over people  \rYou can feel it all over  \rYou can feel it all over people  \rYou can feel it all over  \rYou can feel it all over people  \rYou can feel it all over  \rYou can feel it all over people  \rYou can feel it all over  \rYou can feel it all over people  \rYou can feel it all over  \rYou can feel it all over people  \rYou can feel it all over  \rYou can feel it all over people  \rYou can feel it all over  \r  \rI can feel it all",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "over-all over now people  \rCan't you feel it all over  \rCome on let's feel it all over people  \rYou can feel it all over  \rEverybody-all over people",
+        "beginOffset": 1208
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    }
+  ]
+}

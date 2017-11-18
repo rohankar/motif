@@ -1,0 +1,39 @@
+{
+  "documentSentiment": {
+    "magnitude": 0.8,
+    "score": 0.2
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "Are you?",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Are you people get around?",
+        "beginOffset": 11
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Listen  \rListen to the summer sound  \rYou're fine  \r  \rWhat you need is what you want  \rWhat you need is what you want  \rWhat you need is what you want  \rWhat you need is what you want  \rWhat you need is what you want  \r  \rLet me  \rLet me take you by the hand  \rTo the  \rTo the promised wonder land  \r  \rWhat you need is what you want  \rWhat you need is what you want  \rWhat you need is what you want",
+        "beginOffset": 43
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ]
+}

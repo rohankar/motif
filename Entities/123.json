@@ -1,0 +1,917 @@
+{
+  "entities": [
+    {
+      "name": "Man",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.3646653,
+      "mentions": [
+        {
+          "text": {
+            "content": "Man",
+            "beginOffset": 45
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "radio station",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.10172447,
+      "mentions": [
+        {
+          "text": {
+            "content": "radio station",
+            "beginOffset": 19
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Fiends",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0782796,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fiends",
+            "beginOffset": 186
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/0d05l6",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.045336533,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 0
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 713
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1120
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 1338
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "shit",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030166656,
+      "mentions": [
+        {
+          "text": {
+            "content": "shit",
+            "beginOffset": 145
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "man",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.030166656,
+      "mentions": [
+        {
+          "text": {
+            "content": "man",
+            "beginOffset": 155
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "MC",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.028364785,
+      "mentions": [
+        {
+          "text": {
+            "content": "MC",
+            "beginOffset": 641
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "MC",
+            "beginOffset": 1311
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.02711883,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 425
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 1160
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hip-hop shit",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.025966272,
+      "mentions": [
+        {
+          "text": {
+            "content": "hip-hop shit",
+            "beginOffset": 95
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "enslavement",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025474938,
+      "mentions": [
+        {
+          "text": {
+            "content": "enslavement",
+            "beginOffset": 333
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "enslavement",
+            "beginOffset": 953
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mothers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.025474938,
+      "mentions": [
+        {
+          "text": {
+            "content": "mothers",
+            "beginOffset": 366
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "mothers",
+            "beginOffset": 986
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "death",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.020847632,
+      "mentions": [
+        {
+          "text": {
+            "content": "death",
+            "beginOffset": 326
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "death",
+            "beginOffset": 946
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ages",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018856093,
+      "mentions": [
+        {
+          "text": {
+            "content": "ages",
+            "beginOffset": 526
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "ages",
+            "beginOffset": 1044
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Damn",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01594054,
+      "mentions": [
+        {
+          "text": {
+            "content": "Damn",
+            "beginOffset": 120
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "hip-hop game",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.012356761,
+      "mentions": [
+        {
+          "text": {
+            "content": "hip-hop game",
+            "beginOffset": 1468
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "world",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0068313326,
+      "mentions": [
+        {
+          "text": {
+            "content": "world",
+            "beginOffset": 775
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jiggy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005932547,
+      "mentions": [
+        {
+          "text": {
+            "content": "jiggy",
+            "beginOffset": 260
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "project pavement",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005898295,
+      "mentions": [
+        {
+          "text": {
+            "content": "project pavement",
+            "beginOffset": 297
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mind",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005898295,
+      "mentions": [
+        {
+          "text": {
+            "content": "mind",
+            "beginOffset": 352
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "stress",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005898295,
+      "mentions": [
+        {
+          "text": {
+            "content": "stress",
+            "beginOffset": 390
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hip-hop game",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0055420804,
+      "mentions": [
+        {
+          "text": {
+            "content": "hip-hop game",
+            "beginOffset": 838
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hill",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.005162022,
+      "mentions": [
+        {
+          "text": {
+            "content": "hill",
+            "beginOffset": 219
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "step",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005162022,
+      "mentions": [
+        {
+          "text": {
+            "content": "step",
+            "beginOffset": 239
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "world",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0049424362,
+      "mentions": [
+        {
+          "text": {
+            "content": "world",
+            "beginOffset": 520
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "LP",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0047003417,
+      "mentions": [
+        {
+          "text": {
+            "content": "LP",
+            "beginOffset": 686
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "world",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0046744766,
+      "mentions": [
+        {
+          "text": {
+            "content": "world",
+            "beginOffset": 1405
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "world",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0045576594,
+      "mentions": [
+        {
+          "text": {
+            "content": "world",
+            "beginOffset": 1038
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Lord",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.004058845,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lord",
+            "beginOffset": 606
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dark",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00396423,
+      "mentions": [
+        {
+          "text": {
+            "content": "dark",
+            "beginOffset": 667
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "window",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0039345073,
+      "mentions": [
+        {
+          "text": {
+            "content": "window",
+            "beginOffset": 456
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sky",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0039345073,
+      "mentions": [
+        {
+          "text": {
+            "content": "sky",
+            "beginOffset": 495
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tape",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0037684927,
+      "mentions": [
+        {
+          "text": {
+            "content": "tape",
+            "beginOffset": 730
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "project pavement",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0036280465,
+      "mentions": [
+        {
+          "text": {
+            "content": "project pavement",
+            "beginOffset": 917
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mind",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0036280465,
+      "mentions": [
+        {
+          "text": {
+            "content": "mind",
+            "beginOffset": 972
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "stress",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0036280465,
+      "mentions": [
+        {
+          "text": {
+            "content": "stress",
+            "beginOffset": 1010
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "train",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0034429166,
+      "mentions": [
+        {
+          "text": {
+            "content": "train",
+            "beginOffset": 599
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "melody",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0034429166,
+      "mentions": [
+        {
+          "text": {
+            "content": "melody",
+            "beginOffset": 587
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ear",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0034429166,
+      "mentions": [
+        {
+          "text": {
+            "content": "ear",
+            "beginOffset": 572
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "world",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0032381816,
+      "mentions": [
+        {
+          "text": {
+            "content": "world",
+            "beginOffset": 1529
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Wu-Tang",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/0827v",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Wu-Tang_Clan"
+      },
+      "salience": 0.0026746707,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wu-Tang",
+            "beginOffset": 554
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Wu-Tang",
+            "beginOffset": 1072
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Wu-Tang",
+            "beginOffset": 1218
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Wu-Tang",
+            "beginOffset": 877
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Wu-Tang",
+            "beginOffset": 1640
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Wu-Tang",
+            "beginOffset": 1662
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Wu-Tang",
+            "beginOffset": 1649
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Wu-Tang",
+            "beginOffset": 886
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Wu-Tang",
+            "beginOffset": 895
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Wu-Tang",
+            "beginOffset": 1631
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "hip-hop game",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0026260933,
+      "mentions": [
+        {
+          "text": {
+            "content": "hip-hop game",
+            "beginOffset": 1592
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tape",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002577326,
+      "mentions": [
+        {
+          "text": {
+            "content": "tape",
+            "beginOffset": 1355
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "same",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0024963391,
+      "mentions": [
+        {
+          "text": {
+            "content": "same",
+            "beginOffset": 1497
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pain",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002372332,
+      "mentions": [
+        {
+          "text": {
+            "content": "pain",
+            "beginOffset": 1372
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Earthly",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0014047291,
+      "mentions": [
+        {
+          "text": {
+            "content": "Earthly",
+            "beginOffset": 1364
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "sky",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0011896832,
+      "mentions": [
+        {
+          "text": {
+            "content": "sky",
+            "beginOffset": 1247
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dark",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0011896832,
+      "mentions": [
+        {
+          "text": {
+            "content": "dark",
+            "beginOffset": 1292
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "window",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0011896832,
+      "mentions": [
+        {
+          "text": {
+            "content": "window",
+            "beginOffset": 1191
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sign",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0010408483,
+      "mentions": [
+        {
+          "text": {
+            "content": "sign",
+            "beginOffset": 1226
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "knowledge",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0010408483,
+      "mentions": [
+        {
+          "text": {
+            "content": "knowledge",
+            "beginOffset": 1105
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "air",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0010408483,
+      "mentions": [
+        {
+          "text": {
+            "content": "air",
+            "beginOffset": 1090
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Billboards",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.000616138,
+      "mentions": [
+        {
+          "text": {
+            "content": "Billboards",
+            "beginOffset": 1256
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

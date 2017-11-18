@@ -1,0 +1,109 @@
+{
+  "documentSentiment": {
+    "magnitude": 3.2,
+    "score": 0
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "Driving that train, high on cocaine,  \rCasey Jones you better, watch your speed.",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Trouble ahead, trouble behind,  \rAnd you know that notion just crossed my mind.",
+        "beginOffset": 83
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "This old engine makes it on time,  \rLeaves Central Station 'bout a quarter to nine,  \rHits River Junction at seventeen to,  \rAt a quarter to ten you know it's travelin' again.",
+        "beginOffset": 168
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Driving that train, high on cocaine,  \rCasey Jones you better, watch your speed.",
+        "beginOffset": 349
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Trouble ahead, trouble behind,  \rAnd you know that notion just crossed my mind.",
+        "beginOffset": 432
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Trouble ahead, Lady in red,  \rTake my advice you'd be better off dead.",
+        "beginOffset": 517
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Switchman's sleeping, train hundred and two is  \rOn the wrong track and headed for you.",
+        "beginOffset": 590
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Driving that train, high on cocaine,  \rTrouble ahead, trouble behind,  \rAnd you know that notion just crossed my mind.",
+        "beginOffset": 683
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Trouble with you is the trouble with me,  \rGot two good eyes but you still don't see.",
+        "beginOffset": 807
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Come round the bend, you know it's the end,  \rThe fireman screams and the engine just gleams",
+        "beginOffset": 895
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ]
+}

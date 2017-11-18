@@ -1,0 +1,19 @@
+{
+  "documentSentiment": {
+    "magnitude": 0.5,
+    "score": -0.5
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "Tell me the things that you see  \rOr is it some time that you need  \rAll of the things that you've done  \rI'm certain that you had your fun  \r  \rGo out and make it better  \rYou can make it if you try  \rTry to make it better  \r  \rSomebody calls in the night  \rSays he can make things go right  \rI know there'll soon come a day  \rThings will start falling your way  \r  \rI'll try to help if I can  \rSo don't hide your head in the sand, oh no  \rWhy are you feeling so low  \rYou're wondering where will you go",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    }
+  ]
+}

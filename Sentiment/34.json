@@ -1,0 +1,19 @@
+{
+  "documentSentiment": {
+    "magnitude": 0.3,
+    "score": 0.3
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "We're caught up in a web, you and I  \rSince Crystal came between us  \rThe knots of friendship seem to be untied  \rAnd it hurts me most to cheat and that's no lie  \rShe can swing us both forever  \rIn the long run she's the one who must decide  \r  \rAnd if she leaves me handle her with care  \rDon't hurt little Crystal  \rAnd if she calls you long distance just be there  \rOh Crystal  \rThe world is your oyster, you're a pearl  \rBut he's a jewel and my friend  \rI'm sure that in the end, Crystal you'll be his little girl  \rOh Crystal  \r  \rYou're stronger than me but I'm sure  \rThat the fight would fall to no one  \rThe cold hard truth is stronger than us all  \rAnd it breaks my heart to see us go this far  \rWe're just captives in our separate cells  \rAnd without her there's no peace behind these bars",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "documentSentiment": {
+    "magnitude": 0.8,
+    "score": 0
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "What's in the drink, chase the devil away  \rMagic I think so I just say Chesay  \rChesay, Chesay bring you good luck night and day  \rChesay, Chesay that's the gypsy way  \r  \rTrouble is my middle name, though it's such a crying shame  \rTry and try there's nothing I can do  \rBut I'm feeling kinda strange, feel like things are going to change  \rTime my lucky star was shining through  \rChesay, Chesay bring you good luck night and day  \rChesay, Chesay that's the gypsy way  \r  \rDrink a cup of gypsy love just tip it up and then you just say Chesay  \rSwallow once then swallow twice, goes down so nice just say Chesay.",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Hey!",
+        "beginOffset": 616
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "What's in the drink, chase the devil away  \rMagic I think so I just say Chesay  \rChesay, Chesay bring you good luck night and day  \rChesay, Chesay that's the gypsy way  \r  \rChesay, Chesay brings you good luck night and day  \rChesay, Chesay that's the gypsy way  \rChesay, Chesay brings you good luck night and day  \rChesay, Chesay that's the gypsy way  \rChesay",
+        "beginOffset": 626
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ]
+}

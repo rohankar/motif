@@ -1,0 +1,19 @@
+{
+  "documentSentiment": {
+    "magnitude": 0.8,
+    "score": 0.8
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "Love brings a change  \rI want to take a chance  \rAnd let it grow  \rI trust my feelings  \rI want to be with you  \rWherever you go  \r  \rOh baby  \rWe're more than friends  \rSo precious it should never end  \rOh baby  \rCan't help but win  \r  \rStand up, say it loud  \rWhat we need is a lot more love  \rStand up, say it loud  \rWhat we need is a lotta good good love  \r  \rTonight is our turn  \rWe have the opportunity  \rDon't be afraid  \rWant to make you happy  \rSatisfy the dreams inside our heads  \r  \rOoh daylight comes around so fast  \rI want to make this evening last  \rOoh baby, I've given my best  \r  \rStand up, say it loud  \rWhat we need is a lotta love  \rStand up, shout it out  \rWhat we need is a lot more love  \r  \rOoh baby, new dreams to share  \rAnd someone that will truly care  \rIf you're lonely  \rI will always be there  \r  \rStand up, say it loud  \rWhat we need is a lot more love  \rStand up, shout it out  \rWhat we need is a lotta good good love",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    }
+  ]
+}

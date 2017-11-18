@@ -1,0 +1,531 @@
+{
+  "entities": [
+    {
+      "name": "someone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.10366646,
+      "mentions": [
+        {
+          "text": {
+            "content": "someone",
+            "beginOffset": 20
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "trip",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.09864592,
+      "mentions": [
+        {
+          "text": {
+            "content": "trip",
+            "beginOffset": 87
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ribbons",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.09042646,
+      "mentions": [
+        {
+          "text": {
+            "content": "ribbons",
+            "beginOffset": 50
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hair",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.09042646,
+      "mentions": [
+        {
+          "text": {
+            "content": "hair",
+            "beginOffset": 65
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Yeah",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.049453635,
+      "mentions": [
+        {
+          "text": {
+            "content": "window",
+            "beginOffset": 643
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Yeah",
+            "beginOffset": 652
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Yeah",
+            "beginOffset": 712
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Yeah",
+            "beginOffset": 872
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "musicians",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.043494124,
+      "mentions": [
+        {
+          "text": {
+            "content": "musicians",
+            "beginOffset": 910
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rain",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.040082023,
+      "mentions": [
+        {
+          "text": {
+            "content": "rain",
+            "beginOffset": 164
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "FM set",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.040082023,
+      "mentions": [
+        {
+          "text": {
+            "content": "FM set",
+            "beginOffset": 189
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "window",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03985185,
+      "mentions": [
+        {
+          "text": {
+            "content": "window",
+            "beginOffset": 176
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sister",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.036779895,
+      "mentions": [
+        {
+          "text": {
+            "content": "sister",
+            "beginOffset": 785
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "star",
+            "beginOffset": 797
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "world",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.027125575,
+      "mentions": [
+        {
+          "text": {
+            "content": "world",
+            "beginOffset": 516
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "friend",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.025467606,
+      "mentions": [
+        {
+          "text": {
+            "content": "friend",
+            "beginOffset": 572
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lovers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.02514831,
+      "mentions": [
+        {
+          "text": {
+            "content": "lovers",
+            "beginOffset": 382
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.02361058,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 585
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fire",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.02361058,
+      "mentions": [
+        {
+          "text": {
+            "content": "fire",
+            "beginOffset": 550
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "road",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.02331445,
+      "mentions": [
+        {
+          "text": {
+            "content": "road",
+            "beginOffset": 310
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "door",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021613695,
+      "mentions": [
+        {
+          "text": {
+            "content": "door",
+            "beginOffset": 676
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "phone",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02029115,
+      "mentions": [
+        {
+          "text": {
+            "content": "phone",
+            "beginOffset": 687
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "heart ache",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017882971,
+      "mentions": [
+        {
+          "text": {
+            "content": "heart ache",
+            "beginOffset": 1001
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "valley",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.016163176,
+      "mentions": [
+        {
+          "text": {
+            "content": "valley",
+            "beginOffset": 1041
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "people",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016163176,
+      "mentions": [
+        {
+          "text": {
+            "content": "people",
+            "beginOffset": 962
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lake",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.016163176,
+      "mentions": [
+        {
+          "text": {
+            "content": "lake",
+            "beginOffset": 951
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "grass",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016163176,
+      "mentions": [
+        {
+          "text": {
+            "content": "grass",
+            "beginOffset": 938
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "guitars",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.016163176,
+      "mentions": [
+        {
+          "text": {
+            "content": "guitars",
+            "beginOffset": 924
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "everything",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012872658,
+      "mentions": [
+        {
+          "text": {
+            "content": "everything",
+            "beginOffset": 1111
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "farm",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.01120013,
+      "mentions": [
+        {
+          "text": {
+            "content": "farm",
+            "beginOffset": 1069
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mountains",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.01120013,
+      "mentions": [
+        {
+          "text": {
+            "content": "mountains",
+            "beginOffset": 1095
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Chicago",
+      "type": "LOCATION",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Chicago",
+        "mid": "/m/01_d4"
+      },
+      "salience": 0.007436157,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chicago",
+            "beginOffset": 896
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "car",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.007100257,
+      "mentions": [
+        {
+          "text": {
+            "content": "car",
+            "beginOffset": 863
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "diamonds",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007100257,
+      "mentions": [
+        {
+          "text": {
+            "content": "diamonds",
+            "beginOffset": 826
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mother",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.007100257,
+      "mentions": [
+        {
+          "text": {
+            "content": "mother",
+            "beginOffset": 812
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "father",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.007100257,
+      "mentions": [
+        {
+          "text": {
+            "content": "father",
+            "beginOffset": 752
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.007100257,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": 734
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,740 @@
+{
+  "entities": [
+    {
+      "name": "liquor",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05894374,
+      "mentions": [
+        {
+          "text": {
+            "content": "liquor",
+            "beginOffset": 26
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cocaine Kicker",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.05894374,
+      "mentions": [
+        {
+          "text": {
+            "content": "cocaine  \rKicker",
+            "beginOffset": 40
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sky",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.05894374,
+      "mentions": [
+        {
+          "text": {
+            "content": "sky",
+            "beginOffset": 159
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "devil",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05894374,
+      "mentions": [
+        {
+          "text": {
+            "content": "devil",
+            "beginOffset": 172
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.05894374,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": 186
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.03985156,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 916
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "legs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.039429765,
+      "mentions": [
+        {
+          "text": {
+            "content": "legs",
+            "beginOffset": 144
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bottle",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.039429765,
+      "mentions": [
+        {
+          "text": {
+            "content": "bottle",
+            "beginOffset": 11
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "neighbors",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.03633058,
+      "mentions": [
+        {
+          "text": {
+            "content": "neighbors",
+            "beginOffset": 757
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.033073638,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 484
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.033073638,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 546
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "body",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026111856,
+      "mentions": [
+        {
+          "text": {
+            "content": "body",
+            "beginOffset": 1325
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.025961222,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 534
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jungle",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.025862036,
+      "mentions": [
+        {
+          "text": {
+            "content": "jungle",
+            "beginOffset": 313
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.02563562,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 472
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gorilla",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02563562,
+      "mentions": [
+        {
+          "text": {
+            "content": "gorilla",
+            "beginOffset": 430
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gorillas",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02563562,
+      "mentions": [
+        {
+          "text": {
+            "content": "gorillas",
+            "beginOffset": 494
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gorillas",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02563562,
+      "mentions": [
+        {
+          "text": {
+            "content": "gorillas",
+            "beginOffset": 556
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lover",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.024127891,
+      "mentions": [
+        {
+          "text": {
+            "content": "lover",
+            "beginOffset": 742
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "killer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.022508623,
+      "mentions": [
+        {
+          "text": {
+            "content": "killer",
+            "beginOffset": 379
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Bang bang",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02041762,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bang bang",
+            "beginOffset": 419
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chest",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01726255,
+      "mentions": [
+        {
+          "text": {
+            "content": "chest",
+            "beginOffset": 411
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hair",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015300428,
+      "mentions": [
+        {
+          "text": {
+            "content": "hair",
+            "beginOffset": 599
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cops",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.015300428,
+      "mentions": [
+        {
+          "text": {
+            "content": "cops",
+            "beginOffset": 776
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sheriff",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014003934,
+      "mentions": [
+        {
+          "text": {
+            "content": "sheriff",
+            "beginOffset": 791
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "door",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014003934,
+      "mentions": [
+        {
+          "text": {
+            "content": "door",
+            "beginOffset": 874
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "swat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014003934,
+      "mentions": [
+        {
+          "text": {
+            "content": "swat",
+            "beginOffset": 810
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "daddy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011011111,
+      "mentions": [
+        {
+          "text": {
+            "content": "daddy",
+            "beginOffset": 674
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010920956,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 1245
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010225435,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 1393
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fistful",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010205746,
+      "mentions": [
+        {
+          "text": {
+            "content": "fistful",
+            "beginOffset": 583
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0085643595,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 1233
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gorillas",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008456583,
+      "mentions": [
+        {
+          "text": {
+            "content": "gorillas",
+            "beginOffset": 1255
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0075645065,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 1586
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "killer",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.006852094,
+      "mentions": [
+        {
+          "text": {
+            "content": "killer",
+            "beginOffset": 1078
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Bang bang",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0062137656,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bang bang",
+            "beginOffset": 1118
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0059313416,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 1441
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gorillas",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0058566616,
+      "mentions": [
+        {
+          "text": {
+            "content": "gorillas",
+            "beginOffset": 1463
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0058566616,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 1503
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gorillas",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0058566616,
+      "mentions": [
+        {
+          "text": {
+            "content": "gorillas",
+            "beginOffset": 1533
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0058566616,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 1574
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gorillas",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0058566616,
+      "mentions": [
+        {
+          "text": {
+            "content": "gorillas",
+            "beginOffset": 1596
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00544155,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 1453
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jungle",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.005251299,
+      "mentions": [
+        {
+          "text": {
+            "content": "jungle",
+            "beginOffset": 1012
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chest",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005251299,
+      "mentions": [
+        {
+          "text": {
+            "content": "chest",
+            "beginOffset": 1110
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gorilla Ooh",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004594564,
+      "mentions": [
+        {
+          "text": {
+            "content": "gorilla  \r  \rOoh",
+            "beginOffset": 1129
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0037584358,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 1171
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gorillas",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0037110944,
+      "mentions": [
+        {
+          "text": {
+            "content": "gorillas",
+            "beginOffset": 1193
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0034479545,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 1183
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

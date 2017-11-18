@@ -1,0 +1,481 @@
+{
+  "entities": [
+    {
+      "name": "heart",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.20046388,
+      "mentions": [
+        {
+          "text": {
+            "content": "heart",
+            "beginOffset": 520
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "heart",
+            "beginOffset": 1189
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "heart",
+            "beginOffset": 1677
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "heart",
+            "beginOffset": 1887
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "head",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.1567075,
+      "mentions": [
+        {
+          "text": {
+            "content": "head",
+            "beginOffset": 1032
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "head",
+            "beginOffset": 1545
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "head",
+            "beginOffset": 1560
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "body",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.11027911,
+      "mentions": [
+        {
+          "text": {
+            "content": "body",
+            "beginOffset": 1086
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "body",
+            "beginOffset": 1602
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "body",
+            "beginOffset": 1614
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "war",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.046334743,
+      "mentions": [
+        {
+          "text": {
+            "content": "war",
+            "beginOffset": 52
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "each other",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.046334743,
+      "mentions": [
+        {
+          "text": {
+            "content": "each other",
+            "beginOffset": 21
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "door",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.046334743,
+      "mentions": [
+        {
+          "text": {
+            "content": "door",
+            "beginOffset": 119
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "things",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.046334743,
+      "mentions": [
+        {
+          "text": {
+            "content": "things",
+            "beginOffset": 95
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "score",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.041381087,
+      "mentions": [
+        {
+          "text": {
+            "content": "score",
+            "beginOffset": 180
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "body",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.028024847,
+      "mentions": [
+        {
+          "text": {
+            "content": "body",
+            "beginOffset": 406
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "body",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.028024847,
+      "mentions": [
+        {
+          "text": {
+            "content": "body",
+            "beginOffset": 418
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "head",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026824504,
+      "mentions": [
+        {
+          "text": {
+            "content": "head",
+            "beginOffset": 349
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "head",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026824504,
+      "mentions": [
+        {
+          "text": {
+            "content": "head",
+            "beginOffset": 364
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tattoo",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.022325695,
+      "mentions": [
+        {
+          "text": {
+            "content": "tattoo",
+            "beginOffset": 430
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.021501895,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 259
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.018950887,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 928
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "head",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018137634,
+      "mentions": [
+        {
+          "text": {
+            "content": "head",
+            "beginOffset": 1017
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "body",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017346786,
+      "mentions": [
+        {
+          "text": {
+            "content": "body",
+            "beginOffset": 1074
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "body",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015095022,
+      "mentions": [
+        {
+          "text": {
+            "content": "body",
+            "beginOffset": 705
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lipstick",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.014709969,
+      "mentions": [
+        {
+          "text": {
+            "content": "lipstick",
+            "beginOffset": 767
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tattoo",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.013812491,
+      "mentions": [
+        {
+          "text": {
+            "content": "tattoo",
+            "beginOffset": 1098
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Yeah",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.012793226,
+      "mentions": [
+        {
+          "text": {
+            "content": "Yeah",
+            "beginOffset": 1635
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "tattoo",
+            "beginOffset": 1626
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "breath",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012014972,
+      "mentions": [
+        {
+          "text": {
+            "content": "breath",
+            "beginOffset": 793
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hell",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012014972,
+      "mentions": [
+        {
+          "text": {
+            "content": "hell",
+            "beginOffset": 914
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.007181898,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 1839
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.004551553,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 1353
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0018979217,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 1388
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0018979217,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 1423
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0018979217,
+      "mentions": [
+        {
+          "text": {
+            "content": "Baby",
+            "beginOffset": 1456
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

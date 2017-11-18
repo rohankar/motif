@@ -1,0 +1,495 @@
+{
+  "entities": [
+    {
+      "name": "liar",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.41268045,
+      "mentions": [
+        {
+          "text": {
+            "content": "liar",
+            "beginOffset": 755
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "liar",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.15453714,
+      "mentions": [
+        {
+          "text": {
+            "content": "liar",
+            "beginOffset": 62
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Girl",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Girl",
+        "mid": "/m/05r655"
+      },
+      "salience": 0.043161422,
+      "mentions": [
+        {
+          "text": {
+            "content": "Girl",
+            "beginOffset": 94
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Girl",
+            "beginOffset": 787
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "fire",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024592971,
+      "mentions": [
+        {
+          "text": {
+            "content": "fire",
+            "beginOffset": 156
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fire",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024592971,
+      "mentions": [
+        {
+          "text": {
+            "content": "fire",
+            "beginOffset": 186
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fire",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024592971,
+      "mentions": [
+        {
+          "text": {
+            "content": "fire",
+            "beginOffset": 217
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.020415397,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 141
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.020415397,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 171
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fire",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016709667,
+      "mentions": [
+        {
+          "text": {
+            "content": "fire",
+            "beginOffset": 444
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fire",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016709667,
+      "mentions": [
+        {
+          "text": {
+            "content": "fire",
+            "beginOffset": 413
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fire",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016709667,
+      "mentions": [
+        {
+          "text": {
+            "content": "fire",
+            "beginOffset": 383
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fire",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016398767,
+      "mentions": [
+        {
+          "text": {
+            "content": "fire",
+            "beginOffset": 646
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fire",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015308206,
+      "mentions": [
+        {
+          "text": {
+            "content": "fire",
+            "beginOffset": 616
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01385522,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 398
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013682589,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 368
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012690564,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 631
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012690564,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 601
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mire Try",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011987213,
+      "mentions": [
+        {
+          "text": {
+            "content": "mire  \rTry",
+            "beginOffset": 286
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fire",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011471903,
+      "mentions": [
+        {
+          "text": {
+            "content": "fire",
+            "beginOffset": 849
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fire",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011471903,
+      "mentions": [
+        {
+          "text": {
+            "content": "fire",
+            "beginOffset": 879
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mire Try",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0111169405,
+      "mentions": [
+        {
+          "text": {
+            "content": "mire  \rTry",
+            "beginOffset": 519
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "funeral pyre",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0103064645,
+      "mentions": [
+        {
+          "text": {
+            "content": "funeral pyre",
+            "beginOffset": 342
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "funeral pyre",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.009557219,
+      "mentions": [
+        {
+          "text": {
+            "content": "funeral pyre",
+            "beginOffset": 575
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009557219,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 328
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.009504919,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 834
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.009504919,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 864
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008862031,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 561
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fire",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007964624,
+      "mentions": [
+        {
+          "text": {
+            "content": "fire",
+            "beginOffset": 910
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fire",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007964624,
+      "mentions": [
+        {
+          "text": {
+            "content": "fire",
+            "beginOffset": 941
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fire",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007964624,
+      "mentions": [
+        {
+          "text": {
+            "content": "fire",
+            "beginOffset": 972
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fire",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007964624,
+      "mentions": [
+        {
+          "text": {
+            "content": "fire",
+            "beginOffset": 1003
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fire",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005057152,
+      "mentions": [
+        {
+          "text": {
+            "content": "fire",
+            "beginOffset": 677
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

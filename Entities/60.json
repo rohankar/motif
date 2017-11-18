@@ -1,0 +1,544 @@
+{
+  "entities": [
+    {
+      "name": "do",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.40832123,
+      "mentions": [
+        {
+          "text": {
+            "content": "do",
+            "beginOffset": 26
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "do",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.21475239,
+      "mentions": [
+        {
+          "text": {
+            "content": "do",
+            "beginOffset": 36
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.069583215,
+      "mentions": [
+        {
+          "text": {
+            "content": "Baby",
+            "beginOffset": 396
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "mistress",
+            "beginOffset": 787
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "thing",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0370704,
+      "mentions": [
+        {
+          "text": {
+            "content": "thing",
+            "beginOffset": 12
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "thing",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0370704,
+      "mentions": [
+        {
+          "text": {
+            "content": "thing",
+            "beginOffset": 52
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mama",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.032481685,
+      "mentions": [
+        {
+          "text": {
+            "content": "mama",
+            "beginOffset": 179
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.032481685,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": 195
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cold",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026237296,
+      "mentions": [
+        {
+          "text": {
+            "content": "cold",
+            "beginOffset": 119
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fame",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020781038,
+      "mentions": [
+        {
+          "text": {
+            "content": "fame",
+            "beginOffset": 723
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "hell",
+            "beginOffset": 733
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mind",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014247806,
+      "mentions": [
+        {
+          "text": {
+            "content": "mind",
+            "beginOffset": 261
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dr",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0124719525,
+      "mentions": [
+        {
+          "text": {
+            "content": "dr",
+            "beginOffset": 290
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dream",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0124719525,
+      "mentions": [
+        {
+          "text": {
+            "content": "dream",
+            "beginOffset": 279
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "class",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0124719525,
+      "mentions": [
+        {
+          "text": {
+            "content": "class",
+            "beginOffset": 224
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "soul",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00804383,
+      "mentions": [
+        {
+          "text": {
+            "content": "soul",
+            "beginOffset": 879
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "King",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0059368457,
+      "mentions": [
+        {
+          "text": {
+            "content": "King",
+            "beginOffset": 294
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "song",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0059368457,
+      "mentions": [
+        {
+          "text": {
+            "content": "song",
+            "beginOffset": 309
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "teacher",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.005502565,
+      "mentions": [
+        {
+          "text": {
+            "content": "teacher",
+            "beginOffset": 375
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mind",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0045819525,
+      "mentions": [
+        {
+          "text": {
+            "content": "mind",
+            "beginOffset": 852
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "front",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0040091956,
+      "mentions": [
+        {
+          "text": {
+            "content": "front",
+            "beginOffset": 670
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "wife",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0040091956,
+      "mentions": [
+        {
+          "text": {
+            "content": "wife",
+            "beginOffset": 762
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "temptress",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0040091956,
+      "mentions": [
+        {
+          "text": {
+            "content": "temptress",
+            "beginOffset": 743
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Everybody",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0039587272,
+      "mentions": [
+        {
+          "text": {
+            "content": "Everybody",
+            "beginOffset": 615
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "crowd",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.003908893,
+      "mentions": [
+        {
+          "text": {
+            "content": "crowd",
+            "beginOffset": 642
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "spell",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0032735532,
+      "mentions": [
+        {
+          "text": {
+            "content": "spell",
+            "beginOffset": 947
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "well",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0027273318,
+      "mentions": [
+        {
+          "text": {
+            "content": "well",
+            "beginOffset": 1337
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "niggas",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.001971718,
+      "mentions": [
+        {
+          "text": {
+            "content": "niggas",
+            "beginOffset": 911
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tricks",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0019468805,
+      "mentions": [
+        {
+          "text": {
+            "content": "tricks",
+            "beginOffset": 837
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "somebody",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0016624493,
+      "mentions": [
+        {
+          "text": {
+            "content": "somebody",
+            "beginOffset": 1189
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "somebody",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0016624493,
+      "mentions": [
+        {
+          "text": {
+            "content": "somebody",
+            "beginOffset": 1215
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "many",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0013745266,
+      "mentions": [
+        {
+          "text": {
+            "content": "many",
+            "beginOffset": 1159
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "people",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0012025418,
+      "mentions": [
+        {
+          "text": {
+            "content": "people",
+            "beginOffset": 1173
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "whatever",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0011004008,
+      "mentions": [
+        {
+          "text": {
+            "content": "whatever",
+            "beginOffset": 1233
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lane",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.000916066,
+      "mentions": [
+        {
+          "text": {
+            "content": "lane",
+            "beginOffset": 1267
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lane",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.000916066,
+      "mentions": [
+        {
+          "text": {
+            "content": "lane",
+            "beginOffset": 1289
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Tryna",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0009057551,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tryna",
+            "beginOffset": 1206
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

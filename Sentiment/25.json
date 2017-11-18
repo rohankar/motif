@@ -1,0 +1,59 @@
+{
+  "documentSentiment": {
+    "magnitude": 1,
+    "score": -0.1
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "Honey  \rIt's been a long time coming  \rAnd I can't stop now  \rSuch a long time running  \rAnd I can't stop now  \rDo you hear my heart beating?",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Can you hear that sound?",
+        "beginOffset": 144
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "'Cause I can't help thinking  \rI don't look down  \r  \rAnd then I looked up at the sun  \rAnd I could see  \rOh, the way that gravity turns for you and me  \rAnd then I looked up at the sky  \rAnd saw the sun  \rAnd the way that gravity turns on everyone  \rOn everyone  \r  \rBaby  \rIt's been a long time waiting  \rSuch a long, long time  \rAnd I can't stop smiling  \rOh I can't stop now  \rDo you hear my heart beating?",
+        "beginOffset": 171
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Oh, do you hear that sound?",
+        "beginOffset": 584
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "'Cause I can't stop crying  \rAnd I won't look down  \r  \rAnd then I looked up at the sun  \rAnd I could see  \rOh, the way that gravity turns on you and me  \rAnd then I looked up at the sun  \rAnd saw the sky  \rAnd the way that gravity pulls on you and I  \rOn you and I",
+        "beginOffset": 614
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    }
+  ]
+}

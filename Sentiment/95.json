@@ -1,0 +1,429 @@
+{
+  "documentSentiment": {
+    "magnitude": 12.5,
+    "score": 0.1
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "One, two, three!",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "My baby don't mess around  \rCause she loves me so  \rThis I know fo sho!",
+        "beginOffset": 19
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    },
+    {
+      "text": {
+        "content": "But does she really wanna  \rBut can't stand to see me walk out tha door  \rDon't try to fight the feeling  \rBecause the thought alone is killin' me right now  \rThank God for Mom and Dad  \rFor sticking to together  \rLike we don't know how  \r  \rHey ya!",
+        "beginOffset": 96
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Hey ya!",
+        "beginOffset": 346
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Hey ya!",
+        "beginOffset": 356
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Hey ya!",
+        "beginOffset": 364
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Hey ya!",
+        "beginOffset": 374
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Hey ya!",
+        "beginOffset": 382
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Hey ya!",
+        "beginOffset": 392
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Hey ya!",
+        "beginOffset": 400
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "You think you've got it  \rOh, you think you've got it  \rBut got it just don't get it when there's nothin' at all  \rWe get together  \rOh, we get together  \rBut separate's always better when there's feelings involved  \rKnow what they say -its:  \rNothing lasts forever!",
+        "beginOffset": 413
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Then what makes it, then what makes it  \rThen what makes it, then what makes it  \rThen what makes love the exception?",
+        "beginOffset": 682
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "So why, oh, why, oh  \rWhy, oh, why, oh, why, oh  \rAre we still in denial when we know we're not happy here  \r  \rHey ya! (y'all don't want to here me, ya just want to dance) Hey ya!",
+        "beginOffset": 802
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Don't want to meet your daddy (oh ohh), just want you in my caddy (oh ohh)  \rHey ya! (oh, oh!)",
+        "beginOffset": 985
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Hey ya! (oh, oh!)",
+        "beginOffset": 1080
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Don't want to meet your momma, just want to make you cum-a (oh,oh!)",
+        "beginOffset": 1100
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "I'm (oh,oh) I'm (oh,oh) I'm just being honest!",
+        "beginOffset": 1170
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "(oh,oh)  \rI'm just being honest!",
+        "beginOffset": 1217
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Hey!",
+        "beginOffset": 1252
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "alright now!",
+        "beginOffset": 1257
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "alright now, fellas!",
+        "beginOffset": 1270
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Yea?",
+        "beginOffset": 1293
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Now, what cooler than being cool?",
+        "beginOffset": 1300
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Ice cold!",
+        "beginOffset": 1336
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "I can't hear ya!",
+        "beginOffset": 1348
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "I say what's, what's cooler than being cool?",
+        "beginOffset": 1365
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Ice cold!",
+        "beginOffset": 1412
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Alright alright alright alright alright alright alright alright alright\ralright alright alright alright alright alright alright!",
+        "beginOffset": 1424
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Okay, now ladies!",
+        "beginOffset": 1555
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Yea?",
+        "beginOffset": 1575
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Now we gonna break this thang down for just a few seconds,  \rNow don't have me break this thang down for nothin',  \rI want to see you on your badest behavior!",
+        "beginOffset": 1582
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Lend me some sugar, I am your neighbor!",
+        "beginOffset": 1743
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Ah!",
+        "beginOffset": 1785
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Here we go now,  \rShake it, shake it, shake it, shake it, shake it,  \rShake it, shake it, shake it, shake it,  \rShake it like a Polaroid picture!",
+        "beginOffset": 1789
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Hey ya!",
+        "beginOffset": 1935
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Shake it, shake it, shake it, shake it, shake it,  \rShake it, shake it, shake it, suga!",
+        "beginOffset": 1945
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Shake it like a Polaroid picture!",
+        "beginOffset": 2035
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Now all the Beyonce's, and Lucy Lu's, and baby dolls,  \rGet on tha floor get on tha floor!",
+        "beginOffset": 2071
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Shake it like a Polaroid picture!",
+        "beginOffset": 2164
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Oh, you!",
+        "beginOffset": 2200
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "oh, you!",
+        "beginOffset": 2209
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "Hey ya!(oh, oh) Hey ya!(oh, oh)  \rHey ya!(oh, oh) Hey ya!(oh, oh)  \rHey ya!(oh, oh) Hey ya!(oh, oh)",
+        "beginOffset": 2220
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    }
+  ]
+}

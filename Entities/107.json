@@ -1,0 +1,615 @@
+{
+  "entities": [
+    {
+      "name": "people",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.21924111,
+      "mentions": [
+        {
+          "text": {
+            "content": "people",
+            "beginOffset": 265
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "world",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.104774885,
+      "mentions": [
+        {
+          "text": {
+            "content": "world",
+            "beginOffset": 11
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "all",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10108584,
+      "mentions": [
+        {
+          "text": {
+            "content": "all",
+            "beginOffset": 101
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Music",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Music",
+        "mid": "/m/04rlf"
+      },
+      "salience": 0.079416126,
+      "mentions": [
+        {
+          "text": {
+            "content": "Music",
+            "beginOffset": 0
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Music",
+            "beginOffset": 420
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "record",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.037609782,
+      "mentions": [
+        {
+          "text": {
+            "content": "record",
+            "beginOffset": 162
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "groove",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03693328,
+      "mentions": [
+        {
+          "text": {
+            "content": "groove",
+            "beginOffset": 175
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "one",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.03600506,
+      "mentions": [
+        {
+          "text": {
+            "content": "one",
+            "beginOffset": 459
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "language",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.032384697,
+      "mentions": [
+        {
+          "text": {
+            "content": "language",
+            "beginOffset": 40
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "opportunity",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.032384697,
+      "mentions": [
+        {
+          "text": {
+            "content": "opportunity",
+            "beginOffset": 83
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dance",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.032384697,
+      "mentions": [
+        {
+          "text": {
+            "content": "dance",
+            "beginOffset": 114
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hands",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.032384697,
+      "mentions": [
+        {
+          "text": {
+            "content": "hands",
+            "beginOffset": 135
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "people",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.023566995,
+      "mentions": [
+        {
+          "text": {
+            "content": "people",
+            "beginOffset": 345
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "people",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01576568,
+      "mentions": [
+        {
+          "text": {
+            "content": "people",
+            "beginOffset": 408
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "people",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014618653,
+      "mentions": [
+        {
+          "text": {
+            "content": "people",
+            "beginOffset": 846
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "people",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014618653,
+      "mentions": [
+        {
+          "text": {
+            "content": "people",
+            "beginOffset": 785
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "groove",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014245773,
+      "mentions": [
+        {
+          "text": {
+            "content": "groove",
+            "beginOffset": 205
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "letter",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.012473637,
+      "mentions": [
+        {
+          "text": {
+            "content": "letter",
+            "beginOffset": 245
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "people",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010939465,
+      "mentions": [
+        {
+          "text": {
+            "content": "people",
+            "beginOffset": 1151
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "people",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010939465,
+      "mentions": [
+        {
+          "text": {
+            "content": "people",
+            "beginOffset": 1090
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "people",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010939465,
+      "mentions": [
+        {
+          "text": {
+            "content": "people",
+            "beginOffset": 1029
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "music",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.010457379,
+      "mentions": [
+        {
+          "text": {
+            "content": "music",
+            "beginOffset": 526
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008872118,
+      "mentions": [
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": 706
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pioneers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.008435005,
+      "mentions": [
+        {
+          "text": {
+            "content": "pioneers",
+            "beginOffset": 534
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "king",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.008435005,
+      "mentions": [
+        {
+          "text": {
+            "content": "king",
+            "beginOffset": 629
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Sir Duke",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.008435005,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sir Duke",
+            "beginOffset": 641
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "voice",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008435005,
+      "mentions": [
+        {
+          "text": {
+            "content": "voice",
+            "beginOffset": 663
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "things",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00832912,
+      "mentions": [
+        {
+          "text": {
+            "content": "things",
+            "beginOffset": 470
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00832912,
+      "mentions": [
+        {
+          "text": {
+            "content": "life",
+            "beginOffset": 482
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "band",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.007721042,
+      "mentions": [
+        {
+          "text": {
+            "content": "band",
+            "beginOffset": 714
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "some",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0071571977,
+      "mentions": [
+        {
+          "text": {
+            "content": "some",
+            "beginOffset": 518
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Basie",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005327177,
+      "mentions": [
+        {
+          "text": {
+            "content": "Basie",
+            "beginOffset": 597
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Ella",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0050005973,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ella",
+            "beginOffset": 674
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Sachmo",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0050005973,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sachmo",
+            "beginOffset": 612
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Miller",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0050005973,
+      "mentions": [
+        {
+          "text": {
+            "content": "Miller",
+            "beginOffset": 604
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "people",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0048109163,
+      "mentions": [
+        {
+          "text": {
+            "content": "people",
+            "beginOffset": 907
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "people",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0048109163,
+      "mentions": [
+        {
+          "text": {
+            "content": "people",
+            "beginOffset": 968
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "people",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0036096645,
+      "mentions": [
+        {
+          "text": {
+            "content": "people",
+            "beginOffset": 1226
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "people",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0036096645,
+      "mentions": [
+        {
+          "text": {
+            "content": "people",
+            "beginOffset": 1295
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "people",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0036096645,
+      "mentions": [
+        {
+          "text": {
+            "content": "people",
+            "beginOffset": 1350
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "let",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0019015414,
+      "mentions": [
+        {
+          "text": {
+            "content": "let",
+            "beginOffset": 1272
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,29 @@
+{
+  "documentSentiment": {
+    "magnitude": 1.7,
+    "score": 0
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "Every time when I look in the mirror  \rAll these lines on my face getting clearer  \rThe past is gone  \rIt went by, like dusk to dawn  \rIsn't that the way  \rEverybody's got the dues in life to pay  \r  \rI know nobody knows  \rWhere it comes and where it goes  \rI know it's everybody's sin  \rYou got to lose to know how to win  \r  \rHalf my life  \rIs books, written pages  \rLive and learn from fools and  \rFrom sages  \rYou know it's true, oh  \rAll the things come back to you  \r  \rSing with me, sing for the year  \rSing for the laughter, sing for the tear  \rSing with me, just for today  \rMaybe tomorrow, the good Lord will take you away  \r  \rYeah, sing with me, sing for the year  \rSing for the laughter, sing for the tear  \rSing with me, just for today  \rMaybe tomorrow, the good Lord will take you away  \r  \rDream on  \rDream on  \rDream on  \rDream until your dreams come true  \rDream on  \rDream on  \rDream on  \rDream until your dreams come true  \rDream on  \rDream on  \rDream on  \rDream on  \rDream on  \rDream on  \rDream on  \r  \rSing with me, sing for the year  \rSing for the laughter, sing for the tear  \rSing with me, just for today  \rMaybe tomorrow, the good Lord will take you away  \rSing with me, sing for the year  \rSing",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    },
+    {
+      "text": {
+        "content": "for the laughter, sing for the tear  \rSing with me, just for today  \rMaybe tomorrow, the good Lord will take you away.",
+        "beginOffset": 1222
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    }
+  ]
+}

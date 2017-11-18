@@ -1,0 +1,29 @@
+{
+  "documentSentiment": {
+    "magnitude": 1.2,
+    "score": -0.6
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "I'm not a fortune teller, I won't be bringing news  \rOf what tomorrow brings, I'll leave that up to you  \rI'm not a fortune teller, don't have a crystal ball  \rI can't predict the future, can't see nothing at all  \r  \rIt doesn't mean I'm afraid of all the things that you say  \rBut I just think we should stay stuck in the moment today  \rAnd as the seasons roll by, no matter how hard I try  \rSummer will end and the leaves will turn again  \r  \rI don't know why you're acting like this  \rI don't know why you had to do it again  \rWhy'd you have to go and ruin the night  \rDon't worry about tomorrow's mess  \r  \rI never know how the future will go  \rI don't know what to tell you, I'm not a fortune teller  \rI'll never change, but I want you to stay  \rI don't know what to tell you, I'm not a fortune teller  \r  \rI don't like watching TV, I don't know what it all means  \rAnd your American dream, baby it just isn't me  \rI know that what I'm thinking may not be on your mind  \rI know the song I'm singing is not your favorite kind  \r  \rIt doesn't mean I'm afraid of all the things that you",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "say  \rBut I just think we should stay stuck in the moment today  \rAnd as the seasons roll by, no matter how hard I try  \rSummer will end and the leaves will turn again  \r  \rI don't know why you're acting like this  \rI don't know why you had to do it again  \rWhy'd you have to go and ruin the night  \rDon't worry about tomorrow's mess  \r  \rI never know how the future will go  \rI don't know what to tell you, I'm not a fortune teller  \rI'll never change, but I want you to stay  \rI don't know what to tell you, I'm not a fortune teller  \r  \rThis feeling keeps growing  \rThese rivers keep flowing  \rHow can I have answers  \rWhen you drown me in questions  \r  \rI never know how the future will go  \rI don't know what to tell you, I'm not a fortune teller  \rI'll never change, but I want you to stay  \rAnd I don't know what to tell you, I'm not a fortune teller  \r  \rI'll never know how the future will go  \rI don't know what to tell you, I'm not a fortune teller  \rI never change, but I want you to stay  \rI don't know what to tell you, I'm not a fortune teller",
+        "beginOffset": 1089
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ]
+}
