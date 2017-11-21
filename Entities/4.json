@@ -1,30 +1,15 @@
 {
   "entities": [
     {
-      "name": "mirror",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.17478664,
-      "mentions": [
-        {
-          "text": {
-            "content": "mirror",
-            "beginOffset": 30
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "Lord",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.12474248,
+      "salience": 0.2157075,
       "mentions": [
         {
           "text": {
             "content": "Lord",
-            "beginOffset": 777
+            "beginOffset": 609
           },
           "type": "COMMON"
         },
@@ -38,25 +23,10 @@
       ]
     },
     {
-      "name": "way",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.071389884,
-      "mentions": [
-        {
-          "text": {
-            "content": "way",
-            "beginOffset": 150
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "Everybody",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.062772736,
+      "salience": 0.058281194,
       "mentions": [
         {
           "text": {
@@ -71,7 +41,7 @@
       "name": "face",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.05511143,
+      "salience": 0.051161524,
       "mentions": [
         {
           "text": {
@@ -86,7 +56,7 @@
       "name": "past",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.05511143,
+      "salience": 0.051161524,
       "mentions": [
         {
           "text": {
@@ -98,10 +68,55 @@
       ]
     },
     {
+      "name": "mirror",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.051161524,
+      "mentions": [
+        {
+          "text": {
+            "content": "mirror",
+            "beginOffset": 30
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dusk",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.051161524,
+      "mentions": [
+        {
+          "text": {
+            "content": "dusk",
+            "beginOffset": 120
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.051161524,
+      "mentions": [
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": 150
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "lines",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.05511143,
+      "salience": 0.051161524,
       "mentions": [
         {
           "text": {
@@ -113,25 +128,10 @@
       ]
     },
     {
-      "name": "Lord",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.026695251,
-      "mentions": [
-        {
-          "text": {
-            "content": "Lord",
-            "beginOffset": 609
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "sin",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.025128813,
+      "salience": 0.024208458,
       "mentions": [
         {
           "text": {
@@ -143,15 +143,30 @@
       ]
     },
     {
-      "name": "everybody",
-      "type": "PERSON",
+      "name": "Sing",
+      "type": "OTHER",
       "metadata": {},
-      "salience": 0.024365915,
+      "salience": 0.022692274,
       "mentions": [
         {
           "text": {
-            "content": "everybody",
-            "beginOffset": 270
+            "content": "Sing",
+            "beginOffset": 510
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Lord",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.022686059,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lord",
+            "beginOffset": 777
           },
           "type": "COMMON"
         }
@@ -161,7 +176,7 @@
       "name": "life",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.024365915,
+      "salience": 0.022606049,
       "mentions": [
         {
           "text": {
@@ -173,15 +188,30 @@
       ]
     },
     {
-      "name": "things",
-      "type": "OTHER",
+      "name": "everybody",
+      "type": "PERSON",
       "metadata": {},
-      "salience": 0.019795097,
+      "salience": 0.022606049,
       "mentions": [
         {
           "text": {
-            "content": "things",
-            "beginOffset": 447
+            "content": "everybody",
+            "beginOffset": 270
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Sing",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020782668,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sing",
+            "beginOffset": 678
           },
           "type": "COMMON"
         }
@@ -191,7 +221,7 @@
       "name": "laughter",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.019504467,
+      "salience": 0.018093532,
       "mentions": [
         {
           "text": {
@@ -206,7 +236,7 @@
       "name": "tear",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.019504467,
+      "salience": 0.018093532,
       "mentions": [
         {
           "text": {
@@ -218,15 +248,15 @@
       ]
     },
     {
-      "name": "books",
-      "type": "WORK_OF_ART",
+      "name": "things",
+      "type": "OTHER",
       "metadata": {},
-      "salience": 0.018588789,
+      "salience": 0.017907038,
       "mentions": [
         {
           "text": {
-            "content": "books",
-            "beginOffset": 346
+            "content": "things",
+            "beginOffset": 447
           },
           "type": "COMMON"
         }
@@ -236,7 +266,7 @@
       "name": "Lord",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.018315721,
+      "salience": 0.016990235,
       "mentions": [
         {
           "text": {
@@ -248,15 +278,15 @@
       ]
     },
     {
-      "name": "tear",
-      "type": "OTHER",
+      "name": "books",
+      "type": "WORK_OF_ART",
       "metadata": {},
-      "salience": 0.017860597,
+      "salience": 0.016604679,
       "mentions": [
         {
           "text": {
-            "content": "tear",
-            "beginOffset": 714
+            "content": "books",
+            "beginOffset": 346
           },
           "type": "COMMON"
         }
@@ -266,7 +296,7 @@
       "name": "laughter",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.017860597,
+      "salience": 0.016567837,
       "mentions": [
         {
           "text": {
@@ -278,10 +308,40 @@
       ]
     },
     {
+      "name": "tear",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016567837,
+      "mentions": [
+        {
+          "text": {
+            "content": "tear",
+            "beginOffset": 714
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Sing",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015561156,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sing",
+            "beginOffset": 1058
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "life",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.01629638,
+      "salience": 0.015307788,
       "mentions": [
         {
           "text": {
@@ -293,10 +353,25 @@
       ]
     },
     {
+      "name": "dues",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014639688,
+      "mentions": [
+        {
+          "text": {
+            "content": "dues",
+            "beginOffset": 176
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "pages",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.015782943,
+      "salience": 0.014456368,
       "mentions": [
         {
           "text": {
@@ -309,9 +384,9 @@
     },
     {
       "name": "sages",
-      "type": "OTHER",
+      "type": "PERSON",
       "metadata": {},
-      "salience": 0.01426968,
+      "salience": 0.013403358,
       "mentions": [
         {
           "text": {
@@ -326,7 +401,7 @@
       "name": "fools",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.01426968,
+      "salience": 0.013403358,
       "mentions": [
         {
           "text": {
@@ -338,40 +413,10 @@
       ]
     },
     {
-      "name": "dues",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.01426968,
-      "mentions": [
-        {
-          "text": {
-            "content": "dues",
-            "beginOffset": 176
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "laughter",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.013368254,
-      "mentions": [
-        {
-          "text": {
-            "content": "laughter",
-            "beginOffset": 1071
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "tear",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.013368254,
+      "salience": 0.0123989675,
       "mentions": [
         {
           "text": {
@@ -383,10 +428,25 @@
       ]
     },
     {
+      "name": "laughter",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0123989675,
+      "mentions": [
+        {
+          "text": {
+            "content": "laughter",
+            "beginOffset": 1071
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "dreams",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.012441685,
+      "salience": 0.011110488,
       "mentions": [
         {
           "text": {
@@ -401,7 +461,7 @@
       "name": "dreams",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.012441685,
+      "salience": 0.011110488,
       "mentions": [
         {
           "text": {
@@ -416,7 +476,7 @@
       "name": "Sing",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.011639541,
+      "salience": 0.01079495,
       "mentions": [
         {
           "text": {
@@ -428,27 +488,12 @@
       ]
     },
     {
-      "name": "nobody",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.011371617,
-      "mentions": [
-        {
-          "text": {
-            "content": "nobody",
-            "beginOffset": 208
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "Dream on Dream on Dream on Dream",
       "type": "WORK_OF_ART",
       "metadata": {
         "mid": "/g/1s05ym3_v"
       },
-      "salience": 0.0056406376,
+      "salience": 0.0052298913,
       "mentions": [
         {
           "text": {
@@ -470,7 +515,7 @@
       "name": "Dream on Dream on Dream on Dream on Dream on Dream on Dream on Sing",
       "type": "WORK_OF_ART",
       "metadata": {},
-      "salience": 0.0050024856,
+      "salience": 0.0046380158,
       "mentions": [
         {
           "text": {
@@ -485,7 +530,7 @@
       "name": "laughter",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0044129076,
+      "salience": 0.0040912195,
       "mentions": [
         {
           "text": {
@@ -500,7 +545,7 @@
       "name": "tear",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0044129076,
+      "salience": 0.0040912195,
       "mentions": [
         {
           "text": {

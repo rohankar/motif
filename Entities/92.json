@@ -4,7 +4,7 @@
       "name": "something",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.5272741,
+      "salience": 0.53392345,
       "mentions": [
         {
           "text": {
@@ -33,7 +33,7 @@
       "name": "some",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.22172153,
+      "salience": 0.21796307,
       "mentions": [
         {
           "text": {
@@ -45,25 +45,10 @@
       ]
     },
     {
-      "name": "ripple",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.051336955,
-      "mentions": [
-        {
-          "text": {
-            "content": "ripple",
-            "beginOffset": 272
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "baby",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.03272089,
+      "salience": 0.062052015,
       "mentions": [
         {
           "text": {
@@ -78,7 +63,7 @@
       "name": "way",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.030030997,
+      "salience": 0.02943562,
       "mentions": [
         {
           "text": {
@@ -93,7 +78,7 @@
       "name": "way",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.022488311,
+      "salience": 0.021222048,
       "mentions": [
         {
           "text": {
@@ -108,7 +93,7 @@
       "name": "cradle",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.014897129,
+      "salience": 0.016086122,
       "mentions": [
         {
           "text": {
@@ -123,7 +108,7 @@
       "name": "something",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.013435965,
+      "salience": 0.013969067,
       "mentions": [
         {
           "text": {
@@ -135,10 +120,40 @@
       ]
     },
     {
+      "name": "ripple",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013824514,
+      "mentions": [
+        {
+          "text": {
+            "content": "ripple",
+            "beginOffset": 272
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Search",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013143331,
+      "mentions": [
+        {
+          "text": {
+            "content": "Search",
+            "beginOffset": 367
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "way",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.012588425,
+      "salience": 0.012973683,
       "mentions": [
         {
           "text": {
@@ -153,7 +168,7 @@
       "name": "way",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.011164743,
+      "salience": 0.011607454,
       "mentions": [
         {
           "text": {
@@ -165,25 +180,10 @@
       ]
     },
     {
-      "name": "Search",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.010863192,
-      "mentions": [
-        {
-          "text": {
-            "content": "Search",
-            "beginOffset": 367
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "justice",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.010863192,
+      "salience": 0.011293902,
       "mentions": [
         {
           "text": {
@@ -198,7 +198,7 @@
       "name": "water",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.010726747,
+      "salience": 0.011293902,
       "mentions": [
         {
           "text": {
@@ -213,7 +213,7 @@
       "name": "stone",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.010726747,
+      "salience": 0.011293902,
       "mentions": [
         {
           "text": {
@@ -228,7 +228,7 @@
       "name": "way",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0077371025,
+      "salience": 0.008043413,
       "mentions": [
         {
           "text": {
@@ -243,7 +243,7 @@
       "name": "way",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0049304543,
+      "salience": 0.0051251794,
       "mentions": [
         {
           "text": {
@@ -258,7 +258,7 @@
       "name": "means",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0032467714,
+      "salience": 0.0033746741,
       "mentions": [
         {
           "text": {
@@ -273,7 +273,7 @@
       "name": "end",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0032467714,
+      "salience": 0.0033746741,
       "mentions": [
         {
           "text": {

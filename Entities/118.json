@@ -4,7 +4,7 @@
       "name": "king",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.5364783,
+      "salience": 0.45521715,
       "mentions": [
         {
           "text": {
@@ -40,7 +40,7 @@
       "name": "baby",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.15358475,
+      "salience": 0.17575765,
       "mentions": [
         {
           "text": {
@@ -59,25 +59,10 @@
       ]
     },
     {
-      "name": "beer Act",
-      "type": "WORK_OF_ART",
-      "metadata": {},
-      "salience": 0.06283328,
-      "mentions": [
-        {
-          "text": {
-            "content": "beer  \rAct",
-            "beginOffset": 233
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "thing",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.05351062,
+      "salience": 0.08586518,
       "mentions": [
         {
           "text": {
@@ -113,7 +98,7 @@
       "name": "dude",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.051929235,
+      "salience": 0.059079237,
       "mentions": [
         {
           "text": {
@@ -128,7 +113,7 @@
       "name": "slack",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.031027118,
+      "salience": 0.03650959,
       "mentions": [
         {
           "text": {
@@ -140,10 +125,32 @@
       ]
     },
     {
+      "name": "biz",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.032146372,
+      "mentions": [
+        {
+          "text": {
+            "content": "biz",
+            "beginOffset": 627
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "biz",
+            "beginOffset": 1278
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "disco",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.02604858,
+      "salience": 0.030273844,
       "mentions": [
         {
           "text": {
@@ -155,11 +162,33 @@
       ]
     },
     {
+      "name": "beer Act",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.029454168,
+      "mentions": [
+        {
+          "text": {
+            "content": "beer  \rAct",
+            "beginOffset": 233
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "army",
       "type": "ORGANIZATION",
       "metadata": {},
-      "salience": 0.010331321,
+      "salience": 0.013062299,
       "mentions": [
+        {
+          "text": {
+            "content": "army",
+            "beginOffset": 795
+          },
+          "type": "COMMON"
+        },
         {
           "text": {
             "content": "army",
@@ -170,15 +199,15 @@
       ]
     },
     {
-      "name": "babies",
+      "name": "losers",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.010240275,
+      "salience": 0.012039022,
       "mentions": [
         {
           "text": {
-            "content": "babies",
-            "beginOffset": 812
+            "content": "losers",
+            "beginOffset": 769
           },
           "type": "COMMON"
         }
@@ -188,7 +217,7 @@
       "name": "respect",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.005746775,
+      "salience": 0.008710507,
       "mentions": [
         {
           "text": {
@@ -200,15 +229,15 @@
       ]
     },
     {
-      "name": "something",
-      "type": "OTHER",
+      "name": "babies",
+      "type": "PERSON",
       "metadata": {},
-      "salience": 0.004307512,
+      "salience": 0.008622449,
       "mentions": [
         {
           "text": {
-            "content": "something",
-            "beginOffset": 653
+            "content": "babies",
+            "beginOffset": 812
           },
           "type": "COMMON"
         }
@@ -218,7 +247,7 @@
       "name": "something",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.004280926,
+      "salience": 0.0050388756,
       "mentions": [
         {
           "text": {
@@ -230,15 +259,15 @@
       ]
     },
     {
-      "name": "biz",
-      "type": "PERSON",
+      "name": "something",
+      "type": "OTHER",
       "metadata": {},
-      "salience": 0.00401385,
+      "salience": 0.005006398,
       "mentions": [
         {
           "text": {
-            "content": "biz",
-            "beginOffset": 627
+            "content": "something",
+            "beginOffset": 653
           },
           "type": "COMMON"
         }
@@ -248,7 +277,7 @@
       "name": "Some",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.003942275,
+      "salience": 0.004581829,
       "mentions": [
         {
           "text": {
@@ -261,9 +290,9 @@
     },
     {
       "name": "some",
-      "type": "OTHER",
+      "type": "PERSON",
       "metadata": {},
-      "salience": 0.003942275,
+      "salience": 0.004581829,
       "mentions": [
         {
           "text": {
@@ -278,7 +307,7 @@
       "name": "town",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.0036370624,
+      "salience": 0.0042809052,
       "mentions": [
         {
           "text": {
@@ -290,40 +319,10 @@
       ]
     },
     {
-      "name": "army",
-      "type": "ORGANIZATION",
-      "metadata": {},
-      "salience": 0.003332102,
-      "mentions": [
-        {
-          "text": {
-            "content": "army",
-            "beginOffset": 795
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "attention",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0031859437,
-      "mentions": [
-        {
-          "text": {
-            "content": "attention",
-            "beginOffset": 705
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "kick",
       "type": "EVENT",
       "metadata": {},
-      "salience": 0.0031825681,
+      "salience": 0.0037458683,
       "mentions": [
         {
           "text": {
@@ -335,10 +334,25 @@
       ]
     },
     {
+      "name": "attention",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0037026452,
+      "mentions": [
+        {
+          "text": {
+            "content": "attention",
+            "beginOffset": 705
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "something",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0029336999,
+      "salience": 0.003409434,
       "mentions": [
         {
           "text": {
@@ -350,40 +364,10 @@
       ]
     },
     {
-      "name": "losers",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.0029156567,
-      "mentions": [
-        {
-          "text": {
-            "content": "losers",
-            "beginOffset": 769
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "winners",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.0029156567,
-      "mentions": [
-        {
-          "text": {
-            "content": "winners",
-            "beginOffset": 919
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "action",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0029156567,
+      "salience": 0.0033884607,
       "mentions": [
         {
           "text": {
@@ -395,10 +379,25 @@
       ]
     },
     {
+      "name": "winners",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0033884607,
+      "mentions": [
+        {
+          "text": {
+            "content": "winners",
+            "beginOffset": 919
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "man",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0028427255,
+      "salience": 0.0032210273,
       "mentions": [
         {
           "text": {
@@ -413,7 +412,7 @@
       "name": "something",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0020316928,
+      "salience": 0.0023609642,
       "mentions": [
         {
           "text": {
@@ -428,7 +427,7 @@
       "name": "Nobody",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0018952226,
+      "salience": 0.0022876994,
       "mentions": [
         {
           "text": {
@@ -443,22 +442,7 @@
       "name": "biz",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0018876806,
-      "mentions": [
-        {
-          "text": {
-            "content": "biz",
-            "beginOffset": 1278
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "biz",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0018876806,
+      "salience": 0.0021935746,
       "mentions": [
         {
           "text": {
@@ -470,25 +454,10 @@
       ]
     },
     {
-      "name": "Life",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0011270962,
-      "mentions": [
-        {
-          "text": {
-            "content": "Life",
-            "beginOffset": 951
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "town",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.0010925162,
+      "salience": 0.0012693851,
       "mentions": [
         {
           "text": {
@@ -496,6 +465,24 @@
             "beginOffset": 1050
           },
           "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Life",
+      "type": "OTHER",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Life",
+        "mid": "/m/04nr2"
+      },
+      "salience": 0.0008051836,
+      "mentions": [
+        {
+          "text": {
+            "content": "Life",
+            "beginOffset": 951
+          },
+          "type": "PROPER"
         }
       ]
     }

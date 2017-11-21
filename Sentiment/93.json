@@ -1,7 +1,29 @@
 {
-  "error": {
-    "code": 400,
-    "message": "Invalid JSON payload received. Expected , or } after key:value pair.\nbe gone  \rShe said \"In case you hadn't n\n                    ^",
-    "status": "INVALID_ARGUMENT"
-  }
+  "documentSentiment": {
+    "magnitude": 0.4,
+    "score": -0.2
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "Yeah the lady and me both agree some days we just don't get along  \rBut the whiskey and me both agree maybe we both just better off  \rWell the preacher believes that I'll meet all of these demons hanging on  \rBut we both know if they don't, I'll get lonely, need a few to tag along  \r    \rHanging here by a thread  \rHear a voice inside my head  \r    \rLie me beside you every night  \rAnd dread the day you might be gone  \rShe said In case you hadn't noticed that  \rPlayed second fiddle to the bottle for a little too long (no)  \rAnd I'm not about to anymore\r   \rNow the wagon I'm in's paper thin  \rI think one wheel's coming off  \rHey sister sin with that grin, where you been?",
+        "beginOffset": 3
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "So kind of you to help me out  \r    \rHanging here by a thread  \rHear a voice inside my head  \r    \rLie me beside you every night  \rAnd dread the day you might be gone  \rShe said In case you hadn't noticed that  \rPlayed second fiddle to the bottle for a little too long (no)  \rAnd I'm not about to anymore\r   \rFall from grace, kingdom come  \rLying face down in the mud  \rPlease don't hate, look don't judge  \rFor I know not just what I've done  \r  \r  \rLying face down in the mud  \rFor I know not just what I've done  \rFor I know not just what I've done  \r    \rLie me beside you every night  \rAnd dread the day you might be gone  \rShe said In case you hadn't noticed that  \rPlayed second fiddle to the bottle for a little too long (no)  \rAnd I'm not about to anymore",
+        "beginOffset": 682
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    }
+  ]
 }

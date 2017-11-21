@@ -1,10 +1,25 @@
 {
   "entities": [
     {
+      "name": "one",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.31132796,
+      "mentions": [
+        {
+          "text": {
+            "content": "one",
+            "beginOffset": 236
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "thinking",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.18017848,
+      "salience": 0.2677115,
       "mentions": [
         {
           "text": {
@@ -19,14 +34,14 @@
       "name": "Ooh",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.10132164,
+      "salience": 0.03519063,
       "mentions": [
         {
           "text": {
             "content": "Ooh",
             "beginOffset": 175
           },
-          "type": "COMMON"
+          "type": "PROPER"
         }
       ]
     },
@@ -34,7 +49,7 @@
       "name": "words",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.059696082,
+      "salience": 0.031838506,
       "mentions": [
         {
           "text": {
@@ -49,7 +64,7 @@
       "name": "freeway",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.053810626,
+      "salience": 0.0285903,
       "mentions": [
         {
           "text": {
@@ -64,7 +79,7 @@
       "name": "everything",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.050553083,
+      "salience": 0.027539162,
       "mentions": [
         {
           "text": {
@@ -76,10 +91,25 @@
       ]
     },
     {
+      "name": "bout",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.023115886,
+      "mentions": [
+        {
+          "text": {
+            "content": "bout",
+            "beginOffset": 44
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "things",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.04768158,
+      "salience": 0.021611687,
       "mentions": [
         {
           "text": {
@@ -91,25 +121,10 @@
       ]
     },
     {
-      "name": "cause",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.044634264,
-      "mentions": [
-        {
-          "text": {
-            "content": "cause",
-            "beginOffset": 340
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "words",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.037114464,
+      "salience": 0.019795572,
       "mentions": [
         {
           "text": {
@@ -121,15 +136,15 @@
       ]
     },
     {
-      "name": "one",
-      "type": "PERSON",
+      "name": "cause",
+      "type": "OTHER",
       "metadata": {},
-      "salience": 0.033780493,
+      "salience": 0.017332109,
       "mentions": [
         {
           "text": {
-            "content": "one",
-            "beginOffset": 236
+            "content": "cause",
+            "beginOffset": 340
           },
           "type": "COMMON"
         }
@@ -139,7 +154,7 @@
       "name": "curb",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.027975734,
+      "salience": 0.014863663,
       "mentions": [
         {
           "text": {
@@ -151,25 +166,10 @@
       ]
     },
     {
-      "name": "cause",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.027702583,
-      "mentions": [
-        {
-          "text": {
-            "content": "cause",
-            "beginOffset": 849
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "Man",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.026707646,
+      "salience": 0.014189852,
       "mentions": [
         {
           "text": {
@@ -188,25 +188,10 @@
       ]
     },
     {
-      "name": "thread",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.026006026,
-      "mentions": [
-        {
-          "text": {
-            "content": "thread",
-            "beginOffset": 309
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "death",
       "type": "EVENT",
       "metadata": {},
-      "salience": 0.026006026,
+      "salience": 0.01381704,
       "mentions": [
         {
           "text": {
@@ -218,10 +203,25 @@
       ]
     },
     {
+      "name": "thread",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01381704,
+      "mentions": [
+        {
+          "text": {
+            "content": "thread",
+            "beginOffset": 309
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "one",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.022871561,
+      "salience": 0.0123055875,
       "mentions": [
         {
           "text": {
@@ -233,10 +233,25 @@
       ]
     },
     {
+      "name": "one",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011999334,
+      "mentions": [
+        {
+          "text": {
+            "content": "one",
+            "beginOffset": 649
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "cause",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.021807672,
+      "salience": 0.011733156,
       "mentions": [
         {
           "text": {
@@ -248,10 +263,25 @@
       ]
     },
     {
+      "name": "cause",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010742029,
+      "mentions": [
+        {
+          "text": {
+            "content": "cause",
+            "beginOffset": 849
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "Ooh",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.019219056,
+      "salience": 0.00995628,
       "mentions": [
         {
           "text": {
@@ -263,25 +293,10 @@
       ]
     },
     {
-      "name": "death",
-      "type": "EVENT",
-      "metadata": {},
-      "salience": 0.017594533,
-      "mentions": [
-        {
-          "text": {
-            "content": "death",
-            "beginOffset": 707
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "dirt",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.01737389,
+      "salience": 0.009347484,
       "mentions": [
         {
           "text": {
@@ -293,10 +308,25 @@
       ]
     },
     {
+      "name": "death",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.009347484,
+      "mentions": [
+        {
+          "text": {
+            "content": "death",
+            "beginOffset": 707
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "curb",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.017330471,
+      "salience": 0.009207173,
       "mentions": [
         {
           "text": {
@@ -311,7 +341,7 @@
       "name": "thread",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.016106667,
+      "salience": 0.008556893,
       "mentions": [
         {
           "text": {
@@ -326,7 +356,7 @@
       "name": "things",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.014614326,
+      "salience": 0.0076962397,
       "mentions": [
         {
           "text": {
@@ -341,7 +371,7 @@
       "name": "road",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.014013758,
+      "salience": 0.007444815,
       "mentions": [
         {
           "text": {
@@ -356,7 +386,7 @@
       "name": "words",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.013260824,
+      "salience": 0.007072116,
       "mentions": [
         {
           "text": {
@@ -371,7 +401,7 @@
       "name": "words",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.009190285,
+      "salience": 0.004900907,
       "mentions": [
         {
           "text": {
@@ -386,7 +416,7 @@
       "name": "things",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.009190285,
+      "salience": 0.004900907,
       "mentions": [
         {
           "text": {
@@ -401,7 +431,7 @@
       "name": "cause",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0072007375,
+      "salience": 0.0038248457,
       "mentions": [
         {
           "text": {
@@ -416,7 +446,7 @@
       "name": "one",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.006886314,
+      "salience": 0.0037044045,
       "mentions": [
         {
           "text": {
@@ -431,7 +461,7 @@
       "name": "cause",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0066481754,
+      "salience": 0.003531272,
       "mentions": [
         {
           "text": {
@@ -446,7 +476,7 @@
       "name": "curb",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0061686058,
+      "salience": 0.003276483,
       "mentions": [
         {
           "text": {
@@ -458,25 +488,10 @@
       ]
     },
     {
-      "name": "thread",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.005379968,
-      "mentions": [
-        {
-          "text": {
-            "content": "thread",
-            "beginOffset": 1171
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "death",
       "type": "EVENT",
       "metadata": {},
-      "salience": 0.005291653,
+      "salience": 0.00281058,
       "mentions": [
         {
           "text": {
@@ -491,7 +506,7 @@
       "name": "dirt",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.005291653,
+      "salience": 0.00281058,
       "mentions": [
         {
           "text": {
@@ -503,10 +518,25 @@
       ]
     },
     {
+      "name": "thread",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002750934,
+      "mentions": [
+        {
+          "text": {
+            "content": "thread",
+            "beginOffset": 1171
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "cause",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0049876417,
+      "salience": 0.00264907,
       "mentions": [
         {
           "text": {
@@ -521,7 +551,7 @@
       "name": "cause",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0049876417,
+      "salience": 0.00264907,
       "mentions": [
         {
           "text": {
@@ -536,7 +566,7 @@
       "name": "curb",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0042723264,
+      "salience": 0.0022690583,
       "mentions": [
         {
           "text": {
@@ -551,7 +581,7 @@
       "name": "dirt",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0039695427,
+      "salience": 0.0021082086,
       "mentions": [
         {
           "text": {
@@ -566,7 +596,7 @@
       "name": "Ooh",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0031736935,
+      "salience": 0.0016642072,
       "mentions": [
         {
           "text": {

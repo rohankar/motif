@@ -4,7 +4,7 @@
       "name": "girl",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.34762183,
+      "salience": 0.32739675,
       "mentions": [
         {
           "text": {
@@ -19,7 +19,7 @@
       "name": "woman",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.22996522,
+      "salience": 0.21680547,
       "mentions": [
         {
           "text": {
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "name": "daddy",
+      "name": "millionaire",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.11870955,
+      "salience": 0.13180666,
       "mentions": [
         {
           "text": {
@@ -56,6 +56,28 @@
             "beginOffset": 367
           },
           "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "millionaire",
+            "beginOffset": 390
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.065603554,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 891
+          },
+          "type": "COMMON"
         }
       ]
     },
@@ -63,7 +85,7 @@
       "name": "Lordy",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.048113406,
+      "salience": 0.050743453,
       "mentions": [
         {
           "text": {
@@ -78,7 +100,7 @@
       "name": "god",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.040154953,
+      "salience": 0.03804931,
       "mentions": [
         {
           "text": {
@@ -100,7 +122,7 @@
       "name": "god",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.03145924,
+      "salience": 0.02981511,
       "mentions": [
         {
           "text": {
@@ -112,25 +134,10 @@
       ]
     },
     {
-      "name": "Man",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.018733343,
-      "mentions": [
-        {
-          "text": {
-            "content": "Man",
-            "beginOffset": 621
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "Lord",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.017392056,
+      "salience": 0.017782412,
       "mentions": [
         {
           "text": {
@@ -142,15 +149,15 @@
       ]
     },
     {
-      "name": "baby",
+      "name": "Man",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.01451806,
+      "salience": 0.017603856,
       "mentions": [
         {
           "text": {
-            "content": "baby",
-            "beginOffset": 891
+            "content": "Man",
+            "beginOffset": 621
           },
           "type": "COMMON"
         }
@@ -160,7 +167,7 @@
       "name": "blind",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.013119462,
+      "salience": 0.012437404,
       "mentions": [
         {
           "text": {
@@ -175,7 +182,7 @@
       "name": "eyesight",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.012285714,
+      "salience": 0.011500866,
       "mentions": [
         {
           "text": {
@@ -190,7 +197,7 @@
       "name": "millionaire",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.007946401,
+      "salience": 0.007629268,
       "mentions": [
         {
           "text": {
@@ -205,7 +212,7 @@
       "name": "way",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.007946401,
+      "salience": 0.007629268,
       "mentions": [
         {
           "text": {
@@ -217,25 +224,10 @@
       ]
     },
     {
-      "name": "millionaire",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.007930919,
-      "mentions": [
-        {
-          "text": {
-            "content": "millionaire",
-            "beginOffset": 390
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "way",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.007930919,
+      "salience": 0.0076144035,
       "mentions": [
         {
           "text": {
@@ -247,25 +239,10 @@
       ]
     },
     {
-      "name": "deaf",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0074753487,
-      "mentions": [
-        {
-          "text": {
-            "content": "deaf",
-            "beginOffset": 485
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "state",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.0070517217,
+      "salience": 0.0073973443,
       "mentions": [
         {
           "text": {
@@ -287,7 +264,7 @@
       "name": "cause",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0069138655,
+      "salience": 0.006152457,
       "mentions": [
         {
           "text": {
@@ -299,25 +276,10 @@
       ]
     },
     {
-      "name": "cause",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.00690039,
-      "mentions": [
-        {
-          "text": {
-            "content": "cause",
-            "beginOffset": 403
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "bed",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0064039663,
+      "salience": 0.0060709957,
       "mentions": [
         {
           "text": {
@@ -332,7 +294,7 @@
       "name": "head",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.006396245,
+      "salience": 0.006063675,
       "mentions": [
         {
           "text": {
@@ -347,7 +309,7 @@
       "name": "back room",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.006396245,
+      "salience": 0.006063675,
       "mentions": [
         {
           "text": {
@@ -359,15 +321,15 @@
       ]
     },
     {
-      "name": "time",
+      "name": "cause",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0044557005,
+      "salience": 0.0054102386,
       "mentions": [
         {
           "text": {
-            "content": "time",
-            "beginOffset": 1080
+            "content": "cause",
+            "beginOffset": 403
           },
           "type": "COMMON"
         }
@@ -377,7 +339,7 @@
       "name": "blind",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0041399905,
+      "salience": 0.0039245104,
       "mentions": [
         {
           "text": {
@@ -392,7 +354,7 @@
       "name": "eyesight",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.003876143,
+      "salience": 0.003628091,
       "mentions": [
         {
           "text": {
@@ -407,27 +369,12 @@
       "name": "eyes",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0036555303,
+      "salience": 0.003554135,
       "mentions": [
         {
           "text": {
             "content": "eyes",
             "beginOffset": 653
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "time",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0028340498,
-      "mentions": [
-        {
-          "text": {
-            "content": "time",
-            "beginOffset": 790
           },
           "type": "COMMON"
         }
@@ -440,7 +387,7 @@
         "mid": "/m/04yx4",
         "wikipedia_url": "https://en.wikipedia.org/wiki/Man"
       },
-      "salience": 0.0028198191,
+      "salience": 0.0026728648,
       "mentions": [
         {
           "text": {
@@ -455,7 +402,7 @@
       "name": "blind",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0026331404,
+      "salience": 0.0024958802,
       "mentions": [
         {
           "text": {
@@ -470,7 +417,7 @@
       "name": "eyesight",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0024652462,
+      "salience": 0.0023072693,
       "mentions": [
         {
           "text": {
@@ -485,7 +432,7 @@
       "name": "woman",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0017551258,
+      "salience": 0.0018410925,
       "mentions": [
         {
           "text": {

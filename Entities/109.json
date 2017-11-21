@@ -1,32 +1,10 @@
 {
   "entities": [
     {
-      "name": "Londie",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.27669138,
-      "mentions": [
-        {
-          "text": {
-            "content": "name",
-            "beginOffset": 483
-          },
-          "type": "COMMON"
-        },
-        {
-          "text": {
-            "content": "Londie",
-            "beginOffset": 490
-          },
-          "type": "PROPER"
-        }
-      ]
-    },
-    {
       "name": "love",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.24997926,
+      "salience": 0.5214803,
       "mentions": [
         {
           "text": {
@@ -48,7 +26,7 @@
       "name": "Boy",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.09378811,
+      "salience": 0.06990244,
       "mentions": [
         {
           "text": {
@@ -63,7 +41,7 @@
       "name": "love",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0819434,
+      "salience": 0.06551706,
       "mentions": [
         {
           "text": {
@@ -75,10 +53,47 @@
       ]
     },
     {
+      "name": "one",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.058651775,
+      "mentions": [
+        {
+          "text": {
+            "content": "one",
+            "beginOffset": 558
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Londie",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04775134,
+      "mentions": [
+        {
+          "text": {
+            "content": "name",
+            "beginOffset": 483
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Londie",
+            "beginOffset": 490
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
       "name": "love",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.055061057,
+      "salience": 0.04457251,
       "mentions": [
         {
           "text": {
@@ -90,25 +105,10 @@
       ]
     },
     {
-      "name": "heaven",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.03900676,
-      "mentions": [
-        {
-          "text": {
-            "content": "heaven",
-            "beginOffset": 273
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "angel",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.038520824,
+      "salience": 0.031182453,
       "mentions": [
         {
           "text": {
@@ -120,10 +120,25 @@
       ]
     },
     {
+      "name": "heaven",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.031182453,
+      "mentions": [
+        {
+          "text": {
+            "content": "heaven",
+            "beginOffset": 273
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "meaning",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0348428,
+      "salience": 0.026157832,
       "mentions": [
         {
           "text": {
@@ -138,7 +153,7 @@
       "name": "life",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0315212,
+      "salience": 0.025515731,
       "mentions": [
         {
           "text": {
@@ -153,7 +168,7 @@
       "name": "love",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.026614241,
+      "salience": 0.021273721,
       "mentions": [
         {
           "text": {
@@ -171,7 +186,7 @@
         "mid": "/m/0d05l6",
         "wikipedia_url": "https://en.wikipedia.org/wiki/God"
       },
-      "salience": 0.019941654,
+      "salience": 0.015938897,
       "mentions": [
         {
           "text": {
@@ -186,7 +201,7 @@
       "name": "Life",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.019291729,
+      "salience": 0.014660472,
       "mentions": [
         {
           "text": {
@@ -201,7 +216,7 @@
       "name": "love",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.01690725,
+      "salience": 0.013512983,
       "mentions": [
         {
           "text": {
@@ -216,7 +231,7 @@
       "name": "Aisha The",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.015890347,
+      "salience": 0.012700021,
       "mentions": [
         {
           "text": {

@@ -1,0 +1,19 @@
+{
+  "documentSentiment": {
+    "magnitude": 0,
+    "score": 0
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "link",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ]
+}

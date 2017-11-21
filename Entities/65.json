@@ -4,7 +4,7 @@
       "name": "hit",
       "type": "WORK_OF_ART",
       "metadata": {},
-      "salience": 0.57107395,
+      "salience": 0.48285514,
       "mentions": [
         {
           "text": {
@@ -19,7 +19,7 @@
       "name": "dance",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.037391774,
+      "salience": 0.04765277,
       "mentions": [
         {
           "text": {
@@ -66,24 +66,45 @@
       ]
     },
     {
-      "name": "dance",
+      "name": "Got",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.032008644,
+      "salience": 0.03893148,
       "mentions": [
         {
           "text": {
-            "content": "dance",
-            "beginOffset": 1726
+            "content": "Got",
+            "beginOffset": 1794
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Got",
+            "beginOffset": 1859
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Got",
+            "beginOffset": 1920
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "blueprint",
+            "beginOffset": 1866
           },
           "type": "COMMON"
         },
         {
           "text": {
-            "content": "dance",
-            "beginOffset": 2452
+            "content": "Got",
+            "beginOffset": 1985
           },
-          "type": "COMMON"
+          "type": "PROPER"
         }
       ]
     },
@@ -91,7 +112,7 @@
       "name": "Da-da-doo-doo",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.031083632,
+      "salience": 0.037687093,
       "mentions": [
         {
           "text": {
@@ -152,62 +173,10 @@
       ]
     },
     {
-      "name": "dance",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.024864787,
-      "mentions": [
-        {
-          "text": {
-            "content": "dance",
-            "beginOffset": 168
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "name",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.020917382,
-      "mentions": [
-        {
-          "text": {
-            "content": "name",
-            "beginOffset": 367
-          },
-          "type": "COMMON"
-        },
-        {
-          "text": {
-            "content": "name",
-            "beginOffset": 922
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "Red wine",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.016118633,
-      "mentions": [
-        {
-          "text": {
-            "content": "Red wine",
-            "beginOffset": 0
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "bit",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.016118633,
+      "salience": 0.020284524,
       "mentions": [
         {
           "text": {
@@ -219,22 +188,30 @@
       ]
     },
     {
-      "name": "Just dance",
+      "name": "Red wine",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.012952412,
+      "salience": 0.020284524,
       "mentions": [
         {
           "text": {
-            "content": "Just dance",
-            "beginOffset": 1544
+            "content": "Red wine",
+            "beginOffset": 0
           },
           "type": "COMMON"
-        },
+        }
+      ]
+    },
+    {
+      "name": "dance",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.019923173,
+      "mentions": [
         {
           "text": {
-            "content": "Just dance",
-            "beginOffset": 1595
+            "content": "dance",
+            "beginOffset": 168
           },
           "type": "COMMON"
         }
@@ -244,7 +221,7 @@
       "name": "All",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.012044937,
+      "salience": 0.015543662,
       "mentions": [
         {
           "text": {
@@ -259,7 +236,7 @@
       "name": "drink",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.011605815,
+      "salience": 0.015166871,
       "mentions": [
         {
           "text": {
@@ -271,15 +248,45 @@
       ]
     },
     {
+      "name": "keys",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014551278,
+      "mentions": [
+        {
+          "text": {
+            "content": "keys",
+            "beginOffset": 220
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "hit",
       "type": "WORK_OF_ART",
       "metadata": {},
-      "salience": 0.010664087,
+      "salience": 0.013135312,
       "mentions": [
         {
           "text": {
             "content": "hit",
             "beginOffset": 1221
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tryin",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012479209,
+      "mentions": [
+        {
+          "text": {
+            "content": "tryin",
+            "beginOffset": 1165
           },
           "type": "COMMON"
         }
@@ -292,7 +299,7 @@
         "mid": "/m/0dygfb",
         "wikipedia_url": "https://en.wikipedia.org/wiki/Konvict_Kartel"
       },
-      "salience": 0.009575409,
+      "salience": 0.012048579,
       "mentions": [
         {
           "text": {
@@ -310,7 +317,7 @@
         "mid": "/m/0478__m",
         "wikipedia_url": "https://en.wikipedia.org/wiki/Lady_Gaga"
       },
-      "salience": 0.009575409,
+      "salience": 0.012048579,
       "mentions": [
         {
           "text": {
@@ -325,7 +332,7 @@
       "name": "floor",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.009546809,
+      "salience": 0.012012581,
       "mentions": [
         {
           "text": {
@@ -340,7 +347,7 @@
       "name": "record baby",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.009231476,
+      "salience": 0.011326131,
       "mentions": [
         {
           "text": {
@@ -355,7 +362,7 @@
       "name": "people",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0076927776,
+      "salience": 0.009679132,
       "mentions": [
         {
           "text": {
@@ -370,7 +377,7 @@
       "name": "man",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0076534846,
+      "salience": 0.00962968,
       "mentions": [
         {
           "text": {
@@ -385,7 +392,7 @@
       "name": "phone",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0076257265,
+      "salience": 0.009594746,
       "mentions": [
         {
           "text": {
@@ -397,15 +404,15 @@
       ]
     },
     {
-      "name": "blueprint",
+      "name": "just dance spin",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.007099636,
+      "salience": 0.0092249345,
       "mentions": [
         {
           "text": {
-            "content": "blueprint",
-            "beginOffset": 1927
+            "content": "just dance spin",
+            "beginOffset": 489
           },
           "type": "COMMON"
         }
@@ -415,7 +422,7 @@
       "name": "dance",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.006607637,
+      "salience": 0.0083134575,
       "mentions": [
         {
           "text": {
@@ -430,22 +437,7 @@
       "name": "dance",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0066003753,
-      "mentions": [
-        {
-          "text": {
-            "content": "dance",
-            "beginOffset": 578
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "dance",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0066003753,
+      "salience": 0.008304319,
       "mentions": [
         {
           "text": {
@@ -457,30 +449,45 @@
       ]
     },
     {
-      "name": "keys",
+      "name": "dance",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.006552973,
+      "salience": 0.008304319,
       "mentions": [
         {
           "text": {
-            "content": "keys",
-            "beginOffset": 220
+            "content": "dance",
+            "beginOffset": 578
           },
           "type": "COMMON"
         }
       ]
     },
     {
-      "name": "hips",
+      "name": "Just dance",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.004522066,
+      "salience": 0.00622924,
       "mentions": [
         {
           "text": {
-            "content": "hips",
-            "beginOffset": 1361
+            "content": "Just dance",
+            "beginOffset": 1544
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Shawty",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.005639204,
+      "mentions": [
+        {
+          "text": {
+            "content": "Shawty",
+            "beginOffset": 1284
           },
           "type": "COMMON"
         }
@@ -490,7 +497,7 @@
       "name": "dance",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0044037383,
+      "salience": 0.005610556,
       "mentions": [
         {
           "text": {
@@ -505,7 +512,7 @@
       "name": "dance",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0044037383,
+      "salience": 0.005610556,
       "mentions": [
         {
           "text": {
@@ -520,7 +527,7 @@
       "name": "record babe",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.004353057,
+      "salience": 0.005476217,
       "mentions": [
         {
           "text": {
@@ -535,7 +542,7 @@
       "name": "dance",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0040440103,
+      "salience": 0.005087328,
       "mentions": [
         {
           "text": {
@@ -550,7 +557,7 @@
       "name": "Da da doo doo",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.003702648,
+      "salience": 0.0046577845,
       "mentions": [
         {
           "text": {
@@ -562,15 +569,30 @@
       ]
     },
     {
-      "name": "hustle",
+      "name": "dance",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0036860679,
+      "salience": 0.004561014,
       "mentions": [
         {
           "text": {
-            "content": "hustle",
-            "beginOffset": 2060
+            "content": "dance",
+            "beginOffset": 453
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "name",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004162043,
+      "mentions": [
+        {
+          "text": {
+            "content": "name",
+            "beginOffset": 367
           },
           "type": "COMMON"
         }
@@ -580,7 +602,7 @@
       "name": "club",
       "type": "ORGANIZATION",
       "metadata": {},
-      "salience": 0.0033086669,
+      "salience": 0.004162043,
       "mentions": [
         {
           "text": {
@@ -595,7 +617,7 @@
       "name": "Chorus",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0032981553,
+      "salience": 0.0041488167,
       "mentions": [
         {
           "text": {
@@ -607,40 +629,10 @@
       ]
     },
     {
-      "name": "poison babe",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0028858632,
-      "mentions": [
-        {
-          "text": {
-            "content": "poison babe",
-            "beginOffset": 721
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "dance spin",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0028821437,
-      "mentions": [
-        {
-          "text": {
-            "content": "dance spin",
-            "beginOffset": 494
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "record babe",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.002659611,
+      "salience": 0.0033453794,
       "mentions": [
         {
           "text": {
@@ -655,7 +647,7 @@
       "name": "floor",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.0023965673,
+      "salience": 0.003052864,
       "mentions": [
         {
           "text": {
@@ -670,7 +662,7 @@
       "name": "playboy mouth",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0023456134,
+      "salience": 0.0029503163,
       "mentions": [
         {
           "text": {
@@ -685,7 +677,7 @@
       "name": "record baby",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0023208614,
+      "salience": 0.0028824157,
       "mentions": [
         {
           "text": {
@@ -700,7 +692,7 @@
       "name": "da-da-doo-doo",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0022618987,
+      "salience": 0.0028449912,
       "mentions": [
         {
           "text": {
@@ -712,25 +704,10 @@
       ]
     },
     {
-      "name": "Chorus",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.002202086,
-      "mentions": [
-        {
-          "text": {
-            "content": "Chorus",
-            "beginOffset": 993
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "club",
       "type": "ORGANIZATION",
       "metadata": {},
-      "salience": 0.0021769898,
+      "salience": 0.002773086,
       "mentions": [
         {
           "text": {
@@ -742,15 +719,30 @@
       ]
     },
     {
-      "name": "dance",
+      "name": "name",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0020851013,
+      "salience": 0.002773086,
       "mentions": [
         {
           "text": {
-            "content": "dance",
-            "beginOffset": 2459
+            "content": "name",
+            "beginOffset": 922
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0027697387,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chorus",
+            "beginOffset": 993
           },
           "type": "COMMON"
         }
@@ -760,7 +752,7 @@
       "name": "dance",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0020851013,
+      "salience": 0.0026225578,
       "mentions": [
         {
           "text": {
@@ -775,7 +767,37 @@
       "name": "dance",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0020851013,
+      "salience": 0.0026225578,
+      "mentions": [
+        {
+          "text": {
+            "content": "dance",
+            "beginOffset": 2459
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dance",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0026225578,
+      "mentions": [
+        {
+          "text": {
+            "content": "dance",
+            "beginOffset": 2452
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dance",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0026225578,
       "mentions": [
         {
           "text": {
@@ -790,7 +812,7 @@
       "name": "reason",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0020236373,
+      "salience": 0.0025776937,
       "mentions": [
         {
           "text": {
@@ -802,15 +824,15 @@
       ]
     },
     {
-      "name": "way",
+      "name": "thorns",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0020236373,
+      "salience": 0.0024331314,
       "mentions": [
         {
           "text": {
-            "content": "way",
-            "beginOffset": 1336
+            "content": "thorns",
+            "beginOffset": 746
           },
           "type": "COMMON"
         }
@@ -820,7 +842,7 @@
       "name": "dance floor checkin",
       "type": "EVENT",
       "metadata": {},
-      "salience": 0.0019267448,
+      "salience": 0.0024233302,
       "mentions": [
         {
           "text": {
@@ -835,7 +857,7 @@
       "name": "catalog",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0019267448,
+      "salience": 0.0024233302,
       "mentions": [
         {
           "text": {
@@ -850,7 +872,7 @@
       "name": "flaw",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.00192566,
+      "salience": 0.0024219651,
       "mentions": [
         {
           "text": {
@@ -865,7 +887,7 @@
       "name": "women",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.00192566,
+      "salience": 0.0024219651,
       "mentions": [
         {
           "text": {
@@ -880,7 +902,7 @@
       "name": "eyes",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.00192566,
+      "salience": 0.0024219651,
       "mentions": [
         {
           "text": {
@@ -895,7 +917,7 @@
       "name": "car",
       "type": "CONSUMER_GOOD",
       "metadata": {},
-      "salience": 0.0019246216,
+      "salience": 0.002420659,
       "mentions": [
         {
           "text": {
@@ -907,30 +929,15 @@
       ]
     },
     {
-      "name": "Roses",
+      "name": "blueprint",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0019101767,
+      "salience": 0.0022330123,
       "mentions": [
         {
           "text": {
-            "content": "Roses",
-            "beginOffset": 735
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "thorns",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0018861244,
-      "mentions": [
-        {
-          "text": {
-            "content": "thorns",
-            "beginOffset": 746
+            "content": "blueprint",
+            "beginOffset": 1927
           },
           "type": "COMMON"
         }
@@ -940,7 +947,7 @@
       "name": "blueprint",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0017754671,
+      "salience": 0.0022330123,
       "mentions": [
         {
           "text": {
@@ -952,15 +959,15 @@
       ]
     },
     {
-      "name": "meantime stand",
+      "name": "hips",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0017603415,
+      "salience": 0.0022139833,
       "mentions": [
         {
           "text": {
-            "content": "meantime stand",
-            "beginOffset": 1452
+            "content": "hips",
+            "beginOffset": 1361
           },
           "type": "COMMON"
         }
@@ -970,7 +977,7 @@
       "name": "round",
       "type": "EVENT",
       "metadata": {},
-      "salience": 0.0017603415,
+      "salience": 0.0022139833,
       "mentions": [
         {
           "text": {
@@ -982,17 +989,54 @@
       ]
     },
     {
+      "name": "meantime stand",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0022139833,
+      "mentions": [
+        {
+          "text": {
+            "content": "meantime stand",
+            "beginOffset": 1452
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "poison babe Roses",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0021930793,
+      "mentions": [
+        {
+          "text": {
+            "content": "poison babe  \rRoses",
+            "beginOffset": 721
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "Half",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.001649609,
+      "salience": 0.0019260613,
       "mentions": [
+        {
+          "text": {
+            "content": "Half",
+            "beginOffset": 1828
+          },
+          "type": "PROPER"
+        },
         {
           "text": {
             "content": "Half",
             "beginOffset": 1954
           },
-          "type": "COMMON"
+          "type": "PROPER"
         }
       ]
     },
@@ -1000,7 +1044,7 @@
       "name": "record babe",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0013729511,
+      "salience": 0.0017266423,
       "mentions": [
         {
           "text": {
@@ -1015,7 +1059,7 @@
       "name": "record babe",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0013718284,
+      "salience": 0.00172523,
       "mentions": [
         {
           "text": {
@@ -1027,17 +1071,17 @@
       ]
     },
     {
-      "name": "Gonna",
-      "type": "PERSON",
+      "name": "Just dance",
+      "type": "OTHER",
       "metadata": {},
-      "salience": 0.0013260851,
+      "salience": 0.0016672688,
       "mentions": [
         {
           "text": {
-            "content": "Gonna",
-            "beginOffset": 1514
+            "content": "Just dance",
+            "beginOffset": 1595
           },
-          "type": "PROPER"
+          "type": "COMMON"
         }
       ]
     },
@@ -1045,7 +1089,7 @@
       "name": "dance",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.001323919,
+      "salience": 0.0016649619,
       "mentions": [
         {
           "text": {
@@ -1060,7 +1104,7 @@
       "name": "dance",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.001323919,
+      "salience": 0.0016649619,
       "mentions": [
         {
           "text": {
@@ -1072,10 +1116,25 @@
       ]
     },
     {
+      "name": "dance",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0016649619,
+      "mentions": [
+        {
+          "text": {
+            "content": "dance",
+            "beginOffset": 1726
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "muscle",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0013127404,
+      "salience": 0.0016508998,
       "mentions": [
         {
           "text": {
@@ -1087,15 +1146,15 @@
       ]
     },
     {
-      "name": "pocko",
+      "name": "hustle",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0013127404,
+      "salience": 0.0016508998,
       "mentions": [
         {
           "text": {
-            "content": "pocko",
-            "beginOffset": 2205
+            "content": "hustle",
+            "beginOffset": 2060
           },
           "type": "COMMON"
         }
@@ -1105,7 +1164,7 @@
       "name": "dough",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0013127404,
+      "salience": 0.0016508998,
       "mentions": [
         {
           "text": {
@@ -1117,10 +1176,25 @@
       ]
     },
     {
+      "name": "pocko",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0016508998,
+      "mentions": [
+        {
+          "text": {
+            "content": "pocko",
+            "beginOffset": 2205
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "energy",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.001173406,
+      "salience": 0.0016331698,
       "mentions": [
         {
           "text": {
@@ -1132,10 +1206,25 @@
       ]
     },
     {
+      "name": "Gonna",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0016054418,
+      "mentions": [
+        {
+          "text": {
+            "content": "Gonna",
+            "beginOffset": 1514
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
       "name": "shirt",
       "type": "CONSUMER_GOOD",
       "metadata": {},
-      "salience": 0.0010281998,
+      "salience": 0.0012766803,
       "mentions": [
         {
           "text": {
@@ -1147,10 +1236,25 @@
       ]
     },
     {
+      "name": "way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.001220017,
+      "mentions": [
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": 1336
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "record babe",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.00087102165,
+      "salience": 0.0010952693,
       "mentions": [
         {
           "text": {
@@ -1162,40 +1266,10 @@
       ]
     },
     {
-      "name": "Go",
-      "type": "WORK_OF_ART",
-      "metadata": {},
-      "salience": 0.00082801265,
-      "mentions": [
-        {
-          "text": {
-            "content": "Go",
-            "beginOffset": 2018
-          },
-          "type": "PROPER"
-        }
-      ]
-    },
-    {
       "name": "blueprint",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0007788649,
-      "mentions": [
-        {
-          "text": {
-            "content": "blueprint",
-            "beginOffset": 1866
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "blueprint",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0007788649,
+      "salience": 0.0009793558,
       "mentions": [
         {
           "text": {
@@ -1208,9 +1282,12 @@
     },
     {
       "name": "Lysol",
-      "type": "CONSUMER_GOOD",
-      "metadata": {},
-      "salience": 0.0007771477,
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/0262n_w",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Lysol"
+      },
+      "salience": 0.000977196,
       "mentions": [
         {
           "text": {
@@ -1222,17 +1299,17 @@
       ]
     },
     {
-      "name": "Half",
-      "type": "PERSON",
+      "name": "Go",
+      "type": "WORK_OF_ART",
       "metadata": {},
-      "salience": 0.00072362396,
+      "salience": 0.000977196,
       "mentions": [
         {
           "text": {
-            "content": "Half",
-            "beginOffset": 1828
+            "content": "Go",
+            "beginOffset": 2018
           },
-          "type": "COMMON"
+          "type": "PROPER"
         }
       ]
     },
@@ -1240,14 +1317,14 @@
       "name": "Half",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.00072362396,
+      "salience": 0.0005384971,
       "mentions": [
         {
           "text": {
             "content": "Half",
             "beginOffset": 1889
           },
-          "type": "COMMON"
+          "type": "PROPER"
         }
       ]
     }

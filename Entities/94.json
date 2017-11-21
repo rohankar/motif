@@ -1,7 +1,1543 @@
 {
-  "error": {
-    "code": 400,
-    "message": "Invalid JSON payload received. Expected , or } after key:value pair.\n the crib they say \"Breeze you ain't kno\n                    ^",
-    "status": "INVALID_ARGUMENT"
-  }
+  "entities": [
+    {
+      "name": "everything",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.17233056,
+      "mentions": [
+        {
+          "text": {
+            "content": "everything",
+            "beginOffset": 323
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bout",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.16778435,
+      "mentions": [
+        {
+          "text": {
+            "content": "bout",
+            "beginOffset": 565
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bout",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.10833408,
+      "mentions": [
+        {
+          "text": {
+            "content": "bout",
+            "beginOffset": 158
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Cool Breeze",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.10665067,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cool Breeze",
+            "beginOffset": 1
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "crib",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.027052965,
+      "mentions": [
+        {
+          "text": {
+            "content": "crib",
+            "beginOffset": 27
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "face",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020791998,
+      "mentions": [
+        {
+          "text": {
+            "content": "face",
+            "beginOffset": 1402
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "face",
+            "beginOffset": 2880
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cause",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016223116,
+      "mentions": [
+        {
+          "text": {
+            "content": "cause",
+            "beginOffset": 2161
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "girl",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015500314,
+      "mentions": [
+        {
+          "text": {
+            "content": "girl",
+            "beginOffset": 1055
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "girl",
+            "beginOffset": 2955
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bout",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.014960126,
+      "mentions": [
+        {
+          "text": {
+            "content": "bout",
+            "beginOffset": 588
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Breeze",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.01462421,
+      "mentions": [
+        {
+          "text": {
+            "content": "Breeze",
+            "beginOffset": 41
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "shit",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013772278,
+      "mentions": [
+        {
+          "text": {
+            "content": "shit",
+            "beginOffset": 184
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "crib",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.012799295,
+      "mentions": [
+        {
+          "text": {
+            "content": "crib",
+            "beginOffset": 220
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "man",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012799295,
+      "mentions": [
+        {
+          "text": {
+            "content": "man",
+            "beginOffset": 277
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Bill Clampett",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0117802955,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bill Clampett",
+            "beginOffset": 499
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "money",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011645214,
+      "mentions": [
+        {
+          "text": {
+            "content": "money",
+            "beginOffset": 271
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Dimensions",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011645214,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dimensions",
+            "beginOffset": 196
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nigga",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011645214,
+      "mentions": [
+        {
+          "text": {
+            "content": "nigga",
+            "beginOffset": 176
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "folks",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011152947,
+      "mentions": [
+        {
+          "text": {
+            "content": "folks",
+            "beginOffset": 1496
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "throat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010192473,
+      "mentions": [
+        {
+          "text": {
+            "content": "throat",
+            "beginOffset": 306
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "player card",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008220621,
+      "mentions": [
+        {
+          "text": {
+            "content": "player card",
+            "beginOffset": 670
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Big Time",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008195775,
+      "mentions": [
+        {
+          "text": {
+            "content": "Big Time",
+            "beginOffset": 77
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "folks",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.008050526,
+      "mentions": [
+        {
+          "text": {
+            "content": "folks",
+            "beginOffset": 544
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Lexus",
+      "type": "CONSUMER_GOOD",
+      "metadata": {
+        "mid": "/m/0h5wsrf"
+      },
+      "salience": 0.0069026453,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lexus",
+            "beginOffset": 146
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Lexus",
+            "beginOffset": 575
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "thing",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0066783745,
+      "mentions": [
+        {
+          "text": {
+            "content": "thing",
+            "beginOffset": 1118
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Benzo",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0060622958,
+      "mentions": [
+        {
+          "text": {
+            "content": "Benzo",
+            "beginOffset": 104
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Big Slate",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006040254,
+      "mentions": [
+        {
+          "text": {
+            "content": "Big Slate",
+            "beginOffset": 239
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "bout",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0058834245,
+      "mentions": [
+        {
+          "text": {
+            "content": "bout",
+            "beginOffset": 394
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "somebody",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0056232484,
+      "mentions": [
+        {
+          "text": {
+            "content": "somebody",
+            "beginOffset": 376
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bitch",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0049004345,
+      "mentions": [
+        {
+          "text": {
+            "content": "bitch",
+            "beginOffset": 2239
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Man",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0048933136,
+      "mentions": [
+        {
+          "text": {
+            "content": "Man",
+            "beginOffset": 423
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "keys",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00474515,
+      "mentions": [
+        {
+          "text": {
+            "content": "keys",
+            "beginOffset": 1640
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "job",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0046502645,
+      "mentions": [
+        {
+          "text": {
+            "content": "job",
+            "beginOffset": 456
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sister",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.004045327,
+      "mentions": [
+        {
+          "text": {
+            "content": "sister",
+            "beginOffset": 611
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Niggas",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0039335093,
+      "mentions": [
+        {
+          "text": {
+            "content": "Niggas",
+            "beginOffset": 2535
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "warehouse",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.003894439,
+      "mentions": [
+        {
+          "text": {
+            "content": "warehouse",
+            "beginOffset": 356
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mouth",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003682989,
+      "mentions": [
+        {
+          "text": {
+            "content": "mouth",
+            "beginOffset": 2254
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shit",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0035458626,
+      "mentions": [
+        {
+          "text": {
+            "content": "shit",
+            "beginOffset": 1360
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pimp shit",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0035458626,
+      "mentions": [
+        {
+          "text": {
+            "content": "pimp shit",
+            "beginOffset": 1324
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hemp shit",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0033705921,
+      "mentions": [
+        {
+          "text": {
+            "content": "hemp shit",
+            "beginOffset": 1371
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "girl",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0033038277,
+      "mentions": [
+        {
+          "text": {
+            "content": "girl",
+            "beginOffset": 996
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Decatur",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0032514806,
+      "mentions": [
+        {
+          "text": {
+            "content": "Decatur",
+            "beginOffset": 1006
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Decatur",
+            "beginOffset": 1065
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Decatur",
+            "beginOffset": 2965
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "ass",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0031851968,
+      "mentions": [
+        {
+          "text": {
+            "content": "ass",
+            "beginOffset": 1833
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "men",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.003149432,
+      "mentions": [
+        {
+          "text": {
+            "content": "men",
+            "beginOffset": 2739
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "loss",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0030610499,
+      "mentions": [
+        {
+          "text": {
+            "content": "loss",
+            "beginOffset": 859
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "crib",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0030078336,
+      "mentions": [
+        {
+          "text": {
+            "content": "crib",
+            "beginOffset": 1844
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bout yo",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0030050036,
+      "mentions": [
+        {
+          "text": {
+            "content": "bout yo",
+            "beginOffset": 920
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dime",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0030050036,
+      "mentions": [
+        {
+          "text": {
+            "content": "dime",
+            "beginOffset": 758
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "man",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002895603,
+      "mentions": [
+        {
+          "text": {
+            "content": "man",
+            "beginOffset": 2336
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "coward",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0027233067,
+      "mentions": [
+        {
+          "text": {
+            "content": "coward",
+            "beginOffset": 1415
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "partner",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0026966194,
+      "mentions": [
+        {
+          "text": {
+            "content": "partner",
+            "beginOffset": 929
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "walk",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0026216826,
+      "mentions": [
+        {
+          "text": {
+            "content": "walk",
+            "beginOffset": 1340
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dimwit",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0026216826,
+      "mentions": [
+        {
+          "text": {
+            "content": "dimwit",
+            "beginOffset": 1428
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Slick",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0026216826,
+      "mentions": [
+        {
+          "text": {
+            "content": "Slick",
+            "beginOffset": 1273
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "spirits",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0026216826,
+      "mentions": [
+        {
+          "text": {
+            "content": "spirits",
+            "beginOffset": 1225
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "beat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0026216826,
+      "mentions": [
+        {
+          "text": {
+            "content": "beat",
+            "beginOffset": 1296
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bodies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0025501458,
+      "mentions": [
+        {
+          "text": {
+            "content": "bodies",
+            "beginOffset": 2415
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "warrant",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0025238474,
+      "mentions": [
+        {
+          "text": {
+            "content": "warrant",
+            "beginOffset": 1514
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "police",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0024533463,
+      "mentions": [
+        {
+          "text": {
+            "content": "police",
+            "beginOffset": 703
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Big Boi",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/01vvfwl",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Big_Boi"
+      },
+      "salience": 0.002419793,
+      "mentions": [
+        {
+          "text": {
+            "content": "Big Boi",
+            "beginOffset": 1131
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Big Boi",
+            "beginOffset": 2153
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "baby daddy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002399051,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby daddy",
+            "beginOffset": 1527
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "quote",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002399051,
+      "mentions": [
+        {
+          "text": {
+            "content": "quote",
+            "beginOffset": 1559
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.002399051,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": 1469
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ignition",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002393512,
+      "mentions": [
+        {
+          "text": {
+            "content": "ignition",
+            "beginOffset": 1656
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Penny pinchers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002393512,
+      "mentions": [
+        {
+          "text": {
+            "content": "Penny pinchers",
+            "beginOffset": 1698
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Buying",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002393512,
+      "mentions": [
+        {
+          "text": {
+            "content": "Buying",
+            "beginOffset": 1746
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mix",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002393512,
+      "mentions": [
+        {
+          "text": {
+            "content": "mix",
+            "beginOffset": 1809
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "White House",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/081sq",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/White_House"
+      },
+      "salience": 0.0023057908,
+      "mentions": [
+        {
+          "text": {
+            "content": "White House",
+            "beginOffset": 409
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Red Dog",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0023057908,
+      "mentions": [
+        {
+          "text": {
+            "content": "Red Dog",
+            "beginOffset": 695
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Ca",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0023057908,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ca",
+            "beginOffset": 629
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "everybody",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0021339797,
+      "mentions": [
+        {
+          "text": {
+            "content": "everybody",
+            "beginOffset": 739
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "peers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017880619,
+      "mentions": [
+        {
+          "text": {
+            "content": "peers",
+            "beginOffset": 2428
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fuck",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0017880619,
+      "mentions": [
+        {
+          "text": {
+            "content": "fuck",
+            "beginOffset": 2480
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fields",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0017880619,
+      "mentions": [
+        {
+          "text": {
+            "content": "fields",
+            "beginOffset": 2400
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shade tree ass ways",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0017845702,
+      "mentions": [
+        {
+          "text": {
+            "content": "shade tree ass ways",
+            "beginOffset": 2563
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fade",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0017845702,
+      "mentions": [
+        {
+          "text": {
+            "content": "fade",
+            "beginOffset": 2592
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hair drag",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0017845702,
+      "mentions": [
+        {
+          "text": {
+            "content": "hair drag",
+            "beginOffset": 2605
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Great Hoe Round Up Yo",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0017789487,
+      "mentions": [
+        {
+          "text": {
+            "content": "Great Hoe Round Up Yo",
+            "beginOffset": 774
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "police",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0016512797,
+      "mentions": [
+        {
+          "text": {
+            "content": "police",
+            "beginOffset": 1093
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Diamond",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0015881275,
+      "mentions": [
+        {
+          "text": {
+            "content": "Diamond",
+            "beginOffset": 1772
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Coco Grier Ai",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0015563354,
+      "mentions": [
+        {
+          "text": {
+            "content": "Coco Grier  \rAi",
+            "beginOffset": 888
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "East Pointe",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0015519374,
+      "mentions": [
+        {
+          "text": {
+            "content": "East Pointe",
+            "beginOffset": 1081
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Fleetwood",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0014168217,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fleetwood",
+            "beginOffset": 1761
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "bitch",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0014121297,
+      "mentions": [
+        {
+          "text": {
+            "content": "bitch",
+            "beginOffset": 2905
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "see-saw",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0012353989,
+      "mentions": [
+        {
+          "text": {
+            "content": "see-saw",
+            "beginOffset": 2639
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dad",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0012353989,
+      "mentions": [
+        {
+          "text": {
+            "content": "dad",
+            "beginOffset": 2674
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lines",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0012353989,
+      "mentions": [
+        {
+          "text": {
+            "content": "lines",
+            "beginOffset": 2790
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "plot",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0012353989,
+      "mentions": [
+        {
+          "text": {
+            "content": "plot",
+            "beginOffset": 2808
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nothing bout",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0011851485,
+      "mentions": [
+        {
+          "text": {
+            "content": "nothing bout",
+            "beginOffset": 2140
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Big Gipp",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/01w7nsz",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Big_Gipp"
+      },
+      "salience": 0.0010583362,
+      "mentions": [
+        {
+          "text": {
+            "content": "Big Gipp",
+            "beginOffset": 2280
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00089622533,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 1862
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "accidents",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0007840428,
+      "mentions": [
+        {
+          "text": {
+            "content": "accidents",
+            "beginOffset": 1957
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "corner",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0007840428,
+      "mentions": [
+        {
+          "text": {
+            "content": "corner",
+            "beginOffset": 1898
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "highways",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0007840428,
+      "mentions": [
+        {
+          "text": {
+            "content": "highways",
+            "beginOffset": 1970
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ones",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0007840428,
+      "mentions": [
+        {
+          "text": {
+            "content": "ones",
+            "beginOffset": 2012
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sky",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0007840428,
+      "mentions": [
+        {
+          "text": {
+            "content": "sky",
+            "beginOffset": 2084
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dipping",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0007840428,
+      "mentions": [
+        {
+          "text": {
+            "content": "dipping",
+            "beginOffset": 2185
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Jumping Lily",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0007311613,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jumping Lily",
+            "beginOffset": 2649
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Goodie",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0007311613,
+      "mentions": [
+        {
+          "text": {
+            "content": "Goodie",
+            "beginOffset": 2698
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Sixteen",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0007311613,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sixteen",
+            "beginOffset": 2815
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "language": "en"
 }

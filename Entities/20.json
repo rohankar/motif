@@ -4,7 +4,7 @@
       "name": "refuge",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.40549248,
+      "salience": 0.39671046,
       "mentions": [
         {
           "text": {
@@ -19,7 +19,7 @@
       "name": "thing",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.1857216,
+      "salience": 0.19097403,
       "mentions": [
         {
           "text": {
@@ -34,7 +34,7 @@
       "name": "baby",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.12655783,
+      "salience": 0.12996025,
       "mentions": [
         {
           "text": {
@@ -56,22 +56,7 @@
       "name": "power",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.05475166,
-      "mentions": [
-        {
-          "text": {
-            "content": "power",
-            "beginOffset": 120
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "power",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.039576784,
+      "salience": 0.050401762,
       "mentions": [
         {
           "text": {
@@ -86,7 +71,7 @@
       "name": "baby",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.035376884,
+      "salience": 0.035546515,
       "mentions": [
         {
           "text": {
@@ -108,7 +93,7 @@
       "name": "sea",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.03468133,
+      "salience": 0.034414362,
       "mentions": [
         {
           "text": {
@@ -120,10 +105,40 @@
       ]
     },
     {
+      "name": "sky",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.031165415,
+      "mentions": [
+        {
+          "text": {
+            "content": "sky",
+            "beginOffset": 719
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "power",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.029069897,
+      "mentions": [
+        {
+          "text": {
+            "content": "power",
+            "beginOffset": 120
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "Moses",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.020624695,
+      "salience": 0.020470368,
       "mentions": [
         {
           "text": {
@@ -138,7 +153,7 @@
       "name": "air",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.015141109,
+      "salience": 0.015028632,
       "mentions": [
         {
           "text": {
@@ -153,7 +168,7 @@
       "name": "air",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.015141109,
+      "salience": 0.015028632,
       "mentions": [
         {
           "text": {
@@ -168,7 +183,7 @@
       "name": "somewhere",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.013254389,
+      "salience": 0.013156075,
       "mentions": [
         {
           "text": {
@@ -180,40 +195,10 @@
       ]
     },
     {
-      "name": "wish",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.011250147,
-      "mentions": [
-        {
-          "text": {
-            "content": "wish",
-            "beginOffset": 390
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "difference",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.008925501,
-      "mentions": [
-        {
-          "text": {
-            "content": "difference",
-            "beginOffset": 450
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "opportunity",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.008845455,
+      "salience": 0.00889159,
       "mentions": [
         {
           "text": {
@@ -225,24 +210,17 @@
       ]
     },
     {
-      "name": "II",
-      "type": "LOCATION",
+      "name": "difference",
+      "type": "OTHER",
       "metadata": {},
-      "salience": 0.008375001,
+      "salience": 0.008859297,
       "mentions": [
         {
           "text": {
-            "content": "I  \rI",
-            "beginOffset": 384
+            "content": "difference",
+            "beginOffset": 450
           },
-          "type": "PROPER"
-        },
-        {
-          "text": {
-            "content": "I  \rI",
-            "beginOffset": 661
-          },
-          "type": "PROPER"
+          "type": "COMMON"
         }
       ]
     },
@@ -250,7 +228,7 @@
       "name": "matter",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.008169217,
+      "salience": 0.008108579,
       "mentions": [
         {
           "text": {
@@ -262,10 +240,25 @@
       ]
     },
     {
+      "name": "II",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0060209264,
+      "mentions": [
+        {
+          "text": {
+            "content": "I  \rI",
+            "beginOffset": 384
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
       "name": "sky",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.0045370446,
+      "salience": 0.0046185846,
       "mentions": [
         {
           "text": {
@@ -277,25 +270,10 @@
       ]
     },
     {
-      "name": "sky",
-      "type": "LOCATION",
-      "metadata": {},
-      "salience": 0.0019909118,
-      "mentions": [
-        {
-          "text": {
-            "content": "sky",
-            "beginOffset": 719
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "Oh",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.0015868574,
+      "salience": 0.0015746177,
       "mentions": [
         {
           "text": {

@@ -4,7 +4,7 @@
       "name": "love",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.22409156,
+      "salience": 0.22239889,
       "mentions": [
         {
           "text": {
@@ -17,13 +17,6 @@
           "text": {
             "content": "love",
             "beginOffset": 843
-          },
-          "type": "COMMON"
-        },
-        {
-          "text": {
-            "content": "love",
-            "beginOffset": 1281
           },
           "type": "COMMON"
         },
@@ -82,7 +75,7 @@
       "name": "romance",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.20385668,
+      "salience": 0.21306439,
       "mentions": [
         {
           "text": {
@@ -95,6 +88,13 @@
           "text": {
             "content": "romance",
             "beginOffset": 285
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "romance",
+            "beginOffset": 712
           },
           "type": "COMMON"
         },
@@ -157,10 +157,12 @@
       ]
     },
     {
-      "name": "Rah rah",
-      "type": "ORGANIZATION",
-      "metadata": {},
-      "salience": 0.10270295,
+      "name": "Rah rah ah-ah-ah!",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "mid": "/g/1q5jrmclx"
+      },
+      "salience": 0.106037736,
       "mentions": [
         {
           "text": {
@@ -171,36 +173,43 @@
         },
         {
           "text": {
-            "content": "Rah rah",
+            "content": "Rah rah ah-ah-ah!",
             "beginOffset": 129
           },
           "type": "PROPER"
         },
         {
           "text": {
-            "content": "Rah rah",
+            "content": "Rah rah ah-ah-ah!",
             "beginOffset": 213
           },
           "type": "PROPER"
         },
         {
           "text": {
-            "content": "Rah rah",
+            "content": "Rah rah ah-ah-ah!",
             "beginOffset": 1056
           },
           "type": "PROPER"
         },
         {
           "text": {
-            "content": "Rah rah",
+            "content": "Rah rah ah-ah-ah!",
             "beginOffset": 1894
           },
           "type": "PROPER"
         },
         {
           "text": {
-            "content": "Rah rah",
+            "content": "Rah rah ah-ah-ah!",
             "beginOffset": 1979
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Rah rah ah-ah-ah!",
+            "beginOffset": 2984
           },
           "type": "PROPER"
         }
@@ -210,7 +219,7 @@
       "name": "bitch baby",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.10173732,
+      "salience": 0.060926963,
       "mentions": [
         {
           "text": {
@@ -223,9 +232,9 @@
     },
     {
       "name": "revenge",
-      "type": "OTHER",
+      "type": "EVENT",
       "metadata": {},
-      "salience": 0.040446255,
+      "salience": 0.039086144,
       "mentions": [
         {
           "text": {
@@ -261,7 +270,7 @@
       "name": "Ro",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0293288,
+      "salience": 0.028700968,
       "mentions": [
         {
           "text": {
@@ -308,10 +317,71 @@
       ]
     },
     {
+      "name": "ro-mah-mah Gaga ooh",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/0478__m",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Lady_Gaga"
+      },
+      "salience": 0.028007122,
+      "mentions": [
+        {
+          "text": {
+            "content": "ro-mah-mah  \rGaga ooh",
+            "beginOffset": 240
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "ro-mah-mah  \rGaga ooh",
+            "beginOffset": 1083
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "ro-mah-mah  \rGaga ooh",
+            "beginOffset": 1921
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "ro-mah-mah  \rGaga ooh",
+            "beginOffset": 3011
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
       "name": "love",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0266231,
+      "salience": 0.026053537,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 618
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 1281
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.026053537,
       "mentions": [
         {
           "text": {
@@ -330,41 +400,24 @@
       ]
     },
     {
-      "name": "ro-mah-mah Gaga",
-      "type": "PERSON",
-      "metadata": {
-        "mid": "/m/0478__m",
-        "wikipedia_url": "https://en.wikipedia.org/wiki/Lady_Gaga"
-      },
-      "salience": 0.022311674,
+      "name": "Walk",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020073954,
       "mentions": [
         {
           "text": {
-            "content": "ro-mah-mah  \rGaga",
-            "beginOffset": 240
+            "content": "Walk",
+            "beginOffset": 2063
           },
           "type": "PROPER"
         },
         {
           "text": {
-            "content": "ro-mah-mah  \rGaga",
-            "beginOffset": 1083
+            "content": "romance",
+            "beginOffset": 2050
           },
-          "type": "PROPER"
-        },
-        {
-          "text": {
-            "content": "ro-mah-mah  \rGaga",
-            "beginOffset": 1921
-          },
-          "type": "PROPER"
-        },
-        {
-          "text": {
-            "content": "ro-mah-mah  \rGaga",
-            "beginOffset": 3011
-          },
-          "type": "PROPER"
+          "type": "COMMON"
         }
       ]
     },
@@ -372,7 +425,7 @@
       "name": "romance",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.019093815,
+      "salience": 0.019162297,
       "mentions": [
         {
           "text": {
@@ -387,7 +440,7 @@
       "name": "la-la",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.014550909,
+      "salience": 0.014603636,
       "mentions": [
         {
           "text": {
@@ -399,15 +452,15 @@
       ]
     },
     {
-      "name": "ooh-la-la",
+      "name": "la-la",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.014498193,
+      "salience": 0.014550732,
       "mentions": [
         {
           "text": {
-            "content": "ooh-la-la",
-            "beginOffset": 258
+            "content": "la-la",
+            "beginOffset": 262
           },
           "type": "COMMON"
         }
@@ -415,9 +468,9 @@
     },
     {
       "name": "lovers revenge",
-      "type": "OTHER",
+      "type": "EVENT",
       "metadata": {},
-      "salience": 0.011233163,
+      "salience": 0.011562417,
       "mentions": [
         {
           "text": {
@@ -439,22 +492,7 @@
       "name": "love",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.00801706,
-      "mentions": [
-        {
-          "text": {
-            "content": "love",
-            "beginOffset": 399
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "love",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.00801706,
+      "salience": 0.00804607,
       "mentions": [
         {
           "text": {
@@ -469,22 +507,7 @@
       "name": "love",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.00801706,
-      "mentions": [
-        {
-          "text": {
-            "content": "love",
-            "beginOffset": 618
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "love",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.00801706,
+      "salience": 0.00804607,
       "mentions": [
         {
           "text": {
@@ -496,15 +519,15 @@
       ]
     },
     {
-      "name": "romance",
+      "name": "love",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.007212453,
+      "salience": 0.00804607,
       "mentions": [
         {
           "text": {
-            "content": "romance",
-            "beginOffset": 712
+            "content": "love",
+            "beginOffset": 399
           },
           "type": "COMMON"
         }
@@ -514,7 +537,7 @@
       "name": "romance",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0071217804,
+      "salience": 0.0072384803,
       "mentions": [
         {
           "text": {
@@ -529,7 +552,7 @@
       "name": "romance",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0071122935,
+      "salience": 0.0072288373,
       "mentions": [
         {
           "text": {
@@ -544,7 +567,7 @@
       "name": "romance",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.006553243,
+      "salience": 0.0065768217,
       "mentions": [
         {
           "text": {
@@ -559,7 +582,7 @@
       "name": "romance",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0065482175,
+      "salience": 0.0065717776,
       "mentions": [
         {
           "text": {
@@ -574,7 +597,7 @@
       "name": "love",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.005376389,
+      "salience": 0.00539559,
       "mentions": [
         {
           "text": {
@@ -589,7 +612,7 @@
       "name": "love",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.005376389,
+      "salience": 0.00539559,
       "mentions": [
         {
           "text": {
@@ -601,32 +624,10 @@
       ]
     },
     {
-      "name": "Rah rah",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0051871412,
-      "mentions": [
-        {
-          "text": {
-            "content": "romance",
-            "beginOffset": 2971
-          },
-          "type": "COMMON"
-        },
-        {
-          "text": {
-            "content": "Rah rah",
-            "beginOffset": 2984
-          },
-          "type": "PROPER"
-        }
-      ]
-    },
-    {
       "name": "romance",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0047928966,
+      "salience": 0.0048712306,
       "mentions": [
         {
           "text": {
@@ -641,7 +642,7 @@
       "name": "romance",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.00478355,
+      "salience": 0.00486173,
       "mentions": [
         {
           "text": {
@@ -653,25 +654,10 @@
       ]
     },
     {
-      "name": "design",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.004509355,
-      "mentions": [
-        {
-          "text": {
-            "content": "design",
-            "beginOffset": 1174
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "romance",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.004426064,
+      "salience": 0.0044983514,
       "mentions": [
         {
           "text": {
@@ -686,7 +672,7 @@
       "name": "romance",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0044164415,
+      "salience": 0.0044320747,
       "mentions": [
         {
           "text": {
@@ -698,10 +684,25 @@
       ]
     },
     {
-      "name": "ro-mah-mah Gaga",
-      "type": "PERSON",
+      "name": "design",
+      "type": "OTHER",
       "metadata": {},
-      "salience": 0.004162992,
+      "salience": 0.004247612,
+      "mentions": [
+        {
+          "text": {
+            "content": "design",
+            "beginOffset": 1174
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ro-mah-mah Gaga",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0041250954,
       "mentions": [
         {
           "text": {
@@ -720,15 +721,15 @@
       ]
     },
     {
-      "name": "ooh-la-la",
+      "name": "la-la",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.003716428,
+      "salience": 0.0037294666,
       "mentions": [
         {
           "text": {
-            "content": "ooh-la-la",
-            "beginOffset": 1101
+            "content": "la-la",
+            "beginOffset": 1105
           },
           "type": "COMMON"
         }
@@ -738,7 +739,7 @@
       "name": "romance",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0033731624,
+      "salience": 0.0033849329,
       "mentions": [
         {
           "text": {
@@ -753,7 +754,7 @@
       "name": "romance",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0033714867,
+      "salience": 0.003383251,
       "mentions": [
         {
           "text": {
@@ -768,7 +769,7 @@
       "name": "romance",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.003288763,
+      "salience": 0.0033002223,
       "mentions": [
         {
           "text": {
@@ -781,9 +782,9 @@
     },
     {
       "name": "lovers revenge",
-      "type": "OTHER",
+      "type": "EVENT",
       "metadata": {},
-      "salience": 0.0031434016,
+      "salience": 0.003235296,
       "mentions": [
         {
           "text": {
@@ -798,7 +799,7 @@
       "name": "Baby",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.003028388,
+      "salience": 0.003038889,
       "mentions": [
         {
           "text": {
@@ -810,15 +811,30 @@
       ]
     },
     {
-      "name": "kiss",
-      "type": "OTHER",
+      "name": "drama",
+      "type": "WORK_OF_ART",
       "metadata": {},
-      "salience": 0.0029903906,
+      "salience": 0.003000752,
       "mentions": [
         {
           "text": {
-            "content": "kiss",
-            "beginOffset": 518
+            "content": "drama",
+            "beginOffset": 457
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sand",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003000752,
+      "mentions": [
+        {
+          "text": {
+            "content": "sand",
+            "beginOffset": 530
           },
           "type": "COMMON"
         }
@@ -828,7 +844,7 @@
       "name": "disease",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0029903906,
+      "salience": 0.003000752,
       "mentions": [
         {
           "text": {
@@ -843,7 +859,7 @@
       "name": "everything",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0029903906,
+      "salience": 0.003000752,
       "mentions": [
         {
           "text": {
@@ -855,30 +871,15 @@
       ]
     },
     {
-      "name": "touch",
+      "name": "kiss",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0029903906,
+      "salience": 0.003000752,
       "mentions": [
         {
           "text": {
-            "content": "touch",
-            "beginOffset": 469
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "drama",
-      "type": "WORK_OF_ART",
-      "metadata": {},
-      "salience": 0.0029903906,
-      "mentions": [
-        {
-          "text": {
-            "content": "drama",
-            "beginOffset": 457
+            "content": "kiss",
+            "beginOffset": 518
           },
           "type": "COMMON"
         }
@@ -888,7 +889,7 @@
       "name": "hand",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0029903906,
+      "salience": 0.003000752,
       "mentions": [
         {
           "text": {
@@ -900,15 +901,15 @@
       ]
     },
     {
-      "name": "sand",
+      "name": "touch",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0029903906,
+      "salience": 0.0029629609,
       "mentions": [
         {
           "text": {
-            "content": "sand",
-            "beginOffset": 530
+            "content": "touch",
+            "beginOffset": 469
           },
           "type": "COMMON"
         }
@@ -918,22 +919,7 @@
       "name": "friends",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0023666937,
-      "mentions": [
-        {
-          "text": {
-            "content": "friends",
-            "beginOffset": 2516
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "friends",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.0023666937,
+      "salience": 0.002405071,
       "mentions": [
         {
           "text": {
@@ -948,7 +934,7 @@
       "name": "friends",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0023666937,
+      "salience": 0.002405071,
       "mentions": [
         {
           "text": {
@@ -960,10 +946,40 @@
       ]
     },
     {
+      "name": "friends",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002405071,
+      "mentions": [
+        {
+          "text": {
+            "content": "friends",
+            "beginOffset": 2516
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "friends",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002405071,
+      "mentions": [
+        {
+          "text": {
+            "content": "friends",
+            "beginOffset": 2372
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "romance",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0022751326,
+      "salience": 0.0022828805,
       "mentions": [
         {
           "text": {
@@ -975,10 +991,25 @@
       ]
     },
     {
-      "name": "passion baby",
+      "name": "romance",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0020588967,
+      "salience": 0.0022818283,
+      "mentions": [
+        {
+          "text": {
+            "content": "romance",
+            "beginOffset": 2971
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "passion baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0020658611,
       "mentions": [
         {
           "text": {
@@ -990,40 +1021,10 @@
       ]
     },
     {
-      "name": "psycho",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0020041645,
-      "mentions": [
-        {
-          "text": {
-            "content": "psycho",
-            "beginOffset": 1303
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "horror",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0020041645,
-      "mentions": [
-        {
-          "text": {
-            "content": "horror",
-            "beginOffset": 1153
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "mine",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.0020041645,
+      "salience": 0.0020109313,
       "mentions": [
         {
           "text": {
@@ -1035,10 +1036,25 @@
       ]
     },
     {
-      "name": "vertigo shtick",
+      "name": "horror",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0020041645,
+      "salience": 0.0020109313,
+      "mentions": [
+        {
+          "text": {
+            "content": "horror",
+            "beginOffset": 1153
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "vertigo shtick",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0020109313,
       "mentions": [
         {
           "text": {
@@ -1053,7 +1069,7 @@
       "name": "window",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0020041645,
+      "salience": 0.0020109313,
       "mentions": [
         {
           "text": {
@@ -1065,15 +1081,15 @@
       ]
     },
     {
-      "name": "friends",
-      "type": "PERSON",
+      "name": "psycho",
+      "type": "OTHER",
       "metadata": {},
-      "salience": 0.0019569094,
+      "salience": 0.0019855958,
       "mentions": [
         {
           "text": {
-            "content": "friends",
-            "beginOffset": 2372
+            "content": "psycho",
+            "beginOffset": 1303
           },
           "type": "COMMON"
         }
@@ -1083,7 +1099,7 @@
       "name": "friends",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0019569094,
+      "salience": 0.0019387673,
       "mentions": [
         {
           "text": {
@@ -1095,15 +1111,15 @@
       ]
     },
     {
-      "name": "ooh-la-la",
+      "name": "la-la",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0017449051,
+      "salience": 0.0017507394,
       "mentions": [
         {
           "text": {
-            "content": "ooh-la-la",
-            "beginOffset": 3029
+            "content": "la-la",
+            "beginOffset": 3033
           },
           "type": "COMMON"
         }
@@ -1113,7 +1129,7 @@
       "name": "romance",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0014460885,
+      "salience": 0.0014508576,
       "mentions": [
         {
           "text": {
@@ -1128,7 +1144,7 @@
       "name": "ton amour",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.001362395,
+      "salience": 0.0013668679,
       "mentions": [
         {
           "text": {
@@ -1140,15 +1156,15 @@
       ]
     },
     {
-      "name": "ooh-la-la",
-      "type": "OTHER",
+      "name": "je",
+      "type": "PERSON",
       "metadata": {},
-      "salience": 0.001109343,
+      "salience": 0.0013668679,
       "mentions": [
         {
           "text": {
-            "content": "ooh-la-la",
-            "beginOffset": 1939
+            "content": "je",
+            "beginOffset": 2406
           },
           "type": "COMMON"
         }
@@ -1158,7 +1174,22 @@
       "name": "la-la",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0011081197,
+      "salience": 0.0011129277,
+      "mentions": [
+        {
+          "text": {
+            "content": "la-la",
+            "beginOffset": 1943
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "la-la",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0011117001,
       "mentions": [
         {
           "text": {
@@ -1170,15 +1201,15 @@
       ]
     },
     {
-      "name": "romance Walk",
-      "type": "OTHER",
+      "name": "fashion baby",
+      "type": "PERSON",
       "metadata": {},
-      "salience": 0.0009437234,
+      "salience": 0.0009059465,
       "mentions": [
         {
           "text": {
-            "content": "romance  \r  \rWalk",
-            "beginOffset": 2050
+            "content": "fashion baby",
+            "beginOffset": 2186
           },
           "type": "COMMON"
         }
@@ -1188,7 +1219,7 @@
       "name": "fashion baby",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0009030762,
+      "salience": 0.0009059465,
       "mentions": [
         {
           "text": {
@@ -1203,7 +1234,7 @@
       "name": "fashion baby",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0009030762,
+      "salience": 0.0009059465,
       "mentions": [
         {
           "text": {
@@ -1211,81 +1242,6 @@
             "beginOffset": 2074
           },
           "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "fashion baby",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.0009030762,
-      "mentions": [
-        {
-          "text": {
-            "content": "fashion baby",
-            "beginOffset": 2186
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "bitch",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.00080824643,
-      "mentions": [
-        {
-          "text": {
-            "content": "bitch",
-            "beginOffset": 2218
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "bitch",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.00080824643,
-      "mentions": [
-        {
-          "text": {
-            "content": "bitch",
-            "beginOffset": 2162
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "bitch",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.00080824643,
-      "mentions": [
-        {
-          "text": {
-            "content": "bitch",
-            "beginOffset": 2106
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "J'veux",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.00080646423,
-      "mentions": [
-        {
-          "text": {
-            "content": "J'veux",
-            "beginOffset": 2386
-          },
-          "type": "PROPER"
         }
       ]
     }

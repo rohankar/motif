@@ -4,7 +4,7 @@
       "name": "fight",
       "type": "EVENT",
       "metadata": {},
-      "salience": 0.7939413,
+      "salience": 0.6025529,
       "mentions": [
         {
           "text": {
@@ -58,10 +58,280 @@
       ]
     },
     {
+      "name": "fire",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0536549,
+      "mentions": [
+        {
+          "text": {
+            "content": "fire",
+            "beginOffset": 104
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "blood",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.047932286,
+      "mentions": [
+        {
+          "text": {
+            "content": "blood",
+            "beginOffset": 256
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "face",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.047932286,
+      "mentions": [
+        {
+          "text": {
+            "content": "face",
+            "beginOffset": 71
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04616216,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": 120
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "words",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04335447,
+      "mentions": [
+        {
+          "text": {
+            "content": "words",
+            "beginOffset": 135
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "No one",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.02757895,
+      "mentions": [
+        {
+          "text": {
+            "content": "No one",
+            "beginOffset": 415
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "man",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.024775784,
+      "mentions": [
+        {
+          "text": {
+            "content": "man",
+            "beginOffset": 280
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "man",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016751386,
+      "mentions": [
+        {
+          "text": {
+            "content": "man",
+            "beginOffset": 724
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "leave",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015421999,
+      "mentions": [
+        {
+          "text": {
+            "content": "leave",
+            "beginOffset": 661
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "boy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0146615105,
+      "mentions": [
+        {
+          "text": {
+            "content": "boy",
+            "beginOffset": 702
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011975479,
+      "mentions": [
+        {
+          "text": {
+            "content": "life",
+            "beginOffset": 888
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "truth",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011975479,
+      "mentions": [
+        {
+          "text": {
+            "content": "truth",
+            "beginOffset": 908
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "No one",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.008124583,
+      "mentions": [
+        {
+          "text": {
+            "content": "No one",
+            "beginOffset": 1080
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "No one",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.008124583,
+      "mentions": [
+        {
+          "text": {
+            "content": "No one",
+            "beginOffset": 1241
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "No one",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.006071168,
+      "mentions": [
+        {
+          "text": {
+            "content": "No one",
+            "beginOffset": 1573
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "No one",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.006071168,
+      "mentions": [
+        {
+          "text": {
+            "content": "No one",
+            "beginOffset": 1740
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "No one",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0042039636,
+      "mentions": [
+        {
+          "text": {
+            "content": "No one",
+            "beginOffset": 1901
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "No one",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0026633944,
+      "mentions": [
+        {
+          "text": {
+            "content": "No one",
+            "beginOffset": 1402
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "Showin",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.051926035,
+      "salience": 1.1554721e-05,
       "mentions": [
         {
           "text": {
@@ -111,276 +381,6 @@
             "beginOffset": 1931
           },
           "type": "PROPER"
-        }
-      ]
-    },
-    {
-      "name": "fire",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.020520056,
-      "mentions": [
-        {
-          "text": {
-            "content": "fire",
-            "beginOffset": 104
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "blood",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.02026455,
-      "mentions": [
-        {
-          "text": {
-            "content": "blood",
-            "beginOffset": 256
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "face",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.02026455,
-      "mentions": [
-        {
-          "text": {
-            "content": "face",
-            "beginOffset": 71
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "eyes",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.017876253,
-      "mentions": [
-        {
-          "text": {
-            "content": "eyes",
-            "beginOffset": 120
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "words",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.015375399,
-      "mentions": [
-        {
-          "text": {
-            "content": "words",
-            "beginOffset": 135
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "No one",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.01081461,
-      "mentions": [
-        {
-          "text": {
-            "content": "No one",
-            "beginOffset": 415
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "man",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.009473454,
-      "mentions": [
-        {
-          "text": {
-            "content": "man",
-            "beginOffset": 280
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "man",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.006324714,
-      "mentions": [
-        {
-          "text": {
-            "content": "man",
-            "beginOffset": 724
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "boy",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.0055356594,
-      "mentions": [
-        {
-          "text": {
-            "content": "boy",
-            "beginOffset": 702
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "life",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0046374155,
-      "mentions": [
-        {
-          "text": {
-            "content": "life",
-            "beginOffset": 888
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "truth",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0046374155,
-      "mentions": [
-        {
-          "text": {
-            "content": "truth",
-            "beginOffset": 908
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "leave",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.004579121,
-      "mentions": [
-        {
-          "text": {
-            "content": "leave",
-            "beginOffset": 661
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "No one",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.0031864792,
-      "mentions": [
-        {
-          "text": {
-            "content": "No one",
-            "beginOffset": 1080
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "No one",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.0031864792,
-      "mentions": [
-        {
-          "text": {
-            "content": "No one",
-            "beginOffset": 1241
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "No one",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.002381279,
-      "mentions": [
-        {
-          "text": {
-            "content": "No one",
-            "beginOffset": 1573
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "No one",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.002381279,
-      "mentions": [
-        {
-          "text": {
-            "content": "No one",
-            "beginOffset": 1740
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "No one",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.0016490543,
-      "mentions": [
-        {
-          "text": {
-            "content": "No one",
-            "beginOffset": 1901
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "No one",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.0010448686,
-      "mentions": [
-        {
-          "text": {
-            "content": "No one",
-            "beginOffset": 1402
-          },
-          "type": "COMMON"
         }
       ]
     }

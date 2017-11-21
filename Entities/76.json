@@ -4,7 +4,7 @@
       "name": "kid",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.726945,
+      "salience": 0.68620485,
       "mentions": [
         {
           "text": {
@@ -16,10 +16,25 @@
       ]
     },
     {
+      "name": "ego",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.09069203,
+      "mentions": [
+        {
+          "text": {
+            "content": "ego",
+            "beginOffset": 234
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "Jagger Baby",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.078458376,
+      "salience": 0.0699156,
       "mentions": [
         {
           "text": {
@@ -101,13 +116,6 @@
         {
           "text": {
             "content": "Jagger",
-            "beginOffset": 1330
-          },
-          "type": "PROPER"
-        },
-        {
-          "text": {
-            "content": "Jagger",
             "beginOffset": 1810
           },
           "type": "PROPER"
@@ -153,12 +161,12 @@
       "name": "moves",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0557111,
+      "salience": 0.03340121,
       "mentions": [
         {
           "text": {
             "content": "moves",
-            "beginOffset": 388
+            "beginOffset": 592
           },
           "type": "COMMON"
         },
@@ -166,177 +174,6 @@
           "text": {
             "content": "moves",
             "beginOffset": 1115
-          },
-          "type": "COMMON"
-        },
-        {
-          "text": {
-            "content": "moves",
-            "beginOffset": 1799
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "eyes",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.022513248,
-      "mentions": [
-        {
-          "text": {
-            "content": "eyes",
-            "beginOffset": 527
-          },
-          "type": "COMMON"
-        },
-        {
-          "text": {
-            "content": "eyes",
-            "beginOffset": 1221
-          },
-          "type": "COMMON"
-        },
-        {
-          "text": {
-            "content": "eyes",
-            "beginOffset": 1938
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "gear",
-      "type": "CONSUMER_GOOD",
-      "metadata": {},
-      "salience": 0.017542241,
-      "mentions": [
-        {
-          "text": {
-            "content": "gear",
-            "beginOffset": 918
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "stars",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.0149502605,
-      "mentions": [
-        {
-          "text": {
-            "content": "stars",
-            "beginOffset": 19
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "ego",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.009351183,
-      "mentions": [
-        {
-          "text": {
-            "content": "ego",
-            "beginOffset": 234
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "control",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.009067075,
-      "mentions": [
-        {
-          "text": {
-            "content": "control",
-            "beginOffset": 156
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "shit",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.008837373,
-      "mentions": [
-        {
-          "text": {
-            "content": "shit",
-            "beginOffset": 262
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "show",
-      "type": "WORK_OF_ART",
-      "metadata": {},
-      "salience": 0.007942363,
-      "mentions": [
-        {
-          "text": {
-            "content": "show",
-            "beginOffset": 190
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "heart",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.007942363,
-      "mentions": [
-        {
-          "text": {
-            "content": "heart",
-            "beginOffset": 60
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "control",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0068595037,
-      "mentions": [
-        {
-          "text": {
-            "content": "control",
-            "beginOffset": 1387
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "moves",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0056067607,
-      "mentions": [
-        {
-          "text": {
-            "content": "moves",
-            "beginOffset": 592
           },
           "type": "COMMON"
         },
@@ -351,13 +188,6 @@
           "text": {
             "content": "moves",
             "beginOffset": 1286
-          },
-          "type": "COMMON"
-        },
-        {
-          "text": {
-            "content": "moves",
-            "beginOffset": 1319
           },
           "type": "COMMON"
         },
@@ -392,10 +222,136 @@
       ]
     },
     {
+      "name": "gear",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.02111221,
+      "mentions": [
+        {
+          "text": {
+            "content": "gear",
+            "beginOffset": 918
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020307504,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": 527
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": 1221
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": 1938
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "moves",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0040249615,
+      "salience": 0.019272791,
+      "mentions": [
+        {
+          "text": {
+            "content": "moves",
+            "beginOffset": 388
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "moves",
+            "beginOffset": 1799
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "heart",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0073492634,
+      "mentions": [
+        {
+          "text": {
+            "content": "heart",
+            "beginOffset": 60
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "show",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0073492634,
+      "mentions": [
+        {
+          "text": {
+            "content": "show",
+            "beginOffset": 190
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "stars",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0073492634,
+      "mentions": [
+        {
+          "text": {
+            "content": "stars",
+            "beginOffset": 19
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Oh",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.006232152,
+      "mentions": [
+        {
+          "text": {
+            "content": "Oh",
+            "beginOffset": 805
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "moves",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0041206013,
       "mentions": [
         {
           "text": {
@@ -410,7 +366,7 @@
       "name": "moves",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0040249615,
+      "salience": 0.0041206013,
       "mentions": [
         {
           "text": {
@@ -425,7 +381,7 @@
       "name": "tongue",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.003824581,
+      "salience": 0.0035393483,
       "mentions": [
         {
           "text": {
@@ -440,7 +396,7 @@
       "name": "moves",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.002686155,
+      "salience": 0.002785417,
       "mentions": [
         {
           "text": {
@@ -452,25 +408,10 @@
       ]
     },
     {
-      "name": "tongue",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0025847182,
-      "mentions": [
-        {
-          "text": {
-            "content": "tongue",
-            "beginOffset": 1003
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "moves",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.002139126,
+      "salience": 0.0025819147,
       "mentions": [
         {
           "text": {
@@ -482,15 +423,30 @@
       ]
     },
     {
-      "name": "car",
-      "type": "CONSUMER_GOOD",
+      "name": "tongue",
+      "type": "OTHER",
       "metadata": {},
-      "salience": 0.0020577295,
+      "salience": 0.002391912,
       "mentions": [
         {
           "text": {
-            "content": "car",
-            "beginOffset": 823
+            "content": "tongue",
+            "beginOffset": 1003
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shit",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0020030704,
+      "mentions": [
+        {
+          "text": {
+            "content": "shit",
+            "beginOffset": 262
           },
           "type": "COMMON"
         }
@@ -500,7 +456,7 @@
       "name": "Nothing",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0020318513,
+      "salience": 0.0019041869,
       "mentions": [
         {
           "text": {
@@ -512,10 +468,25 @@
       ]
     },
     {
+      "name": "car",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0019041869,
+      "mentions": [
+        {
+          "text": {
+            "content": "car",
+            "beginOffset": 823
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "secret",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.00087906834,
+      "salience": 0.00081335136,
       "mentions": [
         {
           "text": {
@@ -530,7 +501,7 @@
       "name": "tongue",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0008407129,
+      "salience": 0.0007778558,
       "mentions": [
         {
           "text": {
@@ -542,25 +513,10 @@
       ]
     },
     {
-      "name": "Oh",
-      "type": "LOCATION",
-      "metadata": {},
-      "salience": 0.00081264606,
-      "mentions": [
-        {
-          "text": {
-            "content": "Oh",
-            "beginOffset": 805
-          },
-          "type": "PROPER"
-        }
-      ]
-    },
-    {
       "name": "baby",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.00068223797,
+      "salience": 0.00073491456,
       "mentions": [
         {
           "text": {
@@ -572,25 +528,10 @@
       ]
     },
     {
-      "name": "toe",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0006690317,
-      "mentions": [
-        {
-          "text": {
-            "content": "toe",
-            "beginOffset": 1562
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "Nobody",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.00043775848,
+      "salience": 0.0006232476,
       "mentions": [
         {
           "text": {
@@ -602,10 +543,70 @@
       ]
     },
     {
+      "name": "toe",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0006189787,
+      "mentions": [
+        {
+          "text": {
+            "content": "toe",
+            "beginOffset": 1562
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "control",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00048364306,
+      "mentions": [
+        {
+          "text": {
+            "content": "control",
+            "beginOffset": 1387
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "moves",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00039745338,
+      "mentions": [
+        {
+          "text": {
+            "content": "moves",
+            "beginOffset": 1319
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Jagger You",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0003831586,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jagger  \r  \rYou",
+            "beginOffset": 1330
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
       "name": "secret",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.00038562776,
+      "salience": 0.00035672952,
       "mentions": [
         {
           "text": {
@@ -620,7 +621,7 @@
       "name": "Nobody",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.00019198078,
+      "salience": 0.00027331323,
       "mentions": [
         {
           "text": {

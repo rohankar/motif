@@ -4,12 +4,12 @@
       "name": "possibilities",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.38326302,
+      "salience": 0.23886098,
       "mentions": [
         {
           "text": {
             "content": "possibilities",
-            "beginOffset": 339
+            "beginOffset": 789
           },
           "type": "COMMON"
         },
@@ -26,12 +26,12 @@
       "name": "faithlessness",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.25194713,
+      "salience": 0.14563487,
       "mentions": [
         {
           "text": {
             "content": "faithlessness",
-            "beginOffset": 369
+            "beginOffset": 819
           },
           "type": "COMMON"
         },
@@ -48,7 +48,7 @@
       "name": "disbelief",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.069047,
+      "salience": 0.107379355,
       "mentions": [
         {
           "text": {
@@ -60,10 +60,25 @@
       ]
     },
     {
+      "name": "possibilities",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.074852094,
+      "mentions": [
+        {
+          "text": {
+            "content": "possibilities",
+            "beginOffset": 339
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "memories",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.03518441,
+      "salience": 0.054731626,
       "mentions": [
         {
           "text": {
@@ -78,7 +93,7 @@
       "name": "possibilities",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.03518441,
+      "salience": 0.054731626,
       "mentions": [
         {
           "text": {
@@ -93,7 +108,7 @@
       "name": "memories",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.03518441,
+      "salience": 0.054731626,
       "mentions": [
         {
           "text": {
@@ -105,15 +120,15 @@
       ]
     },
     {
-      "name": "possibilities",
+      "name": "faithlessness",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.029883865,
+      "salience": 0.05300783,
       "mentions": [
         {
           "text": {
-            "content": "possibilities",
-            "beginOffset": 789
+            "content": "faithlessness",
+            "beginOffset": 369
           },
           "type": "COMMON"
         }
@@ -123,7 +138,7 @@
       "name": "possibilities",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.023827394,
+      "salience": 0.037066538,
       "mentions": [
         {
           "text": {
@@ -138,7 +153,7 @@
       "name": "memories",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.023827394,
+      "salience": 0.037066538,
       "mentions": [
         {
           "text": {
@@ -153,7 +168,7 @@
       "name": "memories",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.021816207,
+      "salience": 0.03393794,
       "mentions": [
         {
           "text": {
@@ -165,25 +180,10 @@
       ]
     },
     {
-      "name": "faithlessness",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.021665523,
-      "mentions": [
-        {
-          "text": {
-            "content": "faithlessness",
-            "beginOffset": 819
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "disbelief",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.017823705,
+      "salience": 0.028079003,
       "mentions": [
         {
           "text": {
@@ -198,7 +198,7 @@
       "name": "memories",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.016322866,
+      "salience": 0.02539209,
       "mentions": [
         {
           "text": {
@@ -213,7 +213,7 @@
       "name": "possibilities",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.016322866,
+      "salience": 0.02539209,
       "mentions": [
         {
           "text": {
@@ -228,7 +228,7 @@
       "name": "apologies",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.010816353,
+      "salience": 0.016825344,
       "mentions": [
         {
           "text": {
@@ -243,7 +243,7 @@
       "name": "memories",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0053842426,
+      "salience": 0.008374391,
       "mentions": [
         {
           "text": {
@@ -258,7 +258,7 @@
       "name": "control",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0024992116,
+      "salience": 0.0039360486,
       "mentions": [
         {
           "text": {

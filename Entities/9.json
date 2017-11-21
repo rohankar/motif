@@ -4,7 +4,7 @@
       "name": "lid",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.4341418,
+      "salience": 0.34622723,
       "mentions": [
         {
           "text": {
@@ -26,7 +26,7 @@
       "name": "Boys",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.04383406,
+      "salience": 0.13296318,
       "mentions": [
         {
           "text": {
@@ -41,7 +41,7 @@
       "name": "cops",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.039425753,
+      "salience": 0.04251595,
       "mentions": [
         {
           "text": {
@@ -56,7 +56,7 @@
       "name": "street",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.03658769,
+      "salience": 0.03670135,
       "mentions": [
         {
           "text": {
@@ -68,10 +68,25 @@
       ]
     },
     {
+      "name": "rival",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.02795028,
+      "mentions": [
+        {
+          "text": {
+            "content": "rival",
+            "beginOffset": 733
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "word",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.027234947,
+      "salience": 0.027330773,
       "mentions": [
         {
           "text": {
@@ -86,7 +101,7 @@
       "name": "avenue",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.027234947,
+      "salience": 0.027330773,
       "mentions": [
         {
           "text": {
@@ -101,7 +116,7 @@
       "name": "streets gang clash",
       "type": "EVENT",
       "metadata": {},
-      "salience": 0.027234947,
+      "salience": 0.027330773,
       "mentions": [
         {
           "text": {
@@ -113,25 +128,10 @@
       ]
     },
     {
-      "name": "cops",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.02313019,
-      "mentions": [
-        {
-          "text": {
-            "content": "cops",
-            "beginOffset": 1000
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "heads",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.01781778,
+      "salience": 0.018340388,
       "mentions": [
         {
           "text": {
@@ -146,7 +146,7 @@
       "name": "lightning",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.017562035,
+      "salience": 0.01763064,
       "mentions": [
         {
           "text": {
@@ -161,7 +161,7 @@
       "name": "eye",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.012006351,
+      "salience": 0.012055487,
       "mentions": [
         {
           "text": {
@@ -176,7 +176,7 @@
       "name": "Gonna",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.011641814,
+      "salience": 0.011837477,
       "mentions": [
         {
           "text": {
@@ -198,7 +198,7 @@
       "name": "lightning strikes",
       "type": "EVENT",
       "metadata": {},
-      "salience": 0.011063985,
+      "salience": 0.011250181,
       "mentions": [
         {
           "text": {
@@ -216,7 +216,7 @@
         "mid": "/m/01tr_g",
         "wikipedia_url": "https://en.wikipedia.org/wiki/Blade"
       },
-      "salience": 0.010601333,
+      "salience": 0.010916413,
       "mentions": [
         {
           "text": {
@@ -228,25 +228,10 @@
       ]
     },
     {
-      "name": "gun",
-      "type": "CONSUMER_GOOD",
-      "metadata": {},
-      "salience": 0.010515016,
-      "mentions": [
-        {
-          "text": {
-            "content": "gun",
-            "beginOffset": 196
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "finger",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.010515016,
+      "salience": 0.010558483,
       "mentions": [
         {
           "text": {
@@ -261,7 +246,7 @@
       "name": "hell's kitchen",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.010515016,
+      "salience": 0.010558483,
       "mentions": [
         {
           "text": {
@@ -273,10 +258,25 @@
       ]
     },
     {
+      "name": "gun",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.010558483,
+      "mentions": [
+        {
+          "text": {
+            "content": "gun",
+            "beginOffset": 196
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "lightning strikes",
       "type": "EVENT",
       "metadata": {},
-      "salience": 0.010259208,
+      "salience": 0.010301685,
       "mentions": [
         {
           "text": {
@@ -291,7 +291,7 @@
       "name": "funeral rights",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.010067066,
+      "salience": 0.010108795,
       "mentions": [
         {
           "text": {
@@ -306,7 +306,7 @@
       "name": "street",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.009606475,
+      "salience": 0.009646402,
       "mentions": [
         {
           "text": {
@@ -318,25 +318,10 @@
       ]
     },
     {
-      "name": "means",
+      "name": "thunder",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.00938831,
-      "mentions": [
-        {
-          "text": {
-            "content": "means",
-            "beginOffset": 771
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "thunder",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.008929304,
+      "salience": 0.00896655,
       "mentions": [
         {
           "text": {
@@ -348,40 +333,10 @@
       ]
     },
     {
-      "name": "chains",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.008125815,
-      "mentions": [
-        {
-          "text": {
-            "content": "chains",
-            "beginOffset": 535
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "ones",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.008125815,
-      "mentions": [
-        {
-          "text": {
-            "content": "ones",
-            "beginOffset": 583
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "all",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0080239875,
+      "salience": 0.008159838,
       "mentions": [
         {
           "text": {
@@ -393,10 +348,40 @@
       ]
     },
     {
+      "name": "ones",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008159838,
+      "mentions": [
+        {
+          "text": {
+            "content": "ones",
+            "beginOffset": 583
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chains",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008159838,
+      "mentions": [
+        {
+          "text": {
+            "content": "chains",
+            "beginOffset": 535
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "parking lot",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.0080239875,
+      "salience": 0.008159838,
       "mentions": [
         {
           "text": {
@@ -411,7 +396,7 @@
       "name": "tooth",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0080239875,
+      "salience": 0.008159838,
       "mentions": [
         {
           "text": {
@@ -426,7 +411,7 @@
       "name": "tooth",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0080239875,
+      "salience": 0.008159838,
       "mentions": [
         {
           "text": {
@@ -441,7 +426,7 @@
       "name": "blood",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0076292083,
+      "salience": 0.007661216,
       "mentions": [
         {
           "text": {
@@ -456,7 +441,7 @@
       "name": "Gotta",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0075465953,
+      "salience": 0.007578266,
       "mentions": [
         {
           "text": {
@@ -478,7 +463,7 @@
       "name": "heat",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.00707297,
+      "salience": 0.0070136334,
       "mentions": [
         {
           "text": {
@@ -493,7 +478,7 @@
       "name": "street",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.006580432,
+      "salience": 0.006608128,
       "mentions": [
         {
           "text": {
@@ -505,40 +490,10 @@
       ]
     },
     {
-      "name": "dog eat dog",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0065123686,
-      "mentions": [
-        {
-          "text": {
-            "content": "dog eat dog",
-            "beginOffset": 702
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "rival",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.0065123686,
-      "mentions": [
-        {
-          "text": {
-            "content": "rival",
-            "beginOffset": 733
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "combat zone",
-      "type": "OTHER",
+      "type": "LOCATION",
       "metadata": {},
-      "salience": 0.0065123686,
+      "salience": 0.0065397825,
       "mentions": [
         {
           "text": {
@@ -550,17 +505,32 @@
       ]
     },
     {
-      "name": "Zip",
-      "type": "PERSON",
+      "name": "means",
+      "type": "OTHER",
       "metadata": {},
-      "salience": 0.006242613,
+      "salience": 0.0065397825,
       "mentions": [
         {
           "text": {
-            "content": "Zip",
-            "beginOffset": 192
+            "content": "means",
+            "beginOffset": 771
           },
-          "type": "PROPER"
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dog eat dog",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0065397825,
+      "mentions": [
+        {
+          "text": {
+            "content": "dog eat dog",
+            "beginOffset": 702
+          },
+          "type": "COMMON"
         }
       ]
     },
@@ -568,7 +538,7 @@
       "name": "Johnny",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.006242613,
+      "salience": 0.006268905,
       "mentions": [
         {
           "text": {
@@ -580,10 +550,25 @@
       ]
     },
     {
-      "name": "thunder",
-      "type": "PERSON",
+      "name": "Zip",
+      "type": "CONSUMER_GOOD",
       "metadata": {},
-      "salience": 0.0061156093,
+      "salience": 0.006268905,
+      "mentions": [
+        {
+          "text": {
+            "content": "Zip",
+            "beginOffset": 192
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "thunder",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0061413725,
       "mentions": [
         {
           "text": {
@@ -595,10 +580,25 @@
       ]
     },
     {
+      "name": "cops",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.006027673,
+      "mentions": [
+        {
+          "text": {
+            "content": "cops",
+            "beginOffset": 1000
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "ones",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0055642696,
+      "salience": 0.005587723,
       "mentions": [
         {
           "text": {
@@ -613,7 +613,7 @@
       "name": "chains",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0055642696,
+      "salience": 0.005587723,
       "mentions": [
         {
           "text": {
@@ -625,25 +625,10 @@
       ]
     },
     {
-      "name": "night",
-      "type": "EVENT",
-      "metadata": {},
-      "salience": 0.0052900375,
-      "mentions": [
-        {
-          "text": {
-            "content": "night",
-            "beginOffset": 471
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "funeral rights",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.00522361,
+      "salience": 0.005245628,
       "mentions": [
         {
           "text": {
@@ -658,7 +643,7 @@
       "name": "blood",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.00522361,
+      "salience": 0.005245628,
       "mentions": [
         {
           "text": {
@@ -673,7 +658,7 @@
       "name": "heat",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.004842137,
+      "salience": 0.004801459,
       "mentions": [
         {
           "text": {
@@ -685,25 +670,10 @@
       ]
     },
     {
-      "name": "night",
-      "type": "EVENT",
-      "metadata": {},
-      "salience": 0.0036200501,
-      "mentions": [
-        {
-          "text": {
-            "content": "night",
-            "beginOffset": 974
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "lightning strikes",
       "type": "EVENT",
       "metadata": {},
-      "salience": 0.0033767587,
+      "salience": 0.0033909034,
       "mentions": [
         {
           "text": {
@@ -715,25 +685,10 @@
       ]
     },
     {
-      "name": "Lightning",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0027267705,
-      "mentions": [
-        {
-          "text": {
-            "content": "Lightning",
-            "beginOffset": 1270
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "licks",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.00262009,
+      "salience": 0.0027676707,
       "mentions": [
         {
           "text": {
@@ -745,10 +700,25 @@
       ]
     },
     {
+      "name": "Lightning",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002738121,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lightning",
+            "beginOffset": 1270
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "lightning strikes",
       "type": "EVENT",
       "metadata": {},
-      "salience": 0.0025336528,
+      "salience": 0.0025441723,
       "mentions": [
         {
           "text": {
@@ -763,7 +733,7 @@
       "name": "lightning strikes",
       "type": "EVENT",
       "metadata": {},
-      "salience": 0.0025336528,
+      "salience": 0.0025441723,
       "mentions": [
         {
           "text": {
@@ -778,7 +748,7 @@
       "name": "lightning strikes",
       "type": "EVENT",
       "metadata": {},
-      "salience": 0.0025336528,
+      "salience": 0.0025441723,
       "mentions": [
         {
           "text": {
@@ -793,7 +763,7 @@
       "name": "lightning strikes",
       "type": "EVENT",
       "metadata": {},
-      "salience": 0.0025336528,
+      "salience": 0.0025441723,
       "mentions": [
         {
           "text": {
@@ -808,7 +778,7 @@
       "name": "parking lot",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.0024451367,
+      "salience": 0.0024552755,
       "mentions": [
         {
           "text": {
@@ -823,7 +793,7 @@
       "name": "all",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0024451367,
+      "salience": 0.0024552755,
       "mentions": [
         {
           "text": {
@@ -838,7 +808,7 @@
       "name": "dagger knife",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0021395467,
+      "salience": 0.002148372,
       "mentions": [
         {
           "text": {
@@ -853,7 +823,7 @@
       "name": "suicide blitz",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0021395467,
+      "salience": 0.002148372,
       "mentions": [
         {
           "text": {
@@ -868,7 +838,7 @@
       "name": "thunder",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0020166272,
+      "salience": 0.0020249246,
       "mentions": [
         {
           "text": {

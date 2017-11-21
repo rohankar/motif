@@ -4,7 +4,7 @@
       "name": "sight",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.7744941,
+      "salience": 0.8085694,
       "mentions": [
         {
           "text": {
@@ -54,12 +54,19 @@
       "name": "reality",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.061671276,
+      "salience": 0.04920112,
       "mentions": [
         {
           "text": {
             "content": "reality",
             "beginOffset": 402
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "reality",
+            "beginOffset": 1126
           },
           "type": "COMMON"
         },
@@ -83,12 +90,12 @@
       "name": "eyes",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.049682435,
+      "salience": 0.018416753,
       "mentions": [
         {
           "text": {
             "content": "eyes",
-            "beginOffset": 368
+            "beginOffset": 1086
           },
           "type": "COMMON"
         },
@@ -112,7 +119,7 @@
       "name": "eyes",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.01471244,
+      "salience": 0.01764532,
       "mentions": [
         {
           "text": {
@@ -127,7 +134,7 @@
       "name": "things",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0126636755,
+      "salience": 0.014632612,
       "mentions": [
         {
           "text": {
@@ -142,7 +149,7 @@
       "name": "Cause",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.011111637,
+      "salience": 0.012680307,
       "mentions": [
         {
           "text": {
@@ -171,7 +178,7 @@
       "name": "temptation",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.008805366,
+      "salience": 0.010048748,
       "mentions": [
         {
           "text": {
@@ -186,7 +193,7 @@
       "name": "satisfaction",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.008805366,
+      "salience": 0.010048748,
       "mentions": [
         {
           "text": {
@@ -201,7 +208,66 @@
       "name": "reality",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.008640027,
+      "salience": 0.0071860915,
+      "mentions": [
+        {
+          "text": {
+            "content": "reality",
+            "beginOffset": 540
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0060792053,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": 368
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Come on girl",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0046479222,
+      "mentions": [
+        {
+          "text": {
+            "content": "Come on girl",
+            "beginOffset": 514
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Come on girl",
+            "beginOffset": 1100
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Come on girl",
+            "beginOffset": 1784
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "reality",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0045642937,
       "mentions": [
         {
           "text": {
@@ -209,11 +275,139 @@
             "beginOffset": 988
           },
           "type": "COMMON"
-        },
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00411116,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": 951
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00411116,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": 500
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "things",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0038099994,
+      "mentions": [
+        {
+          "text": {
+            "content": "things",
+            "beginOffset": 610
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "words",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0026065274,
+      "mentions": [
+        {
+          "text": {
+            "content": "words",
+            "beginOffset": 765
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0026065274,
+      "mentions": [
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": 835
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tradition",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0026065274,
+      "mentions": [
+        {
+          "text": {
+            "content": "tradition",
+            "beginOffset": 728
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "someone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002415959,
+      "mentions": [
+        {
+          "text": {
+            "content": "someone",
+            "beginOffset": 784
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "reality",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0019888256,
+      "mentions": [
         {
           "text": {
             "content": "reality",
-            "beginOffset": 1126
+            "beginOffset": 1165
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.001534072,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 1174
           },
           "type": "COMMON"
         }
@@ -223,22 +417,8 @@
       "name": "Gotta",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.006644463,
+      "salience": 0.0015110988,
       "mentions": [
-        {
-          "text": {
-            "content": "Gotta",
-            "beginOffset": 1181
-          },
-          "type": "PROPER"
-        },
-        {
-          "text": {
-            "content": "baby",
-            "beginOffset": 1174
-          },
-          "type": "COMMON"
-        },
         {
           "text": {
             "content": "Gotta",
@@ -259,187 +439,7 @@
       "name": "reality",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.005765595,
-      "mentions": [
-        {
-          "text": {
-            "content": "reality",
-            "beginOffset": 540
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "eyes",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0036026048,
-      "mentions": [
-        {
-          "text": {
-            "content": "eyes",
-            "beginOffset": 951
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "eyes",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0035573905,
-      "mentions": [
-        {
-          "text": {
-            "content": "eyes",
-            "beginOffset": 500
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "eyes",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0032977269,
-      "mentions": [
-        {
-          "text": {
-            "content": "eyes",
-            "beginOffset": 1086
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "things",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0032554257,
-      "mentions": [
-        {
-          "text": {
-            "content": "things",
-            "beginOffset": 610
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "girl",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.0028329024,
-      "mentions": [
-        {
-          "text": {
-            "content": "girl",
-            "beginOffset": 522
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "girl",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.0026259508,
-      "mentions": [
-        {
-          "text": {
-            "content": "girl",
-            "beginOffset": 1108
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "way",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0022842675,
-      "mentions": [
-        {
-          "text": {
-            "content": "way",
-            "beginOffset": 835
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "words",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0022842675,
-      "mentions": [
-        {
-          "text": {
-            "content": "words",
-            "beginOffset": 765
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "tradition",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0022555531,
-      "mentions": [
-        {
-          "text": {
-            "content": "tradition",
-            "beginOffset": 728
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "someone",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.0021172913,
-      "mentions": [
-        {
-          "text": {
-            "content": "someone",
-            "beginOffset": 784
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "reality",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0017430302,
-      "mentions": [
-        {
-          "text": {
-            "content": "reality",
-            "beginOffset": 1165
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "reality",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0009021386,
+      "salience": 0.0010291988,
       "mentions": [
         {
           "text": {
@@ -454,7 +454,7 @@
       "name": "reality",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0009021386,
+      "salience": 0.0010291988,
       "mentions": [
         {
           "text": {
@@ -466,32 +466,17 @@
       ]
     },
     {
-      "name": "baby",
-      "type": "PERSON",
+      "name": "Gotta",
+      "type": "OTHER",
       "metadata": {},
-      "salience": 0.00069573655,
+      "salience": 0.0008937569,
       "mentions": [
         {
           "text": {
-            "content": "baby",
-            "beginOffset": 1903
+            "content": "Gotta",
+            "beginOffset": 1181
           },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "girl",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.00064641004,
-      "mentions": [
-        {
-          "text": {
-            "content": "girl",
-            "beginOffset": 1792
-          },
-          "type": "COMMON"
+          "type": "PROPER"
         }
       ]
     },
@@ -499,7 +484,7 @@
       "name": "baby",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.00064478756,
+      "salience": 0.0007936749,
       "mentions": [
         {
           "text": {
@@ -511,10 +496,25 @@
       ]
     },
     {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0007936749,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 1903
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "Repeat",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.00058793835,
+      "salience": 0.0006706731,
       "mentions": [
         {
           "text": {
@@ -529,7 +529,7 @@
       "name": "reality",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0005716333,
+      "salience": 0.0006520688,
       "mentions": [
         {
           "text": {
@@ -544,7 +544,7 @@
       "name": "things",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.00047083772,
+      "salience": 0.00054391706,
       "mentions": [
         {
           "text": {
@@ -559,7 +559,7 @@
       "name": "Cause",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0004408074,
+      "salience": 0.00050280005,
       "mentions": [
         {
           "text": {
@@ -574,7 +574,7 @@
       "name": "disappointment",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0003746592,
+      "salience": 0.00043278502,
       "mentions": [
         {
           "text": {
@@ -589,7 +589,7 @@
       "name": "Repeat",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.00037249018,
+      "salience": 0.0004248561,
       "mentions": [
         {
           "text": {
@@ -604,7 +604,7 @@
       "name": "feelings",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.00032588252,
+      "salience": 0.00037168284,
       "mentions": [
         {
           "text": {
@@ -616,10 +616,25 @@
       ]
     },
     {
+      "name": "light",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00037168284,
+      "mentions": [
+        {
+          "text": {
+            "content": "light",
+            "beginOffset": 1466
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "senses",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.00021174282,
+      "salience": 0.00024767828,
       "mentions": [
         {
           "text": {
@@ -627,6 +642,21 @@
             "beginOffset": 1429
           },
           "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Plus",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.00021997478,
+      "mentions": [
+        {
+          "text": {
+            "content": "Plus",
+            "beginOffset": 1315
+          },
+          "type": "PROPER"
         }
       ]
     }

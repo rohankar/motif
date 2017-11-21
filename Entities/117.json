@@ -4,7 +4,7 @@
       "name": "times",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.80690914,
+      "salience": 0.7171163,
       "mentions": [
         {
           "text": {
@@ -16,30 +16,30 @@
       ]
     },
     {
-      "name": "sun",
-      "type": "OTHER",
+      "name": "games",
+      "type": "EVENT",
       "metadata": {},
-      "salience": 0.10262538,
+      "salience": 0.19160807,
       "mentions": [
         {
           "text": {
-            "content": "sun",
-            "beginOffset": 453
+            "content": "games",
+            "beginOffset": 142
           },
           "type": "COMMON"
         }
       ]
     },
     {
-      "name": "games",
-      "type": "EVENT",
+      "name": "sun",
+      "type": "OTHER",
       "metadata": {},
-      "salience": 0.09046548,
+      "salience": 0.09127564,
       "mentions": [
         {
           "text": {
-            "content": "games",
-            "beginOffset": 142
+            "content": "sun",
+            "beginOffset": 453
           },
           "type": "COMMON"
         }

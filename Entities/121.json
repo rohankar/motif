@@ -4,7 +4,7 @@
       "name": "motherfuckers",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.24121486,
+      "salience": 0.20940317,
       "mentions": [
         {
           "text": {
@@ -23,15 +23,15 @@
       ]
     },
     {
-      "name": "turf",
-      "type": "OTHER",
+      "name": "motherfuckers",
+      "type": "PERSON",
       "metadata": {},
-      "salience": 0.08232152,
+      "salience": 0.09383397,
       "mentions": [
         {
           "text": {
-            "content": "turf",
-            "beginOffset": 238
+            "content": "motherfuckers",
+            "beginOffset": 34
           },
           "type": "COMMON"
         }
@@ -41,7 +41,7 @@
       "name": "rap",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.057151947,
+      "salience": 0.06128394,
       "mentions": [
         {
           "text": {
@@ -59,7 +59,7 @@
         "mid": "/m/0827v",
         "wikipedia_url": "https://en.wikipedia.org/wiki/Wu-Tang_Clan"
       },
-      "salience": 0.053756837,
+      "salience": 0.05623991,
       "mentions": [
         {
           "text": {
@@ -99,25 +99,10 @@
       ]
     },
     {
-      "name": "motherfuckers",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.045578472,
-      "mentions": [
-        {
-          "text": {
-            "content": "motherfuckers",
-            "beginOffset": 34
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "addition",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.033137385,
+      "salience": 0.03511337,
       "mentions": [
         {
           "text": {
@@ -129,10 +114,25 @@
       ]
     },
     {
+      "name": "niggas",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.023286942,
+      "mentions": [
+        {
+          "text": {
+            "content": "niggas",
+            "beginOffset": 203
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "motherfuckers",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.018113194,
+      "salience": 0.017732525,
       "mentions": [
         {
           "text": {
@@ -154,7 +154,7 @@
       "name": "Wu",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.016772619,
+      "salience": 0.017708262,
       "mentions": [
         {
           "text": {
@@ -173,25 +173,10 @@
       ]
     },
     {
-      "name": "niggas",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.016310003,
-      "mentions": [
-        {
-          "text": {
-            "content": "niggas",
-            "beginOffset": 203
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "world",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.014843322,
+      "salience": 0.015870238,
       "mentions": [
         {
           "text": {
@@ -206,7 +191,7 @@
       "name": "compositions",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.014843322,
+      "salience": 0.015870238,
       "mentions": [
         {
           "text": {
@@ -221,7 +206,7 @@
       "name": "disaster",
       "type": "EVENT",
       "metadata": {},
-      "salience": 0.014649379,
+      "salience": 0.01572359,
       "mentions": [
         {
           "text": {
@@ -233,36 +218,37 @@
       ]
     },
     {
-      "name": "Hard",
-      "type": "WORK_OF_ART",
+      "name": "paint",
+      "type": "OTHER",
       "metadata": {},
-      "salience": 0.013253361,
+      "salience": 0.014395715,
       "mentions": [
         {
           "text": {
-            "content": "Hard",
-            "beginOffset": 2107
+            "content": "paint",
+            "beginOffset": 567
           },
-          "type": "PROPER"
-        },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rap star twinkle killer instinct",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014175053,
+      "mentions": [
         {
           "text": {
-            "content": "video footage",
-            "beginOffset": 2091
+            "content": "Life",
+            "beginOffset": 2078
           },
           "type": "COMMON"
         },
         {
           "text": {
-            "content": "Attack",
-            "beginOffset": 2207
-          },
-          "type": "COMMON"
-        },
-        {
-          "text": {
-            "content": "rap souflee saute",
-            "beginOffset": 2282
+            "content": "rap star twinkle killer instinct",
+            "beginOffset": 2573
           },
           "type": "COMMON"
         }
@@ -272,7 +258,7 @@
       "name": "parables",
       "type": "WORK_OF_ART",
       "metadata": {},
-      "salience": 0.012996026,
+      "salience": 0.013895381,
       "mentions": [
         {
           "text": {
@@ -287,7 +273,7 @@
       "name": "LP",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.012996026,
+      "salience": 0.013895381,
       "mentions": [
         {
           "text": {
@@ -299,25 +285,10 @@
       ]
     },
     {
-      "name": "industry",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.012996026,
-      "mentions": [
-        {
-          "text": {
-            "content": "industry",
-            "beginOffset": 125
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "missions",
       "type": "EVENT",
       "metadata": {},
-      "salience": 0.012996026,
+      "salience": 0.013895381,
       "mentions": [
         {
           "text": {
@@ -329,15 +300,15 @@
       ]
     },
     {
-      "name": "style",
+      "name": "turf",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.012996026,
+      "salience": 0.013895381,
       "mentions": [
         {
           "text": {
-            "content": "style",
-            "beginOffset": 316
+            "content": "turf",
+            "beginOffset": 238
           },
           "type": "COMMON"
         }
@@ -347,7 +318,7 @@
       "name": "match",
       "type": "EVENT",
       "metadata": {},
-      "salience": 0.012996026,
+      "salience": 0.013895381,
       "mentions": [
         {
           "text": {
@@ -359,10 +330,25 @@
       ]
     },
     {
+      "name": "industry",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013895381,
+      "mentions": [
+        {
+          "text": {
+            "content": "industry",
+            "beginOffset": 125
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "underground",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.012996026,
+      "salience": 0.013895381,
       "mentions": [
         {
           "text": {
@@ -374,10 +360,25 @@
       ]
     },
     {
+      "name": "style",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010526515,
+      "mentions": [
+        {
+          "text": {
+            "content": "style",
+            "beginOffset": 316
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "Scattin",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0077094818,
+      "salience": 0.008243074,
       "mentions": [
         {
           "text": {
@@ -390,12 +391,9 @@
     },
     {
       "name": "Earth Wicked",
-      "type": "OTHER",
-      "metadata": {
-        "wikipedia_url": "https://en.wikipedia.org/wiki/Earth",
-        "mid": "/m/02j71"
-      },
-      "salience": 0.0077094818,
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.008243074,
       "mentions": [
         {
           "text": {
@@ -407,40 +405,10 @@
       ]
     },
     {
-      "name": "walkin",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0064872927,
-      "mentions": [
-        {
-          "text": {
-            "content": "walkin",
-            "beginOffset": 520
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "Bitch ass niggaz",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.0062474455,
-      "mentions": [
-        {
-          "text": {
-            "content": "Bitch ass niggaz",
-            "beginOffset": 860
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "look",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0062096454,
+      "salience": 0.0067238514,
       "mentions": [
         {
           "text": {
@@ -452,15 +420,30 @@
       ]
     },
     {
-      "name": "feet",
-      "type": "OTHER",
+      "name": "Bitch ass niggaz",
+      "type": "PERSON",
       "metadata": {},
-      "salience": 0.0056833453,
+      "salience": 0.00667974,
       "mentions": [
         {
           "text": {
-            "content": "feet",
-            "beginOffset": 912
+            "content": "Bitch ass niggaz",
+            "beginOffset": 860
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "walkin",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006593941,
+      "mentions": [
+        {
+          "text": {
+            "content": "walkin",
+            "beginOffset": 520
           },
           "type": "COMMON"
         }
@@ -470,7 +453,7 @@
       "name": "skunk",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0056833453,
+      "salience": 0.0060765455,
       "mentions": [
         {
           "text": {
@@ -482,10 +465,25 @@
       ]
     },
     {
+      "name": "feet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0060765455,
+      "mentions": [
+        {
+          "text": {
+            "content": "feet",
+            "beginOffset": 912
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "compartments",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0056833453,
+      "salience": 0.0060765455,
       "mentions": [
         {
           "text": {
@@ -497,10 +495,25 @@
       ]
     },
     {
+      "name": "dart",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0060765455,
+      "mentions": [
+        {
+          "text": {
+            "content": "dart",
+            "beginOffset": 690
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "head",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0056833453,
+      "salience": 0.0060765455,
       "mentions": [
         {
           "text": {
@@ -515,7 +528,7 @@
       "name": "wall",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0056833453,
+      "salience": 0.0060765455,
       "mentions": [
         {
           "text": {
@@ -530,7 +543,7 @@
       "name": "bitches",
       "type": "WORK_OF_ART",
       "metadata": {},
-      "salience": 0.0054221097,
+      "salience": 0.0059458166,
       "mentions": [
         {
           "text": {
@@ -542,32 +555,10 @@
       ]
     },
     {
-      "name": "grandfather",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.005370482,
-      "mentions": [
-        {
-          "text": {
-            "content": "man",
-            "beginOffset": 1523
-          },
-          "type": "COMMON"
-        },
-        {
-          "text": {
-            "content": "grandfather",
-            "beginOffset": 1532
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "trunk",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0049735047,
+      "salience": 0.005317507,
       "mentions": [
         {
           "text": {
@@ -582,7 +573,7 @@
       "name": "monk",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0049735047,
+      "salience": 0.005317507,
       "mentions": [
         {
           "text": {
@@ -594,130 +585,10 @@
       ]
     },
     {
-      "name": "tree top",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0049735047,
-      "mentions": [
-        {
-          "text": {
-            "content": "tree top",
-            "beginOffset": 931
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "garment",
-      "type": "CONSUMER_GOOD",
-      "metadata": {},
-      "salience": 0.0049735047,
-      "mentions": [
-        {
-          "text": {
-            "content": "garment",
-            "beginOffset": 704
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "advantage",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0049735047,
-      "mentions": [
-        {
-          "text": {
-            "content": "advantage",
-            "beginOffset": 793
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "funk",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0049735047,
-      "mentions": [
-        {
-          "text": {
-            "content": "funk",
-            "beginOffset": 893
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "coal",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0049735047,
-      "mentions": [
-        {
-          "text": {
-            "content": "coal",
-            "beginOffset": 535
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "rituals",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0049735047,
-      "mentions": [
-        {
-          "text": {
-            "content": "rituals",
-            "beginOffset": 544
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "paint",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0049735047,
-      "mentions": [
-        {
-          "text": {
-            "content": "paint",
-            "beginOffset": 567
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "manifestation",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0049735047,
-      "mentions": [
-        {
-          "text": {
-            "content": "manifestation",
-            "beginOffset": 632
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "mural",
       "type": "WORK_OF_ART",
       "metadata": {},
-      "salience": 0.0049735047,
+      "salience": 0.005317507,
       "mentions": [
         {
           "text": {
@@ -729,13 +600,118 @@
       ]
     },
     {
+      "name": "tree top",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005317507,
+      "mentions": [
+        {
+          "text": {
+            "content": "tree top",
+            "beginOffset": 931
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "funk",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005317507,
+      "mentions": [
+        {
+          "text": {
+            "content": "funk",
+            "beginOffset": 893
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "advantage",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005317507,
+      "mentions": [
+        {
+          "text": {
+            "content": "advantage",
+            "beginOffset": 793
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "garment",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.005317507,
+      "mentions": [
+        {
+          "text": {
+            "content": "garment",
+            "beginOffset": 704
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "manifestation",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005317507,
+      "mentions": [
+        {
+          "text": {
+            "content": "manifestation",
+            "beginOffset": 632
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rituals",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005317507,
+      "mentions": [
+        {
+          "text": {
+            "content": "rituals",
+            "beginOffset": 544
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "coal",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005317507,
+      "mentions": [
+        {
+          "text": {
+            "content": "coal",
+            "beginOffset": 535
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "Wright Brothers",
       "type": "ORGANIZATION",
       "metadata": {
-        "mid": "/m/0fzv_",
-        "wikipedia_url": "https://en.wikipedia.org/wiki/Wright_brothers"
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Wright_brothers",
+        "mid": "/m/0fzv_"
       },
-      "salience": 0.004852209,
+      "salience": 0.005207996,
       "mentions": [
         {
           "text": {
@@ -747,25 +723,10 @@
       ]
     },
     {
-      "name": "dart",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0044123027,
-      "mentions": [
-        {
-          "text": {
-            "content": "dart",
-            "beginOffset": 690
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "dirt",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0041668667,
+      "salience": 0.004511736,
       "mentions": [
         {
           "text": {
@@ -777,17 +738,20 @@
       ]
     },
     {
-      "name": "skunk",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0037903115,
+      "name": "Iron Lung",
+      "type": "CONSUMER_GOOD",
+      "metadata": {
+        "mid": "/m/01s86w",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Iron_lung"
+      },
+      "salience": 0.0041102534,
       "mentions": [
         {
           "text": {
-            "content": "skunk",
-            "beginOffset": 1014
+            "content": "Iron Lung",
+            "beginOffset": 2880
           },
-          "type": "COMMON"
+          "type": "PROPER"
         }
       ]
     },
@@ -795,7 +759,7 @@
       "name": "world",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.0037287376,
+      "salience": 0.004104666,
       "mentions": [
         {
           "text": {
@@ -807,30 +771,15 @@
       ]
     },
     {
-      "name": "chunk",
+      "name": "skunk",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0033165591,
+      "salience": 0.0041039605,
       "mentions": [
         {
           "text": {
-            "content": "chunk",
-            "beginOffset": 1049
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "words",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0033165591,
-      "mentions": [
-        {
-          "text": {
-            "content": "words",
-            "beginOffset": 1075
+            "content": "skunk",
+            "beginOffset": 1014
           },
           "type": "COMMON"
         }
@@ -840,7 +789,7 @@
       "name": "name",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0033165591,
+      "salience": 0.0035909305,
       "mentions": [
         {
           "text": {
@@ -855,7 +804,7 @@
       "name": "touch",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0033165591,
+      "salience": 0.0035909305,
       "mentions": [
         {
           "text": {
@@ -867,13 +816,43 @@
       ]
     },
     {
+      "name": "chunk",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0035909305,
+      "mentions": [
+        {
+          "text": {
+            "content": "chunk",
+            "beginOffset": 1049
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "words",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0035909305,
+      "mentions": [
+        {
+          "text": {
+            "content": "words",
+            "beginOffset": 1075
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "Jim Thorpe",
       "type": "PERSON",
       "metadata": {
-        "wikipedia_url": "https://en.wikipedia.org/wiki/Jim_Thorpe",
-        "mid": "/m/0f2zc"
+        "mid": "/m/0f2zc",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Jim_Thorpe"
       },
-      "salience": 0.003294824,
+      "salience": 0.0034781366,
       "mentions": [
         {
           "text": {
@@ -892,10 +871,32 @@
       ]
     },
     {
+      "name": "Hard",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0034701119,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hard",
+            "beginOffset": 2107
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "video footage",
+            "beginOffset": 2091
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "Rhymin",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0032192678,
+      "salience": 0.003355575,
       "mentions": [
         {
           "text": {
@@ -910,7 +911,7 @@
       "name": "Ya",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0029460855,
+      "salience": 0.0031495811,
       "mentions": [
         {
           "text": {
@@ -922,25 +923,10 @@
       ]
     },
     {
-      "name": "De-mon",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0029460855,
-      "mentions": [
-        {
-          "text": {
-            "content": "De-mon",
-            "beginOffset": 506
-          },
-          "type": "PROPER"
-        }
-      ]
-    },
-    {
       "name": "Moonshine",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.0029460855,
+      "salience": 0.0031495811,
       "mentions": [
         {
           "text": {
@@ -952,15 +938,15 @@
       ]
     },
     {
-      "name": "flow",
+      "name": "carnage",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0027672544,
+      "salience": 0.002932489,
       "mentions": [
         {
           "text": {
-            "content": "flow",
-            "beginOffset": 3002
+            "content": "carnage",
+            "beginOffset": 2981
           },
           "type": "COMMON"
         }
@@ -970,7 +956,7 @@
       "name": "momma",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0025842553,
+      "salience": 0.002797921,
       "mentions": [
         {
           "text": {
@@ -982,49 +968,10 @@
       ]
     },
     {
-      "name": "Zig-Zag-Zig A",
-      "type": "OTHER",
-      "metadata": {
-        "wikipedia_url": "https://en.wikipedia.org/wiki/Leg",
-        "mid": "/m/035r7c"
-      },
-      "salience": 0.002414728,
-      "mentions": [
-        {
-          "text": {
-            "content": "Zig-Zag-Zig A",
-            "beginOffset": 2320
-          },
-          "type": "PROPER"
-        },
-        {
-          "text": {
-            "content": "Ruler",
-            "beginOffset": 2314
-          },
-          "type": "COMMON"
-        },
-        {
-          "text": {
-            "content": "Spread",
-            "beginOffset": 2354
-          },
-          "type": "COMMON"
-        },
-        {
-          "text": {
-            "content": "Leg Leg",
-            "beginOffset": 2335
-          },
-          "type": "PROPER"
-        }
-      ]
-    },
-    {
       "name": "motherfuckers",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0023913826,
+      "salience": 0.0025564546,
       "mentions": [
         {
           "text": {
@@ -1036,25 +983,10 @@
       ]
     },
     {
-      "name": "fuss",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0021917522,
-      "mentions": [
-        {
-          "text": {
-            "content": "fuss",
-            "beginOffset": 1232
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "bitch",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.00214825,
+      "salience": 0.002296486,
       "mentions": [
         {
           "text": {
@@ -1066,10 +998,25 @@
       ]
     },
     {
+      "name": "fuss",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0021991064,
+      "mentions": [
+        {
+          "text": {
+            "content": "fuss",
+            "beginOffset": 1232
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "nigga",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0019809736,
+      "salience": 0.0021446454,
       "mentions": [
         {
           "text": {
@@ -1081,25 +1028,10 @@
       ]
     },
     {
-      "name": "drill sergeant",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.0019162239,
-      "mentions": [
-        {
-          "text": {
-            "content": "drill sergeant",
-            "beginOffset": 3228
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "frisbee",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0018354025,
+      "salience": 0.0019870142,
       "mentions": [
         {
           "text": {
@@ -1114,7 +1046,7 @@
       "name": "wall",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0018247806,
+      "salience": 0.0019506251,
       "mentions": [
         {
           "text": {
@@ -1129,7 +1061,7 @@
       "name": "brain",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0017245184,
+      "salience": 0.0017972676,
       "mentions": [
         {
           "text": {
@@ -1141,25 +1073,10 @@
       ]
     },
     {
-      "name": "Life",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.001698866,
-      "mentions": [
-        {
-          "text": {
-            "content": "Life",
-            "beginOffset": 2078
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "sink box",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.001655237,
+      "salience": 0.0017693494,
       "mentions": [
         {
           "text": {
@@ -1174,7 +1091,7 @@
       "name": "Stink box",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.001655237,
+      "salience": 0.0017693494,
       "mentions": [
         {
           "text": {
@@ -1186,145 +1103,10 @@
       ]
     },
     {
-      "name": "fuck",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0015883415,
-      "mentions": [
-        {
-          "text": {
-            "content": "fuck",
-            "beginOffset": 1579
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "cook-out",
-      "type": "EVENT",
-      "metadata": {},
-      "salience": 0.0015883415,
-      "mentions": [
-        {
-          "text": {
-            "content": "cook-out",
-            "beginOffset": 1602
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "mouth",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0015883415,
-      "mentions": [
-        {
-          "text": {
-            "content": "mouth",
-            "beginOffset": 1631
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "bone tickler",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0015825597,
-      "mentions": [
-        {
-          "text": {
-            "content": "bone tickler",
-            "beginOffset": 1789
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "plane",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0015825597,
-      "mentions": [
-        {
-          "text": {
-            "content": "plane",
-            "beginOffset": 1669
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "church",
-      "type": "LOCATION",
-      "metadata": {},
-      "salience": 0.0015764157,
-      "mentions": [
-        {
-          "text": {
-            "content": "church",
-            "beginOffset": 1153
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "bus",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0015764157,
-      "mentions": [
-        {
-          "text": {
-            "content": "bus",
-            "beginOffset": 1216
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "doves",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0015764157,
-      "mentions": [
-        {
-          "text": {
-            "content": "doves",
-            "beginOffset": 1185
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "love",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0015764157,
-      "mentions": [
-        {
-          "text": {
-            "content": "love",
-            "beginOffset": 1251
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "fuse",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0015764157,
+      "salience": 0.0017065768,
       "mentions": [
         {
           "text": {
@@ -1339,7 +1121,7 @@
       "name": "lunch",
       "type": "EVENT",
       "metadata": {},
-      "salience": 0.0015764157,
+      "salience": 0.0017065768,
       "mentions": [
         {
           "text": {
@@ -1351,15 +1133,45 @@
       ]
     },
     {
-      "name": "booze",
-      "type": "OTHER",
+      "name": "church",
+      "type": "LOCATION",
       "metadata": {},
-      "salience": 0.0015764157,
+      "salience": 0.0017065768,
       "mentions": [
         {
           "text": {
-            "content": "booze",
-            "beginOffset": 1338
+            "content": "church",
+            "beginOffset": 1153
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "doves",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0017065768,
+      "mentions": [
+        {
+          "text": {
+            "content": "doves",
+            "beginOffset": 1185
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bus",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0017065768,
+      "mentions": [
+        {
+          "text": {
+            "content": "bus",
+            "beginOffset": 1216
           },
           "type": "COMMON"
         }
@@ -1369,7 +1181,7 @@
       "name": "news",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0015764157,
+      "salience": 0.0017065768,
       "mentions": [
         {
           "text": {
@@ -1384,7 +1196,7 @@
       "name": "Gold",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0015764157,
+      "salience": 0.0017065768,
       "mentions": [
         {
           "text": {
@@ -1396,10 +1208,130 @@
       ]
     },
     {
+      "name": "booze",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0017065768,
+      "mentions": [
+        {
+          "text": {
+            "content": "booze",
+            "beginOffset": 1338
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "grandfather",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0016978257,
+      "mentions": [
+        {
+          "text": {
+            "content": "grandfather",
+            "beginOffset": 1532
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mouth",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0016978257,
+      "mentions": [
+        {
+          "text": {
+            "content": "mouth",
+            "beginOffset": 1631
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cook-out",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0016978257,
+      "mentions": [
+        {
+          "text": {
+            "content": "cook-out",
+            "beginOffset": 1602
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fuck",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0016978257,
+      "mentions": [
+        {
+          "text": {
+            "content": "fuck",
+            "beginOffset": 1579
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "man",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0016978257,
+      "mentions": [
+        {
+          "text": {
+            "content": "man",
+            "beginOffset": 1523
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "plane",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.001691644,
+      "mentions": [
+        {
+          "text": {
+            "content": "plane",
+            "beginOffset": 1669
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "funny bone tickler",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.001691644,
+      "mentions": [
+        {
+          "text": {
+            "content": "funny bone tickler",
+            "beginOffset": 1783
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "murder rap",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0014558729,
+      "salience": 0.0015561939,
       "mentions": [
         {
           "text": {
@@ -1414,7 +1346,7 @@
       "name": "dick sex enigma pistol",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0014481768,
+      "salience": 0.0015479656,
       "mentions": [
         {
           "text": {
@@ -1429,7 +1361,7 @@
       "name": "stigma",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0014481768,
+      "salience": 0.0015479656,
       "mentions": [
         {
           "text": {
@@ -1444,7 +1376,7 @@
       "name": "order",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0014481768,
+      "salience": 0.0015479656,
       "mentions": [
         {
           "text": {
@@ -1456,15 +1388,15 @@
       ]
     },
     {
-      "name": "pink",
+      "name": "get",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0014481768,
+      "salience": 0.0015479656,
       "mentions": [
         {
           "text": {
-            "content": "pink",
-            "beginOffset": 1896
+            "content": "get",
+            "beginOffset": 1912
           },
           "type": "COMMON"
         }
@@ -1474,7 +1406,7 @@
       "name": "ink blots",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0014481768,
+      "salience": 0.0015479656,
       "mentions": [
         {
           "text": {
@@ -1489,7 +1421,7 @@
       "name": "spacewalk",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0014440859,
+      "salience": 0.0015435917,
       "mentions": [
         {
           "text": {
@@ -1501,25 +1433,10 @@
       ]
     },
     {
-      "name": "dosage",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.001440752,
-      "mentions": [
-        {
-          "text": {
-            "content": "dosage",
-            "beginOffset": 2198
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "directors",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.001440752,
+      "salience": 0.0015400272,
       "mentions": [
         {
           "text": {
@@ -1531,10 +1448,25 @@
       ]
     },
     {
+      "name": "dosage",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0015400272,
+      "mentions": [
+        {
+          "text": {
+            "content": "dosage",
+            "beginOffset": 2198
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "notice",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.001440752,
+      "salience": 0.0015400272,
       "mentions": [
         {
           "text": {
@@ -1549,7 +1481,7 @@
       "name": "postage",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.001440752,
+      "salience": 0.0015400272,
       "mentions": [
         {
           "text": {
@@ -1564,7 +1496,7 @@
       "name": "Dirty",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0013915186,
+      "salience": 0.001450141,
       "mentions": [
         {
           "text": {
@@ -1586,7 +1518,7 @@
       "name": "Bitch",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0012623267,
+      "salience": 0.0013664839,
       "mentions": [
         {
           "text": {
@@ -1601,10 +1533,10 @@
       "name": "RZA Yo",
       "type": "PERSON",
       "metadata": {
-        "mid": "/m/01w9jh4",
-        "wikipedia_url": "https://en.wikipedia.org/wiki/RZA"
+        "wikipedia_url": "https://en.wikipedia.org/wiki/RZA",
+        "mid": "/m/01w9jh4"
       },
-      "salience": 0.0011773775,
+      "salience": 0.0012584431,
       "mentions": [
         {
           "text": {
@@ -1616,75 +1548,30 @@
       ]
     },
     {
-      "name": "bout",
-      "type": "EVENT",
-      "metadata": {},
-      "salience": 0.0010763358,
-      "mentions": [
-        {
-          "text": {
-            "content": "bout",
-            "beginOffset": 3110
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "dart gun",
-      "type": "CONSUMER_GOOD",
-      "metadata": {},
-      "salience": 0.0010763358,
-      "mentions": [
-        {
-          "text": {
-            "content": "dart gun",
-            "beginOffset": 2927
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "nothin",
+      "name": "Attack",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0010763358,
+      "salience": 0.0012572182,
       "mentions": [
         {
           "text": {
-            "content": "nothin",
-            "beginOffset": 2870
+            "content": "Attack",
+            "beginOffset": 2207
           },
           "type": "COMMON"
         }
       ]
     },
     {
-      "name": "somethin",
+      "name": "flow",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0010763358,
+      "salience": 0.0011504187,
       "mentions": [
         {
           "text": {
-            "content": "somethin",
-            "beginOffset": 2854
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "production",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0010763358,
-      "mentions": [
-        {
-          "text": {
-            "content": "production",
-            "beginOffset": 2834
+            "content": "flow",
+            "beginOffset": 3002
           },
           "type": "COMMON"
         }
@@ -1694,7 +1581,7 @@
       "name": "destruction",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0010763358,
+      "salience": 0.0011504187,
       "mentions": [
         {
           "text": {
@@ -1706,15 +1593,75 @@
       ]
     },
     {
-      "name": "carnage",
+      "name": "production",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0010763358,
+      "salience": 0.0011504187,
       "mentions": [
         {
           "text": {
-            "content": "carnage",
-            "beginOffset": 2981
+            "content": "production",
+            "beginOffset": 2834
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "trust nothin",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0011504187,
+      "mentions": [
+        {
+          "text": {
+            "content": "trust nothin",
+            "beginOffset": 2864
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "somethin",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0011504187,
+      "mentions": [
+        {
+          "text": {
+            "content": "somethin",
+            "beginOffset": 2854
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dart gun",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0011504187,
+      "mentions": [
+        {
+          "text": {
+            "content": "dart gun",
+            "beginOffset": 2927
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bustin",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0011504187,
+      "mentions": [
+        {
+          "text": {
+            "content": "bustin",
+            "beginOffset": 2937
           },
           "type": "COMMON"
         }
@@ -1724,7 +1671,7 @@
       "name": "angle",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0010763358,
+      "salience": 0.0011504187,
       "mentions": [
         {
           "text": {
@@ -1739,7 +1686,7 @@
       "name": "code",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0010763358,
+      "salience": 0.0011504187,
       "mentions": [
         {
           "text": {
@@ -1754,7 +1701,7 @@
       "name": "homage",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0010763358,
+      "salience": 0.0011504187,
       "mentions": [
         {
           "text": {
@@ -1766,10 +1713,25 @@
       ]
     },
     {
+      "name": "bout",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0011504187,
+      "mentions": [
+        {
+          "text": {
+            "content": "bout",
+            "beginOffset": 3110
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "nose",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0010763358,
+      "salience": 0.0011504187,
       "mentions": [
         {
           "text": {
@@ -1781,18 +1743,52 @@
       ]
     },
     {
-      "name": "Manhattan",
-      "type": "LOCATION",
-      "metadata": {
-        "wikipedia_url": "https://en.wikipedia.org/wiki/Manhattan",
-        "mid": "/m/0cc56"
-      },
-      "salience": 0.00094028696,
+      "name": "Zig-Zag-Zig A",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.001137223,
       "mentions": [
         {
           "text": {
-            "content": "Manhattan",
-            "beginOffset": 1500
+            "content": "Zig-Zag-Zig A",
+            "beginOffset": 2320
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Ruler",
+            "beginOffset": 2314
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bals",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0010263204,
+      "mentions": [
+        {
+          "text": {
+            "content": "bals",
+            "beginOffset": 3248
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Unglove",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0010101531,
+      "mentions": [
+        {
+          "text": {
+            "content": "Unglove",
+            "beginOffset": 1258
           },
           "type": "PROPER"
         }
@@ -1802,12 +1798,30 @@
       "name": "The Indian",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.00094028696,
+      "salience": 0.0010049716,
       "mentions": [
         {
           "text": {
             "content": "The Indian",
             "beginOffset": 1479
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Manhattan",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0cc56",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Manhattan"
+      },
+      "salience": 0.0010049716,
+      "mentions": [
+        {
+          "text": {
+            "content": "Manhattan",
+            "beginOffset": 1500
           },
           "type": "PROPER"
         }
@@ -1820,7 +1834,7 @@
         "mid": "/m/01k8d3",
         "wikipedia_url": "https://en.wikipedia.org/wiki/Caligula_(film)"
       },
-      "salience": 0.0009368632,
+      "salience": 0.0010013113,
       "mentions": [
         {
           "text": {
@@ -1835,10 +1849,10 @@
       "name": "The Riddler",
       "type": "ORGANIZATION",
       "metadata": {
-        "wikipedia_url": "https://en.wikipedia.org/wiki/The_Riddler_(song)",
-        "mid": "/m/04cs19v"
+        "mid": "/m/04cs19v",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/The_Riddler_(song)"
       },
-      "salience": 0.0009368632,
+      "salience": 0.0010013113,
       "mentions": [
         {
           "text": {
@@ -1850,50 +1864,17 @@
       ]
     },
     {
-      "name": "Unglove",
-      "type": "PERSON",
+      "name": "line",
+      "type": "OTHER",
       "metadata": {},
-      "salience": 0.000933225,
+      "salience": 0.00097364484,
       "mentions": [
         {
           "text": {
-            "content": "Unglove",
-            "beginOffset": 1258
-          },
-          "type": "PROPER"
-        }
-      ]
-    },
-    {
-      "name": "bals",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.0009127664,
-      "mentions": [
-        {
-          "text": {
-            "content": "bals",
-            "beginOffset": 3248
+            "content": "line",
+            "beginOffset": 3392
           },
           "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "Agent Orange",
-      "type": "OTHER",
-      "metadata": {
-        "wikipedia_url": "https://en.wikipedia.org/wiki/Agent_Orange",
-        "mid": "/m/0_8_"
-      },
-      "salience": 0.0008747991,
-      "mentions": [
-        {
-          "text": {
-            "content": "Agent Orange",
-            "beginOffset": 3028
-          },
-          "type": "PROPER"
         }
       ]
     },
@@ -1901,7 +1882,7 @@
       "name": "MC",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.00085728866,
+      "salience": 0.00091624196,
       "mentions": [
         {
           "text": {
@@ -1916,7 +1897,7 @@
       "name": "B-jork",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0008548663,
+      "salience": 0.00091365236,
       "mentions": [
         {
           "text": {
@@ -1931,7 +1912,7 @@
       "name": "screamin",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.00074515166,
+      "salience": 0.00079636474,
       "mentions": [
         {
           "text": {
@@ -1943,15 +1924,15 @@
       ]
     },
     {
-      "name": "rock",
+      "name": "Be",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.00074515166,
+      "salience": 0.00079636474,
       "mentions": [
         {
           "text": {
-            "content": "rock",
-            "beginOffset": 3165
+            "content": "Be",
+            "beginOffset": 3201
           },
           "type": "COMMON"
         }
@@ -1961,7 +1942,7 @@
       "name": "target",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.00074515166,
+      "salience": 0.00079636474,
       "mentions": [
         {
           "text": {
@@ -1973,30 +1954,30 @@
       ]
     },
     {
-      "name": "point",
+      "name": "rock",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0007436964,
+      "salience": 0.00079636474,
       "mentions": [
         {
           "text": {
-            "content": "point",
-            "beginOffset": 3403
+            "content": "rock",
+            "beginOffset": 3165
           },
           "type": "COMMON"
         }
       ]
     },
     {
-      "name": "line",
-      "type": "OTHER",
+      "name": "drill sergeant",
+      "type": "PERSON",
       "metadata": {},
-      "salience": 0.0007436964,
+      "salience": 0.00079636474,
       "mentions": [
         {
           "text": {
-            "content": "line",
-            "beginOffset": 3392
+            "content": "drill sergeant",
+            "beginOffset": 3228
           },
           "type": "COMMON"
         }
@@ -2006,7 +1987,7 @@
       "name": "crew",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0007436964,
+      "salience": 0.00079480914,
       "mentions": [
         {
           "text": {
@@ -2021,12 +2002,27 @@
       "name": "sundial",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0007436964,
+      "salience": 0.00079480914,
       "mentions": [
         {
           "text": {
             "content": "sundial",
             "beginOffset": 3335
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "point",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00079480914,
+      "mentions": [
+        {
+          "text": {
+            "content": "point",
+            "beginOffset": 3403
           },
           "type": "COMMON"
         }
@@ -2039,7 +2035,7 @@
         "mid": "/m/045m1_",
         "wikipedia_url": "https://en.wikipedia.org/wiki/Jesus"
       },
-      "salience": 0.00063712406,
+      "salience": 0.00068088475,
       "mentions": [
         {
           "text": {
@@ -2051,28 +2047,10 @@
       ]
     },
     {
-      "name": "Iron Lung",
-      "type": "CONSUMER_GOOD",
-      "metadata": {
-        "wikipedia_url": "https://en.wikipedia.org/wiki/Iron_lung",
-        "mid": "/m/01s86w"
-      },
-      "salience": 0.00063712406,
-      "mentions": [
-        {
-          "text": {
-            "content": "Iron Lung",
-            "beginOffset": 2880
-          },
-          "type": "PROPER"
-        }
-      ]
-    },
-    {
       "name": "Twisted Metal",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.00063712406,
+      "salience": 0.00068088475,
       "mentions": [
         {
           "text": {
@@ -2084,10 +2062,43 @@
       ]
     },
     {
+      "name": "Agent Orange",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/0_8_",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Agent_Orange"
+      },
+      "salience": 0.00068088475,
+      "mentions": [
+        {
+          "text": {
+            "content": "Agent Orange",
+            "beginOffset": 3028
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "yo",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00063397177,
+      "mentions": [
+        {
+          "text": {
+            "content": "yo",
+            "beginOffset": 2523
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "feet",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.00053954974,
+      "salience": 0.0005765832,
       "mentions": [
         {
           "text": {
@@ -2099,45 +2110,15 @@
       ]
     },
     {
-      "name": "Arm Head",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.00053954974,
-      "mentions": [
-        {
-          "text": {
-            "content": "Arm Head",
-            "beginOffset": 2343
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "proof",
+      "name": "rap souflee saute",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.00047202603,
+      "salience": 0.0005044068,
       "mentions": [
         {
           "text": {
-            "content": "proof",
-            "beginOffset": 2451
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "fetus",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.00047202603,
-      "mentions": [
-        {
-          "text": {
-            "content": "fetus",
-            "beginOffset": 2669
+            "content": "rap souflee saute",
+            "beginOffset": 2282
           },
           "type": "COMMON"
         }
@@ -2147,7 +2128,7 @@
       "name": "hands",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.00047202603,
+      "salience": 0.0005044068,
       "mentions": [
         {
           "text": {
@@ -2159,55 +2140,10 @@
       ]
     },
     {
-      "name": "copies",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.00047202603,
-      "mentions": [
-        {
-          "text": {
-            "content": "copies",
-            "beginOffset": 2637
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "rap star twinkle killer instinct",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.00047202603,
-      "mentions": [
-        {
-          "text": {
-            "content": "rap star twinkle killer instinct",
-            "beginOffset": 2573
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "noose",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.00047202603,
-      "mentions": [
-        {
-          "text": {
-            "content": "noose",
-            "beginOffset": 2537
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "plague",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.00047202603,
+      "salience": 0.0005044068,
       "mentions": [
         {
           "text": {
@@ -2219,25 +2155,10 @@
       ]
     },
     {
-      "name": "fruit juice Ginseng boost",
-      "type": "CONSUMER_GOOD",
-      "metadata": {},
-      "salience": 0.00047202603,
-      "mentions": [
-        {
-          "text": {
-            "content": "fruit juice  \rGinseng boost",
-            "beginOffset": 2488
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "jig",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.00047202603,
+      "salience": 0.0005044068,
       "mentions": [
         {
           "text": {
@@ -2249,10 +2170,25 @@
       ]
     },
     {
+      "name": "proof",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0005044068,
+      "mentions": [
+        {
+          "text": {
+            "content": "proof",
+            "beginOffset": 2451
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "goose",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.00047202603,
+      "salience": 0.0005044068,
       "mentions": [
         {
           "text": {
@@ -2264,93 +2200,60 @@
       ]
     },
     {
-      "name": "Be",
-      "type": "ORGANIZATION",
-      "metadata": {},
-      "salience": 0.00044105717,
-      "mentions": [
-        {
-          "text": {
-            "content": "Be",
-            "beginOffset": 3201
-          },
-          "type": "PROPER"
-        }
-      ]
-    },
-    {
-      "name": "Chambers",
+      "name": "fetus",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0004401957,
+      "salience": 0.0005044068,
       "mentions": [
         {
           "text": {
-            "content": "Chambers",
-            "beginOffset": 3493
+            "content": "fetus",
+            "beginOffset": 2669
           },
-          "type": "PROPER"
+          "type": "COMMON"
         }
       ]
     },
     {
-      "name": "Wu Thirty",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.0004401957,
-      "mentions": [
-        {
-          "text": {
-            "content": "Wu  \rThirty",
-            "beginOffset": 3465
-          },
-          "type": "PROPER"
-        }
-      ]
-    },
-    {
-      "name": "Su",
-      "type": "ORGANIZATION",
-      "metadata": {},
-      "salience": 0.0004401957,
-      "mentions": [
-        {
-          "text": {
-            "content": "Su",
-            "beginOffset": 3451
-          },
-          "type": "PROPER"
-        }
-      ]
-    },
-    {
-      "name": "Drunk",
+      "name": "copies",
       "type": "OTHER",
-      "metadata": {
-        "mid": "/m/02794",
-        "wikipedia_url": "https://en.wikipedia.org/wiki/Alcohol_intoxication"
-      },
-      "salience": 0.0004401957,
+      "metadata": {},
+      "salience": 0.0005044068,
       "mentions": [
         {
           "text": {
-            "content": "Drunk",
-            "beginOffset": 3361
+            "content": "copies",
+            "beginOffset": 2637
           },
-          "type": "PROPER"
+          "type": "COMMON"
         }
       ]
     },
     {
-      "name": "bar nickle",
-      "type": "PERSON",
+      "name": "noose",
+      "type": "OTHER",
       "metadata": {},
-      "salience": 0.0004319259,
+      "salience": 0.0005044068,
       "mentions": [
         {
           "text": {
-            "content": "bar nickle",
-            "beginOffset": 2616
+            "content": "noose",
+            "beginOffset": 2537
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cranberry fruit juice Ginseng boost",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0005044068,
+      "mentions": [
+        {
+          "text": {
+            "content": "cranberry fruit juice  \rGinseng boost",
+            "beginOffset": 2478
           },
           "type": "COMMON"
         }
@@ -2360,7 +2263,7 @@
       "name": "money",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.00042110743,
+      "salience": 0.0004917698,
       "mentions": [
         {
           "text": {
@@ -2372,17 +2275,80 @@
       ]
     },
     {
-      "name": "egg",
-      "type": "OTHER",
+      "name": "bar nickle",
+      "type": "PERSON",
       "metadata": {},
-      "salience": 0.00031455874,
+      "salience": 0.0004794493,
       "mentions": [
         {
           "text": {
-            "content": "egg",
-            "beginOffset": 2423
+            "content": "bar nickle",
+            "beginOffset": 2616
           },
           "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Drunk",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/02794",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Alcohol_intoxication"
+      },
+      "salience": 0.0004703841,
+      "mentions": [
+        {
+          "text": {
+            "content": "Drunk",
+            "beginOffset": 3361
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Su",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0004703841,
+      "mentions": [
+        {
+          "text": {
+            "content": "Su",
+            "beginOffset": 3451
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Wu Thirty-Six",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0004703841,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wu  \rThirty-Six",
+            "beginOffset": 3465
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Chambers",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0004703841,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chambers",
+            "beginOffset": 3493
+          },
+          "type": "PROPER"
         }
       ]
     },
@@ -2390,7 +2356,7 @@
       "name": "neck",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.00031455874,
+      "salience": 0.00037200455,
       "mentions": [
         {
           "text": {
@@ -2402,17 +2368,17 @@
       ]
     },
     {
-      "name": "Eighty",
+      "name": "egg",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0002793796,
+      "salience": 0.00037200455,
       "mentions": [
         {
           "text": {
-            "content": "Eighty",
-            "beginOffset": 2444
+            "content": "egg",
+            "beginOffset": 2423
           },
-          "type": "PROPER"
+          "type": "COMMON"
         }
       ]
     },
@@ -2420,7 +2386,7 @@
       "name": "Absolut",
       "type": "ORGANIZATION",
       "metadata": {},
-      "salience": 0.0002793796,
+      "salience": 0.00029850248,
       "mentions": [
         {
           "text": {
@@ -2432,10 +2398,43 @@
       ]
     },
     {
+      "name": "Leg Leg Arm",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/035r7c",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Leg"
+      },
+      "salience": 0.00029850248,
+      "mentions": [
+        {
+          "text": {
+            "content": "Leg Leg Arm",
+            "beginOffset": 2335
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Eighty",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00029850248,
+      "mentions": [
+        {
+          "text": {
+            "content": "Eighty",
+            "beginOffset": 2444
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
       "name": "Hennessee",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0002793796,
+      "salience": 0.00029850248,
       "mentions": [
         {
           "text": {
@@ -2453,7 +2452,7 @@
         "wikipedia_url": "https://en.wikipedia.org/wiki/FedEx_Office",
         "mid": "/m/06610r"
       },
-      "salience": 0.00026221163,
+      "salience": 0.0002766226,
       "mentions": [
         {
           "text": {

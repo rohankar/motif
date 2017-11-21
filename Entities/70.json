@@ -1,17 +1,20 @@
 {
   "entities": [
     {
-      "name": "thing",
+      "name": "Time",
       "type": "OTHER",
-      "metadata": {},
-      "salience": 0.70938516,
+      "metadata": {
+        "mid": "/m/07c_l",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Time"
+      },
+      "salience": 0.5728509,
       "mentions": [
         {
           "text": {
-            "content": "All",
-            "beginOffset": 157
+            "content": "Time",
+            "beginOffset": 170
           },
-          "type": "COMMON"
+          "type": "PROPER"
         },
         {
           "text": {
@@ -23,30 +26,15 @@
       ]
     },
     {
-      "name": "part",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.070975676,
-      "mentions": [
-        {
-          "text": {
-            "content": "part",
-            "beginOffset": 992
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "thing",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.048743915,
+      "salience": 0.16703507,
       "mentions": [
         {
           "text": {
             "content": "thing",
-            "beginOffset": 779
+            "beginOffset": 19
           },
           "type": "COMMON"
         },
@@ -67,15 +55,15 @@
       ]
     },
     {
-      "name": "thing",
-      "type": "OTHER",
+      "name": "part",
+      "type": "PERSON",
       "metadata": {},
-      "salience": 0.02291376,
+      "salience": 0.129103,
       "mentions": [
         {
           "text": {
-            "content": "thing",
-            "beginOffset": 19
+            "content": "part",
+            "beginOffset": 992
           },
           "type": "COMMON"
         }
@@ -85,7 +73,7 @@
       "name": "mind",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.017416725,
+      "salience": 0.0163076,
       "mentions": [
         {
           "text": {
@@ -100,7 +88,7 @@
       "name": "rhyme",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.017416725,
+      "salience": 0.0163076,
       "mentions": [
         {
           "text": {
@@ -115,7 +103,7 @@
       "name": "pendulum swings",
       "type": "EVENT",
       "metadata": {},
-      "salience": 0.0152672,
+      "salience": 0.014295459,
       "mentions": [
         {
           "text": {
@@ -127,43 +115,10 @@
       ]
     },
     {
-      "name": "Time",
-      "type": "OTHER",
-      "metadata": {
-        "wikipedia_url": "https://en.wikipedia.org/wiki/Time",
-        "mid": "/m/07c_l"
-      },
-      "salience": 0.013678512,
-      "mentions": [
-        {
-          "text": {
-            "content": "Time",
-            "beginOffset": 170
-          },
-          "type": "PROPER"
-        }
-      ]
-    },
-    {
       "name": "end",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0065050675,
-      "mentions": [
-        {
-          "text": {
-            "content": "end",
-            "beginOffset": 741
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "end",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0064235535,
+      "salience": 0.0060913446,
       "mentions": [
         {
           "text": {
@@ -175,10 +130,40 @@
       ]
     },
     {
+      "name": "end",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0060913446,
+      "mentions": [
+        {
+          "text": {
+            "content": "end",
+            "beginOffset": 741
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "thing",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005609434,
+      "mentions": [
+        {
+          "text": {
+            "content": "thing",
+            "beginOffset": 779
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "clock",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0058728377,
+      "salience": 0.005499282,
       "mentions": [
         {
           "text": {
@@ -193,7 +178,7 @@
       "name": "window",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0058728377,
+      "salience": 0.005499282,
       "mentions": [
         {
           "text": {
@@ -205,25 +190,10 @@
       ]
     },
     {
-      "name": "memory",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0054132063,
-      "mentions": [
-        {
-          "text": {
-            "content": "memory",
-            "beginOffset": 593
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "Things",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.005116086,
+      "salience": 0.005320246,
       "mentions": [
         {
           "text": {
@@ -235,10 +205,25 @@
       ]
     },
     {
+      "name": "memory",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005198442,
+      "mentions": [
+        {
+          "text": {
+            "content": "memory",
+            "beginOffset": 593
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "rhyme",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0045360476,
+      "salience": 0.004247401,
       "mentions": [
         {
           "text": {
@@ -253,7 +238,7 @@
       "name": "way",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0045360476,
+      "salience": 0.004247401,
       "mentions": [
         {
           "text": {
@@ -268,7 +253,7 @@
       "name": "mind",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0045360476,
+      "salience": 0.004247401,
       "mentions": [
         {
           "text": {
@@ -283,7 +268,7 @@
       "name": "everything",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0044791047,
+      "salience": 0.004247401,
       "mentions": [
         {
           "text": {
@@ -295,25 +280,10 @@
       ]
     },
     {
-      "name": "times",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.004259966,
-      "mentions": [
-        {
-          "text": {
-            "content": "times",
-            "beginOffset": 1036
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "life",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.004176189,
+      "salience": 0.0038127878,
       "mentions": [
         {
           "text": {
@@ -328,7 +298,7 @@
       "name": "spite",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.003970323,
+      "salience": 0.003717606,
       "mentions": [
         {
           "text": {
@@ -340,25 +310,10 @@
       ]
     },
     {
-      "name": "property",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0036340938,
-      "mentions": [
-        {
-          "text": {
-            "content": "property",
-            "beginOffset": 1005
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "way",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0035677205,
+      "salience": 0.0036497177,
       "mentions": [
         {
           "text": {
@@ -370,10 +325,40 @@
       ]
     },
     {
+      "name": "property",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0034027314,
+      "mentions": [
+        {
+          "text": {
+            "content": "property",
+            "beginOffset": 1005
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "times",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002627825,
+      "mentions": [
+        {
+          "text": {
+            "content": "times",
+            "beginOffset": 1036
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "end",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0021202206,
+      "salience": 0.0019850358,
       "mentions": [
         {
           "text": {
@@ -388,7 +373,7 @@
       "name": "trust",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0014766379,
+      "salience": 0.0013823763,
       "mentions": [
         {
           "text": {
@@ -403,7 +388,7 @@
       "name": "trust",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0014766379,
+      "salience": 0.0013823763,
       "mentions": [
         {
           "text": {
@@ -418,7 +403,7 @@
       "name": "end",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0014685029,
+      "salience": 0.0013747588,
       "mentions": [
         {
           "text": {
@@ -433,7 +418,7 @@
       "name": "end",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0014685029,
+      "salience": 0.0013747588,
       "mentions": [
         {
           "text": {
@@ -448,7 +433,7 @@
       "name": "end",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.00093059026,
+      "salience": 0.00087108806,
       "mentions": [
         {
           "text": {
@@ -463,7 +448,7 @@
       "name": "end",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.00093059026,
+      "salience": 0.00087108806,
       "mentions": [
         {
           "text": {
@@ -478,7 +463,7 @@
       "name": "memory",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0007835935,
+      "salience": 0.0007428174,
       "mentions": [
         {
           "text": {
@@ -493,7 +478,7 @@
       "name": "everything",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.00064789853,
+      "salience": 0.0006064155,
       "mentions": [
         {
           "text": {

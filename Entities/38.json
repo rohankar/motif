@@ -1,40 +1,10 @@
 {
   "entities": [
     {
-      "name": "chieftain",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.10233917,
-      "mentions": [
-        {
-          "text": {
-            "content": "chieftain",
-            "beginOffset": 136
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "sons",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.08341436,
-      "mentions": [
-        {
-          "text": {
-            "content": "sons",
-            "beginOffset": 1000
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "moon",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.05469222,
+      "salience": 0.10000175,
       "mentions": [
         {
           "text": {
@@ -53,10 +23,58 @@
       ]
     },
     {
+      "name": "chieftain",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0878229,
+      "mentions": [
+        {
+          "text": {
+            "content": "chieftain",
+            "beginOffset": 136
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sons",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.08050071,
+      "mentions": [
+        {
+          "text": {
+            "content": "sons",
+            "beginOffset": 1000
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Oh",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/05kkh",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Ohio"
+      },
+      "salience": 0.044020478,
+      "mentions": [
+        {
+          "text": {
+            "content": "Oh",
+            "beginOffset": 309
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
       "name": "moon",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.039473716,
+      "salience": 0.037227605,
       "mentions": [
         {
           "text": {
@@ -71,7 +89,7 @@
       "name": "wood smoke",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.035948947,
+      "salience": 0.033903904,
       "mentions": [
         {
           "text": {
@@ -86,7 +104,7 @@
       "name": "warlance",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.035948947,
+      "salience": 0.033903904,
       "mentions": [
         {
           "text": {
@@ -101,7 +119,7 @@
       "name": "warlord",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.035279714,
+      "salience": 0.032985423,
       "mentions": [
         {
           "text": {
@@ -113,25 +131,10 @@
       ]
     },
     {
-      "name": "smoke",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.03355631,
-      "mentions": [
-        {
-          "text": {
-            "content": "smoke",
-            "beginOffset": 476
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "sun",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.03300094,
+      "salience": 0.031123923,
       "mentions": [
         {
           "text": {
@@ -153,7 +156,7 @@
       "name": "hills",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.03300094,
+      "salience": 0.031123923,
       "mentions": [
         {
           "text": {
@@ -175,7 +178,7 @@
       "name": "woman",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.03150251,
+      "salience": 0.029710852,
       "mentions": [
         {
           "text": {
@@ -187,10 +190,25 @@
       ]
     },
     {
+      "name": "tepee",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.029710852,
+      "mentions": [
+        {
+          "text": {
+            "content": "tepee",
+            "beginOffset": 108
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "smell",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.03150251,
+      "salience": 0.029710852,
       "mentions": [
         {
           "text": {
@@ -205,7 +223,7 @@
       "name": "cobweb",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.03150251,
+      "salience": 0.029710852,
       "mentions": [
         {
           "text": {
@@ -217,25 +235,10 @@
       ]
     },
     {
-      "name": "tepee",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.03150251,
-      "mentions": [
-        {
-          "text": {
-            "content": "tepee",
-            "beginOffset": 108
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "ones",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.027629424,
+      "salience": 0.025733177,
       "mentions": [
         {
           "text": {
@@ -247,25 +250,10 @@
       ]
     },
     {
-      "name": "Yellow Dog",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.024864752,
-      "mentions": [
-        {
-          "text": {
-            "content": "Yellow Dog",
-            "beginOffset": 782
-          },
-          "type": "PROPER"
-        }
-      ]
-    },
-    {
       "name": "land",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.024667311,
+      "salience": 0.023354536,
       "mentions": [
         {
           "text": {
@@ -287,7 +275,7 @@
       "name": "father",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.015882047,
+      "salience": 0.013037752,
       "mentions": [
         {
           "text": {
@@ -299,15 +287,30 @@
       ]
     },
     {
-      "name": "soldiers guns",
-      "type": "OTHER",
+      "name": "soldiers",
+      "type": "PERSON",
       "metadata": {},
-      "salience": 0.013824331,
+      "salience": 0.013037752,
       "mentions": [
         {
           "text": {
-            "content": "soldiers guns",
+            "content": "soldiers",
             "beginOffset": 371
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "guns",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.013037752,
+      "mentions": [
+        {
+          "text": {
+            "content": "guns",
+            "beginOffset": 380
           },
           "type": "COMMON"
         }
@@ -317,7 +320,7 @@
       "name": "buzzards",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.012101774,
+      "salience": 0.011413006,
       "mentions": [
         {
           "text": {
@@ -332,7 +335,7 @@
       "name": "reason",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.011050579,
+      "salience": 0.010866096,
       "mentions": [
         {
           "text": {
@@ -347,7 +350,7 @@
       "name": "writing",
       "type": "WORK_OF_ART",
       "metadata": {},
-      "salience": 0.0109387245,
+      "salience": 0.010447163,
       "mentions": [
         {
           "text": {
@@ -359,25 +362,10 @@
       ]
     },
     {
-      "name": "man",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.009345348,
-      "mentions": [
-        {
-          "text": {
-            "content": "man",
-            "beginOffset": 707
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "pony",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.009345348,
+      "salience": 0.0088131,
       "mentions": [
         {
           "text": {
@@ -389,15 +377,15 @@
       ]
     },
     {
-      "name": "sound",
-      "type": "OTHER",
+      "name": "man",
+      "type": "PERSON",
       "metadata": {},
-      "salience": 0.009227957,
+      "salience": 0.0088131,
       "mentions": [
         {
           "text": {
-            "content": "sound",
-            "beginOffset": 504
+            "content": "man",
+            "beginOffset": 707
           },
           "type": "COMMON"
         }
@@ -407,7 +395,7 @@
       "name": "chieftain",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.009227957,
+      "salience": 0.0088131,
       "mentions": [
         {
           "text": {
@@ -419,15 +407,30 @@
       ]
     },
     {
-      "name": "gold",
+      "name": "sound",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.008553839,
+      "salience": 0.0088131,
       "mentions": [
         {
           "text": {
-            "content": "gold",
-            "beginOffset": 1047
+            "content": "sound",
+            "beginOffset": 504
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "smoke",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0088131,
+      "mentions": [
+        {
+          "text": {
+            "content": "smoke",
+            "beginOffset": 476
           },
           "type": "COMMON"
         }
@@ -437,7 +440,7 @@
       "name": "fathers",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.008553839,
+      "salience": 0.008066543,
       "mentions": [
         {
           "text": {
@@ -449,15 +452,75 @@
       ]
     },
     {
-      "name": "squaw",
+      "name": "gold",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.008179157,
+      "salience": 0.008066543,
       "mentions": [
         {
           "text": {
-            "content": "squaw",
-            "beginOffset": 862
+            "content": "gold",
+            "beginOffset": 1047
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pony wild",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007713142,
+      "mentions": [
+        {
+          "text": {
+            "content": "pony wild",
+            "beginOffset": 574
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "drums",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007713142,
+      "mentions": [
+        {
+          "text": {
+            "content": "drums",
+            "beginOffset": 513
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tomahawk",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007713142,
+      "mentions": [
+        {
+          "text": {
+            "content": "tomahawk",
+            "beginOffset": 546
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "breast",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007713142,
+      "mentions": [
+        {
+          "text": {
+            "content": "breast",
+            "beginOffset": 486
           },
           "type": "COMMON"
         }
@@ -467,7 +530,7 @@
       "name": "child",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.008179157,
+      "salience": 0.007713142,
       "mentions": [
         {
           "text": {
@@ -479,10 +542,25 @@
       ]
     },
     {
+      "name": "squaw",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.007713142,
+      "mentions": [
+        {
+          "text": {
+            "content": "squaw",
+            "beginOffset": 862
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "man fears",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.008179157,
+      "salience": 0.007713142,
       "mentions": [
         {
           "text": {
@@ -497,7 +575,7 @@
       "name": "words",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.008179157,
+      "salience": 0.007713142,
       "mentions": [
         {
           "text": {
@@ -512,7 +590,7 @@
       "name": "race",
       "type": "EVENT",
       "metadata": {},
-      "salience": 0.008179157,
+      "salience": 0.007713142,
       "mentions": [
         {
           "text": {
@@ -527,7 +605,7 @@
       "name": "daughter",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.008076371,
+      "salience": 0.007713142,
       "mentions": [
         {
           "text": {
@@ -539,60 +617,15 @@
       ]
     },
     {
-      "name": "breast",
+      "name": "kind",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.008076371,
+      "salience": 0.007240397,
       "mentions": [
         {
           "text": {
-            "content": "breast",
-            "beginOffset": 486
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "pony wild",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.008076371,
-      "mentions": [
-        {
-          "text": {
-            "content": "pony wild",
-            "beginOffset": 574
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "tomahawk",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.008076371,
-      "mentions": [
-        {
-          "text": {
-            "content": "tomahawk",
-            "beginOffset": 546
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "drums",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.008076371,
-      "mentions": [
-        {
-          "text": {
-            "content": "drums",
-            "beginOffset": 513
+            "content": "kind",
+            "beginOffset": 743
           },
           "type": "COMMON"
         }
@@ -602,7 +635,7 @@
       "name": "pride",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.00748614,
+      "salience": 0.0070594903,
       "mentions": [
         {
           "text": {
@@ -614,25 +647,10 @@
       ]
     },
     {
-      "name": "tribe",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.00748614,
-      "mentions": [
-        {
-          "text": {
-            "content": "tribe",
-            "beginOffset": 926
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "healing waters",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.00748614,
+      "salience": 0.0070594903,
       "mentions": [
         {
           "text": {
@@ -647,7 +665,7 @@
       "name": "prairie",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.00748614,
+      "salience": 0.0070594903,
       "mentions": [
         {
           "text": {
@@ -659,20 +677,17 @@
       ]
     },
     {
-      "name": "Iroquois",
-      "type": "LOCATION",
-      "metadata": {
-        "mid": "/m/03x1x",
-        "wikipedia_url": "https://en.wikipedia.org/wiki/Iroquois"
-      },
-      "salience": 0.00717547,
+      "name": "tribe",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0070594903,
       "mentions": [
         {
           "text": {
-            "content": "Iroquois",
-            "beginOffset": 413
+            "content": "tribe",
+            "beginOffset": 926
           },
-          "type": "PROPER"
+          "type": "COMMON"
         }
       ]
     },
@@ -683,7 +698,7 @@
         "mid": "/m/01gclr",
         "wikipedia_url": "https://en.wikipedia.org/wiki/Geronimo"
       },
-      "salience": 0.0071125478,
+      "salience": 0.006845483,
       "mentions": [
         {
           "text": {
@@ -695,17 +710,20 @@
       ]
     },
     {
-      "name": "kind",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.00702728,
+      "name": "Iroquois",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/03x1x",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Iroquois"
+      },
+      "salience": 0.006766469,
       "mentions": [
         {
           "text": {
-            "content": "kind",
-            "beginOffset": 743
+            "content": "Iroquois",
+            "beginOffset": 413
           },
-          "type": "COMMON"
+          "type": "PROPER"
         }
       ]
     },
@@ -713,7 +731,7 @@
       "name": "Lord",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0063226377,
+      "salience": 0.0056677232,
       "mentions": [
         {
           "text": {
@@ -728,7 +746,7 @@
       "name": "hoof tracks",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.0049303044,
+      "salience": 0.0045904,
       "mentions": [
         {
           "text": {
@@ -743,7 +761,7 @@
       "name": "Sioux",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.004785728,
+      "salience": 0.004570068,
       "mentions": [
         {
           "text": {
@@ -755,17 +773,17 @@
       ]
     },
     {
-      "name": "gauntlet",
-      "type": "OTHER",
+      "name": "Yellow Dog",
+      "type": "PERSON",
       "metadata": {},
-      "salience": 0.0041292985,
+      "salience": 0.004570068,
       "mentions": [
         {
           "text": {
-            "content": "gauntlet",
-            "beginOffset": 597
+            "content": "Yellow Dog",
+            "beginOffset": 782
           },
-          "type": "COMMON"
+          "type": "PROPER"
         }
       ]
     },
@@ -773,7 +791,7 @@
       "name": "home",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.0040416876,
+      "salience": 0.0039584553,
       "mentions": [
         {
           "text": {
@@ -785,10 +803,25 @@
       ]
     },
     {
+      "name": "gauntlet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0038934594,
+      "mentions": [
+        {
+          "text": {
+            "content": "gauntlet",
+            "beginOffset": 597
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "horse soldiers",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0030408967,
+      "salience": 0.0028670088,
       "mentions": [
         {
           "text": {
@@ -803,7 +836,7 @@
       "name": "running",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.002660636,
+      "salience": 0.002508409,
       "mentions": [
         {
           "text": {
@@ -818,7 +851,7 @@
       "name": "bow",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.002660636,
+      "salience": 0.002508409,
       "mentions": [
         {
           "text": {
@@ -830,15 +863,15 @@
       ]
     },
     {
-      "name": "hands",
+      "name": "peace",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0024562536,
+      "salience": 0.0023246992,
       "mentions": [
         {
           "text": {
-            "content": "hands",
-            "beginOffset": 1196
+            "content": "peace",
+            "beginOffset": 1765
           },
           "type": "COMMON"
         }
@@ -848,7 +881,7 @@
       "name": "sand",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0024562536,
+      "salience": 0.0023156737,
       "mentions": [
         {
           "text": {
@@ -860,15 +893,30 @@
       ]
     },
     {
-      "name": "renegades",
-      "type": "PERSON",
+      "name": "hands",
+      "type": "OTHER",
       "metadata": {},
-      "salience": 0.00213134,
+      "salience": 0.0023156737,
       "mentions": [
         {
           "text": {
-            "content": "renegades",
-            "beginOffset": 1225
+            "content": "hands",
+            "beginOffset": 1196
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "weapons",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0020171155,
+      "mentions": [
+        {
+          "text": {
+            "content": "weapons",
+            "beginOffset": 1281
           },
           "type": "COMMON"
         }
@@ -878,7 +926,7 @@
       "name": "loved ones",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.002105659,
+      "salience": 0.0019850666,
       "mentions": [
         {
           "text": {
@@ -893,7 +941,7 @@
       "name": "sound",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.002105659,
+      "salience": 0.0019850666,
       "mentions": [
         {
           "text": {
@@ -908,7 +956,7 @@
       "name": "guns",
       "type": "CONSUMER_GOOD",
       "metadata": {},
-      "salience": 0.002105659,
+      "salience": 0.0019850666,
       "mentions": [
         {
           "text": {
@@ -923,7 +971,7 @@
       "name": "gold",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.002105659,
+      "salience": 0.0019850666,
       "mentions": [
         {
           "text": {
@@ -936,9 +984,9 @@
     },
     {
       "name": "buffaloes",
-      "type": "ORGANIZATION",
+      "type": "OTHER",
       "metadata": {},
-      "salience": 0.0018422675,
+      "salience": 0.0017366995,
       "mentions": [
         {
           "text": {
@@ -953,7 +1001,7 @@
       "name": "clover fields",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.0018422675,
+      "salience": 0.0017366995,
       "mentions": [
         {
           "text": {
@@ -965,25 +1013,10 @@
       ]
     },
     {
-      "name": "peace",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0018422675,
-      "mentions": [
-        {
-          "text": {
-            "content": "peace",
-            "beginOffset": 1765
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "warrior",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0018422675,
+      "salience": 0.0017366995,
       "mentions": [
         {
           "text": {
@@ -998,7 +1031,7 @@
       "name": "bullet hole",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0018422675,
+      "salience": 0.0017366995,
       "mentions": [
         {
           "text": {
@@ -1013,7 +1046,7 @@
       "name": "lead",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0011671642,
+      "salience": 0.0011001489,
       "mentions": [
         {
           "text": {
@@ -1025,15 +1058,15 @@
       ]
     },
     {
-      "name": "weapons",
-      "type": "OTHER",
+      "name": "renegades",
+      "type": "PERSON",
       "metadata": {},
-      "salience": 0.0011671642,
+      "salience": 0.0011001489,
       "mentions": [
         {
           "text": {
-            "content": "weapons",
-            "beginOffset": 1281
+            "content": "renegades",
+            "beginOffset": 1225
           },
           "type": "COMMON"
         }

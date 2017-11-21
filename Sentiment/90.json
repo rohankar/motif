@@ -1,7 +1,119 @@
 {
-  "error": {
-    "code": 400,
-    "message": "Invalid JSON payload received. Expected , or } after key:value pair.\ney heard him say  \r\"Oh God, don't let hi\n                    ^",
-    "status": "INVALID_ARGUMENT"
-  }
+  "documentSentiment": {
+    "magnitude": 4.8,
+    "score": -0.4
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "Uncle Sam taught him to shoot  \rMaybe a little too well  \rFinger on the trigger, loaded bullet  \rHe hit the stage so full of rage  \rAnd let the whole world know it  \rSix feet away, they heard him say Oh God, don't let him pull it.",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Please, God, don't let him pull it  \rHow could you put us through it?",
+        "beginOffset": 234
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "His brother watched you do it  \r  \rHow could you take his life away?",
+        "beginOffset": 306
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "What made you think you had the right \rHow could you be so full of hate?  \rto take away somebody's life?",
+        "beginOffset": 377
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "And when I heard you let him die  \rAnd made the world all wonder why  \rI sat at home, and on my own  \rI cried alone and scratched your name  \rIn the side of a bullet  \r  \rAnd in the wake of his mistake  \rSo many lives are broken  \rGone forever from a loaded bullet  \rAnd no excuse that you could use  \rCould pull somebody through it  \rAnd to this day so many say God, why'd you let him do it\r  \rHow could you let him do it?",
+        "beginOffset": 484
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "How could you put us through it?",
+        "beginOffset": 910
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "His brother watched him do it  \r  \rHow could you take his life away?",
+        "beginOffset": 945
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "What made you think you had the right\rHow could you be so full of hate?  \rto take away somebody's life?",
+        "beginOffset": 1016
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "And when I heard you let him die  \rAnd made the world all wonder why  \rI sat at home, and cried alone  \rAnd on my own I scratched your name  \rIn the side of a bullet  \r  \rHow could you take his life away?",
+        "beginOffset": 1122
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "What made you think you had the right  \rHow could you be so full of hate?  \rto take away somebody's life?",
+        "beginOffset": 1329
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "And when I heard you let him die  \rAnd made the world all wonder why  \rI sat at home, and cried alone  \rAnd on my own I scratched your name  \rIn the side of a bullet  \r  \rOn the side of a bullet  \rOn the side of a bullet  \rOn the side of a bullet",
+        "beginOffset": 1437
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    }
+  ]
 }

@@ -4,7 +4,7 @@
       "name": "outkast",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.29878613,
+      "salience": 0.31333974,
       "mentions": [
         {
           "text": {
@@ -16,17 +16,17 @@
       ]
     },
     {
-      "name": "Operatin",
-      "type": "OTHER",
+      "name": "someone",
+      "type": "PERSON",
       "metadata": {},
-      "salience": 0.15669698,
+      "salience": 0.08262768,
       "mentions": [
         {
           "text": {
-            "content": "Operatin",
-            "beginOffset": 0
+            "content": "someone",
+            "beginOffset": 493
           },
-          "type": "PROPER"
+          "type": "COMMON"
         }
       ]
     },
@@ -34,7 +34,7 @@
       "name": "system",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.05350645,
+      "salience": 0.055820562,
       "mentions": [
         {
           "text": {
@@ -46,10 +46,25 @@
       ]
     },
     {
+      "name": "homeless",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.055820562,
+      "mentions": [
+        {
+          "text": {
+            "content": "homeless",
+            "beginOffset": 103
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "society",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.05350645,
+      "salience": 0.055820562,
       "mentions": [
         {
           "text": {
@@ -61,48 +76,15 @@
       ]
     },
     {
-      "name": "outkast",
+      "name": "life",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.04894291,
+      "salience": 0.047419846,
       "mentions": [
         {
           "text": {
-            "content": "outkast",
-            "beginOffset": 185
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "Outkast",
-      "type": "ORGANIZATION",
-      "metadata": {
-        "mid": "/m/011z3g",
-        "wikipedia_url": "https://en.wikipedia.org/wiki/Outkast"
-      },
-      "salience": 0.043025687,
-      "mentions": [
-        {
-          "text": {
-            "content": "Outkast",
-            "beginOffset": 54
-          },
-          "type": "PROPER"
-        }
-      ]
-    },
-    {
-      "name": "existance",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.037084498,
-      "mentions": [
-        {
-          "text": {
-            "content": "existance",
-            "beginOffset": 1016
+            "content": "life",
+            "beginOffset": 994
           },
           "type": "COMMON"
         },
@@ -116,10 +98,43 @@
       ]
     },
     {
+      "name": "Outkast",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/011z3g",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Outkast"
+      },
+      "salience": 0.044891704,
+      "mentions": [
+        {
+          "text": {
+            "content": "Outkast",
+            "beginOffset": 54
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "outkast",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.043978397,
+      "mentions": [
+        {
+          "text": {
+            "content": "outkast",
+            "beginOffset": 185
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "american",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.03194908,
+      "salience": 0.03333813,
       "mentions": [
         {
           "text": {
@@ -134,10 +149,10 @@
       "name": "Adjective",
       "type": "OTHER",
       "metadata": {
-        "mid": "/m/09b_9",
-        "wikipedia_url": "https://en.wikipedia.org/wiki/Adjective"
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Adjective",
+        "mid": "/m/09b_9"
       },
-      "salience": 0.03194908,
+      "salience": 0.03333813,
       "mentions": [
         {
           "text": {
@@ -149,32 +164,17 @@
       ]
     },
     {
-      "name": "someone",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.028958503,
-      "mentions": [
-        {
-          "text": {
-            "content": "someone",
-            "beginOffset": 493
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "hair",
+      "name": "Operatin",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.02685929,
+      "salience": 0.03333813,
       "mentions": [
         {
           "text": {
-            "content": "hair",
-            "beginOffset": 633
+            "content": "Operatin",
+            "beginOffset": 0
           },
-          "type": "COMMON"
+          "type": "PROPER"
         }
       ]
     },
@@ -182,7 +182,7 @@
       "name": "nigga",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.020002231,
+      "salience": 0.020954048,
       "mentions": [
         {
           "text": {
@@ -194,25 +194,10 @@
       ]
     },
     {
-      "name": "outkast",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.010619016,
-      "mentions": [
-        {
-          "text": {
-            "content": "outkast",
-            "beginOffset": 482
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "Tamperin",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.010335987,
+      "salience": 0.010650435,
       "mentions": [
         {
           "text": {
@@ -223,23 +208,8 @@
         },
         {
           "text": {
-            "content": "food",
-            "beginOffset": 913
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "principles",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.009865844,
-      "mentions": [
-        {
-          "text": {
-            "content": "principles",
-            "beginOffset": 233
+            "content": "water",
+            "beginOffset": 922
           },
           "type": "COMMON"
         }
@@ -249,7 +219,7 @@
       "name": "muzik",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.009865844,
+      "salience": 0.010295187,
       "mentions": [
         {
           "text": {
@@ -264,7 +234,7 @@
       "name": "truths",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.009865844,
+      "salience": 0.010295187,
       "mentions": [
         {
           "text": {
@@ -276,30 +246,15 @@
       ]
     },
     {
-      "name": "part",
+      "name": "principles",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.008059462,
+      "salience": 0.010295187,
       "mentions": [
         {
           "text": {
-            "content": "part",
-            "beginOffset": 529
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "world",
-      "type": "LOCATION",
-      "metadata": {},
-      "salience": 0.0076177106,
-      "mentions": [
-        {
-          "text": {
-            "content": "world",
-            "beginOffset": 548
+            "content": "principles",
+            "beginOffset": 233
           },
           "type": "COMMON"
         }
@@ -309,22 +264,7 @@
       "name": "cracker",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.00752198,
-      "mentions": [
-        {
-          "text": {
-            "content": "cracker",
-            "beginOffset": 400
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "cracker",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.00752198,
+      "salience": 0.009731218,
       "mentions": [
         {
           "text": {
@@ -336,10 +276,70 @@
       ]
     },
     {
+      "name": "outkast",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0094025135,
+      "mentions": [
+        {
+          "text": {
+            "content": "outkast",
+            "beginOffset": 482
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "part",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008516992,
+      "mentions": [
+        {
+          "text": {
+            "content": "part",
+            "beginOffset": 529
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cracker",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007948939,
+      "mentions": [
+        {
+          "text": {
+            "content": "cracker",
+            "beginOffset": 400
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "world",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.007948939,
+      "mentions": [
+        {
+          "text": {
+            "content": "world",
+            "beginOffset": 548
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "cadillac do",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.006582932,
+      "salience": 0.0069564716,
       "mentions": [
         {
           "text": {
@@ -354,7 +354,7 @@
       "name": "hoes",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.006582932,
+      "salience": 0.0069564716,
       "mentions": [
         {
           "text": {
@@ -369,7 +369,7 @@
       "name": "clothes",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.006101675,
+      "salience": 0.006366746,
       "mentions": [
         {
           "text": {
@@ -381,40 +381,10 @@
       ]
     },
     {
-      "name": "skin color",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.006101675,
-      "mentions": [
-        {
-          "text": {
-            "content": "skin color",
-            "beginOffset": 675
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "occupation",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.006101675,
-      "mentions": [
-        {
-          "text": {
-            "content": "occupation",
-            "beginOffset": 644
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "beliefs",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.006101675,
+      "salience": 0.006366746,
       "mentions": [
         {
           "text": {
@@ -426,10 +396,77 @@
       ]
     },
     {
+      "name": "hair",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006366746,
+      "mentions": [
+        {
+          "text": {
+            "content": "hair",
+            "beginOffset": 633
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "occupation",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006366746,
+      "mentions": [
+        {
+          "text": {
+            "content": "occupation",
+            "beginOffset": 644
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "anything",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006188831,
+      "mentions": [
+        {
+          "text": {
+            "content": "fuck",
+            "beginOffset": 765
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "anything",
+            "beginOffset": 776
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "skin color",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0060524307,
+      "mentions": [
+        {
+          "text": {
+            "content": "skin color",
+            "beginOffset": 675
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "niggaz",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.005184941,
+      "salience": 0.0054100216,
       "mentions": [
         {
           "text": {
@@ -441,15 +478,15 @@
       ]
     },
     {
-      "name": "life",
+      "name": "food",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.004537112,
+      "salience": 0.0047339434,
       "mentions": [
         {
           "text": {
-            "content": "life",
-            "beginOffset": 994
+            "content": "food",
+            "beginOffset": 913
           },
           "type": "COMMON"
         }
@@ -459,7 +496,7 @@
       "name": "engineering control",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.004537112,
+      "salience": 0.0047339434,
       "mentions": [
         {
           "text": {
@@ -471,15 +508,15 @@
       ]
     },
     {
-      "name": "water",
+      "name": "existance",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.004537112,
+      "salience": 0.0038168184,
       "mentions": [
         {
           "text": {
-            "content": "water",
-            "beginOffset": 922
+            "content": "existance",
+            "beginOffset": 1016
           },
           "type": "COMMON"
         }
@@ -489,7 +526,7 @@
       "name": "punk",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.003142378,
+      "salience": 0.0032784387,
       "mentions": [
         {
           "text": {
@@ -501,25 +538,10 @@
       ]
     },
     {
-      "name": "real",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.003142378,
-      "mentions": [
-        {
-          "text": {
-            "content": "real",
-            "beginOffset": 1087
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "death",
       "type": "EVENT",
       "metadata": {},
-      "salience": 0.003142378,
+      "salience": 0.0032784387,
       "mentions": [
         {
           "text": {
@@ -534,7 +556,7 @@
       "name": "fakers",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.003142378,
+      "salience": 0.0032784387,
       "mentions": [
         {
           "text": {
@@ -546,40 +568,10 @@
       ]
     },
     {
-      "name": "Peace",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.003142378,
-      "mentions": [
-        {
-          "text": {
-            "content": "Peace",
-            "beginOffset": 1119
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "ciggarettes Disease",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0026871825,
-      "mentions": [
-        {
-          "text": {
-            "content": "ciggarettes  \rDisease",
-            "beginOffset": 942
-          },
-          "type": "PROPER"
-        }
-      ]
-    },
-    {
       "name": "Poisonin",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0026871825,
+      "salience": 0.0028034316,
       "mentions": [
         {
           "text": {
@@ -591,10 +583,25 @@
       ]
     },
     {
+      "name": "ciggarettes Disease",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0028034316,
+      "mentions": [
+        {
+          "text": {
+            "content": "ciggarettes  \rDisease",
+            "beginOffset": 942
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
       "name": "world",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.0022759268,
+      "salience": 0.0023742896,
       "mentions": [
         {
           "text": {
@@ -606,25 +613,10 @@
       ]
     },
     {
-      "name": "anything",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0019912687,
-      "mentions": [
-        {
-          "text": {
-            "content": "anything",
-            "beginOffset": 776
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "fact",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0019912687,
+      "salience": 0.0020772605,
       "mentions": [
         {
           "text": {
@@ -639,7 +631,7 @@
       "name": "matter",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0019912687,
+      "salience": 0.0020772605,
       "mentions": [
         {
           "text": {
@@ -651,17 +643,17 @@
       ]
     },
     {
-      "name": "fuck",
-      "type": "OTHER",
+      "name": "Peace",
+      "type": "ORGANIZATION",
       "metadata": {},
-      "salience": 0.001754202,
+      "salience": 0.001941018,
       "mentions": [
         {
           "text": {
-            "content": "fuck",
-            "beginOffset": 765
+            "content": "Peace",
+            "beginOffset": 1119
           },
-          "type": "COMMON"
+          "type": "PROPER"
         }
       ]
     }

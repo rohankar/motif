@@ -1,15 +1,37 @@
 {
   "entities": [
     {
-      "name": "eyes",
+      "name": "hocus pocus",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.22811545,
+      "salience": 0.37346056,
       "mentions": [
         {
           "text": {
-            "content": "eyes",
-            "beginOffset": 35
+            "content": "hocus pocus",
+            "beginOffset": 135
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "all",
+            "beginOffset": 502
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "spell",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.14337546,
+      "mentions": [
+        {
+          "text": {
+            "content": "spell",
+            "beginOffset": 91
           },
           "type": "COMMON"
         }
@@ -19,37 +41,7 @@
       "name": "wonder wonder",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.19617622,
-      "mentions": [
-        {
-          "text": {
-            "content": "wonder wonder",
-            "beginOffset": 65
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "Tell",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.13121407,
-      "mentions": [
-        {
-          "text": {
-            "content": "Tell",
-            "beginOffset": 118
-          },
-          "type": "PROPER"
-        }
-      ]
-    },
-    {
-      "name": "wonder wonder",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.122370765,
+      "salience": 0.1152085,
       "mentions": [
         {
           "text": {
@@ -64,42 +56,49 @@
       "name": "satisfaction",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.046450168,
+      "salience": 0.11520404,
       "mentions": [
         {
           "text": {
             "content": "satisfaction",
-            "beginOffset": 426
+            "beginOffset": 402
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "all",
+            "beginOffset": 437
           },
           "type": "COMMON"
         }
       ]
     },
     {
-      "name": "hocus pocus",
+      "name": "eyes",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.043596033,
+      "salience": 0.08570158,
       "mentions": [
         {
           "text": {
-            "content": "hocus pocus",
-            "beginOffset": 135
+            "content": "eyes",
+            "beginOffset": 35
           },
           "type": "COMMON"
         }
       ]
     },
     {
-      "name": "spell",
+      "name": "wonder wonder",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.043596033,
+      "salience": 0.05542118,
       "mentions": [
         {
           "text": {
-            "content": "spell",
-            "beginOffset": 91
+            "content": "wonder wonder",
+            "beginOffset": 65
           },
           "type": "COMMON"
         }
@@ -109,42 +108,12 @@
       "name": "way",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.028581431,
+      "salience": 0.027046502,
       "mentions": [
         {
           "text": {
             "content": "way",
-            "beginOffset": 312
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "Bridge",
-      "type": "LOCATION",
-      "metadata": {},
-      "salience": 0.020981915,
-      "mentions": [
-        {
-          "text": {
-            "content": "Bridge",
-            "beginOffset": 240
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "Bridge",
-      "type": "LOCATION",
-      "metadata": {},
-      "salience": 0.018873254,
-      "mentions": [
-        {
-          "text": {
-            "content": "Bridge",
-            "beginOffset": 785
+            "beginOffset": 302
           },
           "type": "COMMON"
         }
@@ -154,7 +123,7 @@
       "name": "focus",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.01848555,
+      "salience": 0.017426169,
       "mentions": [
         {
           "text": {
@@ -169,7 +138,7 @@
       "name": "kiss",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.01735309,
+      "salience": 0.016358642,
       "mentions": [
         {
           "text": {
@@ -184,42 +153,12 @@
       "name": "Repeat",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.012897285,
+      "salience": 0.010639282,
       "mentions": [
         {
           "text": {
             "content": "Repeat",
-            "beginOffset": 440
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "Chorus",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.01273509,
-      "mentions": [
-        {
-          "text": {
-            "content": "Chorus",
-            "beginOffset": 394
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "love",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.007919167,
-      "mentions": [
-        {
-          "text": {
-            "content": "love",
-            "beginOffset": 914
+            "beginOffset": 416
           },
           "type": "COMMON"
         }
@@ -229,12 +168,27 @@
       "name": "satisfaction",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0074822903,
+      "salience": 0.007419698,
       "mentions": [
         {
           "text": {
             "content": "satisfaction",
-            "beginOffset": 966
+            "beginOffset": 932
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "much",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007142983,
+      "mentions": [
+        {
+          "text": {
+            "content": "much",
+            "beginOffset": 899
           },
           "type": "COMMON"
         }
@@ -244,12 +198,12 @@
       "name": "magic pass",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.00724517,
+      "salience": 0.0069165854,
       "mentions": [
         {
           "text": {
             "content": "magic pass",
-            "beginOffset": 507
+            "beginOffset": 483
           },
           "type": "COMMON"
         }
@@ -259,12 +213,12 @@
       "name": "love",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0068023363,
+      "salience": 0.006493778,
       "mentions": [
         {
           "text": {
             "content": "love",
-            "beginOffset": 858
+            "beginOffset": 824
           },
           "type": "COMMON"
         }
@@ -274,57 +228,27 @@
       "name": "love",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0068023363,
+      "salience": 0.004496458,
       "mentions": [
         {
           "text": {
             "content": "love",
-            "beginOffset": 879
+            "beginOffset": 845
           },
           "type": "COMMON"
         }
       ]
     },
     {
-      "name": "Bridge",
-      "type": "LOCATION",
-      "metadata": {},
-      "salience": 0.0067166965,
-      "mentions": [
-        {
-          "text": {
-            "content": "Bridge",
-            "beginOffset": 994
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "Chorus",
+      "name": "love",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.006109375,
+      "salience": 0.004496458,
       "mentions": [
         {
           "text": {
-            "content": "Chorus",
-            "beginOffset": 1008
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "Repeats",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.006109375,
-      "mentions": [
-        {
-          "text": {
-            "content": "Repeats",
-            "beginOffset": 1016
+            "content": "love",
+            "beginOffset": 880
           },
           "type": "COMMON"
         }
@@ -334,12 +258,12 @@
       "name": "cold shoulder",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.003386912,
+      "salience": 0.0031921305,
       "mentions": [
         {
           "text": {
             "content": "cold shoulder",
-            "beginOffset": 638
+            "beginOffset": 614
           },
           "type": "COMMON"
         }

@@ -1,22 +1,15 @@
 {
   "entities": [
     {
-      "name": "Chorus",
-      "type": "OTHER",
+      "name": "sight",
+      "type": "PERSON",
       "metadata": {},
-      "salience": 0.62138337,
+      "salience": 0.5880521,
       "mentions": [
         {
           "text": {
             "content": "sight",
             "beginOffset": 213
-          },
-          "type": "COMMON"
-        },
-        {
-          "text": {
-            "content": "Chorus",
-            "beginOffset": 233
           },
           "type": "COMMON"
         }
@@ -26,7 +19,7 @@
       "name": "guys",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.06990987,
+      "salience": 0.07531474,
       "mentions": [
         {
           "text": {
@@ -41,7 +34,7 @@
       "name": "love",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.06660959,
+      "salience": 0.07177426,
       "mentions": [
         {
           "text": {
@@ -56,7 +49,7 @@
       "name": "girl",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.06660959,
+      "salience": 0.07177426,
       "mentions": [
         {
           "text": {
@@ -71,7 +64,7 @@
       "name": "heart",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.035897948,
+      "salience": 0.03972306,
       "mentions": [
         {
           "text": {
@@ -86,7 +79,7 @@
       "name": "heart",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.019997828,
+      "salience": 0.02188045,
       "mentions": [
         {
           "text": {
@@ -98,25 +91,10 @@
       ]
     },
     {
-      "name": "town",
-      "type": "LOCATION",
-      "metadata": {},
-      "salience": 0.017745795,
-      "mentions": [
-        {
-          "text": {
-            "content": "town",
-            "beginOffset": 222
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "ground",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.017524803,
+      "salience": 0.019177541,
       "mentions": [
         {
           "text": {
@@ -128,15 +106,60 @@
       ]
     },
     {
+      "name": "town",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.019177541,
+      "mentions": [
+        {
+          "text": {
+            "content": "town",
+            "beginOffset": 222
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "double trouble",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017794006,
+      "mentions": [
+        {
+          "text": {
+            "content": "double trouble",
+            "beginOffset": 239
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "trouble",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017794006,
+      "mentions": [
+        {
+          "text": {
+            "content": "trouble",
+            "beginOffset": 268
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "anybody",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.016254812,
+      "salience": 0.01756759,
       "mentions": [
         {
           "text": {
             "content": "anybody",
-            "beginOffset": 326
+            "beginOffset": 316
           },
           "type": "COMMON"
         }
@@ -146,117 +169,12 @@
       "name": "trouble",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.014891882,
+      "salience": 0.016298862,
       "mentions": [
         {
           "text": {
             "content": "trouble",
-            "beginOffset": 278
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "trouble",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.014891882,
-      "mentions": [
-        {
-          "text": {
-            "content": "trouble",
-            "beginOffset": 256
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "trouble",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.013638403,
-      "mentions": [
-        {
-          "text": {
-            "content": "trouble",
-            "beginOffset": 301
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "sea",
-      "type": "LOCATION",
-      "metadata": {},
-      "salience": 0.005808501,
-      "mentions": [
-        {
-          "text": {
-            "content": "sea",
-            "beginOffset": 457
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "cards",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.005808501,
-      "mentions": [
-        {
-          "text": {
-            "content": "cards",
-            "beginOffset": 528
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "Chorus",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.004599793,
-      "mentions": [
-        {
-          "text": {
-            "content": "Chorus",
-            "beginOffset": 580
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "clouds",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0030861716,
-      "mentions": [
-        {
-          "text": {
-            "content": "clouds",
-            "beginOffset": 387
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "grade",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0027889162,
-      "mentions": [
-        {
-          "text": {
-            "content": "grade",
-            "beginOffset": 568
+            "beginOffset": 291
           },
           "type": "COMMON"
         }
@@ -266,12 +184,72 @@
       "name": "matchbox",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0025523596,
+      "salience": 0.0062801912,
       "mentions": [
         {
           "text": {
             "content": "matchbox",
-            "beginOffset": 441
+            "beginOffset": 431
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sea",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0062801912,
+      "mentions": [
+        {
+          "text": {
+            "content": "sea",
+            "beginOffset": 447
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cards",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004352589,
+      "mentions": [
+        {
+          "text": {
+            "content": "cards",
+            "beginOffset": 518
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "clouds",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0033793137,
+      "mentions": [
+        {
+          "text": {
+            "content": "clouds",
+            "beginOffset": 377
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "grade",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0033793137,
+      "mentions": [
+        {
+          "text": {
+            "content": "grade",
+            "beginOffset": 558
           },
           "type": "COMMON"
         }

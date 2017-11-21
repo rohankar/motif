@@ -4,7 +4,7 @@
       "name": "arms",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.14523788,
+      "salience": 0.15354982,
       "mentions": [
         {
           "text": {
@@ -19,7 +19,7 @@
       "name": "girl",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.07612272,
+      "salience": 0.08056851,
       "mentions": [
         {
           "text": {
@@ -34,7 +34,7 @@
       "name": "knees",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.07080704,
+      "salience": 0.07494828,
       "mentions": [
         {
           "text": {
@@ -49,7 +49,7 @@
       "name": "charms",
       "type": "CONSUMER_GOOD",
       "metadata": {},
-      "salience": 0.05651954,
+      "salience": 0.0598373,
       "mentions": [
         {
           "text": {
@@ -61,25 +61,10 @@
       ]
     },
     {
-      "name": "knees",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.053771522,
-      "mentions": [
-        {
-          "text": {
-            "content": "knees",
-            "beginOffset": 480
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "girl",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.051014572,
+      "salience": 0.054694284,
       "mentions": [
         {
           "text": {
@@ -94,7 +79,7 @@
       "name": "girl",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.047315385,
+      "salience": 0.050098944,
       "mentions": [
         {
           "text": {
@@ -109,27 +94,12 @@
       "name": "knees",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.04028697,
+      "salience": 0.04658112,
       "mentions": [
         {
           "text": {
             "content": "knees",
-            "beginOffset": 707
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "Confrontations",
-      "type": "EVENT",
-      "metadata": {},
-      "salience": 0.040044732,
-      "mentions": [
-        {
-          "text": {
-            "content": "Confrontations",
-            "beginOffset": 523
+            "beginOffset": 480
           },
           "type": "COMMON"
         }
@@ -139,7 +109,7 @@
       "name": "mind",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.040044732,
+      "salience": 0.04240431,
       "mentions": [
         {
           "text": {
@@ -151,30 +121,15 @@
       ]
     },
     {
-      "name": "heart",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.038310822,
-      "mentions": [
-        {
-          "text": {
-            "content": "heart",
-            "beginOffset": 177
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "kiss",
+      "name": "Confrontations",
       "type": "EVENT",
       "metadata": {},
-      "salience": 0.038300306,
+      "salience": 0.04240431,
       "mentions": [
         {
           "text": {
-            "content": "kiss",
-            "beginOffset": 349
+            "content": "Confrontations",
+            "beginOffset": 523
           },
           "type": "COMMON"
         }
@@ -184,7 +139,7 @@
       "name": "air",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.038300306,
+      "salience": 0.040557906,
       "mentions": [
         {
           "text": {
@@ -196,10 +151,25 @@
       ]
     },
     {
+      "name": "kiss",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.040557906,
+      "mentions": [
+        {
+          "text": {
+            "content": "kiss",
+            "beginOffset": 349
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "feet",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.038300306,
+      "salience": 0.040557906,
       "mentions": [
         {
           "text": {
@@ -214,7 +184,7 @@
       "name": "Anything",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.037821602,
+      "salience": 0.040557906,
       "mentions": [
         {
           "text": {
@@ -226,10 +196,25 @@
       ]
     },
     {
+      "name": "heart",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03956163,
+      "mentions": [
+        {
+          "text": {
+            "content": "heart",
+            "beginOffset": 177
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "girl",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.03543688,
+      "salience": 0.037526876,
       "mentions": [
         {
           "text": {
@@ -241,10 +226,25 @@
       ]
     },
     {
+      "name": "knees",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.034884706,
+      "mentions": [
+        {
+          "text": {
+            "content": "knees",
+            "beginOffset": 707
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "Confrontations",
       "type": "EVENT",
       "metadata": {},
-      "salience": 0.029979147,
+      "salience": 0.031748988,
       "mentions": [
         {
           "text": {
@@ -259,27 +259,12 @@
       "name": "heart",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.023735456,
+      "salience": 0.024511572,
       "mentions": [
         {
           "text": {
             "content": "heart",
             "beginOffset": 446
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "time",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.022853676,
-      "mentions": [
-        {
-          "text": {
-            "content": "time",
-            "beginOffset": 800
           },
           "type": "COMMON"
         }
@@ -292,7 +277,7 @@
         "mid": "/m/09tdq",
         "wikipedia_url": "https://en.wikipedia.org/wiki/Deity"
       },
-      "salience": 0.022746537,
+      "salience": 0.024090765,
       "mentions": [
         {
           "text": {
@@ -307,7 +292,7 @@
       "name": "mind",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.02079456,
+      "salience": 0.022023676,
       "mentions": [
         {
           "text": {
@@ -322,27 +307,12 @@
       "name": "heart",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.01775292,
+      "salience": 0.01833329,
       "mentions": [
         {
           "text": {
             "content": "heart",
             "beginOffset": 673
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "time",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.014502387,
-      "mentions": [
-        {
-          "text": {
-            "content": "time",
-            "beginOffset": 573
           },
           "type": "COMMON"
         }

@@ -1,7 +1,49 @@
 {
-  "error": {
-    "code": 400,
-    "message": "Invalid JSON payload received. Expected , or } after key:value pair.\na movie that said: \"who's more a man  \rT\n                    ^",
-    "status": "INVALID_ARGUMENT"
-  }
+  "documentSentiment": {
+    "magnitude": 1,
+    "score": -0.1
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "I am a veteran of the war  \rI up and joined the army back in nineteen sixty-four  \rAt sixteen, I just had to be a man at any cost  \rI volunteered for Vietnam, where I got my leg shot off  \rI recall a quote form a movie that said: who's more a man  \rThan a man with a reason that's worth dyin' for?",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "[Chorus]  \rThey had me standing on the front line  \rThey had me standing on the front line  \rThey had me standing on the front line  \rBut now I stand at the back of the line when it comes to gettin' ahead  \r  \rThey gave me a uniform and a tiny salty pill  \rTo stop the big urge I might have for the wrong kind of thrill  \rThey put a gun in my hand and said shoot until he's dead.",
+        "beginOffset": 301
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "But it's hard to kill when please, I'm your friend echoes through your head  \rBrought up in church taught no man should take another's life  \rBut then put in the jungle where life has no price, no  \r  \r  \rBack in the world, the paper reads today  \rAnother war is in the brewing  \rBut what about the lives of yesterday  \rAnd the many happy families that have been ruined?",
+        "beginOffset": 682
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "My niece is a hooker, and my nephew's a junkie too  \rBut they say I have no right to tell them how they should do  \rThey laugh and say quit braggin bout the war you should have never been in  \rBut my mind is so brain-washed I'd probably go back and do it again  \rI walk the neighborhood, parading my purple heart  \rWith a fear of agent orange that no one will stop, no  \r\r  \rWould you believe I do?",
+        "beginOffset": 1055
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    }
+  ]
 }

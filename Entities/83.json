@@ -1,7 +1,428 @@
 {
-  "error": {
-    "code": 400,
-    "message": "Invalid JSON payload received. Expected , or } after key:value pair.\nntent\": \"She wrote \"Dear Michael  \rYou'l\n                    ^",
-    "status": "INVALID_ARGUMENT"
-  }
+  "entities": [
+    {
+      "name": "Michael Michael",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.5620244,
+      "mentions": [
+        {
+          "text": {
+            "content": "Michael",
+            "beginOffset": 66
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Michael",
+            "beginOffset": 225
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Michael Michael",
+            "beginOffset": 206
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Michael",
+            "beginOffset": 323
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Michael Michael",
+            "beginOffset": 515
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Michael Michael",
+            "beginOffset": 615
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Michael Michael",
+            "beginOffset": 794
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Michael Michael",
+            "beginOffset": 980
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Michael Michael",
+            "beginOffset": 1131
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Michael Michael",
+            "beginOffset": 1287
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "letter",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.07741937,
+      "mentions": [
+        {
+          "text": {
+            "content": "letter",
+            "beginOffset": 57
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Dear Michael You",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.07202854,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dear Michael  \rYou",
+            "beginOffset": 11
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Dear Michael",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.05335953,
+      "mentions": [
+        {
+          "text": {
+            "content": "Dear Michael",
+            "beginOffset": 161
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "record",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.049201485,
+      "mentions": [
+        {
+          "text": {
+            "content": "record",
+            "beginOffset": 191
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "times",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04831571,
+      "mentions": [
+        {
+          "text": {
+            "content": "times",
+            "beginOffset": 97
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "more",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04831571,
+      "mentions": [
+        {
+          "text": {
+            "content": "more",
+            "beginOffset": 154
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012044463,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": 245
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tears",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0077676363,
+      "mentions": [
+        {
+          "text": {
+            "content": "tears",
+            "beginOffset": 356
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "letter",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0075318576,
+      "mentions": [
+        {
+          "text": {
+            "content": "letter",
+            "beginOffset": 505
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "letter",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0075318576,
+      "mentions": [
+        {
+          "text": {
+            "content": "letter",
+            "beginOffset": 653
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fan",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0052463817,
+      "mentions": [
+        {
+          "text": {
+            "content": "fan",
+            "beginOffset": 476
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "envelope",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0052463817,
+      "mentions": [
+        {
+          "text": {
+            "content": "envelope",
+            "beginOffset": 415
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "'s",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0052463817,
+      "mentions": [
+        {
+          "text": {
+            "content": "'s",
+            "beginOffset": 567
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "feelings",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0052463817,
+      "mentions": [
+        {
+          "text": {
+            "content": "feelings",
+            "beginOffset": 398
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "heart",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0052463817,
+      "mentions": [
+        {
+          "text": {
+            "content": "heart",
+            "beginOffset": 678
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "picture",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.004801268,
+      "mentions": [
+        {
+          "text": {
+            "content": "picture",
+            "beginOffset": 734
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004801268,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 786
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "letter",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0046553756,
+      "mentions": [
+        {
+          "text": {
+            "content": "letter",
+            "beginOffset": 1204
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mister postman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.004100302,
+      "mentions": [
+        {
+          "text": {
+            "content": "mister postman",
+            "beginOffset": 1180
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ABC",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0031069212,
+      "mentions": [
+        {
+          "text": {
+            "content": "ABC",
+            "beginOffset": 564
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "letter",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0026320547,
+      "mentions": [
+        {
+          "text": {
+            "content": "letter",
+            "beginOffset": 1036
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Girl",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0023315172,
+      "mentions": [
+        {
+          "text": {
+            "content": "Girl",
+            "beginOffset": 952
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mister postman",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0017988104,
+      "mentions": [
+        {
+          "text": {
+            "content": "mister postman",
+            "beginOffset": 1012
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
 }

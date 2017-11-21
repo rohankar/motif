@@ -4,7 +4,7 @@
       "name": "creatures",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.16410016,
+      "salience": 0.17118108,
       "mentions": [
         {
           "text": {
@@ -16,56 +16,10 @@
       ]
     },
     {
-      "name": "Love Street",
-      "type": "LOCATION",
-      "metadata": {
-        "mid": "/m/025tcrf",
-        "wikipedia_url": "https://en.wikipedia.org/wiki/Love_Street"
-      },
-      "salience": 0.15686506,
-      "mentions": [
-        {
-          "text": {
-            "content": "Love Street",
-            "beginOffset": 13
-          },
-          "type": "PROPER"
-        },
-        {
-          "text": {
-            "content": "Love Street",
-            "beginOffset": 43
-          },
-          "type": "PROPER"
-        },
-        {
-          "text": {
-            "content": "Love Street",
-            "beginOffset": 347
-          },
-          "type": "PROPER"
-        },
-        {
-          "text": {
-            "content": "Love Street",
-            "beginOffset": 516
-          },
-          "type": "PROPER"
-        },
-        {
-          "text": {
-            "content": "Love Street",
-            "beginOffset": 546
-          },
-          "type": "PROPER"
-        }
-      ]
-    },
-    {
       "name": "house",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.1301975,
+      "salience": 0.1088792,
       "mentions": [
         {
           "text": {
@@ -80,7 +34,7 @@
       "name": "garden",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.1301975,
+      "salience": 0.1088792,
       "mentions": [
         {
           "text": {
@@ -92,10 +46,32 @@
       ]
     },
     {
+      "name": "Love Street She",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.08128064,
+      "mentions": [
+        {
+          "text": {
+            "content": "Love Street  \rShe",
+            "beginOffset": 43
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Love Street  \rShe",
+            "beginOffset": 546
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
       "name": "store",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.07649224,
+      "salience": 0.07361646,
       "mentions": [
         {
           "text": {
@@ -107,10 +83,35 @@
       ]
     },
     {
+      "name": "Love Street",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/025tcrf",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Love_Street"
+      },
+      "salience": 0.044665273,
+      "mentions": [
+        {
+          "text": {
+            "content": "Love Street",
+            "beginOffset": 13
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Love Street",
+            "beginOffset": 516
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
       "name": "wisdom",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.05069646,
+      "salience": 0.04239978,
       "mentions": [
         {
           "text": {
@@ -122,25 +123,10 @@
       ]
     },
     {
-      "name": "robes",
-      "type": "CONSUMER_GOOD",
-      "metadata": {},
-      "salience": 0.04442293,
-      "mentions": [
-        {
-          "text": {
-            "content": "robes",
-            "beginOffset": 129
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "flunkies",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.04442293,
+      "salience": 0.03715262,
       "mentions": [
         {
           "text": {
@@ -152,17 +138,54 @@
       ]
     },
     {
-      "name": "diamond",
+      "name": "monkeys",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.04442293,
+      "salience": 0.03715262,
       "mentions": [
         {
           "text": {
-            "content": "diamond",
-            "beginOffset": 162
+            "content": "monkeys",
+            "beginOffset": 147
           },
           "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "robes",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.03715262,
+      "mentions": [
+        {
+          "text": {
+            "content": "robes",
+            "beginOffset": 129
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "La",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.030953875,
+      "mentions": [
+        {
+          "text": {
+            "content": "La",
+            "beginOffset": 627
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "La",
+            "beginOffset": 712
+          },
+          "type": "PROPER"
         }
       ]
     },
@@ -170,7 +193,7 @@
       "name": "la",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.036031142,
+      "salience": 0.030133614,
       "mentions": [
         {
           "text": {
@@ -182,10 +205,40 @@
       ]
     },
     {
+      "name": "la",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030133614,
+      "mentions": [
+        {
+          "text": {
+            "content": "la",
+            "beginOffset": 659
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "la",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.030133614,
+      "mentions": [
+        {
+          "text": {
+            "content": "la",
+            "beginOffset": 651
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "wisdom",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.033929154,
+      "salience": 0.028734565,
       "mentions": [
         {
           "text": {
@@ -197,15 +250,45 @@
       ]
     },
     {
+      "name": "la",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020917008,
+      "mentions": [
+        {
+          "text": {
+            "content": "la",
+            "beginOffset": 716
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "la",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020917008,
+      "mentions": [
+        {
+          "text": {
+            "content": "la",
+            "beginOffset": 708
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "La",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.03263926,
+      "salience": 0.020175446,
       "mentions": [
         {
           "text": {
             "content": "La",
-            "beginOffset": 627
+            "beginOffset": 655
           },
           "type": "PROPER"
         },
@@ -219,22 +302,15 @@
       ]
     },
     {
-      "name": "la, La, la",
-      "type": "WORK_OF_ART",
+      "name": "Love Street There",
+      "type": "LOCATION",
       "metadata": {},
-      "salience": 0.01898354,
+      "salience": 0.014938993,
       "mentions": [
         {
           "text": {
-            "content": "la, La, la",
-            "beginOffset": 651
-          },
-          "type": "PROPER"
-        },
-        {
-          "text": {
-            "content": "la, La, la",
-            "beginOffset": 708
+            "content": "Love Street  \rThere",
+            "beginOffset": 347
           },
           "type": "PROPER"
         }
@@ -244,7 +320,7 @@
       "name": "la",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.015879672,
+      "salience": 0.013278652,
       "mentions": [
         {
           "text": {
@@ -256,30 +332,30 @@
       ]
     },
     {
-      "name": "house",
+      "name": "garden",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.010359782,
+      "salience": 0.008662067,
       "mentions": [
         {
           "text": {
-            "content": "house",
-            "beginOffset": 570
+            "content": "garden",
+            "beginOffset": 580
           },
           "type": "COMMON"
         }
       ]
     },
     {
-      "name": "garden",
+      "name": "house",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.010359782,
+      "salience": 0.008662067,
       "mentions": [
         {
           "text": {
-            "content": "garden",
-            "beginOffset": 580
+            "content": "house",
+            "beginOffset": 570
           },
           "type": "COMMON"
         }

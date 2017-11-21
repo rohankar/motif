@@ -1,7 +1,1207 @@
 {
-  "error": {
-    "code": 400,
-    "message": "Invalid JSON payload received. Expected , or } after key:value pair.\n another  \rHe said \"What happened to the\n                    ^",
-    "status": "INVALID_ARGUMENT"
-  }
+  "entities": [
+    {
+      "name": "elevator",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.12706347,
+      "mentions": [
+        {
+          "text": {
+            "content": "elevator",
+            "beginOffset": 515
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "elevator",
+            "beginOffset": 1140
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "trouble",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.116334364,
+      "mentions": [
+        {
+          "text": {
+            "content": "trouble",
+            "beginOffset": 12
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "TV crews",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.07759458,
+      "mentions": [
+        {
+          "text": {
+            "content": "TV crews",
+            "beginOffset": 125
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shit",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.046167534,
+      "mentions": [
+        {
+          "text": {
+            "content": "shit",
+            "beginOffset": 49
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "penthouse floor",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.040691074,
+      "mentions": [
+        {
+          "text": {
+            "content": "penthouse floor",
+            "beginOffset": 392
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "news",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025152324,
+      "mentions": [
+        {
+          "text": {
+            "content": "news",
+            "beginOffset": 155
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "city lights",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025152324,
+      "mentions": [
+        {
+          "text": {
+            "content": "city lights",
+            "beginOffset": 221
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "folks",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.023579339,
+      "mentions": [
+        {
+          "text": {
+            "content": "folks",
+            "beginOffset": 1689
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.022497857,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 1449
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "truth",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02201507,
+      "mentions": [
+        {
+          "text": {
+            "content": "truth",
+            "beginOffset": 246
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02201507,
+      "mentions": [
+        {
+          "text": {
+            "content": "lies",
+            "beginOffset": 264
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sky",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.02201507,
+      "mentions": [
+        {
+          "text": {
+            "content": "sky",
+            "beginOffset": 322
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "order",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02201507,
+      "mentions": [
+        {
+          "text": {
+            "content": "order",
+            "beginOffset": 336
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Streets",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.02201507,
+      "mentions": [
+        {
+          "text": {
+            "content": "Streets",
+            "beginOffset": 100
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "show",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.021738531,
+      "mentions": [
+        {
+          "text": {
+            "content": "show",
+            "beginOffset": 286
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "penthouse floor",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015580423,
+      "mentions": [
+        {
+          "text": {
+            "content": "penthouse floor",
+            "beginOffset": 451
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "penthouse floor",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015580423,
+      "mentions": [
+        {
+          "text": {
+            "content": "penthouse floor",
+            "beginOffset": 568
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Penthouse floor",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015580423,
+      "mentions": [
+        {
+          "text": {
+            "content": "Penthouse floor",
+            "beginOffset": 617
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "elevator",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015327997,
+      "mentions": [
+        {
+          "text": {
+            "content": "elevator",
+            "beginOffset": 2402
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "future",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014392392,
+      "mentions": [
+        {
+          "text": {
+            "content": "future",
+            "beginOffset": 731
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "penthouse",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.01078588,
+      "mentions": [
+        {
+          "text": {
+            "content": "penthouse",
+            "beginOffset": 1438
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "penthouse floor",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010468794,
+      "mentions": [
+        {
+          "text": {
+            "content": "penthouse floor",
+            "beginOffset": 1017
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "penthouse floor",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010468794,
+      "mentions": [
+        {
+          "text": {
+            "content": "penthouse floor",
+            "beginOffset": 1076
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Penthouse floor",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010206924,
+      "mentions": [
+        {
+          "text": {
+            "content": "Penthouse floor",
+            "beginOffset": 1244
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "times",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009614631,
+      "mentions": [
+        {
+          "text": {
+            "content": "times",
+            "beginOffset": 688
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "notice",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008412561,
+      "mentions": [
+        {
+          "text": {
+            "content": "notice",
+            "beginOffset": 716
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "man",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.008412561,
+      "mentions": [
+        {
+          "text": {
+            "content": "man",
+            "beginOffset": 671
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "penthouse",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.008025312,
+      "mentions": [
+        {
+          "text": {
+            "content": "penthouse",
+            "beginOffset": 2252
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "penthouse floor",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0070820632,
+      "mentions": [
+        {
+          "text": {
+            "content": "penthouse floor",
+            "beginOffset": 2279
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "penthouse floor",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0070820632,
+      "mentions": [
+        {
+          "text": {
+            "content": "penthouse floor",
+            "beginOffset": 2338
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "altitude",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006920617,
+      "mentions": [
+        {
+          "text": {
+            "content": "altitude",
+            "beginOffset": 953
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "holding",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006495656,
+      "mentions": [
+        {
+          "text": {
+            "content": "holding",
+            "beginOffset": 921
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "joke",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0064580655,
+      "mentions": [
+        {
+          "text": {
+            "content": "joke",
+            "beginOffset": 1282
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "city lights",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0064580655,
+      "mentions": [
+        {
+          "text": {
+            "content": "city lights",
+            "beginOffset": 843
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "more",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0062964116,
+      "mentions": [
+        {
+          "text": {
+            "content": "more",
+            "beginOffset": 1206
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rooms",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.005871597,
+      "mentions": [
+        {
+          "text": {
+            "content": "rooms",
+            "beginOffset": 1755
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Oh",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0056931856,
+      "mentions": [
+        {
+          "text": {
+            "content": "Oh",
+            "beginOffset": 668
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.005650259,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": 995
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "babe",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0056284405,
+      "mentions": [
+        {
+          "text": {
+            "content": "babe",
+            "beginOffset": 2144
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "knock",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005508806,
+      "mentions": [
+        {
+          "text": {
+            "content": "knock",
+            "beginOffset": 1317
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "patience",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005137084,
+      "mentions": [
+        {
+          "text": {
+            "content": "patience",
+            "beginOffset": 1596
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "view",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005137084,
+      "mentions": [
+        {
+          "text": {
+            "content": "view",
+            "beginOffset": 1627
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "line",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005137084,
+      "mentions": [
+        {
+          "text": {
+            "content": "line",
+            "beginOffset": 1723
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "song",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.005137084,
+      "mentions": [
+        {
+          "text": {
+            "content": "song",
+            "beginOffset": 1655
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "phone",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.005137084,
+      "mentions": [
+        {
+          "text": {
+            "content": "phone",
+            "beginOffset": 1400
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hair",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005137084,
+      "mentions": [
+        {
+          "text": {
+            "content": "hair",
+            "beginOffset": 1411
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "apples",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005137084,
+      "mentions": [
+        {
+          "text": {
+            "content": "apples",
+            "beginOffset": 1476
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eggs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005137084,
+      "mentions": [
+        {
+          "text": {
+            "content": "eggs",
+            "beginOffset": 1491
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Conversations",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.005137084,
+      "mentions": [
+        {
+          "text": {
+            "content": "Conversations",
+            "beginOffset": 1572
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dress",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.005137084,
+      "mentions": [
+        {
+          "text": {
+            "content": "dress",
+            "beginOffset": 1641
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "crab legs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005137084,
+      "mentions": [
+        {
+          "text": {
+            "content": "crab legs",
+            "beginOffset": 1523
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "penthouse floor",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004903564,
+      "mentions": [
+        {
+          "text": {
+            "content": "penthouse floor",
+            "beginOffset": 2733
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "penthouse floor",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004903564,
+      "mentions": [
+        {
+          "text": {
+            "content": "penthouse floor",
+            "beginOffset": 2716
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "penthouse floor",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.004903564,
+      "mentions": [
+        {
+          "text": {
+            "content": "penthouse floor",
+            "beginOffset": 2628
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "party",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.004641602,
+      "mentions": [
+        {
+          "text": {
+            "content": "party",
+            "beginOffset": 1613
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "penthouse babe",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004367851,
+      "mentions": [
+        {
+          "text": {
+            "content": "penthouse babe",
+            "beginOffset": 2226
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mix",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003821326,
+      "mentions": [
+        {
+          "text": {
+            "content": "mix",
+            "beginOffset": 2183
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bliss",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003821326,
+      "mentions": [
+        {
+          "text": {
+            "content": "bliss",
+            "beginOffset": 2211
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ignorance",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003821326,
+      "mentions": [
+        {
+          "text": {
+            "content": "ignorance",
+            "beginOffset": 2197
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Jump",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/0by3w",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Jumping"
+      },
+      "salience": 0.003784892,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jump",
+            "beginOffset": 2044
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "nigga",
+            "beginOffset": 2050
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "elevator",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003578543,
+      "mentions": [
+        {
+          "text": {
+            "content": "elevator",
+            "beginOffset": 2667
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0033247073,
+      "mentions": [
+        {
+          "text": {
+            "content": "Baby",
+            "beginOffset": 2611
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "penthouse doors",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0033247073,
+      "mentions": [
+        {
+          "text": {
+            "content": "penthouse doors",
+            "beginOffset": 2469
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "penthouse doors",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0033247073,
+      "mentions": [
+        {
+          "text": {
+            "content": "penthouse doors",
+            "beginOffset": 2524
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "penthouse doors",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0033247073,
+      "mentions": [
+        {
+          "text": {
+            "content": "penthouse doors",
+            "beginOffset": 2562
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0019678092,
+      "mentions": [
+        {
+          "text": {
+            "content": "Baby",
+            "beginOffset": 2646
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "jokes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0019235649,
+      "mentions": [
+        {
+          "text": {
+            "content": "jokes",
+            "beginOffset": 1840
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "news",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0019235649,
+      "mentions": [
+        {
+          "text": {
+            "content": "news",
+            "beginOffset": 1816
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "folks",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0019235649,
+      "mentions": [
+        {
+          "text": {
+            "content": "folks",
+            "beginOffset": 1787
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "group",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0016827906,
+      "mentions": [
+        {
+          "text": {
+            "content": "group",
+            "beginOffset": 1877
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "suit",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0016827906,
+      "mentions": [
+        {
+          "text": {
+            "content": "suit",
+            "beginOffset": 1866
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "smile",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0016827906,
+      "mentions": [
+        {
+          "text": {
+            "content": "smile",
+            "beginOffset": 1911
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "boy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0016827906,
+      "mentions": [
+        {
+          "text": {
+            "content": "boy",
+            "beginOffset": 1970
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "trunk",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0016827906,
+      "mentions": [
+        {
+          "text": {
+            "content": "trunk",
+            "beginOffset": 1994
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "top",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0016789031,
+      "mentions": [
+        {
+          "text": {
+            "content": "top",
+            "beginOffset": 2030
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "clouds",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0016756232,
+      "mentions": [
+        {
+          "text": {
+            "content": "clouds",
+            "beginOffset": 2117
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "room",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0016241844,
+      "mentions": [
+        {
+          "text": {
+            "content": "room",
+            "beginOffset": 2105
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Til",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0015656668,
+      "mentions": [
+        {
+          "text": {
+            "content": "Til",
+            "beginOffset": 2678
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Forcin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0008997676,
+      "mentions": [
+        {
+          "text": {
+            "content": "Forcin",
+            "beginOffset": 1897
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "language": "en"
 }

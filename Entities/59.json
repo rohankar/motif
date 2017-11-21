@@ -4,7 +4,7 @@
       "name": "things",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.20946552,
+      "salience": 0.1845039,
       "mentions": [
         {
           "text": {
@@ -19,7 +19,7 @@
       "name": "heaven",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.0814765,
+      "salience": 0.08196152,
       "mentions": [
         {
           "text": {
@@ -55,7 +55,7 @@
       "name": "sleep",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.06827943,
+      "salience": 0.07132899,
       "mentions": [
         {
           "text": {
@@ -70,7 +70,7 @@
       "name": "something",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.06793153,
+      "salience": 0.070965566,
       "mentions": [
         {
           "text": {
@@ -85,7 +85,7 @@
       "name": "talk",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.067081,
+      "salience": 0.070965566,
       "mentions": [
         {
           "text": {
@@ -100,7 +100,7 @@
       "name": "sign",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.056940954,
+      "salience": 0.0602392,
       "mentions": [
         {
           "text": {
@@ -115,7 +115,7 @@
       "name": "watchin",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.05070407,
+      "salience": 0.053849436,
       "mentions": [
         {
           "text": {
@@ -127,25 +127,10 @@
       ]
     },
     {
-      "name": "mystery",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.043134745,
-      "mentions": [
-        {
-          "text": {
-            "content": "mystery",
-            "beginOffset": 194
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "Show",
       "type": "EVENT",
       "metadata": {},
-      "salience": 0.042780668,
+      "salience": 0.052867662,
       "mentions": [
         {
           "text": {
@@ -160,7 +145,7 @@
       "name": "Life",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.034293856,
+      "salience": 0.036741607,
       "mentions": [
         {
           "text": {
@@ -175,7 +160,7 @@
       "name": "reality",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.033804603,
+      "salience": 0.03357135,
       "mentions": [
         {
           "text": {
@@ -187,10 +172,25 @@
       ]
     },
     {
+      "name": "mystery",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02717387,
+      "mentions": [
+        {
+          "text": {
+            "content": "mystery",
+            "beginOffset": 194
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "meaning",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.021875132,
+      "salience": 0.021721384,
       "mentions": [
         {
           "text": {
@@ -205,7 +205,7 @@
       "name": "all",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.019904425,
+      "salience": 0.020790862,
       "mentions": [
         {
           "text": {
@@ -217,15 +217,30 @@
       ]
     },
     {
-      "name": "price",
+      "name": "light",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.017417256,
+      "salience": 0.020132257,
       "mentions": [
         {
           "text": {
-            "content": "price",
-            "beginOffset": 594
+            "content": "light",
+            "beginOffset": 343
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "thanks",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018192453,
+      "mentions": [
+        {
+          "text": {
+            "content": "thanks",
+            "beginOffset": 540
           },
           "type": "COMMON"
         }
@@ -233,9 +248,9 @@
     },
     {
       "name": "suffering",
-      "type": "EVENT",
+      "type": "OTHER",
       "metadata": {},
-      "salience": 0.017417256,
+      "salience": 0.018192453,
       "mentions": [
         {
           "text": {
@@ -250,7 +265,7 @@
       "name": "mercy",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.017417256,
+      "salience": 0.018192453,
       "mentions": [
         {
           "text": {
@@ -265,7 +280,7 @@
       "name": "peace",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.017417256,
+      "salience": 0.018192453,
       "mentions": [
         {
           "text": {
@@ -280,7 +295,7 @@
       "name": "love",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.017417256,
+      "salience": 0.018192453,
       "mentions": [
         {
           "text": {
@@ -292,30 +307,15 @@
       ]
     },
     {
-      "name": "God",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.017417256,
-      "mentions": [
-        {
-          "text": {
-            "content": "God",
-            "beginOffset": 656
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "thanks",
+      "name": "price",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.017417256,
+      "salience": 0.018192453,
       "mentions": [
         {
           "text": {
-            "content": "thanks",
-            "beginOffset": 540
+            "content": "price",
+            "beginOffset": 594
           },
           "type": "COMMON"
         }
@@ -325,7 +325,7 @@
       "name": "way",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.017198086,
+      "salience": 0.018192453,
       "mentions": [
         {
           "text": {
@@ -340,7 +340,7 @@
       "name": "world",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.015908599,
+      "salience": 0.016616343,
       "mentions": [
         {
           "text": {
@@ -352,25 +352,10 @@
       ]
     },
     {
-      "name": "light",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.014773233,
-      "mentions": [
-        {
-          "text": {
-            "content": "light",
-            "beginOffset": 343
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "people",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.012172118,
+      "salience": 0.01424866,
       "mentions": [
         {
           "text": {
@@ -385,7 +370,7 @@
       "name": "life",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.011268698,
+      "salience": 0.013876885,
       "mentions": [
         {
           "text": {
@@ -397,17 +382,35 @@
       ]
     },
     {
+      "name": "Oh God",
+      "type": "WORK_OF_ART",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Oh,_God!",
+        "mid": "/m/067pbj"
+      },
+      "salience": 0.01077316,
+      "mentions": [
+        {
+          "text": {
+            "content": "Oh God",
+            "beginOffset": 653
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
       "name": "nme",
-      "type": "ORGANIZATION",
+      "type": "OTHER",
       "metadata": {},
-      "salience": 0.009086047,
+      "salience": 0.0103246225,
       "mentions": [
         {
           "text": {
             "content": "nme",
             "beginOffset": 960
           },
-          "type": "PROPER"
+          "type": "COMMON"
         }
       ]
     }

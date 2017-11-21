@@ -4,7 +4,7 @@
       "name": "speed",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.240502,
+      "salience": 0.24813534,
       "mentions": [
         {
           "text": {
@@ -26,7 +26,7 @@
       "name": "mind",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.14168774,
+      "salience": 0.13629937,
       "mentions": [
         {
           "text": {
@@ -55,7 +55,7 @@
       "name": "train",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.08853983,
+      "salience": 0.08723482,
       "mentions": [
         {
           "text": {
@@ -70,7 +70,7 @@
       "name": "cocaine",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.08853983,
+      "salience": 0.08723482,
       "mentions": [
         {
           "text": {
@@ -85,7 +85,7 @@
       "name": "Trouble",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.07868231,
+      "salience": 0.08043399,
       "mentions": [
         {
           "text": {
@@ -114,7 +114,7 @@
       "name": "trouble",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.05758993,
+      "salience": 0.056735616,
       "mentions": [
         {
           "text": {
@@ -126,17 +126,24 @@
       ]
     },
     {
-      "name": "Leaves Central Station",
-      "type": "ORGANIZATION",
+      "name": "Trouble",
+      "type": "OTHER",
       "metadata": {},
-      "salience": 0.056106642,
+      "salience": 0.05052119,
       "mentions": [
         {
           "text": {
-            "content": "Leaves Central Station",
-            "beginOffset": 204
+            "content": "Trouble",
+            "beginOffset": 807
           },
-          "type": "PROPER"
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "trouble",
+            "beginOffset": 831
+          },
+          "type": "COMMON"
         }
       ]
     },
@@ -147,7 +154,7 @@
         "mid": "/m/01kph4",
         "wikipedia_url": "https://en.wikipedia.org/wiki/Casey_Jones"
       },
-      "salience": 0.036103442,
+      "salience": 0.03556376,
       "mentions": [
         {
           "text": {
@@ -166,10 +173,25 @@
       ]
     },
     {
+      "name": "bout",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.025358405,
+      "mentions": [
+        {
+          "text": {
+            "content": "bout",
+            "beginOffset": 228
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "Trouble",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.01728782,
+      "salience": 0.018363308,
       "mentions": [
         {
           "text": {
@@ -184,7 +206,7 @@
       "name": "notion",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.016494984,
+      "salience": 0.016245045,
       "mentions": [
         {
           "text": {
@@ -199,7 +221,7 @@
       "name": "end",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.016265592,
+      "salience": 0.015098423,
       "mentions": [
         {
           "text": {
@@ -214,7 +236,7 @@
       "name": "engine",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.01493388,
+      "salience": 0.014707198,
       "mentions": [
         {
           "text": {
@@ -229,7 +251,7 @@
       "name": "trouble",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.014894841,
+      "salience": 0.014668741,
       "mentions": [
         {
           "text": {
@@ -241,30 +263,15 @@
       ]
     },
     {
-      "name": "trouble",
+      "name": "train",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.012390497,
+      "salience": 0.010888829,
       "mentions": [
         {
           "text": {
-            "content": "trouble",
-            "beginOffset": 831
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "Trouble",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.01192994,
-      "mentions": [
-        {
-          "text": {
-            "content": "Trouble",
-            "beginOffset": 807
+            "content": "train",
+            "beginOffset": 362
           },
           "type": "COMMON"
         }
@@ -274,7 +281,7 @@
       "name": "cocaine",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.011057569,
+      "salience": 0.010888829,
       "mentions": [
         {
           "text": {
@@ -289,7 +296,7 @@
       "name": "notion",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.011026445,
+      "salience": 0.010858172,
       "mentions": [
         {
           "text": {
@@ -301,25 +308,10 @@
       ]
     },
     {
-      "name": "train",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.010918769,
-      "mentions": [
-        {
-          "text": {
-            "content": "train",
-            "beginOffset": 362
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "advice",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0095709115,
+      "salience": 0.009189166,
       "mentions": [
         {
           "text": {
@@ -334,7 +326,7 @@
       "name": "sleeping",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.00943231,
+      "salience": 0.007879895,
       "mentions": [
         {
           "text": {
@@ -346,17 +338,17 @@
       ]
     },
     {
-      "name": "Lady",
-      "type": "PERSON",
+      "name": "Leaves Central Station",
+      "type": "ORGANIZATION",
       "metadata": {},
-      "salience": 0.008018337,
+      "salience": 0.0076342723,
       "mentions": [
         {
           "text": {
-            "content": "Lady",
-            "beginOffset": 532
+            "content": "Leaves Central Station",
+            "beginOffset": 204
           },
-          "type": "COMMON"
+          "type": "PROPER"
         }
       ]
     },
@@ -364,7 +356,7 @@
       "name": "notion",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0075017065,
+      "salience": 0.0073864376,
       "mentions": [
         {
           "text": {
@@ -379,12 +371,27 @@
       "name": "Hits River Junction",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.0051716114,
+      "salience": 0.005156507,
       "mentions": [
         {
           "text": {
             "content": "Hits River Junction",
             "beginOffset": 254
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Lady",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.004677803,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lady",
+            "beginOffset": 532
           },
           "type": "PROPER"
         }
@@ -397,7 +404,7 @@
         "mid": "/m/010hnql9",
         "wikipedia_url": "https://en.wikipedia.org/wiki/Switchman"
       },
-      "salience": 0.0047421413,
+      "salience": 0.0046686786,
       "mentions": [
         {
           "text": {
@@ -412,7 +419,7 @@
       "name": "engine",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0047143567,
+      "salience": 0.004641317,
       "mentions": [
         {
           "text": {
@@ -427,7 +434,7 @@
       "name": "trouble",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0044547166,
+      "salience": 0.0043856297,
       "mentions": [
         {
           "text": {
@@ -439,10 +446,25 @@
       ]
     },
     {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0043324465,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": 863
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "bend",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.0041251746,
+      "salience": 0.0040611112,
       "mentions": [
         {
           "text": {
@@ -457,7 +479,7 @@
       "name": "fireman screams",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0041251746,
+      "salience": 0.0040611112,
       "mentions": [
         {
           "text": {
@@ -469,30 +491,15 @@
       ]
     },
     {
-      "name": "eyes",
-      "type": "OTHER",
+      "name": "two",
+      "type": "PERSON",
       "metadata": {},
-      "salience": 0.0039766743,
+      "salience": 0.0036188068,
       "mentions": [
         {
           "text": {
-            "content": "eyes",
-            "beginOffset": 863
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "train",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0032943145,
-      "mentions": [
-        {
-          "text": {
-            "content": "train",
-            "beginOffset": 696
+            "content": "two",
+            "beginOffset": 630
           },
           "type": "COMMON"
         }
@@ -502,7 +509,7 @@
       "name": "cocaine",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0032943145,
+      "salience": 0.0032429502,
       "mentions": [
         {
           "text": {
@@ -514,10 +521,25 @@
       ]
     },
     {
+      "name": "train",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0032429502,
+      "mentions": [
+        {
+          "text": {
+            "content": "train",
+            "beginOffset": 696
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "track",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0026261914,
+      "salience": 0.00258508,
       "mentions": [
         {
           "text": {

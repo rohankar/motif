@@ -4,7 +4,7 @@
       "name": "ways",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.11903521,
+      "salience": 0.12165447,
       "mentions": [
         {
           "text": {
@@ -19,7 +19,7 @@
       "name": "Yeah",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.073305435,
+      "salience": 0.072192505,
       "mentions": [
         {
           "text": {
@@ -41,7 +41,7 @@
       "name": "daddy",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.06917649,
+      "salience": 0.06812662,
       "mentions": [
         {
           "text": {
@@ -56,7 +56,7 @@
       "name": "face",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.06917649,
+      "salience": 0.06812662,
       "mentions": [
         {
           "text": {
@@ -71,7 +71,7 @@
       "name": "love",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.052395884,
+      "salience": 0.052253388,
       "mentions": [
         {
           "text": {
@@ -86,7 +86,7 @@
       "name": "love",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.052395884,
+      "salience": 0.052253388,
       "mentions": [
         {
           "text": {
@@ -101,7 +101,7 @@
       "name": "love",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.052395884,
+      "salience": 0.052253388,
       "mentions": [
         {
           "text": {
@@ -116,7 +116,7 @@
       "name": "love",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.052395884,
+      "salience": 0.052253388,
       "mentions": [
         {
           "text": {
@@ -131,7 +131,7 @@
       "name": "love",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.047984194,
+      "salience": 0.047854148,
       "mentions": [
         {
           "text": {
@@ -146,22 +146,7 @@
       "name": "door",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.038830336,
-      "mentions": [
-        {
-          "text": {
-            "content": "door",
-            "beginOffset": 362
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "door",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.038344413,
+      "salience": 0.038725536,
       "mentions": [
         {
           "text": {
@@ -173,10 +158,25 @@
       ]
     },
     {
+      "name": "door",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.038725536,
+      "mentions": [
+        {
+          "text": {
+            "content": "door",
+            "beginOffset": 362
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "love",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.035923947,
+      "salience": 0.035827015,
       "mentions": [
         {
           "text": {
@@ -191,7 +191,7 @@
       "name": "love",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.035923947,
+      "salience": 0.035827015,
       "mentions": [
         {
           "text": {
@@ -206,7 +206,7 @@
       "name": "song",
       "type": "WORK_OF_ART",
       "metadata": {},
-      "salience": 0.033601522,
+      "salience": 0.033935893,
       "mentions": [
         {
           "text": {
@@ -221,7 +221,7 @@
       "name": "horses",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.03235447,
+      "salience": 0.032267112,
       "mentions": [
         {
           "text": {
@@ -236,7 +236,7 @@
       "name": "dream",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.03235447,
+      "salience": 0.032267112,
       "mentions": [
         {
           "text": {
@@ -251,7 +251,7 @@
       "name": "ways",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.030763013,
+      "salience": 0.031862818,
       "mentions": [
         {
           "text": {
@@ -266,7 +266,7 @@
       "name": "song",
       "type": "WORK_OF_ART",
       "metadata": {},
-      "salience": 0.025138859,
+      "salience": 0.025389144,
       "mentions": [
         {
           "text": {
@@ -281,7 +281,7 @@
       "name": "horses",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.024204437,
+      "salience": 0.024138631,
       "mentions": [
         {
           "text": {
@@ -296,7 +296,7 @@
       "name": "dream",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.024204437,
+      "salience": 0.024138631,
       "mentions": [
         {
           "text": {
@@ -311,7 +311,7 @@
       "name": "mark",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.016777985,
+      "salience": 0.016731601,
       "mentions": [
         {
           "text": {
@@ -326,22 +326,7 @@
       "name": "love",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.015810454,
-      "mentions": [
-        {
-          "text": {
-            "content": "love",
-            "beginOffset": 654
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "love",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.015810454,
+      "salience": 0.015766598,
       "mentions": [
         {
           "text": {
@@ -353,10 +338,25 @@
       ]
     },
     {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015766598,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 654
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "door",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.011695909,
+      "salience": 0.011662846,
       "mentions": [
         {
           "text": {

@@ -4,7 +4,7 @@
       "name": "eyes",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.3272634,
+      "salience": 0.32155183,
       "mentions": [
         {
           "text": {
@@ -19,7 +19,7 @@
       "name": "heart",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.13269746,
+      "salience": 0.13367888,
       "mentions": [
         {
           "text": {
@@ -34,7 +34,7 @@
       "name": "hands",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.1277806,
+      "salience": 0.12554933,
       "mentions": [
         {
           "text": {
@@ -49,7 +49,7 @@
       "name": "life",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.10724556,
+      "salience": 0.11078447,
       "mentions": [
         {
           "text": {
@@ -64,7 +64,7 @@
       "name": "mind",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.090000495,
+      "salience": 0.09181794,
       "mentions": [
         {
           "text": {
@@ -79,7 +79,7 @@
       "name": "heart",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.08242593,
+      "salience": 0.08304217,
       "mentions": [
         {
           "text": {
@@ -94,7 +94,7 @@
       "name": "heart",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.061716136,
+      "salience": 0.062177937,
       "mentions": [
         {
           "text": {
@@ -109,7 +109,7 @@
       "name": "mind",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.04335774,
+      "salience": 0.043681223,
       "mentions": [
         {
           "text": {
@@ -124,7 +124,7 @@
       "name": "mind",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.027512664,
+      "salience": 0.027716229,
       "mentions": [
         {
           "text": {

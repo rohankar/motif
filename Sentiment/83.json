@@ -1,7 +1,39 @@
 {
-  "error": {
-    "code": 400,
-    "message": "Invalid JSON payload received. Expected , or } after key:value pair.\nntent\": \"She wrote \"Dear Michael  \rYou'l\n                    ^",
-    "status": "INVALID_ARGUMENT"
-  }
+  "documentSentiment": {
+    "magnitude": 1.2,
+    "score": 0
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "She wrote 'Dear Michael  \rYou'll probably never get this letter  \rMichael, I wrote you a hundred times before  \rKnowing how I feel  \rI'll write a hundred more'\r Dear Michael, every time your record's on  \r(Michael Michael)  \rMichael, I close my eyes and sing along  \rDreaming you're singing to me.",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "And then she wrote,  \rMichael, I love you  \rI held the tears back long as I can  \rI'm sealing my feelings in this envelope  \rCause I want to be more than just your number one fan\r  \rI'm gonna answer your letter  \r(Michael Michael)  \rI'll start beginning with the ABC's of loving you  \r(I love ya)  \r(She wrote)  \r(Michael Michael)  \r(I love ya)  \rYour letter really touched my heart  \r(She wrote)  \rI've been dreaming of meeting the picture  \rThat you send along, signed with all your love  \r(Michael Michael)  \r(I wrote ya)  \r(She wrote)  \r  \rI'm gonna write you back, ouuh, I promess you that  \r(Won't you write me back?, please write me back)  \r  \rGirl, I think I love you  \r(Michael Michael)  \rHurry, hurry mister postman, take my letter, tell her I love her  \r(She wrote)  \r(Won't you write me back, please write me back)  \r(Michael Michael)  \r(She wrote)  \r  \rHurry, hurry mister postman, take my letter tell her I love her  \r(Won't you write me back, please write me back)  \r  \r(Michael Michael)  \rYeah,  \r(I wrote you)  \r(She wrote)  \rI'm gonna write you back  \rI promise",
+        "beginOffset": 301
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    },
+    {
+      "text": {
+        "content": "you that",
+        "beginOffset": 1381
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ]
 }

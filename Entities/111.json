@@ -1,7 +1,200 @@
 {
-  "error": {
-    "code": 400,
-    "message": "Invalid JSON payload received. Expected , or } after key:value pair.\naway  \rWaiting for \"Mrs. Right\"  \rYou ne\n                    ^",
-    "status": "INVALID_ARGUMENT"
-  }
+  "entities": [
+    {
+      "name": "friend",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.5709584,
+      "mentions": [
+        {
+          "text": {
+            "content": "friend",
+            "beginOffset": 319
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "girlfriend",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.31649357,
+      "mentions": [
+        {
+          "text": {
+            "content": "girlfriend",
+            "beginOffset": 259
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "IQ",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.034727164,
+      "mentions": [
+        {
+          "text": {
+            "content": "IQ",
+            "beginOffset": 62
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shortcomings",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.030052505,
+      "mentions": [
+        {
+          "text": {
+            "content": "shortcomings",
+            "beginOffset": 13
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "points",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0112258475,
+      "mentions": [
+        {
+          "text": {
+            "content": "points",
+            "beginOffset": 71
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Waiting for Mrs. Right You",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0068239784,
+      "mentions": [
+        {
+          "text": {
+            "content": "Waiting for Mrs. Right \rYou",
+            "beginOffset": 166
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "perfection",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005226204,
+      "mentions": [
+        {
+          "text": {
+            "content": "perfection",
+            "beginOffset": 413
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nothing",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005226204,
+      "mentions": [
+        {
+          "text": {
+            "content": "nothing",
+            "beginOffset": 453
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pain",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005226204,
+      "mentions": [
+        {
+          "text": {
+            "content": "pain",
+            "beginOffset": 465
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Foot Hot Look All American Man Sad",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0045301476,
+      "mentions": [
+        {
+          "text": {
+            "content": "Foot Hot Look All American Man  \r  \rSad",
+            "beginOffset": 99
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Devotion Waiting",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0045301476,
+      "mentions": [
+        {
+          "text": {
+            "content": "Devotion  \rWaiting",
+            "beginOffset": 211
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "concerns",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0026782777,
+      "mentions": [
+        {
+          "text": {
+            "content": "concerns",
+            "beginOffset": 523
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "stubbornness",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002301353,
+      "mentions": [
+        {
+          "text": {
+            "content": "stubbornness",
+            "beginOffset": 346
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
 }

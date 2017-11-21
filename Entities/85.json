@@ -4,94 +4,33 @@
       "name": "Livin",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.5093076,
+      "salience": 0.53180516,
       "mentions": [
         {
           "text": {
             "content": "Livin",
-            "beginOffset": 220
+            "beginOffset": 216
           },
           "type": "PROPER"
         },
         {
           "text": {
             "content": "way",
-            "beginOffset": 249
+            "beginOffset": 244
           },
           "type": "COMMON"
         },
         {
           "text": {
             "content": "Livin",
-            "beginOffset": 791
+            "beginOffset": 784
           },
           "type": "PROPER"
         },
         {
           "text": {
             "content": "Livin",
-            "beginOffset": 1218
-          },
-          "type": "PROPER"
-        },
-        {
-          "text": {
-            "content": "way",
-            "beginOffset": 1247
-          },
-          "type": "COMMON"
-        },
-        {
-          "text": {
-            "content": "Chorus",
-            "beginOffset": 1257
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "madness",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.16882174,
-      "mentions": [
-        {
-          "text": {
-            "content": "madness",
-            "beginOffset": 369
-          },
-          "type": "COMMON"
-        },
-        {
-          "text": {
-            "content": "madness",
-            "beginOffset": 1392
-          },
-          "type": "COMMON"
-        },
-        {
-          "text": {
-            "content": "madness",
-            "beginOffset": 1608
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "Groove",
-      "type": "OTHER",
-      "metadata": {
-        "mid": "/m/01vh5w",
-        "wikipedia_url": "https://en.wikipedia.org/wiki/Groove_(music)"
-      },
-      "salience": 0.023228688,
-      "mentions": [
-        {
-          "text": {
-            "content": "Groove",
-            "beginOffset": 353
+            "beginOffset": 1209
           },
           "type": "PROPER"
         }
@@ -101,64 +40,12 @@
       "name": "part",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.020119142,
+      "salience": 0.03628222,
       "mentions": [
         {
           "text": {
             "content": "part",
-            "beginOffset": 159
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "party",
-      "type": "ORGANIZATION",
-      "metadata": {},
-      "salience": 0.020119142,
-      "mentions": [
-        {
-          "text": {
-            "content": "party",
-            "beginOffset": 191
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "people",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.018818207,
-      "mentions": [
-        {
-          "text": {
-            "content": "people",
-            "beginOffset": 768
-          },
-          "type": "COMMON"
-        },
-        {
-          "text": {
-            "content": "people",
-            "beginOffset": 1195
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "people",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.017645912,
-      "mentions": [
-        {
-          "text": {
-            "content": "people",
-            "beginOffset": 197
+            "beginOffset": 156
           },
           "type": "COMMON"
         }
@@ -168,7 +55,7 @@
       "name": "world",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.016575204,
+      "salience": 0.03106382,
       "mentions": [
         {
           "text": {
@@ -180,10 +67,62 @@
       ]
     },
     {
+      "name": "people",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.029265428,
+      "mentions": [
+        {
+          "text": {
+            "content": "people",
+            "beginOffset": 761
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "people",
+            "beginOffset": 1186
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "feelin",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025468428,
+      "mentions": [
+        {
+          "text": {
+            "content": "feelin",
+            "beginOffset": 111
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "room",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025468428,
+      "mentions": [
+        {
+          "text": {
+            "content": "room",
+            "beginOffset": 138
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "shoulder",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.014091366,
+      "salience": 0.025468428,
       "mentions": [
         {
           "text": {
@@ -198,7 +137,7 @@
       "name": "act",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.014091366,
+      "salience": 0.025468428,
       "mentions": [
         {
           "text": {
@@ -210,30 +149,30 @@
       ]
     },
     {
-      "name": "room",
+      "name": "madness",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.014091366,
+      "salience": 0.024475789,
       "mentions": [
         {
           "text": {
-            "content": "room",
-            "beginOffset": 141
+            "content": "madness",
+            "beginOffset": 364
           },
           "type": "COMMON"
         }
       ]
     },
     {
-      "name": "town",
-      "type": "LOCATION",
+      "name": "life",
+      "type": "OTHER",
       "metadata": {},
-      "salience": 0.014091366,
+      "salience": 0.022663102,
       "mentions": [
         {
           "text": {
-            "content": "town",
-            "beginOffset": 167
+            "content": "life",
+            "beginOffset": 486
           },
           "type": "COMMON"
         }
@@ -243,192 +182,27 @@
       "name": "chance",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.013657337,
+      "salience": 0.02215359,
       "mentions": [
         {
           "text": {
             "content": "chance",
-            "beginOffset": 674
+            "beginOffset": 668
           },
           "type": "COMMON"
         }
       ]
     },
     {
-      "name": "Life",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.008172246,
-      "mentions": [
-        {
-          "text": {
-            "content": "Life",
-            "beginOffset": 403
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "Chorus",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0068044174,
-      "mentions": [
-        {
-          "text": {
-            "content": "Chorus",
-            "beginOffset": 259
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "music",
-      "type": "WORK_OF_ART",
-      "metadata": {},
-      "salience": 0.0068044174,
-      "mentions": [
-        {
-          "text": {
-            "content": "music",
-            "beginOffset": 384
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "shelf",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0068044174,
-      "mentions": [
-        {
-          "text": {
-            "content": "shelf",
-            "beginOffset": 319
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "one",
+      "name": "folks",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0061114184,
+      "salience": 0.016658708,
       "mentions": [
         {
           "text": {
-            "content": "one",
-            "beginOffset": 714
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "Life",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.00546075,
-      "mentions": [
-        {
-          "text": {
-            "content": "Life",
-            "beginOffset": 460
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "wall",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.00546075,
-      "mentions": [
-        {
-          "text": {
-            "content": "wall",
-            "beginOffset": 557
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "wall",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.00546075,
-      "mentions": [
-        {
-          "text": {
-            "content": "wall",
-            "beginOffset": 535
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "life",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.00546075,
-      "mentions": [
-        {
-          "text": {
-            "content": "life",
-            "beginOffset": 522
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "wall",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.00546075,
-      "mentions": [
-        {
-          "text": {
-            "content": "wall",
-            "beginOffset": 504
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "life",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.00546075,
-      "mentions": [
-        {
-          "text": {
-            "content": "life",
-            "beginOffset": 491
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "wall",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.00546075,
-      "mentions": [
-        {
-          "text": {
-            "content": "wall",
-            "beginOffset": 453
+            "content": "folks",
+            "beginOffset": 627
           },
           "type": "COMMON"
         }
@@ -438,7 +212,7 @@
       "name": "Gotta",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0053318953,
+      "salience": 0.016181294,
       "mentions": [
         {
           "text": {
@@ -450,52 +224,22 @@
         {
           "text": {
             "content": "Gotta",
-            "beginOffset": 1022
+            "beginOffset": 1014
           },
           "type": "PROPER"
         }
       ]
     },
     {
-      "name": "party",
-      "type": "ORGANIZATION",
+      "name": "people",
+      "type": "PERSON",
       "metadata": {},
-      "salience": 0.0052574035,
+      "salience": 0.012330261,
       "mentions": [
         {
           "text": {
-            "content": "party",
-            "beginOffset": 762
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "party",
-      "type": "ORGANIZATION",
-      "metadata": {},
-      "salience": 0.00481287,
-      "mentions": [
-        {
-          "text": {
-            "content": "party",
-            "beginOffset": 972
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "way",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0046023894,
-      "mentions": [
-        {
-          "text": {
-            "content": "way",
-            "beginOffset": 820
+            "content": "people",
+            "beginOffset": 193
           },
           "type": "COMMON"
         }
@@ -505,57 +249,169 @@
       "name": "Chorus",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0046023894,
+      "salience": 0.011223493,
       "mentions": [
         {
           "text": {
             "content": "Chorus",
-            "beginOffset": 830
+            "beginOffset": 254
           },
           "type": "COMMON"
         }
       ]
     },
     {
-      "name": "rules",
+      "name": "Cause",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0038331219,
+      "salience": 0.010488432,
       "mentions": [
         {
           "text": {
-            "content": "rules",
-            "beginOffset": 914
+            "content": "Cause",
+            "beginOffset": 171
           },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "rules",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0038331219,
-      "mentions": [
+          "type": "PROPER"
+        },
         {
           "text": {
-            "content": "rules",
-            "beginOffset": 883
+            "content": "Cause",
+            "beginOffset": 739
           },
-          "type": "COMMON"
+          "type": "PROPER"
         }
       ]
     },
     {
-      "name": "folks",
+      "name": "one",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0036653283,
+      "salience": 0.010311267,
       "mentions": [
         {
           "text": {
-            "content": "folks",
-            "beginOffset": 633
+            "content": "one",
+            "beginOffset": 708
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shelf",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0098289,
+      "mentions": [
+        {
+          "text": {
+            "content": "shelf",
+            "beginOffset": 314
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "town",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0098289,
+      "mentions": [
+        {
+          "text": {
+            "content": "town",
+            "beginOffset": 164
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "wall",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008979341,
+      "mentions": [
+        {
+          "text": {
+            "content": "wall",
+            "beginOffset": 499
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "wall",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008979341,
+      "mentions": [
+        {
+          "text": {
+            "content": "wall",
+            "beginOffset": 552
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008979341,
+      "mentions": [
+        {
+          "text": {
+            "content": "life",
+            "beginOffset": 517
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "wall",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008979341,
+      "mentions": [
+        {
+          "text": {
+            "content": "wall",
+            "beginOffset": 448
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008979341,
+      "mentions": [
+        {
+          "text": {
+            "content": "Life",
+            "beginOffset": 455
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "wall",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008979341,
+      "mentions": [
+        {
+          "text": {
+            "content": "wall",
+            "beginOffset": 530
           },
           "type": "COMMON"
         }
@@ -565,79 +421,12 @@
       "name": "sin",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0036192958,
+      "salience": 0.0066488315,
       "mentions": [
         {
           "text": {
             "content": "sin",
-            "beginOffset": 626
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "Cause",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.002899901,
-      "mentions": [
-        {
-          "text": {
-            "content": "Cause",
-            "beginOffset": 605
-          },
-          "type": "PROPER"
-        }
-      ]
-    },
-    {
-      "name": "Gotta",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0025109944,
-      "mentions": [
-        {
-          "text": {
-            "content": "inhibitions",
-            "beginOffset": 1038
-          },
-          "type": "COMMON"
-        },
-        {
-          "text": {
-            "content": "Gotta",
-            "beginOffset": 1052
-          },
-          "type": "PROPER"
-        }
-      ]
-    },
-    {
-      "name": "wall",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0018019967,
-      "mentions": [
-        {
-          "text": {
-            "content": "wall",
-            "beginOffset": 1476
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "Life",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0018019967,
-      "mentions": [
-        {
-          "text": {
-            "content": "Life",
-            "beginOffset": 1426
+            "beginOffset": 620
           },
           "type": "COMMON"
         }
@@ -647,162 +436,12 @@
       "name": "music",
       "type": "WORK_OF_ART",
       "metadata": {},
-      "salience": 0.0014987497,
+      "salience": 0.0066488315,
       "mentions": [
         {
           "text": {
             "content": "music",
-            "beginOffset": 1407
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "shelf",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0014987497,
-      "mentions": [
-        {
-          "text": {
-            "content": "shelf",
-            "beginOffset": 1320
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "groove",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0013632693,
-      "mentions": [
-        {
-          "text": {
-            "content": "groove",
-            "beginOffset": 1366
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "exhibition",
-      "type": "EVENT",
-      "metadata": {},
-      "salience": 0.0012499697,
-      "mentions": [
-        {
-          "text": {
-            "content": "exhibition",
-            "beginOffset": 1117
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "Life",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.00124805,
-      "mentions": [
-        {
-          "text": {
-            "content": "Life",
-            "beginOffset": 1642
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "wall",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.00124805,
-      "mentions": [
-        {
-          "text": {
-            "content": "wall",
-            "beginOffset": 1692
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "soul",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0011012177,
-      "mentions": [
-        {
-          "text": {
-            "content": "soul",
-            "beginOffset": 1095
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "shelf",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0010379249,
-      "mentions": [
-        {
-          "text": {
-            "content": "shelf",
-            "beginOffset": 1536
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "music",
-      "type": "WORK_OF_ART",
-      "metadata": {},
-      "salience": 0.0010379249,
-      "mentions": [
-        {
-          "text": {
-            "content": "music",
-            "beginOffset": 1623
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "groove",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0009440609,
-      "mentions": [
-        {
-          "text": {
-            "content": "groove",
-            "beginOffset": 1582
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "Cause",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.00086700235,
-      "mentions": [
-        {
-          "text": {
-            "content": "Cause",
-            "beginOffset": 1173
+            "beginOffset": 379
           },
           "type": "COMMON"
         }
@@ -812,12 +451,165 @@
       "name": "party",
       "type": "ORGANIZATION",
       "metadata": {},
-      "salience": 0.0007516914,
+      "salience": 0.006529377,
       "mentions": [
         {
           "text": {
             "content": "party",
-            "beginOffset": 1189
+            "beginOffset": 964
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Life",
+      "type": "OTHER",
+      "metadata": {
+        "mid": "/m/04nr2",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Life"
+      },
+      "salience": 0.0053284843,
+      "mentions": [
+        {
+          "text": {
+            "content": "Life",
+            "beginOffset": 398
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "inhibitions",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004551238,
+      "mentions": [
+        {
+          "text": {
+            "content": "inhibitions",
+            "beginOffset": 1030
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "exhibition",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.003153465,
+      "mentions": [
+        {
+          "text": {
+            "content": "exhibition",
+            "beginOffset": 1109
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "soul",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003153465,
+      "mentions": [
+        {
+          "text": {
+            "content": "soul",
+            "beginOffset": 1087
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002511485,
+      "mentions": [
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": 812
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Cause",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0024272674,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cause",
+            "beginOffset": 1164
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0022844828,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chorus",
+            "beginOffset": 822
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rules",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0022844828,
+      "mentions": [
+        {
+          "text": {
+            "content": "rules",
+            "beginOffset": 906
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rules",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0022844828,
+      "mentions": [
+        {
+          "text": {
+            "content": "rules",
+            "beginOffset": 875
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0018840182,
+      "mentions": [
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": 1238
           },
           "type": "COMMON"
         }

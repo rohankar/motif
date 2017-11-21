@@ -4,7 +4,7 @@
       "name": "baby",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.73517036,
+      "salience": 0.5488464,
       "mentions": [
         {
           "text": {
@@ -110,7 +110,7 @@
       "name": "cause",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.11443065,
+      "salience": 0.314183,
       "mentions": [
         {
           "text": {
@@ -136,46 +136,32 @@
       ]
     },
     {
-      "name": "love",
-      "type": "OTHER",
+      "name": "Breakin",
+      "type": "WORK_OF_ART",
       "metadata": {},
-      "salience": 0.025073385,
+      "salience": 0.026136579,
       "mentions": [
         {
           "text": {
-            "content": "love",
-            "beginOffset": 180
+            "content": "Breakin",
+            "beginOffset": 74
           },
-          "type": "COMMON"
+          "type": "PROPER"
         }
       ]
     },
     {
-      "name": "Sorry",
+      "name": "sweat Cause",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.014921702,
+      "salience": 0.010942952,
       "mentions": [
         {
           "text": {
-            "content": "Sorry",
-            "beginOffset": 322
+            "content": "sweat  \rCause",
+            "beginOffset": 97
           },
-          "type": "PROPER"
-        },
-        {
-          "text": {
-            "content": "Sorry",
-            "beginOffset": 786
-          },
-          "type": "PROPER"
-        },
-        {
-          "text": {
-            "content": "Sorry",
-            "beginOffset": 1592
-          },
-          "type": "PROPER"
+          "type": "COMMON"
         }
       ]
     },
@@ -183,7 +169,7 @@
       "name": "man",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.010797987,
+      "salience": 0.010942952,
       "mentions": [
         {
           "text": {
@@ -195,25 +181,10 @@
       ]
     },
     {
-      "name": "Cause",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0106635,
-      "mentions": [
-        {
-          "text": {
-            "content": "Cause",
-            "beginOffset": 105
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "lovers",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.00991528,
+      "salience": 0.010175666,
       "mentions": [
         {
           "text": {
@@ -225,15 +196,15 @@
       ]
     },
     {
-      "name": "life",
+      "name": "love",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.007906889,
+      "salience": 0.010175666,
       "mentions": [
         {
           "text": {
-            "content": "life",
-            "beginOffset": 10
+            "content": "love",
+            "beginOffset": 180
           },
           "type": "COMMON"
         }
@@ -243,7 +214,7 @@
       "name": "door",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.007906889,
+      "salience": 0.008115624,
       "mentions": [
         {
           "text": {
@@ -255,15 +226,15 @@
       ]
     },
     {
-      "name": "sweat",
+      "name": "life",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.007906889,
+      "salience": 0.008115624,
       "mentions": [
         {
           "text": {
-            "content": "sweat",
-            "beginOffset": 97
+            "content": "life",
+            "beginOffset": 10
           },
           "type": "COMMON"
         }
@@ -273,7 +244,7 @@
       "name": "dues",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.007906889,
+      "salience": 0.008115624,
       "mentions": [
         {
           "text": {
@@ -288,7 +259,7 @@
       "name": "boy",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0048073074,
+      "salience": 0.0049541723,
       "mentions": [
         {
           "text": {
@@ -300,25 +271,10 @@
       ]
     },
     {
-      "name": "Breakin",
-      "type": "WORK_OF_ART",
-      "metadata": {},
-      "salience": 0.0046964497,
-      "mentions": [
-        {
-          "text": {
-            "content": "Breakin",
-            "beginOffset": 74
-          },
-          "type": "PROPER"
-        }
-      ]
-    },
-    {
       "name": "man",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0044189417,
+      "salience": 0.004771271,
       "mentions": [
         {
           "text": {
@@ -333,7 +289,7 @@
       "name": "way",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0043492336,
+      "salience": 0.004464864,
       "mentions": [
         {
           "text": {
@@ -345,25 +301,10 @@
       ]
     },
     {
-      "name": "man",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.003565159,
-      "mentions": [
-        {
-          "text": {
-            "content": "man",
-            "beginOffset": 606
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "difference",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0032706216,
+      "salience": 0.004007296,
       "mentions": [
         {
           "text": {
@@ -378,7 +319,7 @@
       "name": "way",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0032691248,
+      "salience": 0.003326853,
       "mentions": [
         {
           "text": {
@@ -390,10 +331,25 @@
       ]
     },
     {
+      "name": "man",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00284244,
+      "mentions": [
+        {
+          "text": {
+            "content": "man",
+            "beginOffset": 606
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "shock",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0020225039,
+      "salience": 0.0021027501,
       "mentions": [
         {
           "text": {
@@ -408,7 +364,7 @@
       "name": "tears",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0020225039,
+      "salience": 0.0021027501,
       "mentions": [
         {
           "text": {
@@ -423,7 +379,7 @@
       "name": "body",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0020225039,
+      "salience": 0.0021027501,
       "mentions": [
         {
           "text": {
@@ -438,7 +394,7 @@
       "name": "baby",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.001437575,
+      "salience": 0.0014757572,
       "mentions": [
         {
           "text": {
@@ -453,7 +409,7 @@
       "name": "baby",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.001437575,
+      "salience": 0.0014757572,
       "mentions": [
         {
           "text": {
@@ -468,7 +424,7 @@
       "name": "baby",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.001437575,
+      "salience": 0.0014757572,
       "mentions": [
         {
           "text": {
@@ -483,7 +439,7 @@
       "name": "way",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0013739897,
+      "salience": 0.001428455,
       "mentions": [
         {
           "text": {
@@ -498,7 +454,7 @@
       "name": "love",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0012808443,
+      "salience": 0.0013657755,
       "mentions": [
         {
           "text": {
@@ -513,7 +469,7 @@
       "name": "times",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0010134864,
+      "salience": 0.0010403456,
       "mentions": [
         {
           "text": {
@@ -528,7 +484,7 @@
       "name": "way",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0009515296,
+      "salience": 0.0009767354,
       "mentions": [
         {
           "text": {
@@ -540,10 +496,25 @@
       ]
     },
     {
+      "name": "Goodbye",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.00074003835,
+      "mentions": [
+        {
+          "text": {
+            "content": "Goodbye",
+            "beginOffset": 910
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
       "name": "way",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.00065646885,
+      "salience": 0.0006738076,
       "mentions": [
         {
           "text": {
@@ -558,7 +529,7 @@
       "name": "baby",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.00063084846,
+      "salience": 0.0006475049,
       "mentions": [
         {
           "text": {
@@ -573,7 +544,7 @@
       "name": "baby",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.00063084846,
+      "salience": 0.0006475049,
       "mentions": [
         {
           "text": {
@@ -585,25 +556,10 @@
       ]
     },
     {
-      "name": "repeat",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0004570321,
-      "mentions": [
-        {
-          "text": {
-            "content": "repeat",
-            "beginOffset": 2098
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "man",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.00039809523,
+      "salience": 0.00040341352,
       "mentions": [
         {
           "text": {
@@ -615,10 +571,25 @@
       ]
     },
     {
+      "name": "best",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00031773318,
+      "mentions": [
+        {
+          "text": {
+            "content": "best",
+            "beginOffset": 1387
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "baby girl",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.00032987862,
+      "salience": 0.00030977416,
       "mentions": [
         {
           "text": {
@@ -633,7 +604,7 @@
       "name": "knees",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0002905904,
+      "salience": 0.0002982077,
       "mentions": [
         {
           "text": {
@@ -648,44 +619,12 @@
       "name": "plea",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0002905904,
+      "salience": 0.0002982077,
       "mentions": [
         {
           "text": {
             "content": "plea",
             "beginOffset": 1456
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "Beggin",
-      "type": "PERSON",
-      "metadata": {
-        "mid": "/g/1s05n40bm"
-      },
-      "salience": 0.00017200083,
-      "mentions": [
-        {
-          "text": {
-            "content": "Beggin",
-            "beginOffset": 1499
-          },
-          "type": "PROPER"
-        }
-      ]
-    },
-    {
-      "name": "best",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.00016631703,
-      "mentions": [
-        {
-          "text": {
-            "content": "best",
-            "beginOffset": 1387
           },
           "type": "COMMON"
         }

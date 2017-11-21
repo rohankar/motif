@@ -1,89 +1,15 @@
 {
   "entities": [
     {
-      "name": "song",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.464033,
-      "mentions": [
-        {
-          "text": {
-            "content": "song",
-            "beginOffset": 130
-          },
-          "type": "COMMON"
-        },
-        {
-          "text": {
-            "content": "skin",
-            "beginOffset": 615
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "stars",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.16320309,
-      "mentions": [
-        {
-          "text": {
-            "content": "stars",
-            "beginOffset": 12
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "thing",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.15180485,
+      "salience": 0.47526285,
       "mentions": [
         {
           "text": {
             "content": "thing",
             "beginOffset": 238
-          },
-          "type": "COMMON"
-        },
-        {
-          "text": {
-            "content": "skin",
-            "beginOffset": 291
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "things",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.026628843,
-      "mentions": [
-        {
-          "text": {
-            "content": "things",
-            "beginOffset": 1009
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "things",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.026462916,
-      "mentions": [
-        {
-          "text": {
-            "content": "things",
-            "beginOffset": 157
           },
           "type": "COMMON"
         }
@@ -93,7 +19,7 @@
       "name": "everything",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.020440584,
+      "salience": 0.076164,
       "mentions": [
         {
           "text": {
@@ -105,10 +31,77 @@
       ]
     },
     {
+      "name": "stars",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.067925796,
+      "mentions": [
+        {
+          "text": {
+            "content": "stars",
+            "beginOffset": 12
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "song",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.05960484,
+      "mentions": [
+        {
+          "text": {
+            "content": "song",
+            "beginOffset": 130
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Look",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04123993,
+      "mentions": [
+        {
+          "text": {
+            "content": "Look",
+            "beginOffset": 776
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Look",
+            "beginOffset": 862
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "things",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03297157,
+      "mentions": [
+        {
+          "text": {
+            "content": "things",
+            "beginOffset": 157
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "turn",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.020185182,
+      "salience": 0.025468962,
       "mentions": [
         {
           "text": {
@@ -123,7 +116,52 @@
       "name": "thing",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.017925723,
+      "salience": 0.022335641,
+      "mentions": [
+        {
+          "text": {
+            "content": "thing",
+            "beginOffset": 474
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "skin",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021041702,
+      "mentions": [
+        {
+          "text": {
+            "content": "skin",
+            "beginOffset": 291
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "skin",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021041702,
+      "mentions": [
+        {
+          "text": {
+            "content": "skin",
+            "beginOffset": 311
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "thing",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020451363,
       "mentions": [
         {
           "text": {
@@ -138,22 +176,7 @@
       "name": "skin",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.016675893,
-      "mentions": [
-        {
-          "text": {
-            "content": "skin",
-            "beginOffset": 311
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "skin",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.01546195,
+      "salience": 0.019265814,
       "mentions": [
         {
           "text": {
@@ -165,15 +188,15 @@
       ]
     },
     {
-      "name": "bones",
+      "name": "skin",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.014106079,
+      "salience": 0.019265814,
       "mentions": [
         {
           "text": {
-            "content": "bones",
-            "beginOffset": 320
+            "content": "skin",
+            "beginOffset": 615
           },
           "type": "COMMON"
         }
@@ -183,7 +206,7 @@
       "name": "something",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.014106079,
+      "salience": 0.017799355,
       "mentions": [
         {
           "text": {
@@ -195,15 +218,15 @@
       ]
     },
     {
-      "name": "line",
+      "name": "bones",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.013078138,
+      "salience": 0.017799355,
       "mentions": [
         {
           "text": {
-            "content": "line",
-            "beginOffset": 528
+            "content": "bones",
+            "beginOffset": 320
           },
           "type": "COMMON"
         }
@@ -213,7 +236,7 @@
       "name": "line",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.013078138,
+      "salience": 0.016295487,
       "mentions": [
         {
           "text": {
@@ -225,15 +248,30 @@
       ]
     },
     {
-      "name": "thing",
+      "name": "line",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0075998898,
+      "salience": 0.016295487,
       "mentions": [
         {
           "text": {
-            "content": "thing",
-            "beginOffset": 474
+            "content": "line",
+            "beginOffset": 528
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "things",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010610158,
+      "mentions": [
+        {
+          "text": {
+            "content": "things",
+            "beginOffset": 1009
           },
           "type": "COMMON"
         }
@@ -241,9 +279,9 @@
     },
     {
       "name": "stars",
-      "type": "PERSON",
+      "type": "OTHER",
       "metadata": {},
-      "salience": 0.006611084,
+      "salience": 0.008447918,
       "mentions": [
         {
           "text": {
@@ -258,7 +296,7 @@
       "name": "bones",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0042992868,
+      "salience": 0.005356125,
       "mentions": [
         {
           "text": {
@@ -273,7 +311,7 @@
       "name": "something",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0042992868,
+      "salience": 0.005356125,
       "mentions": [
         {
           "text": {

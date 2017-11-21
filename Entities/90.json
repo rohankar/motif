@@ -1,7 +1,716 @@
 {
-  "error": {
-    "code": 400,
-    "message": "Invalid JSON payload received. Expected , or } after key:value pair.\ney heard him say  \r\"Oh God, don't let hi\n                    ^",
-    "status": "INVALID_ARGUMENT"
-  }
+  "entities": [
+    {
+      "name": "God",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/0d05l6",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/God"
+      },
+      "salience": 0.28208658,
+      "mentions": [
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 203
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 242
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "God",
+            "beginOffset": 847
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "bullet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.11467315,
+      "mentions": [
+        {
+          "text": {
+            "content": "bullet",
+            "beginOffset": 88
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10043514,
+      "mentions": [
+        {
+          "text": {
+            "content": "life",
+            "beginOffset": 364
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "life",
+            "beginOffset": 1003
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "life",
+            "beginOffset": 1316
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06773748,
+      "mentions": [
+        {
+          "text": {
+            "content": "life",
+            "beginOffset": 476
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "life",
+            "beginOffset": 1114
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "life",
+            "beginOffset": 1429
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "little",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.060022417,
+      "mentions": [
+        {
+          "text": {
+            "content": "little",
+            "beginOffset": 40
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "side",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.057195954,
+      "mentions": [
+        {
+          "text": {
+            "content": "side",
+            "beginOffset": 633
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "side",
+            "beginOffset": 1271
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "side",
+            "beginOffset": 1586
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "side",
+            "beginOffset": 1615
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "side",
+            "beginOffset": 1641
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "side",
+            "beginOffset": 1667
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Uncle Sam",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/01d9_5",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Uncle_Sam"
+      },
+      "salience": 0.05140055,
+      "mentions": [
+        {
+          "text": {
+            "content": "Uncle Sam",
+            "beginOffset": 0
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "name",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03610585,
+      "mentions": [
+        {
+          "text": {
+            "content": "name",
+            "beginOffset": 619
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "name",
+            "beginOffset": 1257
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "name",
+            "beginOffset": 1572
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rage",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.027473832,
+      "mentions": [
+        {
+          "text": {
+            "content": "rage",
+            "beginOffset": 125
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "stage",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.027473832,
+      "mentions": [
+        {
+          "text": {
+            "content": "stage",
+            "beginOffset": 108
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "trigger",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.027473832,
+      "mentions": [
+        {
+          "text": {
+            "content": "trigger",
+            "beginOffset": 72
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "brother",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.024422776,
+      "mentions": [
+        {
+          "text": {
+            "content": "brother",
+            "beginOffset": 310
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "brother",
+            "beginOffset": 949
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "world",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.020540718,
+      "mentions": [
+        {
+          "text": {
+            "content": "world",
+            "beginOffset": 150
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "world",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.015964726,
+      "mentions": [
+        {
+          "text": {
+            "content": "world",
+            "beginOffset": 1170
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "world",
+            "beginOffset": 1485
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "right",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0062585124,
+      "mentions": [
+        {
+          "text": {
+            "content": "right",
+            "beginOffset": 409
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bullet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0055049127,
+      "mentions": [
+        {
+          "text": {
+            "content": "bullet",
+            "beginOffset": 742
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bullet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0055049127,
+      "mentions": [
+        {
+          "text": {
+            "content": "bullet",
+            "beginOffset": 643
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "somebody",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0045494162,
+      "mentions": [
+        {
+          "text": {
+            "content": "somebody",
+            "beginOffset": 465
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "world",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0045365803,
+      "mentions": [
+        {
+          "text": {
+            "content": "world",
+            "beginOffset": 532
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "somebody",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0045365803,
+      "mentions": [
+        {
+          "text": {
+            "content": "somebody",
+            "beginOffset": 797
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hate",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004227163,
+      "mentions": [
+        {
+          "text": {
+            "content": "hate",
+            "beginOffset": 444
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.004215234,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": 564
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "right",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0038347172,
+      "mentions": [
+        {
+          "text": {
+            "content": "right",
+            "beginOffset": 1048
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "many",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0038342446,
+      "mentions": [
+        {
+          "text": {
+            "content": "many",
+            "beginOffset": 838
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bullet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0037372005,
+      "mentions": [
+        {
+          "text": {
+            "content": "bullet",
+            "beginOffset": 1281
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "wake",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0033549177,
+      "mentions": [
+        {
+          "text": {
+            "content": "wake",
+            "beginOffset": 666
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mistake",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0033549177,
+      "mentions": [
+        {
+          "text": {
+            "content": "mistake",
+            "beginOffset": 678
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lives",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0033549177,
+      "mentions": [
+        {
+          "text": {
+            "content": "lives",
+            "beginOffset": 696
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "somebody",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00307526,
+      "mentions": [
+        {
+          "text": {
+            "content": "somebody",
+            "beginOffset": 1418
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "right",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0028572879,
+      "mentions": [
+        {
+          "text": {
+            "content": "right",
+            "beginOffset": 1361
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hate",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0028572879,
+      "mentions": [
+        {
+          "text": {
+            "content": "hate",
+            "beginOffset": 1397
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bullet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0025814422,
+      "mentions": [
+        {
+          "text": {
+            "content": "bullet",
+            "beginOffset": 1596
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bullet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0025814422,
+      "mentions": [
+        {
+          "text": {
+            "content": "bullet",
+            "beginOffset": 1625
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bullet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0025814422,
+      "mentions": [
+        {
+          "text": {
+            "content": "bullet",
+            "beginOffset": 1651
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bullet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0025814422,
+      "mentions": [
+        {
+          "text": {
+            "content": "bullet",
+            "beginOffset": 1677
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0019760367,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": 1517
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "somebody",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0013528842,
+      "mentions": [
+        {
+          "text": {
+            "content": "somebody",
+            "beginOffset": 1103
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hate",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0012569213,
+      "mentions": [
+        {
+          "text": {
+            "content": "hate",
+            "beginOffset": 1082
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0012550453,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": 1202
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "excuse",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0012324273,
+      "mentions": [
+        {
+          "text": {
+            "content": "excuse",
+            "beginOffset": 758
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
 }

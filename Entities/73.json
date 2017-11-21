@@ -4,7 +4,7 @@
       "name": "Thoughts",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.21297614,
+      "salience": 0.25221804,
       "mentions": [
         {
           "text": {
@@ -19,7 +19,7 @@
       "name": "mind",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.21297614,
+      "salience": 0.20225492,
       "mentions": [
         {
           "text": {
@@ -34,7 +34,7 @@
       "name": "car",
       "type": "CONSUMER_GOOD",
       "metadata": {},
-      "salience": 0.08271671,
+      "salience": 0.07855708,
       "mentions": [
         {
           "text": {
@@ -49,7 +49,7 @@
       "name": "head",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.08271671,
+      "salience": 0.07855708,
       "mentions": [
         {
           "text": {
@@ -64,7 +64,7 @@
       "name": "bus",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.05603008,
+      "salience": 0.053210087,
       "mentions": [
         {
           "text": {
@@ -79,7 +79,7 @@
       "name": "train",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.05603008,
+      "salience": 0.053210087,
       "mentions": [
         {
           "text": {
@@ -94,7 +94,7 @@
       "name": "cab",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.05603008,
+      "salience": 0.053210087,
       "mentions": [
         {
           "text": {
@@ -109,7 +109,7 @@
       "name": "lane",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.05603008,
+      "salience": 0.053210087,
       "mentions": [
         {
           "text": {
@@ -124,7 +124,7 @@
       "name": "sky",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.051302906,
+      "salience": 0.04872018,
       "mentions": [
         {
           "text": {
@@ -139,7 +139,7 @@
       "name": "planes",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.051302906,
+      "salience": 0.04872018,
       "mentions": [
         {
           "text": {
@@ -154,7 +154,7 @@
       "name": "hands",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.051302906,
+      "salience": 0.04872018,
       "mentions": [
         {
           "text": {
@@ -169,7 +169,7 @@
       "name": "nothing",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.030585255,
+      "salience": 0.029411996,
       "mentions": [
         {
           "text": {

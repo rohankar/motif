@@ -1,7 +1,839 @@
 {
-  "error": {
-    "code": 400,
-    "message": "Invalid JSON payload received. Expected , or } after key:value pair.\ncrowd would sing  \r\"Now the old king is \n                    ^",
-    "status": "INVALID_ARGUMENT"
-  }
+  "entities": [
+    {
+      "name": "king",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.13179031,
+      "mentions": [
+        {
+          "text": {
+            "content": "king",
+            "beginOffset": 245
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "king",
+            "beginOffset": 273
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "world",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.09064897,
+      "mentions": [
+        {
+          "text": {
+            "content": "world",
+            "beginOffset": 19
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "word",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07687248,
+      "mentions": [
+        {
+          "text": {
+            "content": "word",
+            "beginOffset": 59
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "streets",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.06741709,
+      "mentions": [
+        {
+          "text": {
+            "content": "streets",
+            "beginOffset": 112
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "word",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06631986,
+      "mentions": [
+        {
+          "text": {
+            "content": "word",
+            "beginOffset": 659
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mirror",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06625856,
+      "mentions": [
+        {
+          "text": {
+            "content": "mirror",
+            "beginOffset": 513
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "mirror",
+            "beginOffset": 1077
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "missionaries",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.044403303,
+      "mentions": [
+        {
+          "text": {
+            "content": "missionaries",
+            "beginOffset": 546
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "missionaries",
+            "beginOffset": 1110
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bells",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.044403303,
+      "mentions": [
+        {
+          "text": {
+            "content": "bells",
+            "beginOffset": 452
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "bells",
+            "beginOffset": 1016
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Seas",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.04018217,
+      "mentions": [
+        {
+          "text": {
+            "content": "Seas",
+            "beginOffset": 27
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025984496,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": 193
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "enemy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.025984496,
+      "mentions": [
+        {
+          "text": {
+            "content": "enemy",
+            "beginOffset": 185
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "crowd",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.025984496,
+      "mentions": [
+        {
+          "text": {
+            "content": "crowd",
+            "beginOffset": 214
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dice",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025984496,
+      "mentions": [
+        {
+          "text": {
+            "content": "dice",
+            "beginOffset": 158
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fear",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01993788,
+      "mentions": [
+        {
+          "text": {
+            "content": "fear",
+            "beginOffset": 174
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Oh",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.011955165,
+      "mentions": [
+        {
+          "text": {
+            "content": "world",
+            "beginOffset": 1272
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Oh",
+            "beginOffset": 1283
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "world",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.010296811,
+      "mentions": [
+        {
+          "text": {
+            "content": "world",
+            "beginOffset": 692
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pillars",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.009509916,
+      "mentions": [
+        {
+          "text": {
+            "content": "pillars",
+            "beginOffset": 414
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "choirs",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.009509916,
+      "mentions": [
+        {
+          "text": {
+            "content": "choirs",
+            "beginOffset": 486
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pillars",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.009509916,
+      "mentions": [
+        {
+          "text": {
+            "content": "pillars",
+            "beginOffset": 394
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sword",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009509916,
+      "mentions": [
+        {
+          "text": {
+            "content": "sword",
+            "beginOffset": 524
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "field",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009509916,
+      "mentions": [
+        {
+          "text": {
+            "content": "field",
+            "beginOffset": 572
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "reason",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009509916,
+      "mentions": [
+        {
+          "text": {
+            "content": "reason",
+            "beginOffset": 589
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Jerusalem",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0430_",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Jerusalem"
+      },
+      "salience": 0.008829664,
+      "mentions": [
+        {
+          "text": {
+            "content": "Jerusalem",
+            "beginOffset": 442
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Jerusalem",
+            "beginOffset": 1006
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "windows",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008703485,
+      "mentions": [
+        {
+          "text": {
+            "content": "windows",
+            "beginOffset": 780
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "wind",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008703485,
+      "mentions": [
+        {
+          "text": {
+            "content": "wind",
+            "beginOffset": 728
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sand",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008321795,
+      "mentions": [
+        {
+          "text": {
+            "content": "sand",
+            "beginOffset": 425
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "key",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008321795,
+      "mentions": [
+        {
+          "text": {
+            "content": "key",
+            "beginOffset": 307
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "castles",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.008321795,
+      "mentions": [
+        {
+          "text": {
+            "content": "castles",
+            "beginOffset": 373
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "salt",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008321795,
+      "mentions": [
+        {
+          "text": {
+            "content": "salt",
+            "beginOffset": 405
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "walls",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008321795,
+      "mentions": [
+        {
+          "text": {
+            "content": "walls",
+            "beginOffset": 322
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "doors",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007615913,
+      "mentions": [
+        {
+          "text": {
+            "content": "doors",
+            "beginOffset": 749
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sound",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007615913,
+      "mentions": [
+        {
+          "text": {
+            "content": "sound",
+            "beginOffset": 796
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "drums",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007615913,
+      "mentions": [
+        {
+          "text": {
+            "content": "drums",
+            "beginOffset": 805
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "reason",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0064805713,
+      "mentions": [
+        {
+          "text": {
+            "content": "reason",
+            "beginOffset": 1153
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "field",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0064805713,
+      "mentions": [
+        {
+          "text": {
+            "content": "field",
+            "beginOffset": 1136
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sword",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0064805713,
+      "mentions": [
+        {
+          "text": {
+            "content": "sword",
+            "beginOffset": 1088
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "choirs",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0064805713,
+      "mentions": [
+        {
+          "text": {
+            "content": "choirs",
+            "beginOffset": 1050
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0056703584,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chorus",
+            "beginOffset": 989
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "world",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0053103766,
+      "mentions": [
+        {
+          "text": {
+            "content": "world",
+            "beginOffset": 1234
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Roman Cavalry",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/05b0q_2",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Roman_cavalry"
+      },
+      "salience": 0.0049286764,
+      "mentions": [
+        {
+          "text": {
+            "content": "Roman Cavalry",
+            "beginOffset": 472
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "People",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.004530351,
+      "mentions": [
+        {
+          "text": {
+            "content": "People",
+            "beginOffset": 813
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "name",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0039264206,
+      "mentions": [
+        {
+          "text": {
+            "content": "name",
+            "beginOffset": 1211
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "king",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.003843177,
+      "mentions": [
+        {
+          "text": {
+            "content": "king",
+            "beginOffset": 977
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Roman",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0038374367,
+      "mentions": [
+        {
+          "text": {
+            "content": "Roman",
+            "beginOffset": 1036
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Calvary",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/022dhl",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Calvary"
+      },
+      "salience": 0.0033573827,
+      "mentions": [
+        {
+          "text": {
+            "content": "Calvary",
+            "beginOffset": 1042
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "string",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0024966486,
+      "mentions": [
+        {
+          "text": {
+            "content": "string",
+            "beginOffset": 939
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "puppet",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0024966486,
+      "mentions": [
+        {
+          "text": {
+            "content": "puppet",
+            "beginOffset": 920
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "silver plate",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0024966486,
+      "mentions": [
+        {
+          "text": {
+            "content": "silver plate",
+            "beginOffset": 898
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "head",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0024966486,
+      "mentions": [
+        {
+          "text": {
+            "content": "head",
+            "beginOffset": 888
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Revolutionaries",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0024966486,
+      "mentions": [
+        {
+          "text": {
+            "content": "Revolutionaries",
+            "beginOffset": 858
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Saint Peter",
+      "type": "PERSON",
+      "metadata": {
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Saint_Peter",
+        "mid": "/m/071wp"
+      },
+      "salience": 0.0023243756,
+      "mentions": [
+        {
+          "text": {
+            "content": "Saint Peter",
+            "beginOffset": 1185
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Oh",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0016891627,
+      "mentions": [
+        {
+          "text": {
+            "content": "Oh",
+            "beginOffset": 948
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "language": "en"
 }

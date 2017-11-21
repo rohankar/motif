@@ -1,7 +1,29 @@
 {
-  "error": {
-    "code": 400,
-    "message": "Invalid JSON payload received. Expected , or } after key:value pair.\nlose her eyes  \r  \r\"I'm scared,\" she whi\n                    ^",
-    "status": "INVALID_ARGUMENT"
-  }
+  "documentSentiment": {
+    "magnitude": 0.9,
+    "score": 0.4
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "Hold her hand through the black light  \rBaby it's a forest land of trick slides  \rHoney just take your time  \rClose her eyes  \r I'm scared, she whispered  \rAs she wants to hide  \rInto a back room where  \rShe paints on a smile  \rShe hears a sound  \rShe hears a sound  \r  \rIt could have been love  \rIt could have been anybody  \rAnybody, uh-oh  \rShe waited for love  \rBut there wasn't anybody  \rAround so she left  \rTown with the rock show  \r  \rKeep it cool at the freakshow  \rBaby it's a happy place  \rIf you lose it, honey  \rJust take your time  \rClose his eyes  \r  \rTouch me he whispered  \rAs he walks to the light  \rFrom the window  \rThere's visions of  \rA house in the night  \rHe hears a sound  \rHe hears a sound  \r  \rIt could have been love  \rIt could have been anybody  \rAnybody, uh-oh  \rHe waited for love  \rBut there wasn't anybody  \rAround so he left  \rTown with the rock show  \r  \rHold her, tell her that you need her  \rPlease undress her slowly, uh-oh  \rNever hold the girl too tightly  \rShe can't breathe when you speak  \rUh-oh, uh-oh, uh-oh  \r  \rIt could have been love  \rIt could have been anybody  \rAnybody, uh-oh, uh-oh, uh-oh  \rWe waited for love  \rBut there wasn't anybody  \rAround so we",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "left  \rTown with the rock show  \r  \rRock show, rock show, rock show",
+        "beginOffset": 1204
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ]
 }

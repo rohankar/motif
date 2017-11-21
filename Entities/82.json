@@ -7,7 +7,7 @@
         "mid": "/m/016pp7",
         "wikipedia_url": "https://en.wikipedia.org/wiki/Happiness"
       },
-      "salience": 0.64110166,
+      "salience": 0.6512448,
       "mentions": [
         {
           "text": {
@@ -99,7 +99,7 @@
       "name": "chance",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.1483994,
+      "salience": 0.15058303,
       "mentions": [
         {
           "text": {
@@ -112,10 +112,17 @@
     },
     {
       "name": "Fallin",
-      "type": "OTHER",
+      "type": "WORK_OF_ART",
       "metadata": {},
-      "salience": 0.05473635,
+      "salience": 0.04473368,
       "mentions": [
+        {
+          "text": {
+            "content": "Fallin",
+            "beginOffset": 511
+          },
+          "type": "PROPER"
+        },
         {
           "text": {
             "content": "Fallin",
@@ -125,10 +132,10 @@
         },
         {
           "text": {
-            "content": "love",
-            "beginOffset": 549
+            "content": "Fallin",
+            "beginOffset": 1063
           },
-          "type": "COMMON"
+          "type": "PROPER"
         },
         {
           "text": {
@@ -136,13 +143,6 @@
             "beginOffset": 1108
           },
           "type": "PROPER"
-        },
-        {
-          "text": {
-            "content": "love",
-            "beginOffset": 1101
-          },
-          "type": "COMMON"
         },
         {
           "text": {
@@ -164,7 +164,7 @@
       "name": "fall",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.020033032,
+      "salience": 0.021740187,
       "mentions": [
         {
           "text": {
@@ -179,19 +179,27 @@
       "name": "love",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.018660061,
+      "salience": 0.01825044,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 24
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016771935,
       "mentions": [
         {
           "text": {
             "content": "love",
             "beginOffset": 1119
-          },
-          "type": "COMMON"
-        },
-        {
-          "text": {
-            "content": "love",
-            "beginOffset": 1428
           },
           "type": "COMMON"
         },
@@ -205,37 +213,22 @@
       ]
     },
     {
-      "name": "love",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.016200986,
-      "mentions": [
-        {
-          "text": {
-            "content": "love",
-            "beginOffset": 24
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "Fallin",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.01440461,
+      "salience": 0.015445622,
       "mentions": [
         {
           "text": {
             "content": "Fallin",
-            "beginOffset": 511
+            "beginOffset": 538
           },
           "type": "PROPER"
         },
         {
           "text": {
             "content": "Fallin",
-            "beginOffset": 1063
+            "beginOffset": 1090
           },
           "type": "PROPER"
         },
@@ -256,32 +249,10 @@
       ]
     },
     {
-      "name": "All",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.013721336,
-      "mentions": [
-        {
-          "text": {
-            "content": "All",
-            "beginOffset": 422
-          },
-          "type": "COMMON"
-        },
-        {
-          "text": {
-            "content": "All",
-            "beginOffset": 1357
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "gambler",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.010832065,
+      "salience": 0.012518768,
       "mentions": [
         {
           "text": {
@@ -296,7 +267,7 @@
       "name": "life",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.009825279,
+      "salience": 0.01149966,
       "mentions": [
         {
           "text": {
@@ -318,37 +289,7 @@
       "name": "love",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.004246488,
-      "mentions": [
-        {
-          "text": {
-            "content": "love",
-            "beginOffset": 567
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "love",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.004246488,
-      "mentions": [
-        {
-          "text": {
-            "content": "love",
-            "beginOffset": 703
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "love",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0041932994,
+      "salience": 0.0047903745,
       "mentions": [
         {
           "text": {
@@ -363,7 +304,37 @@
       "name": "love",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0041932994,
+      "salience": 0.0047903745,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 703
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0047903745,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 567
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0047903745,
       "mentions": [
         {
           "text": {
@@ -378,7 +349,7 @@
       "name": "game",
       "type": "EVENT",
       "metadata": {},
-      "salience": 0.0041205958,
+      "salience": 0.004648405,
       "mentions": [
         {
           "text": {
@@ -393,7 +364,7 @@
       "name": "odds",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.002786476,
+      "salience": 0.004245365,
       "mentions": [
         {
           "text": {
@@ -408,7 +379,7 @@
       "name": "life",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0027522566,
+      "salience": 0.0031845067,
       "mentions": [
         {
           "text": {
@@ -423,7 +394,7 @@
       "name": "times",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0027522566,
+      "salience": 0.0031050716,
       "mentions": [
         {
           "text": {
@@ -435,32 +406,10 @@
       ]
     },
     {
-      "name": "Fallin",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.002447387,
-      "mentions": [
-        {
-          "text": {
-            "content": "Fallin",
-            "beginOffset": 538
-          },
-          "type": "PROPER"
-        },
-        {
-          "text": {
-            "content": "Fallin",
-            "beginOffset": 1090
-          },
-          "type": "PROPER"
-        }
-      ]
-    },
-    {
       "name": "freedom",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0024189332,
+      "salience": 0.0027745008,
       "mentions": [
         {
           "text": {
@@ -472,25 +421,10 @@
       ]
     },
     {
-      "name": "stars",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0023346634,
-      "mentions": [
-        {
-          "text": {
-            "content": "stars",
-            "beginOffset": 633
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "hand",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.002292031,
+      "salience": 0.002585892,
       "mentions": [
         {
           "text": {
@@ -505,7 +439,7 @@
       "name": "side",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0021916565,
+      "salience": 0.0024726542,
       "mentions": [
         {
           "text": {
@@ -517,10 +451,25 @@
       ]
     },
     {
+      "name": "stars",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0024726542,
+      "mentions": [
+        {
+          "text": {
+            "content": "stars",
+            "beginOffset": 633
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "affair",
       "type": "EVENT",
       "metadata": {},
-      "salience": 0.0020059973,
+      "salience": 0.002263197,
       "mentions": [
         {
           "text": {
@@ -535,7 +484,7 @@
       "name": "beginnings",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.001883065,
+      "salience": 0.0020977987,
       "mentions": [
         {
           "text": {
@@ -553,7 +502,7 @@
         "mid": "/m/01j3sz",
         "wikipedia_url": "https://en.wikipedia.org/wiki/Laughter"
       },
-      "salience": 0.0016259697,
+      "salience": 0.00181137,
       "mentions": [
         {
           "text": {
@@ -575,22 +524,7 @@
       "name": "love",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0012782412,
-      "mentions": [
-        {
-          "text": {
-            "content": "love",
-            "beginOffset": 1074
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "love",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0012782412,
+      "salience": 0.0014421035,
       "mentions": [
         {
           "text": {
@@ -602,10 +536,25 @@
       ]
     },
     {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0014421035,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 1074
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "Little",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0011886664,
+      "salience": 0.0013410362,
       "mentions": [
         {
           "text": {
@@ -620,27 +569,27 @@
       "name": "love",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0009589625,
+      "salience": 0.0010818589,
       "mentions": [
         {
           "text": {
             "content": "love",
-            "beginOffset": 1457
+            "beginOffset": 1428
           },
           "type": "COMMON"
         }
       ]
     },
     {
-      "name": "All",
-      "type": "PERSON",
+      "name": "love",
+      "type": "OTHER",
       "metadata": {},
-      "salience": 0.0008902327,
+      "salience": 0.0010818589,
       "mentions": [
         {
           "text": {
-            "content": "All",
-            "beginOffset": 974
+            "content": "love",
+            "beginOffset": 1457
           },
           "type": "COMMON"
         }

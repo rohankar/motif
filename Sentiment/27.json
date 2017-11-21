@@ -1,7 +1,19 @@
 {
-  "error": {
-    "code": 400,
-    "message": "Invalid JSON payload received. Expected , or } after key:value pair.\na tattoo that says \"2gether thru life\"  \n                    ^",
-    "status": "INVALID_ARGUMENT"
-  }
+  "documentSentiment": {
+    "magnitude": 0.3,
+    "score": -0.3
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "Got a tattoo that says '2gether thru life'  \rCarved in your name with my pocket knife  \rAnd you wonder when you wake up, will it be alright  \rFeels like there's something broken inside  \r  \rAll I know, all I know  \rIs that I'm lost whenever you go  \rAll I know is that I love you so  \rSo much that it hurts  \r  \rGot a tattoo and the pains alright  \rJust wanted a way of keeping you inside  \rOh, oh, oh, oh, oh, oh  \r  \rAll I know, all I know  \rIs that I'm lost in your fire below  \r  \rAll I know  \rIs that I love you so  \rSo much that it hurts  \r  \rSee the road begin to climb  \rSee your stars begin to shine  \rI see your colors and I'm dying of thirst  \r  \rAll I know is that I love you so  \rSo much that it hurts  \rOh yeah, yeah, yeah  \rSo much that it hurts",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    }
+  ]
 }

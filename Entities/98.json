@@ -1,15 +1,15 @@
 {
   "entities": [
     {
-      "name": "dontcha",
+      "name": "head",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.3650595,
+      "salience": 0.20940079,
       "mentions": [
         {
           "text": {
-            "content": "dontcha",
-            "beginOffset": 37
+            "content": "head",
+            "beginOffset": 237
           },
           "type": "COMMON"
         }
@@ -19,7 +19,7 @@
       "name": "baby blue",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.101429984,
+      "salience": 0.12286077,
       "mentions": [
         {
           "text": {
@@ -31,10 +31,25 @@
       ]
     },
     {
+      "name": "dont",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.098680876,
+      "mentions": [
+        {
+          "text": {
+            "content": "dont",
+            "beginOffset": 28
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "babies",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.06918363,
+      "salience": 0.0838603,
       "mentions": [
         {
           "text": {
@@ -49,7 +64,7 @@
       "name": "baby crawl baby",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.039757982,
+      "salience": 0.048220444,
       "mentions": [
         {
           "text": {
@@ -61,25 +76,10 @@
       ]
     },
     {
-      "name": "head",
+      "name": "Miss lady",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.030642392,
-      "mentions": [
-        {
-          "text": {
-            "content": "head",
-            "beginOffset": 237
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "Miss lady",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.02952085,
+      "salience": 0.03581055,
       "mentions": [
         {
           "text": {
@@ -94,7 +94,7 @@
       "name": "veiw",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.026879678,
+      "salience": 0.03260795,
       "mentions": [
         {
           "text": {
@@ -109,7 +109,7 @@
       "name": "repeat",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.026879678,
+      "salience": 0.03260795,
       "mentions": [
         {
           "text": {
@@ -121,25 +121,10 @@
       ]
     },
     {
-      "name": "little",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.026879678,
-      "mentions": [
-        {
-          "text": {
-            "content": "little",
-            "beginOffset": 191
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "house",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.02103165,
+      "salience": 0.025838293,
       "mentions": [
         {
           "text": {
@@ -151,10 +136,25 @@
       ]
     },
     {
+      "name": "Miss lady",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024271103,
+      "mentions": [
+        {
+          "text": {
+            "content": "Miss lady",
+            "beginOffset": 353
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "baby crawl baby",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.018510047,
+      "salience": 0.022457037,
       "mentions": [
         {
           "text": {
@@ -169,7 +169,7 @@
       "name": "way",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.015945368,
+      "salience": 0.019345907,
       "mentions": [
         {
           "text": {
@@ -184,7 +184,7 @@
       "name": "life",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.015945368,
+      "salience": 0.019345907,
       "mentions": [
         {
           "text": {
@@ -196,25 +196,10 @@
       ]
     },
     {
-      "name": "juice",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.015945368,
-      "mentions": [
-        {
-          "text": {
-            "content": "juice",
-            "beginOffset": 403
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "type",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.015945368,
+      "salience": 0.019345907,
       "mentions": [
         {
           "text": {
@@ -229,7 +214,7 @@
       "name": "hairs",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.015745742,
+      "salience": 0.019345907,
       "mentions": [
         {
           "text": {
@@ -244,7 +229,7 @@
       "name": "hea",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.015745742,
+      "salience": 0.019345907,
       "mentions": [
         {
           "text": {
@@ -259,7 +244,7 @@
       "name": "couple",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.015745742,
+      "salience": 0.019345907,
       "mentions": [
         {
           "text": {
@@ -274,7 +259,7 @@
       "name": "sposed",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.01370716,
+      "salience": 0.0166306,
       "mentions": [
         {
           "text": {
@@ -286,15 +271,15 @@
       ]
     },
     {
-      "name": "Miss lady",
-      "type": "PERSON",
+      "name": "juice",
+      "type": "OTHER",
       "metadata": {},
-      "salience": 0.013036401,
+      "salience": 0.016422205,
       "mentions": [
         {
           "text": {
-            "content": "Miss lady",
-            "beginOffset": 353
+            "content": "juice",
+            "beginOffset": 403
           },
           "type": "COMMON"
         }
@@ -304,7 +289,7 @@
       "name": "baby",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.012844369,
+      "salience": 0.015583844,
       "mentions": [
         {
           "text": {
@@ -319,7 +304,7 @@
       "name": "baby",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.012844369,
+      "salience": 0.015583844,
       "mentions": [
         {
           "text": {
@@ -334,7 +319,7 @@
       "name": "babies",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.012476506,
+      "salience": 0.015137537,
       "mentions": [
         {
           "text": {
@@ -349,7 +334,7 @@
       "name": "veiw",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.012476506,
+      "salience": 0.015137537,
       "mentions": [
         {
           "text": {
@@ -361,55 +346,10 @@
       ]
     },
     {
-      "name": "repeat",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.012476506,
-      "mentions": [
-        {
-          "text": {
-            "content": "repeat",
-            "beginOffset": 732
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "miss lady",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.011636955,
-      "mentions": [
-        {
-          "text": {
-            "content": "miss lady",
-            "beginOffset": 783
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "Claire Huxtible",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.009344679,
-      "mentions": [
-        {
-          "text": {
-            "content": "Claire Huxtible",
-            "beginOffset": 322
-          },
-          "type": "PROPER"
-        }
-      ]
-    },
-    {
       "name": "baby blue",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.008049659,
+      "salience": 0.012734204,
       "mentions": [
         {
           "text": {
@@ -421,10 +361,40 @@
       ]
     },
     {
+      "name": "lady",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011536,
+      "mentions": [
+        {
+          "text": {
+            "content": "lady",
+            "beginOffset": 788
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Claire Huxtible",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.011481862,
+      "mentions": [
+        {
+          "text": {
+            "content": "Claire Huxtible",
+            "beginOffset": 322
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
       "name": "baby talk",
       "type": "EVENT",
       "metadata": {},
-      "salience": 0.0075713526,
+      "salience": 0.009186029,
       "mentions": [
         {
           "text": {
@@ -436,15 +406,15 @@
       ]
     },
     {
-      "name": "dontcha",
+      "name": "dont",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0067417864,
+      "salience": 0.007874843,
       "mentions": [
         {
           "text": {
-            "content": "dontcha",
-            "beginOffset": 626
+            "content": "dont",
+            "beginOffset": 617
           },
           "type": "COMMON"
         }

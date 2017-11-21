@@ -1,58 +1,13 @@
 {
   "entities": [
     {
-      "name": "people",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.21924111,
-      "mentions": [
-        {
-          "text": {
-            "content": "people",
-            "beginOffset": 265
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "world",
-      "type": "LOCATION",
-      "metadata": {},
-      "salience": 0.104774885,
-      "mentions": [
-        {
-          "text": {
-            "content": "world",
-            "beginOffset": 11
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "all",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.10108584,
-      "mentions": [
-        {
-          "text": {
-            "content": "all",
-            "beginOffset": 101
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "Music",
       "type": "WORK_OF_ART",
       "metadata": {
-        "wikipedia_url": "https://en.wikipedia.org/wiki/Music",
-        "mid": "/m/04rlf"
+        "mid": "/m/04rlf",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Music"
       },
-      "salience": 0.079416126,
+      "salience": 0.3840953,
       "mentions": [
         {
           "text": {
@@ -71,10 +26,54 @@
       ]
     },
     {
+      "name": "people",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.10754415,
+      "mentions": [
+        {
+          "text": {
+            "content": "people",
+            "beginOffset": 265
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "people",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.08641156,
+      "mentions": [
+        {
+          "text": {
+            "content": "people",
+            "beginOffset": 345
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "people",
+            "beginOffset": 1226
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "people",
+            "beginOffset": 1350
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "record",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.037609782,
+      "salience": 0.07712359,
       "mentions": [
         {
           "text": {
@@ -86,10 +85,40 @@
       ]
     },
     {
+      "name": "all",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.049475707,
+      "mentions": [
+        {
+          "text": {
+            "content": "all",
+            "beginOffset": 101
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "world",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.04887077,
+      "mentions": [
+        {
+          "text": {
+            "content": "world",
+            "beginOffset": 11
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "groove",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.03693328,
+      "salience": 0.018242516,
       "mentions": [
         {
           "text": {
@@ -101,15 +130,30 @@
       ]
     },
     {
-      "name": "one",
+      "name": "Basie",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.03600506,
+      "salience": 0.0175545,
       "mentions": [
         {
           "text": {
-            "content": "one",
-            "beginOffset": 459
+            "content": "Basie",
+            "beginOffset": 597
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "band",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.016656233,
+      "mentions": [
+        {
+          "text": {
+            "content": "band",
+            "beginOffset": 714
           },
           "type": "COMMON"
         }
@@ -119,7 +163,7 @@
       "name": "language",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.032384697,
+      "salience": 0.015996445,
       "mentions": [
         {
           "text": {
@@ -134,7 +178,7 @@
       "name": "opportunity",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.032384697,
+      "salience": 0.015996445,
       "mentions": [
         {
           "text": {
@@ -149,7 +193,7 @@
       "name": "dance",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.032384697,
+      "salience": 0.015996445,
       "mentions": [
         {
           "text": {
@@ -164,7 +208,7 @@
       "name": "hands",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.032384697,
+      "salience": 0.015996445,
       "mentions": [
         {
           "text": {
@@ -179,12 +223,49 @@
       "name": "people",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.023566995,
+      "salience": 0.0137281595,
       "mentions": [
         {
           "text": {
             "content": "people",
-            "beginOffset": 345
+            "beginOffset": 1151
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "people",
+            "beginOffset": 1295
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01124164,
+      "mentions": [
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": 706
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "things",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010558164,
+      "mentions": [
+        {
+          "text": {
+            "content": "things",
+            "beginOffset": 470
           },
           "type": "COMMON"
         }
@@ -194,7 +275,7 @@
       "name": "people",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.01576568,
+      "salience": 0.007886673,
       "mentions": [
         {
           "text": {
@@ -209,7 +290,7 @@
       "name": "people",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.014618653,
+      "salience": 0.007221404,
       "mentions": [
         {
           "text": {
@@ -224,7 +305,7 @@
       "name": "people",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.014618653,
+      "salience": 0.007221404,
       "mentions": [
         {
           "text": {
@@ -239,7 +320,7 @@
       "name": "groove",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.014245773,
+      "salience": 0.0070371986,
       "mentions": [
         {
           "text": {
@@ -254,7 +335,7 @@
       "name": "letter",
       "type": "WORK_OF_ART",
       "metadata": {},
-      "salience": 0.012473637,
+      "salience": 0.00616174,
       "mentions": [
         {
           "text": {
@@ -269,22 +350,7 @@
       "name": "people",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.010939465,
-      "mentions": [
-        {
-          "text": {
-            "content": "people",
-            "beginOffset": 1151
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "people",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.010939465,
+      "salience": 0.0054038246,
       "mentions": [
         {
           "text": {
@@ -299,7 +365,7 @@
       "name": "people",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.010939465,
+      "salience": 0.0054038246,
       "mentions": [
         {
           "text": {
@@ -314,7 +380,7 @@
       "name": "music",
       "type": "WORK_OF_ART",
       "metadata": {},
-      "salience": 0.010457379,
+      "salience": 0.0052312673,
       "mentions": [
         {
           "text": {
@@ -326,15 +392,15 @@
       ]
     },
     {
-      "name": "way",
-      "type": "OTHER",
+      "name": "one",
+      "type": "PERSON",
       "metadata": {},
-      "salience": 0.008872118,
+      "salience": 0.00509947,
       "mentions": [
         {
           "text": {
-            "content": "way",
-            "beginOffset": 706
+            "content": "one",
+            "beginOffset": 459
           },
           "type": "COMMON"
         }
@@ -344,7 +410,7 @@
       "name": "pioneers",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.008435005,
+      "salience": 0.0041665505,
       "mentions": [
         {
           "text": {
@@ -356,40 +422,10 @@
       ]
     },
     {
-      "name": "king",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.008435005,
-      "mentions": [
-        {
-          "text": {
-            "content": "king",
-            "beginOffset": 629
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "Sir Duke",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.008435005,
-      "mentions": [
-        {
-          "text": {
-            "content": "Sir Duke",
-            "beginOffset": 641
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "voice",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.008435005,
+      "salience": 0.0041665505,
       "mentions": [
         {
           "text": {
@@ -401,15 +437,30 @@
       ]
     },
     {
-      "name": "things",
-      "type": "OTHER",
+      "name": "Sir Duke",
+      "type": "PERSON",
       "metadata": {},
-      "salience": 0.00832912,
+      "salience": 0.0041665505,
       "mentions": [
         {
           "text": {
-            "content": "things",
-            "beginOffset": 470
+            "content": "Sir Duke",
+            "beginOffset": 641
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "king",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0041665505,
+      "mentions": [
+        {
+          "text": {
+            "content": "king",
+            "beginOffset": 629
           },
           "type": "COMMON"
         }
@@ -419,7 +470,7 @@
       "name": "life",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.00832912,
+      "salience": 0.0041665505,
       "mentions": [
         {
           "text": {
@@ -431,25 +482,10 @@
       ]
     },
     {
-      "name": "band",
-      "type": "ORGANIZATION",
-      "metadata": {},
-      "salience": 0.007721042,
-      "mentions": [
-        {
-          "text": {
-            "content": "band",
-            "beginOffset": 714
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "some",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0071571977,
+      "salience": 0.003911458,
       "mentions": [
         {
           "text": {
@@ -461,25 +497,10 @@
       ]
     },
     {
-      "name": "Basie",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.005327177,
-      "mentions": [
-        {
-          "text": {
-            "content": "Basie",
-            "beginOffset": 597
-          },
-          "type": "PROPER"
-        }
-      ]
-    },
-    {
       "name": "Ella",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0050005973,
+      "salience": 0.0024698677,
       "mentions": [
         {
           "text": {
@@ -494,7 +515,7 @@
       "name": "Sachmo",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0050005973,
+      "salience": 0.0024698677,
       "mentions": [
         {
           "text": {
@@ -509,7 +530,7 @@
       "name": "Miller",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0050005973,
+      "salience": 0.0024698677,
       "mentions": [
         {
           "text": {
@@ -524,7 +545,7 @@
       "name": "people",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0048109163,
+      "salience": 0.002376163,
       "mentions": [
         {
           "text": {
@@ -539,7 +560,7 @@
       "name": "people",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0048109163,
+      "salience": 0.002376163,
       "mentions": [
         {
           "text": {
@@ -551,55 +572,10 @@
       ]
     },
     {
-      "name": "people",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.0036096645,
-      "mentions": [
-        {
-          "text": {
-            "content": "people",
-            "beginOffset": 1226
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "people",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.0036096645,
-      "mentions": [
-        {
-          "text": {
-            "content": "people",
-            "beginOffset": 1295
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "people",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.0036096645,
-      "mentions": [
-        {
-          "text": {
-            "content": "people",
-            "beginOffset": 1350
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "let",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0019015414,
+      "salience": 0.0009389906,
       "mentions": [
         {
           "text": {

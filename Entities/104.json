@@ -4,7 +4,7 @@
       "name": "Well",
       "type": "ORGANIZATION",
       "metadata": {},
-      "salience": 0.5426592,
+      "salience": 0.49929705,
       "mentions": [
         {
           "text": {
@@ -19,7 +19,7 @@
       "name": "eternity",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.17766257,
+      "salience": 0.17086165,
       "mentions": [
         {
           "text": {
@@ -69,7 +69,7 @@
       "name": "edge",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.09938204,
+      "salience": 0.09557922,
       "mentions": [
         {
           "text": {
@@ -95,62 +95,17 @@
       ]
     },
     {
-      "name": "love",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.026479885,
-      "mentions": [
-        {
-          "text": {
-            "content": "love",
-            "beginOffset": 141
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "nothin",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.016173352,
-      "mentions": [
-        {
-          "text": {
-            "content": "nothin",
-            "beginOffset": 112
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "love toe",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.016173352,
-      "mentions": [
-        {
-          "text": {
-            "content": "love toe",
-            "beginOffset": 164
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "Cause",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.015108874,
+      "salience": 0.06036007,
       "mentions": [
         {
           "text": {
             "content": "Cause",
             "beginOffset": 279
           },
-          "type": "PROPER"
+          "type": "COMMON"
         },
         {
           "text": {
@@ -165,6 +120,58 @@
             "beginOffset": 1407
           },
           "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Cause",
+            "beginOffset": 1783
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02642665,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 141
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018189935,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 164
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nothin",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015943406,
+      "mentions": [
+        {
+          "text": {
+            "content": "nothin",
+            "beginOffset": 112
+          },
+          "type": "COMMON"
         }
       ]
     },
@@ -172,7 +179,7 @@
       "name": "Wolf tickets",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.013915611,
+      "salience": 0.014975823,
       "mentions": [
         {
           "text": {
@@ -187,7 +194,7 @@
       "name": "Know",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0078053256,
+      "salience": 0.007694241,
       "mentions": [
         {
           "text": {
@@ -199,25 +206,10 @@
       ]
     },
     {
-      "name": "edge",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.007264255,
-      "mentions": [
-        {
-          "text": {
-            "content": "edge",
-            "beginOffset": 525
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "kiss",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.006982612,
+      "salience": 0.0074242046,
       "mentions": [
         {
           "text": {
@@ -236,30 +228,30 @@
       ]
     },
     {
-      "name": "eternity",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0067348075,
-      "mentions": [
-        {
-          "text": {
-            "content": "eternity",
-            "beginOffset": 1019
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "edge",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0067348075,
+      "salience": 0.00725169,
       "mentions": [
         {
           "text": {
             "content": "edge",
-            "beginOffset": 1089
+            "beginOffset": 525
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eternity",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00725169,
+      "mentions": [
+        {
+          "text": {
+            "content": "eternity",
+            "beginOffset": 533
           },
           "type": "COMMON"
         }
@@ -269,7 +261,7 @@
       "name": "edge",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0067348075,
+      "salience": 0.0066388436,
       "mentions": [
         {
           "text": {
@@ -281,15 +273,30 @@
       ]
     },
     {
-      "name": "thing",
+      "name": "edge",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0058379783,
+      "salience": 0.0066388436,
       "mentions": [
         {
           "text": {
-            "content": "thing",
-            "beginOffset": 702
+            "content": "edge",
+            "beginOffset": 1089
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eternity",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0066388436,
+      "mentions": [
+        {
+          "text": {
+            "content": "eternity",
+            "beginOffset": 1019
           },
           "type": "COMMON"
         }
@@ -299,7 +306,7 @@
       "name": "Know",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.004831745,
+      "salience": 0.004762657,
       "mentions": [
         {
           "text": {
@@ -314,7 +321,7 @@
       "name": "Gettin",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.004403559,
+      "salience": 0.004395742,
       "mentions": [
         {
           "text": {
@@ -333,30 +340,15 @@
       ]
     },
     {
-      "name": "Pie",
+      "name": "thing",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.003847417,
+      "salience": 0.0041432497,
       "mentions": [
         {
           "text": {
-            "content": "Pie",
-            "beginOffset": 1111
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "sky",
-      "type": "LOCATION",
-      "metadata": {},
-      "salience": 0.003847417,
-      "mentions": [
-        {
-          "text": {
-            "content": "sky",
-            "beginOffset": 1122
+            "content": "thing",
+            "beginOffset": 702
           },
           "type": "COMMON"
         }
@@ -366,7 +358,7 @@
       "name": "Well wait",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.003847417,
+      "salience": 0.0037922447,
       "mentions": [
         {
           "text": {
@@ -378,10 +370,62 @@
       ]
     },
     {
+      "name": "sky",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0037922447,
+      "mentions": [
+        {
+          "text": {
+            "content": "sky",
+            "beginOffset": 1122
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eternity Pie",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0037922447,
+      "mentions": [
+        {
+          "text": {
+            "content": "eternity  \r  \rPie",
+            "beginOffset": 1097
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Repeat",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0036844744,
+      "mentions": [
+        {
+          "text": {
+            "content": "eternity",
+            "beginOffset": 1878
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Repeat",
+            "beginOffset": 1890
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
       "name": "head spin",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0029127286,
+      "salience": 0.0032171425,
       "mentions": [
         {
           "text": {
@@ -393,15 +437,15 @@
       ]
     },
     {
-      "name": "Girl",
-      "type": "WORK_OF_ART",
+      "name": "it Girl",
+      "type": "PERSON",
       "metadata": {},
-      "salience": 0.0028468238,
+      "salience": 0.002805825,
       "mentions": [
         {
           "text": {
-            "content": "Girl",
-            "beginOffset": 888
+            "content": "it  \rGirl",
+            "beginOffset": 883
           },
           "type": "PROPER"
         }
@@ -411,7 +455,7 @@
       "name": "kiss",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0025671506,
+      "salience": 0.0026280724,
       "mentions": [
         {
           "text": {
@@ -426,7 +470,7 @@
       "name": "Know",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0017185002,
+      "salience": 0.0016935532,
       "mentions": [
         {
           "text": {
@@ -441,12 +485,12 @@
       "name": "edge",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.00166075,
+      "salience": 0.0016366276,
       "mentions": [
         {
           "text": {
             "content": "edge",
-            "beginOffset": 1868
+            "beginOffset": 1704
           },
           "type": "COMMON"
         }
@@ -456,22 +500,7 @@
       "name": "edge",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.00166075,
-      "mentions": [
-        {
-          "text": {
-            "content": "edge",
-            "beginOffset": 1821
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "edge",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.00166075,
+      "salience": 0.0016366276,
       "mentions": [
         {
           "text": {
@@ -486,27 +515,27 @@
       "name": "edge",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.00166075,
+      "salience": 0.0016366276,
       "mentions": [
         {
           "text": {
             "content": "edge",
-            "beginOffset": 1704
+            "beginOffset": 1821
           },
           "type": "COMMON"
         }
       ]
     },
     {
-      "name": "eternity",
+      "name": "edge",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.00166075,
+      "salience": 0.0016366276,
       "mentions": [
         {
           "text": {
-            "content": "eternity",
-            "beginOffset": 1878
+            "content": "edge",
+            "beginOffset": 1868
           },
           "type": "COMMON"
         }
@@ -516,7 +545,7 @@
       "name": "ounce",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0013676927,
+      "salience": 0.0013477622,
       "mentions": [
         {
           "text": {
@@ -528,15 +557,45 @@
       ]
     },
     {
-      "name": "Cause",
-      "type": "OTHER",
+      "name": "Girl",
+      "type": "WORK_OF_ART",
       "metadata": {},
-      "salience": 0.0012808592,
+      "salience": 0.00060780725,
       "mentions": [
         {
           "text": {
-            "content": "Cause",
-            "beginOffset": 1783
+            "content": "Girl",
+            "beginOffset": 1454
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "store",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.000591146,
+      "mentions": [
+        {
+          "text": {
+            "content": "store",
+            "beginOffset": 1197
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "plenty",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.000591146,
+      "mentions": [
+        {
+          "text": {
+            "content": "plenty",
+            "beginOffset": 1247
           },
           "type": "COMMON"
         }
@@ -546,42 +605,12 @@
       "name": "need",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0010283568,
+      "salience": 0.0004360077,
       "mentions": [
         {
           "text": {
             "content": "need",
             "beginOffset": 1280
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "Repeat",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.00094704656,
-      "mentions": [
-        {
-          "text": {
-            "content": "Repeat",
-            "beginOffset": 1890
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "store",
-      "type": "LOCATION",
-      "metadata": {},
-      "salience": 0.00060001685,
-      "mentions": [
-        {
-          "text": {
-            "content": "store",
-            "beginOffset": 1197
           },
           "type": "COMMON"
         }

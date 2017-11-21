@@ -1,10 +1,10 @@
 {
   "entities": [
     {
-      "name": "silver spoon",
+      "name": "mirror",
       "type": "CONSUMER_GOOD",
       "metadata": {},
-      "salience": 0.55537426,
+      "salience": 0.48241594,
       "mentions": [
         {
           "text": {
@@ -12,7 +12,15 @@
             "beginOffset": 258
           },
           "type": "COMMON"
-        },
+        }
+      ]
+    },
+    {
+      "name": "silver spoon",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.16606325,
+      "mentions": [
         {
           "text": {
             "content": "silver spoon",
@@ -23,25 +31,10 @@
       ]
     },
     {
-      "name": "poem",
-      "type": "WORK_OF_ART",
-      "metadata": {},
-      "salience": 0.20632179,
-      "mentions": [
-        {
-          "text": {
-            "content": "poem",
-            "beginOffset": 390
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "sun",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.07356401,
+      "salience": 0.09435397,
       "mentions": [
         {
           "text": {
@@ -53,25 +46,10 @@
       ]
     },
     {
-      "name": "snow",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0407483,
-      "mentions": [
-        {
-          "text": {
-            "content": "snow",
-            "beginOffset": 66
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "birds",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0407483,
+      "salience": 0.053361163,
       "mentions": [
         {
           "text": {
@@ -83,10 +61,40 @@
       ]
     },
     {
+      "name": "snow",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.053361163,
+      "mentions": [
+        {
+          "text": {
+            "content": "snow",
+            "beginOffset": 66
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "poem",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.040961277,
+      "mentions": [
+        {
+          "text": {
+            "content": "poem",
+            "beginOffset": 390
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "songs",
       "type": "WORK_OF_ART",
       "metadata": {},
-      "salience": 0.014631087,
+      "salience": 0.019172074,
       "mentions": [
         {
           "text": {
@@ -98,55 +106,10 @@
       ]
     },
     {
-      "name": "land",
-      "type": "LOCATION",
-      "metadata": {},
-      "salience": 0.010835107,
-      "mentions": [
-        {
-          "text": {
-            "content": "land",
-            "beginOffset": 217
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "lambs",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.010835107,
-      "mentions": [
-        {
-          "text": {
-            "content": "lambs",
-            "beginOffset": 236
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "moon",
-      "type": "LOCATION",
-      "metadata": {},
-      "salience": 0.010835107,
-      "mentions": [
-        {
-          "text": {
-            "content": "moon",
-            "beginOffset": 285
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "drink",
       "type": "CONSUMER_GOOD",
       "metadata": {},
-      "salience": 0.010700082,
+      "salience": 0.01419865,
       "mentions": [
         {
           "text": {
@@ -161,7 +124,7 @@
       "name": "hand",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.010700082,
+      "salience": 0.01419865,
       "mentions": [
         {
           "text": {
@@ -176,7 +139,7 @@
       "name": "wine",
       "type": "CONSUMER_GOOD",
       "metadata": {},
-      "salience": 0.010700082,
+      "salience": 0.01419865,
       "mentions": [
         {
           "text": {
@@ -188,10 +151,55 @@
       ]
     },
     {
+      "name": "land",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.01419865,
+      "mentions": [
+        {
+          "text": {
+            "content": "land",
+            "beginOffset": 217
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lambs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01419865,
+      "mentions": [
+        {
+          "text": {
+            "content": "lambs",
+            "beginOffset": 236
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "moon",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.01419865,
+      "mentions": [
+        {
+          "text": {
+            "content": "moon",
+            "beginOffset": 285
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "page",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.004006687,
+      "salience": 0.0051192683,
       "mentions": [
         {
           "text": {

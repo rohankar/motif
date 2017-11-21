@@ -4,7 +4,7 @@
       "name": "friend",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.41905078,
+      "salience": 0.2931701,
       "mentions": [
         {
           "text": {
@@ -12,11 +12,19 @@
             "beginOffset": 821
           },
           "type": "COMMON"
-        },
+        }
+      ]
+    },
+    {
+      "name": "idea",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07374211,
+      "mentions": [
         {
           "text": {
-            "content": "friend",
-            "beginOffset": 866
+            "content": "idea",
+            "beginOffset": 283
           },
           "type": "COMMON"
         }
@@ -26,7 +34,7 @@
       "name": "Soldiers",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.048876718,
+      "salience": 0.053224895,
       "mentions": [
         {
           "text": {
@@ -38,25 +46,10 @@
       ]
     },
     {
-      "name": "storm",
-      "type": "EVENT",
-      "metadata": {},
-      "salience": 0.039887633,
-      "mentions": [
-        {
-          "text": {
-            "content": "storm",
-            "beginOffset": 18
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "eye",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.039887633,
+      "salience": 0.04381453,
       "mentions": [
         {
           "text": {
@@ -68,15 +61,15 @@
       ]
     },
     {
-      "name": "tsunamis",
-      "type": "EVENT",
+      "name": "rain",
+      "type": "OTHER",
       "metadata": {},
-      "salience": 0.039887633,
+      "salience": 0.04381453,
       "mentions": [
         {
           "text": {
-            "content": "tsunamis",
-            "beginOffset": 103
+            "content": "rain",
+            "beginOffset": 50
           },
           "type": "COMMON"
         }
@@ -86,7 +79,7 @@
       "name": "horn",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.039887633,
+      "salience": 0.04381453,
       "mentions": [
         {
           "text": {
@@ -98,15 +91,30 @@
       ]
     },
     {
-      "name": "rain",
-      "type": "OTHER",
+      "name": "tsunamis",
+      "type": "EVENT",
       "metadata": {},
-      "salience": 0.039887633,
+      "salience": 0.04381453,
       "mentions": [
         {
           "text": {
-            "content": "rain",
-            "beginOffset": 50
+            "content": "tsunamis",
+            "beginOffset": 103
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "storm",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.04170454,
+      "mentions": [
+        {
+          "text": {
+            "content": "storm",
+            "beginOffset": 18
           },
           "type": "COMMON"
         }
@@ -119,7 +127,7 @@
         "mid": "/m/0151j6",
         "wikipedia_url": "https://en.wikipedia.org/wiki/Gabriel"
       },
-      "salience": 0.023871884,
+      "salience": 0.026229415,
       "mentions": [
         {
           "text": {
@@ -131,15 +139,15 @@
       ]
     },
     {
-      "name": "idea",
-      "type": "OTHER",
+      "name": "friend",
+      "type": "PERSON",
       "metadata": {},
-      "salience": 0.021832569,
+      "salience": 0.02373018,
       "mentions": [
         {
           "text": {
-            "content": "idea",
-            "beginOffset": 283
+            "content": "friend",
+            "beginOffset": 866
           },
           "type": "COMMON"
         }
@@ -149,7 +157,7 @@
       "name": "Chorus",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.017658098,
+      "salience": 0.019403517,
       "mentions": [
         {
           "text": {
@@ -164,7 +172,7 @@
       "name": "mind",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.017658098,
+      "salience": 0.019403517,
       "mentions": [
         {
           "text": {
@@ -176,25 +184,10 @@
       ]
     },
     {
-      "name": "hurricane",
-      "type": "EVENT",
-      "metadata": {},
-      "salience": 0.015471113,
-      "mentions": [
-        {
-          "text": {
-            "content": "hurricane",
-            "beginOffset": 120
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "ride",
       "type": "EVENT",
       "metadata": {},
-      "salience": 0.015471113,
+      "salience": 0.01700071,
       "mentions": [
         {
           "text": {
@@ -209,7 +202,7 @@
       "name": "nick",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.015471113,
+      "salience": 0.01700071,
       "mentions": [
         {
           "text": {
@@ -221,10 +214,25 @@
       ]
     },
     {
+      "name": "hurricane",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.01700071,
+      "mentions": [
+        {
+          "text": {
+            "content": "hurricane",
+            "beginOffset": 120
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "friends",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.015282317,
+      "salience": 0.016172567,
       "mentions": [
         {
           "text": {
@@ -239,7 +247,7 @@
       "name": "ass soldiers",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.012979541,
+      "salience": 0.014443473,
       "mentions": [
         {
           "text": {
@@ -254,7 +262,7 @@
       "name": "Soldiers",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.012979541,
+      "salience": 0.014443473,
       "mentions": [
         {
           "text": {
@@ -269,7 +277,7 @@
       "name": "peace",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.012653719,
+      "salience": 0.014080964,
       "mentions": [
         {
           "text": {
@@ -281,25 +289,10 @@
       ]
     },
     {
-      "name": "wars",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.012185146,
-      "mentions": [
-        {
-          "text": {
-            "content": "wars",
-            "beginOffset": 548
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "mind",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.011234073,
+      "salience": 0.011887463,
       "mentions": [
         {
           "text": {
@@ -314,7 +307,7 @@
       "name": "people",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.010476857,
+      "salience": 0.011512936,
       "mentions": [
         {
           "text": {
@@ -326,25 +319,10 @@
       ]
     },
     {
-      "name": "voice",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.010476857,
-      "mentions": [
-        {
-          "text": {
-            "content": "voice",
-            "beginOffset": 414
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "war",
       "type": "EVENT",
       "metadata": {},
-      "salience": 0.010345726,
+      "salience": 0.011512936,
       "mentions": [
         {
           "text": {
@@ -356,10 +334,25 @@
       ]
     },
     {
+      "name": "voice",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011512936,
+      "mentions": [
+        {
+          "text": {
+            "content": "voice",
+            "beginOffset": 414
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "boy",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.009592476,
+      "salience": 0.010541081,
       "mentions": [
         {
           "text": {
@@ -374,7 +367,7 @@
       "name": "girl",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.009592476,
+      "salience": 0.010541081,
       "mentions": [
         {
           "text": {
@@ -386,10 +379,25 @@
       ]
     },
     {
+      "name": "wars",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010541081,
+      "mentions": [
+        {
+          "text": {
+            "content": "wars",
+            "beginOffset": 548
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "mysteries",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.009592476,
+      "salience": 0.010541081,
       "mentions": [
         {
           "text": {
@@ -404,7 +412,7 @@
       "name": "way",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.00819811,
+      "salience": 0.009008758,
       "mentions": [
         {
           "text": {
@@ -419,7 +427,7 @@
       "name": "paradise",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.007176947,
+      "salience": 0.0078865355,
       "mentions": [
         {
           "text": {
@@ -431,25 +439,10 @@
       ]
     },
     {
-      "name": "means",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.007176947,
-      "mentions": [
-        {
-          "text": {
-            "content": "means",
-            "beginOffset": 730
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "know",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.007176947,
+      "salience": 0.0078865355,
       "mentions": [
         {
           "text": {
@@ -461,15 +454,15 @@
       ]
     },
     {
-      "name": "Bridge",
-      "type": "LOCATION",
+      "name": "means",
+      "type": "OTHER",
       "metadata": {},
-      "salience": 0.005684549,
+      "salience": 0.0078865355,
       "mentions": [
         {
           "text": {
-            "content": "Bridge",
-            "beginOffset": 887
+            "content": "means",
+            "beginOffset": 730
           },
           "type": "COMMON"
         }
@@ -479,22 +472,7 @@
       "name": "mine",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.005684549,
-      "mentions": [
-        {
-          "text": {
-            "content": "mine",
-            "beginOffset": 876
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "mine",
-      "type": "LOCATION",
-      "metadata": {},
-      "salience": 0.005684549,
+      "salience": 0.0062464187,
       "mentions": [
         {
           "text": {
@@ -509,7 +487,7 @@
       "name": "Chorus",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.005684549,
+      "salience": 0.0062464187,
       "mentions": [
         {
           "text": {
@@ -521,10 +499,40 @@
       ]
     },
     {
+      "name": "mine",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0062464187,
+      "mentions": [
+        {
+          "text": {
+            "content": "mine",
+            "beginOffset": 876
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Bridge",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0062464187,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bridge",
+            "beginOffset": 887
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "child",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.004975407,
+      "salience": 0.00546708,
       "mentions": [
         {
           "text": {
@@ -536,25 +544,10 @@
       ]
     },
     {
-      "name": "Bridge",
-      "type": "LOCATION",
-      "metadata": {},
-      "salience": 0.0036056482,
-      "mentions": [
-        {
-          "text": {
-            "content": "Bridge",
-            "beginOffset": 666
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "way",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0036056482,
+      "salience": 0.004850746,
       "mentions": [
         {
           "text": {
@@ -566,10 +559,25 @@
       ]
     },
     {
+      "name": "Bridge",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.003961744,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bridge",
+            "beginOffset": 666
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "prophecy",
       "type": "WORK_OF_ART",
       "metadata": {},
-      "salience": 0.003155286,
+      "salience": 0.0034668138,
       "mentions": [
         {
           "text": {

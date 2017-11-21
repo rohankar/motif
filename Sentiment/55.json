@@ -1,13 +1,13 @@
 {
   "documentSentiment": {
-    "magnitude": 2.4,
+    "magnitude": 2.6,
     "score": 0
   },
   "language": "en",
   "sentences": [
     {
       "text": {
-        "content": "Heaven only knows[x5]  \r  \rLast night was the worst night  \rBeginning of the end  \rOr maybe it began  \rBefore it here we go again  \rThings got so dramatic  \rThings got out of hand  \rWe said words we couldn't imagine  \rI don't understand  \r  \rThere you go with the same old thing  \rWhen things go wrong, you always seem to blame me  \rNow I would like to find what secrets hide in your mind  \rWhere the end will go  \rWill I ever know?",
+        "content": "Heaven only knows\r  \rLast night was the worst night  \rBeginning of the end  \rOr maybe it began  \rBefore it here we go again  \rThings got so dramatic  \rThings got out of hand  \rWe said words we couldn't imagine  \rI don't understand  \r  \rThere you go with the same old thing  \rWhen things go wrong, you always seem to blame me  \rNow I would like to find what secrets hide in your mind  \rWhere the end will go  \rWill I ever know?",
         "beginOffset": 0
       },
       "sentiment": {
@@ -17,8 +17,8 @@
     },
     {
       "text": {
-        "content": "[Chorus]  \rHeaven only knows  \rHeaven only knows  \rHeaven only knows  \rHeaven only knows  \r  \rSo let's make this night the best night  \rIt's time for second chance  \rTurn the beat up on repeat, and we can start to dance  \r  \rSometimes when we talking words  \rDrowned on by the sound  \rLet's get back to touch, and we'll get back on solid ground  \r  \rLet's hold hands  \rLike a young romance  \rLet's first kiss like the moment we first did  \rCan we make love  \rLike back way in the day?",
-        "beginOffset": 438
+        "content": "Heaven only knows  \rHeaven only knows  \rHeaven only knows  \rHeaven only knows  \r  \rSo let's make this night the best night  \rIt's time for second chance  \rTurn the beat up on repeat, and we can start to dance  \r  \rSometimes when we talking words  \rDrowned on by the sound  \rLet's get back to touch, and we'll get back on solid ground  \r  \rLet's hold hands  \rLike a young romance  \rLet's first kiss like the moment we first did  \rCan we make love  \rLike back way in the day?",
+        "beginOffset": 432
       },
       "sentiment": {
         "magnitude": 0.7,
@@ -27,18 +27,18 @@
     },
     {
       "text": {
-        "content": "We can lose control  \rBaby, don't say no  \r  \r[Chorus]  \r  \rSo will you come back to me?",
-        "beginOffset": 925
+        "content": "We can lose control  \rBaby, don't say no  \r  \rSo will you come back to me?",
+        "beginOffset": 908
       },
       "sentiment": {
-        "magnitude": 0.1,
-        "score": -0.1
+        "magnitude": 0.3,
+        "score": -0.3
       }
     },
     {
       "text": {
         "content": "Heaven only knows  \rSo will you come back to me?",
-        "beginOffset": 1016
+        "beginOffset": 985
       },
       "sentiment": {
         "magnitude": 0.2,
@@ -47,8 +47,8 @@
     },
     {
       "text": {
-        "content": "Make this night the best night  \rIt's time for second chance  \rTurn the beat up on repeat, and we can start to dance  \r  \r[Chorus]",
-        "beginOffset": 1070
+        "content": "Make this night the best night  \rIt's time for second chance  \rTurn the beat up on repeat, and we can start to dance",
+        "beginOffset": 1039
       },
       "sentiment": {
         "magnitude": 0.7,

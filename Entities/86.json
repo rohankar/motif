@@ -4,7 +4,7 @@
       "name": "Cos",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.1217708,
+      "salience": 0.17014883,
       "mentions": [
         {
           "text": {
@@ -16,40 +16,10 @@
       ]
     },
     {
-      "name": "state",
-      "type": "LOCATION",
-      "metadata": {},
-      "salience": 0.070555404,
-      "mentions": [
-        {
-          "text": {
-            "content": "state",
-            "beginOffset": 284
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "baby",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.06465708,
-      "mentions": [
-        {
-          "text": {
-            "content": "baby",
-            "beginOffset": 173
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "face",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.045657545,
+      "salience": 0.080589116,
       "mentions": [
         {
           "text": {
@@ -61,15 +31,30 @@
       ]
     },
     {
-      "name": "style",
-      "type": "OTHER",
+      "name": "state",
+      "type": "LOCATION",
       "metadata": {},
-      "salience": 0.042609844,
+      "salience": 0.06563352,
       "mentions": [
         {
           "text": {
-            "content": "style",
-            "beginOffset": 50
+            "content": "state",
+            "beginOffset": 284
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "state",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.04092867,
+      "mentions": [
+        {
+          "text": {
+            "content": "state",
+            "beginOffset": 1521
           },
           "type": "COMMON"
         }
@@ -79,7 +64,7 @@
       "name": "knees",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.04030425,
+      "salience": 0.037498627,
       "mentions": [
         {
           "text": {
@@ -91,17 +76,32 @@
       ]
     },
     {
-      "name": "Da, da, da, da, da, da Da, da, da, da, da, da",
-      "type": "WORK_OF_ART",
+      "name": "baby",
+      "type": "PERSON",
       "metadata": {},
-      "salience": 0.03235112,
+      "salience": 0.03524176,
       "mentions": [
         {
           "text": {
-            "content": "Da, da, da, da, da, da  \rDa, da, da, da, da, da",
-            "beginOffset": 1356
+            "content": "baby",
+            "beginOffset": 173
           },
-          "type": "PROPER"
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "style",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03370299,
+      "mentions": [
+        {
+          "text": {
+            "content": "style",
+            "beginOffset": 50
+          },
+          "type": "COMMON"
         }
       ]
     },
@@ -109,7 +109,7 @@
       "name": "state",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.030645784,
+      "salience": 0.028158043,
       "mentions": [
         {
           "text": {
@@ -124,7 +124,7 @@
       "name": "state",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.02737494,
+      "salience": 0.02644691,
       "mentions": [
         {
           "text": {
@@ -136,25 +136,10 @@
       ]
     },
     {
-      "name": "Gotta",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.026698958,
-      "mentions": [
-        {
-          "text": {
-            "content": "Gotta",
-            "beginOffset": 0
-          },
-          "type": "PROPER"
-        }
-      ]
-    },
-    {
       "name": "shock",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.026279317,
+      "salience": 0.024450611,
       "mentions": [
         {
           "text": {
@@ -169,7 +154,7 @@
       "name": "Ow Wow Ow",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.02586189,
+      "salience": 0.024062227,
       "mentions": [
         {
           "text": {
@@ -188,17 +173,17 @@
       ]
     },
     {
-      "name": "state",
-      "type": "LOCATION",
+      "name": "Gotta",
+      "type": "PERSON",
       "metadata": {},
-      "salience": 0.022390608,
+      "salience": 0.023922833,
       "mentions": [
         {
           "text": {
-            "content": "state",
-            "beginOffset": 727
+            "content": "Gotta",
+            "beginOffset": 0
           },
-          "type": "COMMON"
+          "type": "PROPER"
         }
       ]
     },
@@ -206,7 +191,7 @@
       "name": "Wow Uh",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.020880576,
+      "salience": 0.019184466,
       "mentions": [
         {
           "text": {
@@ -228,7 +213,7 @@
       "name": "baby",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.020485412,
+      "salience": 0.019059697,
       "mentions": [
         {
           "text": {
@@ -243,7 +228,7 @@
       "name": "baby",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.020485412,
+      "salience": 0.019059697,
       "mentions": [
         {
           "text": {
@@ -258,7 +243,22 @@
       "name": "state",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.018539207,
+      "salience": 0.01791287,
+      "mentions": [
+        {
+          "text": {
+            "content": "state",
+            "beginOffset": 727
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "state",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.017248806,
       "mentions": [
         {
           "text": {
@@ -273,7 +273,22 @@
       "name": "state",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.018539207,
+      "salience": 0.017248806,
+      "mentions": [
+        {
+          "text": {
+            "content": "state",
+            "beginOffset": 701
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "state",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.017248806,
       "mentions": [
         {
           "text": {
@@ -288,22 +303,7 @@
       "name": "state",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.018539207,
-      "mentions": [
-        {
-          "text": {
-            "content": "state",
-            "beginOffset": 918
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "state",
-      "type": "LOCATION",
-      "metadata": {},
-      "salience": 0.018539207,
+      "salience": 0.017248806,
       "mentions": [
         {
           "text": {
@@ -318,12 +318,12 @@
       "name": "state",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.018307198,
+      "salience": 0.017248806,
       "mentions": [
         {
           "text": {
             "content": "state",
-            "beginOffset": 701
+            "beginOffset": 918
           },
           "type": "COMMON"
         }
@@ -333,7 +333,7 @@
       "name": "shock",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.017794713,
+      "salience": 0.016556067,
       "mentions": [
         {
           "text": {
@@ -348,7 +348,7 @@
       "name": "shock",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.017794713,
+      "salience": 0.016556067,
       "mentions": [
         {
           "text": {
@@ -363,22 +363,7 @@
       "name": "shock",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.017794713,
-      "mentions": [
-        {
-          "text": {
-            "content": "shock",
-            "beginOffset": 843
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "shock",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.017571958,
+      "salience": 0.016556067,
       "mentions": [
         {
           "text": {
@@ -390,10 +375,25 @@
       ]
     },
     {
+      "name": "shock",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016556067,
+      "mentions": [
+        {
+          "text": {
+            "content": "shock",
+            "beginOffset": 843
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "knees",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.015521457,
+      "salience": 0.01444083,
       "mentions": [
         {
           "text": {
@@ -408,7 +408,7 @@
       "name": "baby",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0138611365,
+      "salience": 0.012895913,
       "mentions": [
         {
           "text": {
@@ -423,7 +423,7 @@
       "name": "baby",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0138611365,
+      "salience": 0.012895913,
       "mentions": [
         {
           "text": {
@@ -438,7 +438,7 @@
       "name": "face",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.011759159,
+      "salience": 0.010141576,
       "mentions": [
         {
           "text": {
@@ -453,7 +453,7 @@
       "name": "baby talk",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.01036391,
+      "salience": 0.009764377,
       "mentions": [
         {
           "text": {
@@ -465,40 +465,10 @@
       ]
     },
     {
-      "name": "way",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.009662986,
-      "mentions": [
-        {
-          "text": {
-            "content": "way",
-            "beginOffset": 587
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "Everybody",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.00918663,
-      "mentions": [
-        {
-          "text": {
-            "content": "Everybody",
-            "beginOffset": 996
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "nah Nah",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.007858556,
+      "salience": 0.008905037,
       "mentions": [
         {
           "text": {
@@ -513,19 +483,41 @@
             "beginOffset": 1108
           },
           "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "nah  \rNah",
+            "beginOffset": 1788
+          },
+          "type": "PROPER"
         }
       ]
     },
     {
-      "name": "state",
-      "type": "LOCATION",
+      "name": "way",
+      "type": "OTHER",
       "metadata": {},
-      "salience": 0.0073118717,
+      "salience": 0.0088766655,
       "mentions": [
         {
           "text": {
-            "content": "state",
-            "beginOffset": 1551
+            "content": "way",
+            "beginOffset": 587
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Everybody",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.008546338,
+      "mentions": [
+        {
+          "text": {
+            "content": "Everybody",
+            "beginOffset": 996
           },
           "type": "COMMON"
         }
@@ -535,7 +527,7 @@
       "name": "Wow Nah",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.006969903,
+      "salience": 0.0064837565,
       "mentions": [
         {
           "text": {
@@ -550,7 +542,7 @@
       "name": "Ow",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.0068396837,
+      "salience": 0.006362594,
       "mentions": [
         {
           "text": {
@@ -562,17 +554,53 @@
       ]
     },
     {
-      "name": "state",
-      "type": "LOCATION",
+      "name": "Na",
+      "type": "PERSON",
       "metadata": {},
-      "salience": 0.006047934,
+      "salience": 0.0058062053,
       "mentions": [
         {
           "text": {
-            "content": "state",
-            "beginOffset": 1585
+            "content": "Na",
+            "beginOffset": 1209
           },
-          "type": "COMMON"
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Na",
+            "beginOffset": 1240
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Na",
+            "beginOffset": 1316
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Na",
+            "beginOffset": 1276
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Talk",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005787937,
+      "mentions": [
+        {
+          "text": {
+            "content": "Talk",
+            "beginOffset": 602
+          },
+          "type": "PROPER"
         }
       ]
     },
@@ -580,7 +608,7 @@
       "name": "state",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.006047934,
+      "salience": 0.005625922,
       "mentions": [
         {
           "text": {
@@ -595,12 +623,27 @@
       "name": "state",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.006047934,
+      "salience": 0.005625922,
       "mentions": [
         {
           "text": {
             "content": "state",
-            "beginOffset": 1521
+            "beginOffset": 1551
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "state",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.005625922,
+      "mentions": [
+        {
+          "text": {
+            "content": "state",
+            "beginOffset": 1585
           },
           "type": "COMMON"
         }
@@ -610,7 +653,7 @@
       "name": "shock",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.005803908,
+      "salience": 0.005398875,
       "mentions": [
         {
           "text": {
@@ -625,12 +668,12 @@
       "name": "shock",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.005803908,
+      "salience": 0.005398875,
       "mentions": [
         {
           "text": {
             "content": "shock",
-            "beginOffset": 1560
+            "beginOffset": 1617
           },
           "type": "COMMON"
         }
@@ -640,7 +683,7 @@
       "name": "shock",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.005803908,
+      "salience": 0.005398875,
       "mentions": [
         {
           "text": {
@@ -655,12 +698,12 @@
       "name": "shock",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.005803908,
+      "salience": 0.005398875,
       "mentions": [
         {
           "text": {
             "content": "shock",
-            "beginOffset": 1617
+            "beginOffset": 1560
           },
           "type": "COMMON"
         }
@@ -670,7 +713,7 @@
       "name": "state",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.004189462,
+      "salience": 0.003996786,
       "mentions": [
         {
           "text": {
@@ -685,7 +728,7 @@
       "name": "state",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.004189462,
+      "salience": 0.003996786,
       "mentions": [
         {
           "text": {
@@ -700,7 +743,7 @@
       "name": "state",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.004189462,
+      "salience": 0.0038968015,
       "mentions": [
         {
           "text": {
@@ -715,7 +758,7 @@
       "name": "da",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0040679877,
+      "salience": 0.003783786,
       "mentions": [
         {
           "text": {
@@ -727,25 +770,10 @@
       ]
     },
     {
-      "name": "Da, da, da, da, da, da Da, da, da, da, da",
-      "type": "WORK_OF_ART",
-      "metadata": {},
-      "salience": 0.0040679877,
-      "mentions": [
-        {
-          "text": {
-            "content": "Da, da, da, da, da, da  \rDa, da, da, da, da",
-            "beginOffset": 1411
-          },
-          "type": "PROPER"
-        }
-      ]
-    },
-    {
       "name": "shock",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0040203044,
+      "salience": 0.0037394236,
       "mentions": [
         {
           "text": {
@@ -760,7 +788,7 @@
       "name": "shock",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0040203044,
+      "salience": 0.0037394236,
       "mentions": [
         {
           "text": {
@@ -775,7 +803,7 @@
       "name": "shock",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0040203044,
+      "salience": 0.0037394236,
       "mentions": [
         {
           "text": {
@@ -790,7 +818,7 @@
       "name": "Yeah",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.003819526,
+      "salience": 0.003597924,
       "mentions": [
         {
           "text": {
@@ -802,37 +830,15 @@
       ]
     },
     {
-      "name": "nah Nah",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0035899882,
-      "mentions": [
-        {
-          "text": {
-            "content": "nah  \rNah",
-            "beginOffset": 1788
-          },
-          "type": "PROPER"
-        }
-      ]
-    },
-    {
-      "name": "Na",
+      "name": "Da, da, da, da, da, da Da, da, da, da, da, da, wow Da, da, da, da, da, da Da, da, da, da, da",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0028402722,
+      "salience": 0.0016600764,
       "mentions": [
         {
           "text": {
-            "content": "Na",
-            "beginOffset": 1240
-          },
-          "type": "PROPER"
-        },
-        {
-          "text": {
-            "content": "Na",
-            "beginOffset": 1276
+            "content": "Da, da, da, da, da, da  \rDa, da, da, da, da, da, wow  \rDa, da, da, da, da, da  \rDa, da, da, da, da",
+            "beginOffset": 1356
           },
           "type": "PROPER"
         }

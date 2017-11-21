@@ -1,7 +1,49 @@
 {
-  "error": {
-    "code": 400,
-    "message": "Invalid JSON payload received. Expected , or } after key:value pair.\ncrowd would sing  \r\"Now the old king is \n                    ^",
-    "status": "INVALID_ARGUMENT"
-  }
+  "documentSentiment": {
+    "magnitude": 1.4,
+    "score": -0.2
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "I used to rule the world  \rSeas would rise when I gave the word  \rNow in the morning, I sleep alone  \rSweep the streets I used to own  \r  \rI used to roll the dice  \rFeel the fear in my enemy's eyes  \rListen as the crowd would sing  'Now the old king is dead!",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Long live the king!'",
+        "beginOffset": 259
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
+    },
+    {
+      "text": {
+        "content": "One minute I held the key  \rNext the walls were closed on me  \rAnd I discovered that my castles stand  \rUpon pillars of salt and pillars of sand  \r  \rI hear Jerusalem bells are ringing  \rRoman Cavalry choirs are singing  \rBe my mirror, my sword and shield  \rMy missionaries in a foreign field  \rFor some reason I can't explain  \rOnce you go there was never, never an honest word  \rThat was when I ruled the world  \r  \rIt was a wicked and wild wind  \rBlew down the doors to let me in  \rShattered windows and the sound of drums  \rPeople couldn't believe what I'd become  \r  \rRevolutionaries wait  \rFor my head on a silver plate  \rJust a puppet on a lonely string  \rOh who would ever want to be king?",
+        "beginOffset": 285
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "[Chorus]  \rI hear Jerusalem bells are ringing  \rRoman Calvary choirs are singing  \rBe my mirror, my sword and shield  \rMy missionaries in a foreign field  \rFor some reason I can't explain  \rI know Saint Peter won't call my name  \rNever rule this world  \rBut that was when I ruled the world  \r  \rOh, oh, oh, oh, oh",
+        "beginOffset": 988
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    }
+  ]
 }

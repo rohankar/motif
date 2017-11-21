@@ -4,7 +4,7 @@
       "name": "boy",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.4562068,
+      "salience": 0.48215535,
       "mentions": [
         {
           "text": {
@@ -23,15 +23,30 @@
       ]
     },
     {
-      "name": "em Part",
+      "name": "Part",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.050495513,
+      "salience": 0.04197081,
       "mentions": [
         {
           "text": {
-            "content": "em  \rPart",
-            "beginOffset": 114
+            "content": "Part",
+            "beginOffset": 119
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Everything",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.039916135,
+      "mentions": [
+        {
+          "text": {
+            "content": "Everything",
+            "beginOffset": 1044
           },
           "type": "COMMON"
         }
@@ -41,7 +56,7 @@
       "name": "system",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.046982557,
+      "salience": 0.039052073,
       "mentions": [
         {
           "text": {
@@ -56,7 +71,7 @@
       "name": "shadows",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.04280526,
+      "salience": 0.035581067,
       "mentions": [
         {
           "text": {
@@ -71,7 +86,7 @@
       "name": "human race",
       "type": "EVENT",
       "metadata": {},
-      "salience": 0.0393088,
+      "salience": 0.03267554,
       "mentions": [
         {
           "text": {
@@ -90,10 +105,25 @@
       ]
     },
     {
+      "name": "em",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.031197837,
+      "mentions": [
+        {
+          "text": {
+            "content": "em",
+            "beginOffset": 114
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "something",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.03753066,
+      "salience": 0.031197837,
       "mentions": [
         {
           "text": {
@@ -108,7 +138,7 @@
       "name": "part",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.03495913,
+      "salience": 0.028265674,
       "mentions": [
         {
           "text": {
@@ -123,7 +153,7 @@
       "name": "Part",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.019508574,
+      "salience": 0.016217897,
       "mentions": [
         {
           "text": {
@@ -138,7 +168,7 @@
       "name": "space",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.018134784,
+      "salience": 0.015075817,
       "mentions": [
         {
           "text": {
@@ -153,7 +183,7 @@
       "name": "sound",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.017239237,
+      "salience": 0.014151928,
       "mentions": [
         {
           "text": {
@@ -165,40 +195,10 @@
       ]
     },
     {
-      "name": "shadows",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.016504455,
-      "mentions": [
-        {
-          "text": {
-            "content": "shadows",
-            "beginOffset": 236
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "noise",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.016504455,
-      "mentions": [
-        {
-          "text": {
-            "content": "noise",
-            "beginOffset": 302
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "system plan",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.016504455,
+      "salience": 0.0137204435,
       "mentions": [
         {
           "text": {
@@ -210,15 +210,15 @@
       ]
     },
     {
-      "name": "state",
-      "type": "LOCATION",
+      "name": "noise",
+      "type": "OTHER",
       "metadata": {},
-      "salience": 0.014740173,
+      "salience": 0.0137204435,
       "mentions": [
         {
           "text": {
-            "content": "state",
-            "beginOffset": 671
+            "content": "noise",
+            "beginOffset": 302
           },
           "type": "COMMON"
         }
@@ -228,22 +228,7 @@
       "name": "state",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.014740173,
-      "mentions": [
-        {
-          "text": {
-            "content": "state",
-            "beginOffset": 651
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "state",
-      "type": "LOCATION",
-      "metadata": {},
-      "salience": 0.0145554915,
+      "salience": 0.012253678,
       "mentions": [
         {
           "text": {
@@ -255,10 +240,25 @@
       ]
     },
     {
+      "name": "state",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.012253678,
+      "mentions": [
+        {
+          "text": {
+            "content": "state",
+            "beginOffset": 651
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "Things",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.01445092,
+      "salience": 0.012013202,
       "mentions": [
         {
           "text": {
@@ -270,10 +270,40 @@
       ]
     },
     {
+      "name": "shadows sparkle",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012013202,
+      "mentions": [
+        {
+          "text": {
+            "content": "shadows sparkle",
+            "beginOffset": 236
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "state",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.011948513,
+      "mentions": [
+        {
+          "text": {
+            "content": "state",
+            "beginOffset": 671
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "All",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.013494728,
+      "salience": 0.011218243,
       "mentions": [
         {
           "text": {
@@ -288,7 +318,7 @@
       "name": "Part",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.012084366,
+      "salience": 0.010045689,
       "mentions": [
         {
           "text": {
@@ -300,25 +330,10 @@
       ]
     },
     {
-      "name": "space",
-      "type": "LOCATION",
-      "metadata": {},
-      "salience": 0.011230928,
-      "mentions": [
-        {
-          "text": {
-            "content": "space",
-            "beginOffset": 904
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "outer space",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.011230928,
+      "salience": 0.009336147,
       "mentions": [
         {
           "text": {
@@ -330,10 +345,25 @@
       ]
     },
     {
+      "name": "space",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.009336147,
+      "mentions": [
+        {
+          "text": {
+            "content": "space",
+            "beginOffset": 904
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "Everything",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.011023034,
+      "salience": 0.00927976,
       "mentions": [
         {
           "text": {
@@ -348,7 +378,7 @@
       "name": "system plan",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.010218607,
+      "salience": 0.008494511,
       "mentions": [
         {
           "text": {
@@ -363,7 +393,7 @@
       "name": "noise",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.010218607,
+      "salience": 0.008494511,
       "mentions": [
         {
           "text": {
@@ -378,7 +408,7 @@
       "name": "state",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.0100941295,
+      "salience": 0.008391022,
       "mentions": [
         {
           "text": {
@@ -391,9 +421,9 @@
     },
     {
       "name": "stars",
-      "type": "PERSON",
+      "type": "OTHER",
       "metadata": {},
-      "salience": 0.008944251,
+      "salience": 0.007435019,
       "mentions": [
         {
           "text": {
@@ -408,7 +438,7 @@
       "name": "state",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.004436029,
+      "salience": 0.0036870083,
       "mentions": [
         {
           "text": {
@@ -423,7 +453,7 @@
       "name": "state Swimming",
       "type": "EVENT",
       "metadata": {},
-      "salience": 0.0037500653,
+      "salience": 0.0032374817,
       "mentions": [
         {
           "text": {
@@ -435,25 +465,10 @@
       ]
     },
     {
-      "name": "Everything",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0033560095,
-      "mentions": [
-        {
-          "text": {
-            "content": "Everything",
-            "beginOffset": 1044
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "sea",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.003180695,
+      "salience": 0.0026434353,
       "mentions": [
         {
           "text": {
@@ -468,7 +483,7 @@
       "name": "faces",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.003180695,
+      "salience": 0.0026434353,
       "mentions": [
         {
           "text": {
@@ -483,7 +498,7 @@
       "name": "tide",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.003180695,
+      "salience": 0.0026434353,
       "mentions": [
         {
           "text": {
@@ -498,7 +513,7 @@
       "name": "answer",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0025970493,
+      "salience": 0.0022419144,
       "mentions": [
         {
           "text": {
@@ -513,7 +528,7 @@
       "name": "sun",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0022025805,
+      "salience": 0.0018303719,
       "mentions": [
         {
           "text": {
@@ -528,7 +543,7 @@
       "name": "horizon",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0022025805,
+      "salience": 0.0018303719,
       "mentions": [
         {
           "text": {
@@ -543,7 +558,7 @@
       "name": "love",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0022025805,
+      "salience": 0.0018303719,
       "mentions": [
         {
           "text": {

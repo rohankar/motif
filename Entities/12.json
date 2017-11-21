@@ -1,18 +1,82 @@
 {
   "entities": [
     {
-      "name": "sorrow",
+      "name": "pain",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.15811668,
+      "salience": 0.19992845,
       "mentions": [
         {
           "text": {
-            "content": "sorrow",
-            "beginOffset": 450
+            "content": "pain",
+            "beginOffset": 426
           },
           "type": "COMMON"
         },
+        {
+          "text": {
+            "content": "pain",
+            "beginOffset": 522
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "pain",
+            "beginOffset": 978
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "pain",
+            "beginOffset": 1074
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "drag",
+            "beginOffset": 1086
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "pain",
+            "beginOffset": 1392
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "drag",
+            "beginOffset": 1404
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "pain",
+            "beginOffset": 1488
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "drag",
+            "beginOffset": 1500
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sorrow",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.1314703,
+      "mentions": [
         {
           "text": {
             "content": "sorrow",
@@ -51,60 +115,10 @@
       ]
     },
     {
-      "name": "pain",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.15811668,
-      "mentions": [
-        {
-          "text": {
-            "content": "pain",
-            "beginOffset": 426
-          },
-          "type": "COMMON"
-        },
-        {
-          "text": {
-            "content": "pain",
-            "beginOffset": 522
-          },
-          "type": "COMMON"
-        },
-        {
-          "text": {
-            "content": "pain",
-            "beginOffset": 978
-          },
-          "type": "COMMON"
-        },
-        {
-          "text": {
-            "content": "pain",
-            "beginOffset": 1074
-          },
-          "type": "COMMON"
-        },
-        {
-          "text": {
-            "content": "pain",
-            "beginOffset": 1392
-          },
-          "type": "COMMON"
-        },
-        {
-          "text": {
-            "content": "pain",
-            "beginOffset": 1488
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "world",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.05933493,
+      "salience": 0.05763209,
       "mentions": [
         {
           "text": {
@@ -119,7 +133,7 @@
       "name": "greetings",
       "type": "EVENT",
       "metadata": {},
-      "salience": 0.05933493,
+      "salience": 0.05763209,
       "mentions": [
         {
           "text": {
@@ -131,10 +145,32 @@
       ]
     },
     {
+      "name": "job",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.056054696,
+      "mentions": [
+        {
+          "text": {
+            "content": "job",
+            "beginOffset": 254
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "job",
+            "beginOffset": 806
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "place",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.056248102,
+      "salience": 0.055950385,
       "mentions": [
         {
           "text": {
@@ -146,32 +182,10 @@
       ]
     },
     {
-      "name": "shot",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.036635295,
-      "mentions": [
-        {
-          "text": {
-            "content": "shot",
-            "beginOffset": 966
-          },
-          "type": "COMMON"
-        },
-        {
-          "text": {
-            "content": "shot",
-            "beginOffset": 1380
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "place",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.034496386,
+      "salience": 0.034325708,
       "mentions": [
         {
           "text": {
@@ -186,19 +200,19 @@
       "name": "shot",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.033072185,
+      "salience": 0.030821634,
       "mentions": [
         {
           "text": {
             "content": "shot",
-            "beginOffset": 1062
+            "beginOffset": 510
           },
           "type": "COMMON"
         },
         {
           "text": {
             "content": "shot",
-            "beginOffset": 1476
+            "beginOffset": 1380
           },
           "type": "COMMON"
         }
@@ -208,7 +222,7 @@
       "name": "liquor store",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.031197088,
+      "salience": 0.030309986,
       "mentions": [
         {
           "text": {
@@ -220,10 +234,25 @@
       ]
     },
     {
+      "name": "beer",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.027953537,
+      "mentions": [
+        {
+          "text": {
+            "content": "beer",
+            "beginOffset": 160
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "top",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.028247554,
+      "salience": 0.027444854,
       "mentions": [
         {
           "text": {
@@ -238,7 +267,7 @@
       "name": "pores",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.024859339,
+      "salience": 0.024153365,
       "mentions": [
         {
           "text": {
@@ -250,40 +279,10 @@
       ]
     },
     {
-      "name": "Lotto tickets",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.024732556,
-      "mentions": [
-        {
-          "text": {
-            "content": "Lotto tickets",
-            "beginOffset": 140
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "beer",
-      "type": "CONSUMER_GOOD",
-      "metadata": {},
-      "salience": 0.024732556,
-      "mentions": [
-        {
-          "text": {
-            "content": "beer",
-            "beginOffset": 160
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "way",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.024732556,
+      "salience": 0.024030196,
       "mentions": [
         {
           "text": {
@@ -295,24 +294,32 @@
       ]
     },
     {
-      "name": "block",
+      "name": "Lotto tickets",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.02128845,
+      "salience": 0.024030196,
       "mentions": [
         {
           "text": {
-            "content": "block",
-            "beginOffset": 131
+            "content": "Lotto tickets",
+            "beginOffset": 140
           },
           "type": "COMMON"
-        },
+        }
+      ]
+    },
+    {
+      "name": "Tryna",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.016287917,
+      "mentions": [
         {
           "text": {
-            "content": "block",
-            "beginOffset": 1247
+            "content": "Tryna",
+            "beginOffset": 203
           },
-          "type": "COMMON"
+          "type": "PROPER"
         }
       ]
     },
@@ -320,7 +327,7 @@
       "name": "shot",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.016909841,
+      "salience": 0.01601995,
       "mentions": [
         {
           "text": {
@@ -338,7 +345,7 @@
         "mid": "/m/082bv",
         "wikipedia_url": "https://en.wikipedia.org/wiki/Whisky"
       },
-      "salience": 0.0147480415,
+      "salience": 0.01432943,
       "mentions": [
         {
           "text": {
@@ -350,37 +357,15 @@
       ]
     },
     {
-      "name": "Tryna",
+      "name": "block",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.013779012,
+      "salience": 0.01395271,
       "mentions": [
         {
           "text": {
-            "content": "Tryna",
-            "beginOffset": 203
-          },
-          "type": "PROPER"
-        },
-        {
-          "text": {
-            "content": "Tryna",
-            "beginOffset": 663
-          },
-          "type": "PROPER"
-        }
-      ]
-    },
-    {
-      "name": "job",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.010777448,
-      "mentions": [
-        {
-          "text": {
-            "content": "job",
-            "beginOffset": 254
+            "content": "block",
+            "beginOffset": 131
           },
           "type": "COMMON"
         }
@@ -390,7 +375,7 @@
       "name": "nowhere",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.010777448,
+      "salience": 0.010471278,
       "mentions": [
         {
           "text": {
@@ -405,7 +390,7 @@
       "name": "liquor store blues",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.010747062,
+      "salience": 0.010441752,
       "mentions": [
         {
           "text": {
@@ -417,15 +402,30 @@
       ]
     },
     {
-      "name": "cents",
+      "name": "shot",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.010500792,
+      "salience": 0.009801518,
       "mentions": [
         {
           "text": {
-            "content": "cents",
-            "beginOffset": 712
+            "content": "shot",
+            "beginOffset": 966
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sorrow",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009299639,
+      "mentions": [
+        {
+          "text": {
+            "content": "sorrow",
+            "beginOffset": 450
           },
           "type": "COMMON"
         }
@@ -435,7 +435,7 @@
       "name": "drag",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0094513055,
+      "salience": 0.009299639,
       "mentions": [
         {
           "text": {
@@ -447,25 +447,10 @@
       ]
     },
     {
-      "name": "shot",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.009416954,
-      "mentions": [
-        {
-          "text": {
-            "content": "shot",
-            "beginOffset": 510
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "drag",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.009416954,
+      "salience": 0.009265835,
       "mentions": [
         {
           "text": {
@@ -480,7 +465,7 @@
       "name": "drag",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.008666628,
+      "salience": 0.008420189,
       "mentions": [
         {
           "text": {
@@ -495,7 +480,7 @@
       "name": "thing",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.007187773,
+      "salience": 0.0077277767,
       "mentions": [
         {
           "text": {
@@ -507,15 +492,15 @@
       ]
     },
     {
-      "name": "job",
+      "name": "block",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0071788025,
+      "salience": 0.007099227,
       "mentions": [
         {
           "text": {
-            "content": "job",
-            "beginOffset": 806
+            "content": "block",
+            "beginOffset": 1247
           },
           "type": "COMMON"
         }
@@ -525,7 +510,7 @@
       "name": "nowhere",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0065697795,
+      "salience": 0.0063826814,
       "mentions": [
         {
           "text": {
@@ -540,7 +525,7 @@
       "name": "liquor store blues",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.006563123,
+      "salience": 0.006376213,
       "mentions": [
         {
           "text": {
@@ -552,25 +537,10 @@
       ]
     },
     {
-      "name": "drag",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0064562964,
-      "mentions": [
-        {
-          "text": {
-            "content": "drag",
-            "beginOffset": 1404
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "city lights",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0062960703,
+      "salience": 0.00611672,
       "mentions": [
         {
           "text": {
@@ -582,10 +552,25 @@
       ]
     },
     {
+      "name": "guitar",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00611672,
+      "mentions": [
+        {
+          "text": {
+            "content": "guitar",
+            "beginOffset": 615
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "rent",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.006288474,
+      "salience": 0.0061093387,
       "mentions": [
         {
           "text": {
@@ -600,7 +585,7 @@
       "name": "cops",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.006288474,
+      "salience": 0.0061093387,
       "mentions": [
         {
           "text": {
@@ -612,25 +597,10 @@
       ]
     },
     {
-      "name": "guitar",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.006216824,
-      "mentions": [
-        {
-          "text": {
-            "content": "guitar",
-            "beginOffset": 615
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "pineapple kush",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0052337474,
+      "salience": 0.005348838,
       "mentions": [
         {
           "text": {
@@ -642,40 +612,10 @@
       ]
     },
     {
-      "name": "top",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0048840526,
-      "mentions": [
-        {
-          "text": {
-            "content": "top",
-            "beginOffset": 1354
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "drag",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.004465219,
-      "mentions": [
-        {
-          "text": {
-            "content": "drag",
-            "beginOffset": 1500
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "thing",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0043800953,
+      "salience": 0.004709077,
       "mentions": [
         {
           "text": {
@@ -687,10 +627,40 @@
       ]
     },
     {
+      "name": "Tryna",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0044667698,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tryna",
+            "beginOffset": 663
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "shot",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0043377294,
+      "mentions": [
+        {
+          "text": {
+            "content": "shot",
+            "beginOffset": 1476
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "jaws",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0042733173,
+      "salience": 0.0041512684,
       "mentions": [
         {
           "text": {
@@ -702,25 +672,10 @@
       ]
     },
     {
-      "name": "Cause",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0037239434,
-      "mentions": [
-        {
-          "text": {
-            "content": "Cause",
-            "beginOffset": 702
-          },
-          "type": "PROPER"
-        }
-      ]
-    },
-    {
       "name": "greetings",
       "type": "EVENT",
       "metadata": {},
-      "salience": 0.003373375,
+      "salience": 0.0032768575,
       "mentions": [
         {
           "text": {
@@ -735,7 +690,7 @@
       "name": "world",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.003373375,
+      "salience": 0.0032768575,
       "mentions": [
         {
           "text": {
@@ -747,15 +702,15 @@
       ]
     },
     {
-      "name": "drag",
+      "name": "shot",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0028373287,
+      "salience": 0.0027560375,
       "mentions": [
         {
           "text": {
-            "content": "drag",
-            "beginOffset": 1086
+            "content": "shot",
+            "beginOffset": 1062
           },
           "type": "COMMON"
         }
@@ -768,12 +723,27 @@
         "mid": "/m/070vn",
         "wikipedia_url": "https://en.wikipedia.org/wiki/Superman"
       },
-      "salience": 0.0025300998,
+      "salience": 0.0024575433,
       "mentions": [
         {
           "text": {
             "content": "Superman",
             "beginOffset": 1202
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Cause",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0024110093,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cause",
+            "beginOffset": 702
           },
           "type": "PROPER"
         }
@@ -786,7 +756,7 @@
         "mid": "/m/01mskc3",
         "wikipedia_url": "https://en.wikipedia.org/wiki/Damian_Marley"
       },
-      "salience": 0.0015430538,
+      "salience": 0.0014426634,
       "mentions": [
         {
           "text": {

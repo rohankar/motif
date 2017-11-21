@@ -1,7 +1,49 @@
 {
-  "error": {
-    "code": 400,
-    "message": "Invalid JSON payload received. Expected , or } after key:value pair.\nation's ugly, like \"In Living Color\"'s W\n                    ^",
-    "status": "INVALID_ARGUMENT"
-  }
+  "documentSentiment": {
+    "magnitude": 1.6,
+    "score": -0.4
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "Well here's a formal introduction  \rSomething to make you ponder  \rThe situation's ugly, like 'In Living Colors Wanda (word up!)",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Well everybody play dumb, but there's some that succumb  \r  \rAnd fall victim, I will overcome any hurdle or obstacle that's in my path  \rFast cash should be the last resort so make it last for the risk you took  \rTrick, you shook your ass for some hundred dollar heels and a designer bag  \rNow that's ass backwards  \r  \rAll you got in the refrigerator is bratwurst  \rYour stomach is balled in a knot, you got that phat purse  \rPocketbook, stop and look, pockets look void  \rDestroyed by the need to indulge and enjoy the finer things in life right?",
+        "beginOffset": 131
+      },
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": -0.8
+      }
+    },
+    {
+      "text": {
+        "content": "Your dignity, your only sacrifice, slim as your chances of being somebody's\rwife  \rThey seeing ya butt, booty naked every night, ain't nothing right or wrong!",
+        "beginOffset": 685
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "Even though things started falling apart  \rWanda went and bought a Honda  \rNow she's out of a job, she would slob on a knob  \rFor a little less than a yard, a massage you could drill her like a sarge  \r  \rShe would charge and rob  \rPick through yo' pockets  \rShe got the tricks watch and the silver locket  \rThat he bought for his wife but Wanda left her license  \r  \rOn the night stand with this white man  \rShe met in a little red Corvette paid for sex  \rMade a deal that she would never forget you can bet  \rEvery action has a positive and equal reaction  \r  \rTherefore everything that goes around comes around in that fashion  \rFast and furiously, the was a knock on the sliding glass door  \rYou thought you was slick the way you hit me for that lick  \rBut you slipped now I'm getting in your shit!",
+        "beginOffset": 849
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    }
+  ]
 }

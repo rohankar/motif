@@ -4,7 +4,7 @@
       "name": "water slide",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.22180694,
+      "salience": 0.20154977,
       "mentions": [
         {
           "text": {
@@ -19,7 +19,7 @@
       "name": "life taker",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.18870337,
+      "salience": 0.18594988,
       "mentions": [
         {
           "text": {
@@ -41,7 +41,7 @@
       "name": "Somebody",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.059202947,
+      "salience": 0.058999617,
       "mentions": [
         {
           "text": {
@@ -53,10 +53,25 @@
       ]
     },
     {
+      "name": "icebox",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.05826238,
+      "mentions": [
+        {
+          "text": {
+            "content": "icebox",
+            "beginOffset": 58
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "cold one",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.05564796,
+      "salience": 0.057549544,
       "mentions": [
         {
           "text": {
@@ -71,7 +86,7 @@
       "name": "Alright Somebody's Heine' Is crowdin",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.05187463,
+      "salience": 0.05170516,
       "mentions": [
         {
           "text": {
@@ -83,25 +98,10 @@
       ]
     },
     {
-      "name": "icebox",
-      "type": "CONSUMER_GOOD",
-      "metadata": {},
-      "salience": 0.047382686,
-      "mentions": [
-        {
-          "text": {
-            "content": "icebox",
-            "beginOffset": 58
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "chills",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.047382686,
+      "salience": 0.047232628,
       "mentions": [
         {
           "text": {
@@ -113,10 +113,32 @@
       ]
     },
     {
+      "name": "Wrestle",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.040747005,
+      "mentions": [
+        {
+          "text": {
+            "content": "tele",
+            "beginOffset": 203
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Wrestle",
+            "beginOffset": 210
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
       "name": "life taker",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.037976757,
+      "salience": 0.03739587,
       "mentions": [
         {
           "text": {
@@ -138,7 +160,7 @@
       "name": "stepfather",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.02849191,
+      "salience": 0.02841262,
       "mentions": [
         {
           "text": {
@@ -160,7 +182,7 @@
       "name": "bottle",
       "type": "CONSUMER_GOOD",
       "metadata": {},
-      "salience": 0.024632461,
+      "salience": 0.02550619,
       "mentions": [
         {
           "text": {
@@ -172,62 +194,10 @@
       ]
     },
     {
-      "name": "Yeah",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0192967,
-      "mentions": [
-        {
-          "text": {
-            "content": "Yeah",
-            "beginOffset": 923
-          },
-          "type": "PROPER"
-        },
-        {
-          "text": {
-            "content": "flood",
-            "beginOffset": 915
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "back",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.018329665,
-      "mentions": [
-        {
-          "text": {
-            "content": "back",
-            "beginOffset": 265
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "tele",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.018329665,
-      "mentions": [
-        {
-          "text": {
-            "content": "tele",
-            "beginOffset": 203
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "drug",
       "type": "CONSUMER_GOOD",
       "metadata": {},
-      "salience": 0.018105615,
+      "salience": 0.018989177,
       "mentions": [
         {
           "text": {
@@ -239,10 +209,25 @@
       ]
     },
     {
+      "name": "back",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018281568,
+      "mentions": [
+        {
+          "text": {
+            "content": "back",
+            "beginOffset": 265
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "drug",
       "type": "CONSUMER_GOOD",
       "metadata": {},
-      "salience": 0.016789522,
+      "salience": 0.0173897,
       "mentions": [
         {
           "text": {
@@ -257,7 +242,7 @@
       "name": "love",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.016789522,
+      "salience": 0.0173897,
       "mentions": [
         {
           "text": {
@@ -272,7 +257,7 @@
       "name": "way",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.014614356,
+      "salience": 0.015137759,
       "mentions": [
         {
           "text": {
@@ -287,7 +272,7 @@
       "name": "Jimmy Something",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.013665472,
+      "salience": 0.013630258,
       "mentions": [
         {
           "text": {
@@ -302,7 +287,7 @@
       "name": "eyes",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.013550354,
+      "salience": 0.013515449,
       "mentions": [
         {
           "text": {
@@ -314,15 +299,15 @@
       ]
     },
     {
-      "name": "Flip",
-      "type": "PERSON",
+      "name": "Inside Flip",
+      "type": "OTHER",
       "metadata": {},
-      "salience": 0.010887516,
+      "salience": 0.010859605,
       "mentions": [
         {
           "text": {
-            "content": "Flip",
-            "beginOffset": 191
+            "content": "Inside  \r  \rFlip",
+            "beginOffset": 179
           },
           "type": "PROPER"
         }
@@ -332,7 +317,7 @@
       "name": "bottle",
       "type": "CONSUMER_GOOD",
       "metadata": {},
-      "salience": 0.009705216,
+      "salience": 0.00968034,
       "mentions": [
         {
           "text": {
@@ -347,7 +332,7 @@
       "name": "drug",
       "type": "CONSUMER_GOOD",
       "metadata": {},
-      "salience": 0.008715158,
+      "salience": 0.009028515,
       "mentions": [
         {
           "text": {
@@ -362,7 +347,7 @@
       "name": "feelings",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.008495389,
+      "salience": 0.008473581,
       "mentions": [
         {
           "text": {
@@ -377,7 +362,7 @@
       "name": "son",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.008495389,
+      "salience": 0.008473581,
       "mentions": [
         {
           "text": {
@@ -389,10 +374,25 @@
       ]
     },
     {
+      "name": "flood",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008473581,
+      "mentions": [
+        {
+          "text": {
+            "content": "flood",
+            "beginOffset": 915
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "heart breaker",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.00567032,
+      "salience": 0.005727571,
       "mentions": [
         {
           "text": {
@@ -407,7 +407,7 @@
       "name": "heart breaker",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.005255815,
+      "salience": 0.0052420855,
       "mentions": [
         {
           "text": {
@@ -422,7 +422,7 @@
       "name": "Steven",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0050362544,
+      "salience": 0.005023069,
       "mentions": [
         {
           "text": {
@@ -434,25 +434,10 @@
       ]
     },
     {
-      "name": "Daddy",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.0048701935,
-      "mentions": [
-        {
-          "text": {
-            "content": "Daddy",
-            "beginOffset": 698
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "life taker",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0046900446,
+      "salience": 0.0046777166,
       "mentions": [
         {
           "text": {
@@ -464,15 +449,15 @@
       ]
     },
     {
-      "name": "spite",
-      "type": "OTHER",
+      "name": "Daddy",
+      "type": "PERSON",
       "metadata": {},
-      "salience": 0.0037333053,
+      "salience": 0.0045595146,
       "mentions": [
         {
           "text": {
-            "content": "spite",
-            "beginOffset": 721
+            "content": "Daddy",
+            "beginOffset": 698
           },
           "type": "COMMON"
         }
@@ -482,7 +467,7 @@
       "name": "silence",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0037333053,
+      "salience": 0.0037233513,
       "mentions": [
         {
           "text": {
@@ -497,7 +482,7 @@
       "name": "things",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0032069662,
+      "salience": 0.0034948734,
       "mentions": [
         {
           "text": {
@@ -512,7 +497,7 @@
       "name": "heart breaker",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0027208072,
+      "salience": 0.0027133871,
       "mentions": [
         {
           "text": {
@@ -530,7 +515,7 @@
         "wikipedia_url": "https://en.wikipedia.org/wiki/Jesus",
         "mid": "/m/045m1_"
       },
-      "salience": 0.002211093,
+      "salience": 0.002204965,
       "mentions": [
         {
           "text": {

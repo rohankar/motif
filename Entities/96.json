@@ -1,7 +1,962 @@
 {
-  "error": {
-    "code": 400,
-    "message": "Invalid JSON payload received. Expected , or } after key:value pair.\nation's ugly, like \"In Living Color\"'s W\n                    ^",
-    "status": "INVALID_ARGUMENT"
-  }
+  "entities": [
+    {
+      "name": "way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.48329866,
+      "mentions": [
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": 1575
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Wanda",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.070144154,
+      "mentions": [
+        {
+          "text": {
+            "content": "Wanda",
+            "beginOffset": 892
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Wanda",
+            "beginOffset": 1189
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "hurdle",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.062300097,
+      "mentions": [
+        {
+          "text": {
+            "content": "hurdle",
+            "beginOffset": 229
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "some",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.04310951,
+      "mentions": [
+        {
+          "text": {
+            "content": "some",
+            "beginOffset": 169
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Something",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.035737958,
+      "mentions": [
+        {
+          "text": {
+            "content": "Something",
+            "beginOffset": 36
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "situation",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.03134196,
+      "mentions": [
+        {
+          "text": {
+            "content": "situation",
+            "beginOffset": 71
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "introduction",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.026982158,
+      "mentions": [
+        {
+          "text": {
+            "content": "introduction",
+            "beginOffset": 21
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "In Living Colors Wanda",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.026235685,
+      "mentions": [
+        {
+          "text": {
+            "content": "In Living Colors Wanda",
+            "beginOffset": 95
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "ass",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022548418,
+      "mentions": [
+        {
+          "text": {
+            "content": "ass",
+            "beginOffset": 366
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "everybody",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.014201857,
+      "mentions": [
+        {
+          "text": {
+            "content": "everybody",
+            "beginOffset": 136
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "everything",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014044017,
+      "mentions": [
+        {
+          "text": {
+            "content": "everything",
+            "beginOffset": 1422
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "victim",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012915117,
+      "mentions": [
+        {
+          "text": {
+            "content": "victim",
+            "beginOffset": 201
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Pocketbook",
+      "type": "CONSUMER_GOOD",
+      "metadata": {
+        "mid": "/m/080hkjn",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Handbag"
+      },
+      "salience": 0.0069686086,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pocketbook",
+            "beginOffset": 558
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "purse",
+            "beginOffset": 550
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "resort",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0060552605,
+      "mentions": [
+        {
+          "text": {
+            "content": "resort",
+            "beginOffset": 297
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cash",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0060552605,
+      "mentions": [
+        {
+          "text": {
+            "content": "cash",
+            "beginOffset": 273
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "risk",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0049457466,
+      "mentions": [
+        {
+          "text": {
+            "content": "risk",
+            "beginOffset": 328
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "path",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0049457466,
+      "mentions": [
+        {
+          "text": {
+            "content": "path",
+            "beginOffset": 261
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dollar heels",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0049457466,
+      "mentions": [
+        {
+          "text": {
+            "content": "dollar heels",
+            "beginOffset": 387
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "obstacle",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0049457466,
+      "mentions": [
+        {
+          "text": {
+            "content": "obstacle",
+            "beginOffset": 239
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "things",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0048742313,
+      "mentions": [
+        {
+          "text": {
+            "content": "things",
+            "beginOffset": 861
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ass",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0044437028,
+      "mentions": [
+        {
+          "text": {
+            "content": "ass",
+            "beginOffset": 432
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sarge",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0043880935,
+      "mentions": [
+        {
+          "text": {
+            "content": "sarge",
+            "beginOffset": 1043
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bratwurst",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.004142642,
+      "mentions": [
+        {
+          "text": {
+            "content": "bratwurst",
+            "beginOffset": 486
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pockets",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003989356,
+      "mentions": [
+        {
+          "text": {
+            "content": "pockets",
+            "beginOffset": 585
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "somebody",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.003797862,
+      "mentions": [
+        {
+          "text": {
+            "content": "somebody",
+            "beginOffset": 750
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "wife",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.003797862,
+      "mentions": [
+        {
+          "text": {
+            "content": "wife",
+            "beginOffset": 761
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "things",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0037693789,
+      "mentions": [
+        {
+          "text": {
+            "content": "things",
+            "beginOffset": 658
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Trick",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0037054683,
+      "mentions": [
+        {
+          "text": {
+            "content": "Trick",
+            "beginOffset": 344
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Fast",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0035316334,
+      "mentions": [
+        {
+          "text": {
+            "content": "Fast",
+            "beginOffset": 1481
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "fashion",
+            "beginOffset": 1471
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0033403377,
+      "mentions": [
+        {
+          "text": {
+            "content": "life",
+            "beginOffset": 668
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "designer bag",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0033403377,
+      "mentions": [
+        {
+          "text": {
+            "content": "designer bag",
+            "beginOffset": 406
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "refrigerator",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0033403377,
+      "mentions": [
+        {
+          "text": {
+            "content": "refrigerator",
+            "beginOffset": 470
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "stomach",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0033403377,
+      "mentions": [
+        {
+          "text": {
+            "content": "stomach",
+            "beginOffset": 503
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "knot",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0033403377,
+      "mentions": [
+        {
+          "text": {
+            "content": "knot",
+            "beginOffset": 526
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "need",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0033403377,
+      "mentions": [
+        {
+          "text": {
+            "content": "need",
+            "beginOffset": 622
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chances",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0033232279,
+      "mentions": [
+        {
+          "text": {
+            "content": "chances",
+            "beginOffset": 733
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "dignity",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0033232279,
+      "mentions": [
+        {
+          "text": {
+            "content": "dignity",
+            "beginOffset": 690
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sacrifice",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0033232279,
+      "mentions": [
+        {
+          "text": {
+            "content": "sacrifice",
+            "beginOffset": 709
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nothing",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0030412606,
+      "mentions": [
+        {
+          "text": {
+            "content": "nothing",
+            "beginOffset": 820
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "knob",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003030198,
+      "mentions": [
+        {
+          "text": {
+            "content": "knob",
+            "beginOffset": 968
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "yard",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.003030198,
+      "mentions": [
+        {
+          "text": {
+            "content": "yard",
+            "beginOffset": 1000
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "massage",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003030198,
+      "mentions": [
+        {
+          "text": {
+            "content": "massage",
+            "beginOffset": 1008
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "job",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003030198,
+      "mentions": [
+        {
+          "text": {
+            "content": "job",
+            "beginOffset": 943
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "action",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002703671,
+      "mentions": [
+        {
+          "text": {
+            "content": "action",
+            "beginOffset": 1366
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "silver locket",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002406339,
+      "mentions": [
+        {
+          "text": {
+            "content": "silver locket",
+            "beginOffset": 1141
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "reaction",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0022641774,
+      "mentions": [
+        {
+          "text": {
+            "content": "reaction",
+            "beginOffset": 1398
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "deal",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0022641774,
+      "mentions": [
+        {
+          "text": {
+            "content": "deal",
+            "beginOffset": 1313
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "sex",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0022641774,
+      "mentions": [
+        {
+          "text": {
+            "content": "sex",
+            "beginOffset": 1300
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Corvette",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0022641774,
+      "mentions": [
+        {
+          "text": {
+            "content": "Corvette",
+            "beginOffset": 1282
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "man",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0022641774,
+      "mentions": [
+        {
+          "text": {
+            "content": "man",
+            "beginOffset": 1252
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "night stand",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0022641774,
+      "mentions": [
+        {
+          "text": {
+            "content": "night stand",
+            "beginOffset": 1224
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "knock",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0016703103,
+      "mentions": [
+        {
+          "text": {
+            "content": "knock",
+            "beginOffset": 1511
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Honda",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/03kr0",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Honda"
+      },
+      "salience": 0.0016212726,
+      "mentions": [
+        {
+          "text": {
+            "content": "Honda",
+            "beginOffset": 916
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "shit",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0015677196,
+      "mentions": [
+        {
+          "text": {
+            "content": "shit",
+            "beginOffset": 1646
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "glass door",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0015677196,
+      "mentions": [
+        {
+          "text": {
+            "content": "glass door",
+            "beginOffset": 1532
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lick",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0015677196,
+      "mentions": [
+        {
+          "text": {
+            "content": "lick",
+            "beginOffset": 1599
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pockets",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0012481677,
+      "mentions": [
+        {
+          "text": {
+            "content": "pockets",
+            "beginOffset": 1098
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "wife",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0011352239,
+      "mentions": [
+        {
+          "text": {
+            "content": "wife",
+            "beginOffset": 1180
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tricks",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0011352239,
+      "mentions": [
+        {
+          "text": {
+            "content": "tricks",
+            "beginOffset": 1120
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "yo",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0009931646,
+      "mentions": [
+        {
+          "text": {
+            "content": "yo",
+            "beginOffset": 1094
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "license",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00087486795,
+      "mentions": [
+        {
+          "text": {
+            "content": "license",
+            "beginOffset": 1204
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Pick",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0005878242,
+      "mentions": [
+        {
+          "text": {
+            "content": "Pick",
+            "beginOffset": 1081
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "language": "en"
 }

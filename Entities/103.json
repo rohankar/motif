@@ -1,44 +1,15 @@
 {
   "entities": [
     {
-      "name": "opportunity",
+      "name": "change",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.2402979,
+      "salience": 0.31173095,
       "mentions": [
         {
           "text": {
-            "content": "opportunity",
-            "beginOffset": 398
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "Tonight",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.1207567,
-      "mentions": [
-        {
-          "text": {
-            "content": "Tonight",
-            "beginOffset": 364
-          },
-          "type": "PROPER"
-        },
-        {
-          "text": {
-            "content": "love",
-            "beginOffset": 354
-          },
-          "type": "COMMON"
-        },
-        {
-          "text": {
-            "content": "turn",
-            "beginOffset": 379
+            "content": "change",
+            "beginOffset": 14
           },
           "type": "COMMON"
         }
@@ -48,7 +19,7 @@
       "name": "Love",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.1009824,
+      "salience": 0.11229199,
       "mentions": [
         {
           "text": {
@@ -63,7 +34,7 @@
       "name": "chance",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.086657435,
+      "salience": 0.08850534,
       "mentions": [
         {
           "text": {
@@ -78,7 +49,7 @@
       "name": "feelings",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.06403457,
+      "salience": 0.067050345,
       "mentions": [
         {
           "text": {
@@ -90,40 +61,10 @@
       ]
     },
     {
-      "name": "change",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0636726,
-      "mentions": [
-        {
-          "text": {
-            "content": "change",
-            "beginOffset": 14
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "baby",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.03342522,
-      "mentions": [
-        {
-          "text": {
-            "content": "baby",
-            "beginOffset": 137
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "baby",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.03342522,
+      "salience": 0.058381952,
       "mentions": [
         {
           "text": {
@@ -135,10 +76,25 @@
       ]
     },
     {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.035016336,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 137
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "love",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.026080748,
+      "salience": 0.027669957,
       "mentions": [
         {
           "text": {
@@ -150,10 +106,25 @@
       ]
     },
     {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.027669957,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 354
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "friends",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.024788857,
+      "salience": 0.025971549,
       "mentions": [
         {
           "text": {
@@ -168,7 +139,7 @@
       "name": "Stand up",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.023153787,
+      "salience": 0.024258863,
       "mentions": [
         {
           "text": {
@@ -180,15 +151,15 @@
       ]
     },
     {
-      "name": "daylight",
+      "name": "turn",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.021316705,
+      "salience": 0.02177944,
       "mentions": [
         {
           "text": {
-            "content": "daylight",
-            "beginOffset": 500
+            "content": "turn",
+            "beginOffset": 379
           },
           "type": "COMMON"
         }
@@ -198,7 +169,7 @@
       "name": "baby",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.020740764,
+      "salience": 0.021731138,
       "mentions": [
         {
           "text": {
@@ -210,10 +181,25 @@
       ]
     },
     {
+      "name": "daylight",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021507077,
+      "mentions": [
+        {
+          "text": {
+            "content": "daylight",
+            "beginOffset": 500
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "dreams",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.019163696,
+      "salience": 0.020079004,
       "mentions": [
         {
           "text": {
@@ -225,25 +211,10 @@
       ]
     },
     {
-      "name": "Oh",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.016820652,
-      "mentions": [
-        {
-          "text": {
-            "content": "Oh",
-            "beginOffset": 204
-          },
-          "type": "PROPER"
-        }
-      ]
-    },
-    {
       "name": "heads",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.01678008,
+      "salience": 0.01758179,
       "mentions": [
         {
           "text": {
@@ -255,10 +226,25 @@
       ]
     },
     {
+      "name": "opportunity",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01758179,
+      "mentions": [
+        {
+          "text": {
+            "content": "opportunity",
+            "beginOffset": 398
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "love",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.016371315,
+      "salience": 0.016309882,
       "mentions": [
         {
           "text": {
@@ -273,7 +259,7 @@
       "name": "dreams",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.013127995,
+      "salience": 0.013755354,
       "mentions": [
         {
           "text": {
@@ -288,7 +274,7 @@
       "name": "love",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.012560825,
+      "salience": 0.013161079,
       "mentions": [
         {
           "text": {
@@ -303,7 +289,7 @@
       "name": "someone",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.011491831,
+      "salience": 0.012040977,
       "mentions": [
         {
           "text": {
@@ -315,55 +301,10 @@
       ]
     },
     {
-      "name": "love",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.010392905,
-      "mentions": [
-        {
-          "text": {
-            "content": "love",
-            "beginOffset": 649
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "baby",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.008905507,
-      "mentions": [
-        {
-          "text": {
-            "content": "baby",
-            "beginOffset": 722
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "love",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0079697035,
-      "mentions": [
-        {
-          "text": {
-            "content": "love",
-            "beginOffset": 708
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "Want",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.003663671,
+      "salience": 0.010432274,
       "mentions": [
         {
           "text": {
@@ -378,14 +319,66 @@
       "name": "Ooh",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.003418912,
+      "salience": 0.00992164,
       "mentions": [
+        {
+          "text": {
+            "content": "Ooh",
+            "beginOffset": 567
+          },
+          "type": "PROPER"
+        },
         {
           "text": {
             "content": "Ooh",
             "beginOffset": 718
           },
           "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.008870692,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 722
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008350316,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 649
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008350316,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 708
+          },
+          "type": "COMMON"
         }
       ]
     }

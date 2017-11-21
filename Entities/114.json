@@ -4,7 +4,7 @@
       "name": "friend",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.9301794,
+      "salience": 0.92958146,
       "mentions": [
         {
           "text": {
@@ -33,7 +33,7 @@
       "name": "house",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.03653337,
+      "salience": 0.035410486,
       "mentions": [
         {
           "text": {
@@ -48,7 +48,7 @@
       "name": "girl",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.015704,
+      "salience": 0.016800573,
       "mentions": [
         {
           "text": {
@@ -70,7 +70,7 @@
       "name": "friend",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.006487942,
+      "salience": 0.0069423546,
       "mentions": [
         {
           "text": {
@@ -85,7 +85,7 @@
       "name": "distance",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.005975569,
+      "salience": 0.0063139657,
       "mentions": [
         {
           "text": {
@@ -100,7 +100,7 @@
       "name": "things",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.003934515,
+      "salience": 0.0042100134,
       "mentions": [
         {
           "text": {
@@ -113,16 +113,16 @@
     },
     {
       "name": "Solo",
-      "type": "OTHER",
+      "type": "WORK_OF_ART",
       "metadata": {},
-      "salience": 0.0011851718,
+      "salience": 0.0007411695,
       "mentions": [
         {
           "text": {
             "content": "Solo",
             "beginOffset": 704
           },
-          "type": "COMMON"
+          "type": "PROPER"
         }
       ]
     }

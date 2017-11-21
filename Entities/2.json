@@ -4,7 +4,7 @@
       "name": "fire burnin",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.2069759,
+      "salience": 0.20596175,
       "mentions": [
         {
           "text": {
@@ -16,10 +16,25 @@
       ]
     },
     {
+      "name": "Cause",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.071476236,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cause",
+            "beginOffset": 116
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "doctor",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.2041079,
+      "salience": 0.060606025,
       "mentions": [
         {
           "text": {
@@ -27,7 +42,15 @@
             "beginOffset": 23
           },
           "type": "COMMON"
-        },
+        }
+      ]
+    },
+    {
+      "name": "doctor",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.060606025,
+      "mentions": [
         {
           "text": {
             "content": "doctor",
@@ -41,7 +64,7 @@
       "name": "rocker",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.06300129,
+      "salience": 0.060606025,
       "mentions": [
         {
           "text": {
@@ -56,7 +79,7 @@
       "name": "rocker",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.06300129,
+      "salience": 0.060606025,
       "mentions": [
         {
           "text": {
@@ -68,25 +91,10 @@
       ]
     },
     {
-      "name": "Somebody",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.05524672,
-      "mentions": [
-        {
-          "text": {
-            "content": "Somebody",
-            "beginOffset": 0
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "shove",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.05524672,
+      "salience": 0.0531469,
       "mentions": [
         {
           "text": {
@@ -101,7 +109,7 @@
       "name": "love",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.05524672,
+      "salience": 0.0531469,
       "mentions": [
         {
           "text": {
@@ -113,10 +121,25 @@
       ]
     },
     {
+      "name": "Somebody",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0531469,
+      "mentions": [
+        {
+          "text": {
+            "content": "Somebody",
+            "beginOffset": 0
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "fool child",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.04359201,
+      "salience": 0.040040202,
       "mentions": [
         {
           "text": {
@@ -128,10 +151,25 @@
       ]
     },
     {
+      "name": "shotgun",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.035768528,
+      "mentions": [
+        {
+          "text": {
+            "content": "shotgun",
+            "beginOffset": 423
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "message",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.026039504,
+      "salience": 0.026342258,
       "mentions": [
         {
           "text": {
@@ -146,7 +184,7 @@
       "name": "magic touch",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.024091447,
+      "salience": 0.023468586,
       "mentions": [
         {
           "text": {
@@ -161,7 +199,7 @@
       "name": "way",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.021286942,
+      "salience": 0.020476708,
       "mentions": [
         {
           "text": {
@@ -176,7 +214,7 @@
       "name": "babe",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.017846726,
+      "salience": 0.017384946,
       "mentions": [
         {
           "text": {
@@ -188,15 +226,15 @@
       ]
     },
     {
-      "name": "babe",
-      "type": "PERSON",
+      "name": "habit",
+      "type": "OTHER",
       "metadata": {},
-      "salience": 0.01654531,
+      "salience": 0.017280024,
       "mentions": [
         {
           "text": {
-            "content": "babe",
-            "beginOffset": 756
+            "content": "habit",
+            "beginOffset": 261
           },
           "type": "COMMON"
         }
@@ -206,7 +244,7 @@
       "name": "child",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.016445426,
+      "salience": 0.016429348,
       "mentions": [
         {
           "text": {
@@ -218,10 +256,25 @@
       ]
     },
     {
+      "name": "babe",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01591489,
+      "mentions": [
+        {
+          "text": {
+            "content": "babe",
+            "beginOffset": 756
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "magic touch",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.016296944,
+      "salience": 0.015875107,
       "mentions": [
         {
           "text": {
@@ -236,7 +289,7 @@
       "name": "shotgun",
       "type": "CONSUMER_GOOD",
       "metadata": {},
-      "salience": 0.016239144,
+      "salience": 0.015818797,
       "mentions": [
         {
           "text": {
@@ -248,40 +301,10 @@
       ]
     },
     {
-      "name": "shotgun",
-      "type": "CONSUMER_GOOD",
-      "metadata": {},
-      "salience": 0.016239144,
-      "mentions": [
-        {
-          "text": {
-            "content": "shotgun",
-            "beginOffset": 423
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "habit",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.016239144,
-      "mentions": [
-        {
-          "text": {
-            "content": "habit",
-            "beginOffset": 261
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "surprise",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.014395829,
+      "salience": 0.013846952,
       "mentions": [
         {
           "text": {
@@ -296,7 +319,7 @@
       "name": "fire",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.012374075,
+      "salience": 0.0119019225,
       "mentions": [
         {
           "text": {
@@ -311,7 +334,7 @@
       "name": "wedding",
       "type": "EVENT",
       "metadata": {},
-      "salience": 0.011910388,
+      "salience": 0.011749176,
       "mentions": [
         {
           "text": {
@@ -323,10 +346,25 @@
       ]
     },
     {
+      "name": "burnin",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010827996,
+      "mentions": [
+        {
+          "text": {
+            "content": "burnin",
+            "beginOffset": 989
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "habit",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.007510186,
+      "salience": 0.007992555,
       "mentions": [
         {
           "text": {
@@ -341,7 +379,7 @@
       "name": "magic touch",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.004900398,
+      "salience": 0.004772486,
       "mentions": [
         {
           "text": {
@@ -356,7 +394,7 @@
       "name": "fire",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0040783463,
+      "salience": 0.003921703,
       "mentions": [
         {
           "text": {
@@ -371,7 +409,7 @@
       "name": "babe",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0040783463,
+      "salience": 0.003921703,
       "mentions": [
         {
           "text": {
@@ -384,9 +422,9 @@
     },
     {
       "name": "Gonna",
-      "type": "PERSON",
+      "type": "OTHER",
       "metadata": {},
-      "salience": 0.00370022,
+      "salience": 0.0036033934,
       "mentions": [
         {
           "text": {
@@ -401,7 +439,7 @@
       "name": "magic touch",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0033639346,
+      "salience": 0.003359938,
       "mentions": [
         {
           "text": {

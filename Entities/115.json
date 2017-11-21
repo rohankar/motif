@@ -4,7 +4,7 @@
       "name": "thing",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.39436466,
+      "salience": 0.3963116,
       "mentions": [
         {
           "text": {
@@ -19,7 +19,7 @@
       "name": "automobile",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.11572377,
+      "salience": 0.118633956,
       "mentions": [
         {
           "text": {
@@ -41,7 +41,7 @@
       "name": "fashion sense",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.11572377,
+      "salience": 0.118633956,
       "mentions": [
         {
           "text": {
@@ -60,163 +60,10 @@
       ]
     },
     {
-      "name": "way",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.06450459,
-      "mentions": [
-        {
-          "text": {
-            "content": "way",
-            "beginOffset": 1028
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "nobody",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.06319961,
-      "mentions": [
-        {
-          "text": {
-            "content": "nobody",
-            "beginOffset": 254
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "Beverly Hills",
-      "type": "LOCATION",
-      "metadata": {
-        "mid": "/m/0k049",
-        "wikipedia_url": "https://en.wikipedia.org/wiki/Beverly_Hills,_California"
-      },
-      "salience": 0.04924969,
-      "mentions": [
-        {
-          "text": {
-            "content": "Beverly Hills",
-            "beginOffset": 292
-          },
-          "type": "PROPER"
-        },
-        {
-          "text": {
-            "content": "Beverly Hills",
-            "beginOffset": 361
-          },
-          "type": "PROPER"
-        },
-        {
-          "text": {
-            "content": "Beverly Hills",
-            "beginOffset": 345
-          },
-          "type": "PROPER"
-        },
-        {
-          "text": {
-            "content": "Beverly Hills",
-            "beginOffset": 707
-          },
-          "type": "PROPER"
-        },
-        {
-          "text": {
-            "content": "Beverly Hills",
-            "beginOffset": 776
-          },
-          "type": "PROPER"
-        },
-        {
-          "text": {
-            "content": "Beverly Hills",
-            "beginOffset": 760
-          },
-          "type": "PROPER"
-        },
-        {
-          "text": {
-            "content": "Beverly Hills",
-            "beginOffset": 828
-          },
-          "type": "PROPER"
-        },
-        {
-          "text": {
-            "content": "Beverly Hills",
-            "beginOffset": 1096
-          },
-          "type": "PROPER"
-        },
-        {
-          "text": {
-            "content": "Beverly Hills",
-            "beginOffset": 1165
-          },
-          "type": "PROPER"
-        },
-        {
-          "text": {
-            "content": "Beverly Hills",
-            "beginOffset": 1149
-          },
-          "type": "PROPER"
-        },
-        {
-          "text": {
-            "content": "Beverly Hills",
-            "beginOffset": 1237
-          },
-          "type": "PROPER"
-        },
-        {
-          "text": {
-            "content": "Beverly Hills",
-            "beginOffset": 1218
-          },
-          "type": "PROPER"
-        },
-        {
-          "text": {
-            "content": "Beverly Hills",
-            "beginOffset": 1252
-          },
-          "type": "PROPER"
-        },
-        {
-          "text": {
-            "content": "Beverly Hills",
-            "beginOffset": 1308
-          },
-          "type": "PROPER"
-        },
-        {
-          "text": {
-            "content": "Beverly Hills",
-            "beginOffset": 1268
-          },
-          "type": "PROPER"
-        },
-        {
-          "text": {
-            "content": "Beverly Hills",
-            "beginOffset": 1283
-          },
-          "type": "PROPER"
-        }
-      ]
-    },
-    {
       "name": "Livin",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.04499059,
+      "salience": 0.101584256,
       "mentions": [
         {
           "text": {
@@ -255,6 +102,13 @@
         },
         {
           "text": {
+            "content": "something",
+            "beginOffset": 890
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
             "content": "Livin",
             "beginOffset": 1139
           },
@@ -270,10 +124,106 @@
       ]
     },
     {
+      "name": "way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.063969865,
+      "mentions": [
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": 1028
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Beverly Hills Beverly Hills",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/0k049",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Beverly_Hills,_California"
+      },
+      "salience": 0.03099441,
+      "mentions": [
+        {
+          "text": {
+            "content": "Beverly Hills",
+            "beginOffset": 292
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Beverly Hills",
+            "beginOffset": 707
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Beverly Hills",
+            "beginOffset": 828
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Beverly Hills",
+            "beginOffset": 1096
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Beverly Hills",
+            "beginOffset": 1283
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Beverly Hills",
+            "beginOffset": 1308
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Beverly Hills  \rBeverly Hills",
+            "beginOffset": 345
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Beverly Hills  \rBeverly Hills",
+            "beginOffset": 760
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Beverly Hills  \rBeverly Hills",
+            "beginOffset": 1149
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Beverly Hills  \r  \rBeverly Hills",
+            "beginOffset": 1218
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
       "name": "crap",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.02379558,
+      "salience": 0.024802834,
       "mentions": [
         {
           "text": {
@@ -285,25 +235,10 @@
       ]
     },
     {
-      "name": "girls",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.022778658,
-      "mentions": [
-        {
-          "text": {
-            "content": "girls",
-            "beginOffset": 200
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "friends",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.020484943,
+      "salience": 0.02330458,
       "mentions": [
         {
           "text": {
@@ -315,15 +250,15 @@
       ]
     },
     {
-      "name": "movie stars",
-      "type": "LOCATION",
+      "name": "girls",
+      "type": "PERSON",
       "metadata": {},
-      "salience": 0.016423527,
+      "salience": 0.022959964,
       "mentions": [
         {
           "text": {
-            "content": "movie stars",
-            "beginOffset": 450
+            "content": "girls",
+            "beginOffset": 200
           },
           "type": "COMMON"
         }
@@ -333,7 +268,7 @@
       "name": "boarding schools",
       "type": "ORGANIZATION",
       "metadata": {},
-      "salience": 0.009170886,
+      "salience": 0.009564876,
       "mentions": [
         {
           "text": {
@@ -345,39 +280,32 @@
       ]
     },
     {
-      "name": "pool",
-      "type": "LOCATION",
+      "name": "nobody",
+      "type": "PERSON",
       "metadata": {},
-      "salience": 0.008064804,
+      "salience": 0.0058702077,
       "mentions": [
         {
           "text": {
-            "content": "pool",
-            "beginOffset": 665
+            "content": "nobody",
+            "beginOffset": 254
           },
           "type": "COMMON"
         }
       ]
     },
     {
-      "name": "something",
-      "type": "OTHER",
+      "name": "Preppie",
+      "type": "PERSON",
       "metadata": {},
-      "salience": 0.006845307,
+      "salience": 0.005676392,
       "mentions": [
         {
           "text": {
-            "content": "chance",
-            "beginOffset": 876
+            "content": "Preppie",
+            "beginOffset": 192
           },
-          "type": "COMMON"
-        },
-        {
-          "text": {
-            "content": "something",
-            "beginOffset": 890
-          },
-          "type": "COMMON"
+          "type": "PROPER"
         }
       ]
     },
@@ -385,7 +313,7 @@
       "name": "pocket",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.004370818,
+      "salience": 0.004558945,
       "mentions": [
         {
           "text": {
@@ -397,25 +325,10 @@
       ]
     },
     {
-      "name": "spaces",
-      "type": "LOCATION",
-      "metadata": {},
-      "salience": 0.004051421,
-      "mentions": [
-        {
-          "text": {
-            "content": "spaces",
-            "beginOffset": 553
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "celebrity",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0036624828,
+      "salience": 0.0038687342,
       "mentions": [
         {
           "text": {
@@ -430,7 +343,7 @@
       "name": "picture",
       "type": "WORK_OF_ART",
       "metadata": {},
-      "salience": 0.003525094,
+      "salience": 0.003584893,
       "mentions": [
         {
           "text": {
@@ -442,10 +355,25 @@
       ]
     },
     {
+      "name": "movie stars",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0035193567,
+      "mentions": [
+        {
+          "text": {
+            "content": "movie stars",
+            "beginOffset": 450
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "life",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0033741745,
+      "salience": 0.0035193567,
       "mentions": [
         {
           "text": {
@@ -457,10 +385,25 @@
       ]
     },
     {
+      "name": "nothing",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003365067,
+      "mentions": [
+        {
+          "text": {
+            "content": "nothing",
+            "beginOffset": 266
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "housemaids",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0029527093,
+      "salience": 0.0030797184,
       "mentions": [
         {
           "text": {
@@ -472,10 +415,40 @@
       ]
     },
     {
+      "name": "pool",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0030797184,
+      "mentions": [
+        {
+          "text": {
+            "content": "pool",
+            "beginOffset": 665
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Cause",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0030797184,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cause",
+            "beginOffset": 673
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "king",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0029527093,
+      "salience": 0.0030797184,
       "mentions": [
         {
           "text": {
@@ -488,9 +461,9 @@
     },
     {
       "name": "floors",
-      "type": "OTHER",
+      "type": "LOCATION",
       "metadata": {},
-      "salience": 0.0029527093,
+      "salience": 0.0030797184,
       "mentions": [
         {
           "text": {
@@ -502,15 +475,30 @@
       ]
     },
     {
-      "name": "nothing",
-      "type": "OTHER",
+      "name": "spaces",
+      "type": "LOCATION",
       "metadata": {},
-      "salience": 0.0029155675,
+      "salience": 0.0030409747,
       "mentions": [
         {
           "text": {
-            "content": "nothing",
-            "beginOffset": 266
+            "content": "spaces",
+            "beginOffset": 553
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0023768425,
+      "mentions": [
+        {
+          "text": {
+            "content": "life",
+            "beginOffset": 1059
           },
           "type": "COMMON"
         }
@@ -520,7 +508,7 @@
       "name": "stars",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0022502157,
+      "salience": 0.002317385,
       "mentions": [
         {
           "text": {
@@ -535,7 +523,7 @@
       "name": "livin",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0021129288,
+      "salience": 0.0022037174,
       "mentions": [
         {
           "text": {
@@ -547,25 +535,10 @@
       ]
     },
     {
-      "name": "life",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0019329152,
-      "mentions": [
-        {
-          "text": {
-            "content": "life",
-            "beginOffset": 1059
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "celebrity",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0017572638,
+      "salience": 0.0018327136,
       "mentions": [
         {
           "text": {
@@ -580,7 +553,7 @@
       "name": "Beverly Hills Look",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0017269745,
+      "salience": 0.0018240871,
       "mentions": [
         {
           "text": {
@@ -592,10 +565,25 @@
       ]
     },
     {
+      "name": "Beverly Hills Beverly Hills",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.001781322,
+      "mentions": [
+        {
+          "text": {
+            "content": "Beverly Hills  \rBeverly Hills",
+            "beginOffset": 1252
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
       "name": "fool",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0013293758,
+      "salience": 0.0014219761,
       "mentions": [
         {
           "text": {
@@ -610,12 +598,27 @@
       "name": "truth",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.000886118,
+      "salience": 0.00113186,
       "mentions": [
         {
           "text": {
             "content": "truth",
             "beginOffset": 851
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chance",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00092403387,
+      "mentions": [
+        {
+          "text": {
+            "content": "chance",
+            "beginOffset": 876
           },
           "type": "COMMON"
         }

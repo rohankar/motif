@@ -1,7 +1,825 @@
 {
-  "error": {
-    "code": 400,
-    "message": "Invalid JSON payload received. Expected , or } after key:value pair.\na movie that said: \"who's more a man  \rT\n                    ^",
-    "status": "INVALID_ARGUMENT"
-  }
+  "entities": [
+    {
+      "name": "veteran",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.6578626,
+      "mentions": [
+        {
+          "text": {
+            "content": "veteran",
+            "beginOffset": 7
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Vietnam",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/01crd5",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Vietnam"
+      },
+      "salience": 0.062336948,
+      "mentions": [
+        {
+          "text": {
+            "content": "Vietnam",
+            "beginOffset": 150
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "man",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.034374602,
+      "mentions": [
+        {
+          "text": {
+            "content": "man",
+            "beginOffset": 114
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "war",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.026231194,
+      "mentions": [
+        {
+          "text": {
+            "content": "war",
+            "beginOffset": 22
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "reason",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.023680389,
+      "mentions": [
+        {
+          "text": {
+            "content": "reason",
+            "beginOffset": 267
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cost",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020953698,
+      "mentions": [
+        {
+          "text": {
+            "content": "cost",
+            "beginOffset": 125
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "movie",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.018913805,
+      "mentions": [
+        {
+          "text": {
+            "content": "movie",
+            "beginOffset": 213
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "army",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.017809996,
+      "mentions": [
+        {
+          "text": {
+            "content": "army",
+            "beginOffset": 48
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "man",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010890774,
+      "mentions": [
+        {
+          "text": {
+            "content": "man",
+            "beginOffset": 243
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "man",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010890774,
+      "mentions": [
+        {
+          "text": {
+            "content": "man",
+            "beginOffset": 256
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "leg",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008066827,
+      "mentions": [
+        {
+          "text": {
+            "content": "leg",
+            "beginOffset": 174
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "quote form",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008066827,
+      "mentions": [
+        {
+          "text": {
+            "content": "quote form",
+            "beginOffset": 200
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "jungle",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.006651057,
+      "mentions": [
+        {
+          "text": {
+            "content": "jungle",
+            "beginOffset": 844
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "man",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0043840995,
+      "mentions": [
+        {
+          "text": {
+            "content": "man",
+            "beginOffset": 791
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hooker",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0039649205,
+      "mentions": [
+        {
+          "text": {
+            "content": "niece",
+            "beginOffset": 1058
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "hooker",
+            "beginOffset": 1069
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0038427871,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chorus",
+            "beginOffset": 302
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "front line",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0035091997,
+      "mentions": [
+        {
+          "text": {
+            "content": "front line",
+            "beginOffset": 381
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "front line",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0035091997,
+      "mentions": [
+        {
+          "text": {
+            "content": "front line",
+            "beginOffset": 422
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "line",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0035091997,
+      "mentions": [
+        {
+          "text": {
+            "content": "line",
+            "beginOffset": 470
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "front line",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0035091997,
+      "mentions": [
+        {
+          "text": {
+            "content": "front line",
+            "beginOffset": 340
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0032244183,
+      "mentions": [
+        {
+          "text": {
+            "content": "life",
+            "beginOffset": 857
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00314381,
+      "mentions": [
+        {
+          "text": {
+            "content": "life",
+            "beginOffset": 817
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "back",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0029661637,
+      "mentions": [
+        {
+          "text": {
+            "content": "back",
+            "beginOffset": 458
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "another",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0027006755,
+      "mentions": [
+        {
+          "text": {
+            "content": "another",
+            "beginOffset": 807
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "gun",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0025955038,
+      "mentions": [
+        {
+          "text": {
+            "content": "gun",
+            "beginOffset": 634
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "shoot",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0025955038,
+      "mentions": [
+        {
+          "text": {
+            "content": "shoot",
+            "beginOffset": 658
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hand",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0025955038,
+      "mentions": [
+        {
+          "text": {
+            "content": "hand",
+            "beginOffset": 644
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "thrill",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0025955038,
+      "mentions": [
+        {
+          "text": {
+            "content": "thrill",
+            "beginOffset": 614
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kind",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0025955038,
+      "mentions": [
+        {
+          "text": {
+            "content": "kind",
+            "beginOffset": 606
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "urge",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0025955038,
+      "mentions": [
+        {
+          "text": {
+            "content": "urge",
+            "beginOffset": 574
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pill",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0025955038,
+      "mentions": [
+        {
+          "text": {
+            "content": "pill",
+            "beginOffset": 551
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "uniform",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0025955038,
+      "mentions": [
+        {
+          "text": {
+            "content": "uniform",
+            "beginOffset": 526
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "price",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0023631323,
+      "mentions": [
+        {
+          "text": {
+            "content": "price",
+            "beginOffset": 869
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "friend",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0023631323,
+      "mentions": [
+        {
+          "text": {
+            "content": "friend",
+            "beginOffset": 726
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "head",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0023631323,
+      "mentions": [
+        {
+          "text": {
+            "content": "head",
+            "beginOffset": 753
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "church",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0023631323,
+      "mentions": [
+        {
+          "text": {
+            "content": "church",
+            "beginOffset": 774
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "war",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0022106457,
+      "mentions": [
+        {
+          "text": {
+            "content": "war",
+            "beginOffset": 1212
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mind",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002154744,
+      "mentions": [
+        {
+          "text": {
+            "content": "mind",
+            "beginOffset": 1255
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lives",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.001974204,
+      "mentions": [
+        {
+          "text": {
+            "content": "lives",
+            "beginOffset": 981
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "junkie",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0017593531,
+      "mentions": [
+        {
+          "text": {
+            "content": "junkie",
+            "beginOffset": 1095
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bout",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0017593531,
+      "mentions": [
+        {
+          "text": {
+            "content": "bout",
+            "beginOffset": 1203
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "right",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0017593531,
+      "mentions": [
+        {
+          "text": {
+            "content": "right",
+            "beginOffset": 1131
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Back",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0015994124,
+      "mentions": [
+        {
+          "text": {
+            "content": "Back",
+            "beginOffset": 887
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "purple heart",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0015111418,
+      "mentions": [
+        {
+          "text": {
+            "content": "purple heart",
+            "beginOffset": 1355
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "neighborhood",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0012181989,
+      "mentions": [
+        {
+          "text": {
+            "content": "neighborhood",
+            "beginOffset": 1329
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fear",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0012181989,
+      "mentions": [
+        {
+          "text": {
+            "content": "fear",
+            "beginOffset": 1377
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "agent orange",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0012181989,
+      "mentions": [
+        {
+          "text": {
+            "content": "agent orange",
+            "beginOffset": 1385
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "no one",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0012181989,
+      "mentions": [
+        {
+          "text": {
+            "content": "no one",
+            "beginOffset": 1403
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "war",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0011923693,
+      "mentions": [
+        {
+          "text": {
+            "content": "war",
+            "beginOffset": 938
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nephew",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00089859637,
+      "mentions": [
+        {
+          "text": {
+            "content": "nephew",
+            "beginOffset": 1084
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "paper",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0007745715,
+      "mentions": [
+        {
+          "text": {
+            "content": "paper",
+            "beginOffset": 910
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "families",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0007745715,
+      "mentions": [
+        {
+          "text": {
+            "content": "families",
+            "beginOffset": 1021
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "brewing",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0007745715,
+      "mentions": [
+        {
+          "text": {
+            "content": "brewing",
+            "beginOffset": 952
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "world",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0007745715,
+      "mentions": [
+        {
+          "text": {
+            "content": "world",
+            "beginOffset": 899
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
 }

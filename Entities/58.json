@@ -4,7 +4,7 @@
       "name": "cast",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.12442596,
+      "salience": 0.12682152,
       "mentions": [
         {
           "text": {
@@ -19,7 +19,7 @@
       "name": "case",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.12442596,
+      "salience": 0.12682152,
       "mentions": [
         {
           "text": {
@@ -31,30 +31,22 @@
       ]
     },
     {
-      "name": "stars",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.09719602,
-      "mentions": [
-        {
-          "text": {
-            "content": "stars",
-            "beginOffset": 708
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "face",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.07724044,
+      "salience": 0.120683916,
       "mentions": [
         {
           "text": {
             "content": "face",
             "beginOffset": 73
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "face",
+            "beginOffset": 829
           },
           "type": "COMMON"
         }
@@ -64,7 +56,7 @@
       "name": "light",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.068132065,
+      "salience": 0.06945742,
       "mentions": [
         {
           "text": {
@@ -76,10 +68,25 @@
       ]
     },
     {
+      "name": "stars",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.06710497,
+      "mentions": [
+        {
+          "text": {
+            "content": "stars",
+            "beginOffset": 708
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "prisoners",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.06732622,
+      "salience": 0.062858656,
       "mentions": [
         {
           "text": {
@@ -91,25 +98,10 @@
       ]
     },
     {
-      "name": "sparks",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.065076895,
-      "mentions": [
-        {
-          "text": {
-            "content": "sparks",
-            "beginOffset": 321
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "history",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.059376433,
+      "salience": 0.06053256,
       "mentions": [
         {
           "text": {
@@ -124,7 +116,7 @@
       "name": "minds",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.059162058,
+      "salience": 0.060314033,
       "mentions": [
         {
           "text": {
@@ -136,10 +128,25 @@
       ]
     },
     {
+      "name": "sparks",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.060229953,
+      "mentions": [
+        {
+          "text": {
+            "content": "sparks",
+            "beginOffset": 321
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "life",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.058996305,
+      "salience": 0.06014507,
       "mentions": [
         {
           "text": {
@@ -154,7 +161,7 @@
       "name": "miracles",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.053247694,
+      "salience": 0.054494984,
       "mentions": [
         {
           "text": {
@@ -169,7 +176,7 @@
       "name": "flame",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.022396302,
+      "salience": 0.022831568,
       "mentions": [
         {
           "text": {
@@ -181,25 +188,10 @@
       ]
     },
     {
-      "name": "face",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.017782796,
-      "mentions": [
-        {
-          "text": {
-            "content": "face",
-            "beginOffset": 829
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "line",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.017104859,
+      "salience": 0.017883494,
       "mentions": [
         {
           "text": {
@@ -211,25 +203,10 @@
       ]
     },
     {
-      "name": "distance",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.014990303,
-      "mentions": [
-        {
-          "text": {
-            "content": "distance",
-            "beginOffset": 729
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "name",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.014940599,
+      "salience": 0.015423983,
       "mentions": [
         {
           "text": {
@@ -244,7 +221,7 @@
       "name": "clouds",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.014924154,
+      "salience": 0.015407003,
       "mentions": [
         {
           "text": {
@@ -256,10 +233,25 @@
       ]
     },
     {
+      "name": "distance",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015280634,
+      "mentions": [
+        {
+          "text": {
+            "content": "distance",
+            "beginOffset": 729
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "space",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.013719201,
+      "salience": 0.013984679,
       "mentions": [
         {
           "text": {
@@ -274,7 +266,7 @@
       "name": "people",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0129507035,
+      "salience": 0.012709037,
       "mentions": [
         {
           "text": {
@@ -289,7 +281,7 @@
       "name": "hero",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.008526637,
+      "salience": 0.00880159,
       "mentions": [
         {
           "text": {
@@ -304,7 +296,7 @@
       "name": "light",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.008058399,
+      "salience": 0.008213403,
       "mentions": [
         {
           "text": {

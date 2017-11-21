@@ -1,7 +1,79 @@
 {
-  "error": {
-    "code": 400,
-    "message": "Invalid JSON payload received. Expected , or } after key:value pair.\n another  \rHe said \"What happened to the\n                    ^",
-    "status": "INVALID_ARGUMENT"
-  }
+  "documentSentiment": {
+    "magnitude": 4.2,
+    "score": -0.4
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "All this trouble in this here town  \rAll this shit going down  \rWhen will they focus, on this?",
+        "beginOffset": 3
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": -0.9
+      }
+    },
+    {
+      "text": {
+        "content": "Streets ride up with the TV crews  \rLook ma, we on the news  \rBut they didn't notice, before this  \rThey float above the city lights  \rForget the truth, inhale the lies  \rJust enjoy the show  \rThey see us reaching for the sky  \rJust in order to survive  \r  \r  \rMaybe we should go  \rGo to the penthouse floor (let's go, let's go, let's go)  \rGo to the penthouse floor (let's go, let's go, let's go)  \rLet's ride the elevator, they can't keep us out no more  \rGo to the penthouse floor (let's go, let's go, let's go)  \rPenthouse floor  \rAll that bubbly, all that wine  \rOh man, look at the times  \rDidn't they notice, notice?",
+        "beginOffset": 100
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Only future I can see, ain't what it used to be  \rAnd I didn't know this, I didn't know this  \rOnce you're above the city lights  \rWon't want to spend another night, down there on your own  \rThe holding on is made for us  \rThe altitude is dangerous, but we ain't going home  \r    \rGo to the penthouse floor (let's go, let's go, let's go)  \rGo to the penthouse floor (let's go, let's go, let's go)  \rLet's ride the elevator, it's what we've been waiting for  \rCan't keep us out no more (let's go, let's go, let's go)  \rPenthouse floor  \r  \rI heard this old joke once, it was like, uh  \rKnock knock, who there, it's us, us who?",
+        "beginOffset": 726
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": -0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Just us, who dis?",
+        "beginOffset": 1354
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Just playin'  \rJust me, new phone, new hair, new era  \rI'm in the penthouse, baby  \rHandpicked from bad apples and bad eggs  \rHeld back, I had to grab crab legs  \rAnd then there were only but a few  \rConversations held with patience, what a party, what a view  \rWhat a dress, what a song  \rWhat a beautiful time  \rMy folks downstairs still waitin' in line  \rThey never been in these rooms  \rNever stayed with these folks  \rNever laughed at the news, never hated these jokes  \rSo as I fly in my suit, in a group, undercover  \rForcin' a new smile, he tells me another  \rHe said 'What happened to the boy that climbed up the trunk?'",
+        "beginOffset": 1372
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Then he pushed me off the top and said 'Jump, nigga, jump!'",
+        "beginOffset": 2004
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "Oh, don't bring me down, I need a room in the clouds  \rI wanna get there babe, I wanna elevate  \rOh my favorite mix, a little ignorance and bliss  \rIn the penthouse babe, go to the penthouse  \r    \rGo to the penthouse floor (let's go, let's go, let's go)  \rGo to the penthouse floor (let's go, let's go, let's go)  \rLet's ride the elevator, it's what we've been waiting for  \rWe'll tear down those penthouse doors (let's go, let's go, let's go)  \rThose penthouse doors  \rWe'll tear down the penthouse doors (let's go, let's go, let's go)  \rBaby, I'm in the penthouse floor  \rBaby, let's ride the elevator  \rTil we can rise some more  \rGo to the penthouse floor, penthouse floor (let's go, let's go, let's go)",
+        "beginOffset": 2071
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    }
+  ]
 }

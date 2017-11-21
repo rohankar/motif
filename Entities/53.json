@@ -1,7 +1,320 @@
 {
-  "error": {
-    "code": 400,
-    "message": "Invalid JSON payload received. Expected , or } after key:value pair.\ncontent\": \"Jimi:  \r\"buddy miles is goin'\n                    ^",
-    "status": "INVALID_ARGUMENT"
-  }
+  "entities": [
+    {
+      "name": "reason",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.56328666,
+      "mentions": [
+        {
+          "text": {
+            "content": "reason",
+            "beginOffset": 374
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "buddy miles",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.10476707,
+      "mentions": [
+        {
+          "text": {
+            "content": "buddy miles",
+            "beginOffset": 0
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "something",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.092563674,
+      "mentions": [
+        {
+          "text": {
+            "content": "something",
+            "beginOffset": 27
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mind",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.06792813,
+      "mentions": [
+        {
+          "text": {
+            "content": "mind",
+            "beginOffset": 83
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mind",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018608749,
+      "mentions": [
+        {
+          "text": {
+            "content": "mind",
+            "beginOffset": 228
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mind",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.017691785,
+      "mentions": [
+        {
+          "text": {
+            "content": "mind",
+            "beginOffset": 490
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015733736,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 248
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "some",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015148225,
+      "mentions": [
+        {
+          "text": {
+            "content": "some",
+            "beginOffset": 183
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Yeah",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013503883,
+      "mentions": [
+        {
+          "text": {
+            "content": "Yeah",
+            "beginOffset": 1003
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "everybody",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.012820247,
+      "mentions": [
+        {
+          "text": {
+            "content": "everybody",
+            "beginOffset": 1015
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mind",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011509662,
+      "mentions": [
+        {
+          "text": {
+            "content": "mind",
+            "beginOffset": 555
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.010630172,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 330
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fun",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009302213,
+      "mentions": [
+        {
+          "text": {
+            "content": "fun",
+            "beginOffset": 306
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "crime",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0085132355,
+      "mentions": [
+        {
+          "text": {
+            "content": "crime",
+            "beginOffset": 628
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hands",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0072706616,
+      "mentions": [
+        {
+          "text": {
+            "content": "hands",
+            "beginOffset": 865
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hands",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0072706616,
+      "mentions": [
+        {
+          "text": {
+            "content": "hands",
+            "beginOffset": 886
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Ooo hooo Well",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.005509546,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ooo hooo  \rWell",
+            "beginOffset": 471
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "some",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0053643594,
+      "mentions": [
+        {
+          "text": {
+            "content": "some",
+            "beginOffset": 590
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0044052526,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 1057
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Whaa",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0044052526,
+      "mentions": [
+        {
+          "text": {
+            "content": "Whaa",
+            "beginOffset": 1082
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Everything goin",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0037668454,
+      "mentions": [
+        {
+          "text": {
+            "content": "Everything goin",
+            "beginOffset": 955
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "language": "en"
 }

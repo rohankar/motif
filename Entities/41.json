@@ -7,7 +7,7 @@
         "mid": "/m/0x6r",
         "wikipedia_url": "https://en.wikipedia.org/wiki/Angel"
       },
-      "salience": 0.3684547,
+      "salience": 0.36614907,
       "mentions": [
         {
           "text": {
@@ -75,13 +75,13 @@
       ]
     },
     {
-      "name": "Earth",
+      "name": "street Earth",
       "type": "LOCATION",
       "metadata": {
-        "wikipedia_url": "https://en.wikipedia.org/wiki/Earth",
-        "mid": "/m/02j71"
+        "mid": "/m/02j71",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Earth"
       },
-      "salience": 0.12123811,
+      "salience": 0.121133134,
       "mentions": [
         {
           "text": {
@@ -92,8 +92,8 @@
         },
         {
           "text": {
-            "content": "Earth",
-            "beginOffset": 222
+            "content": "street  \rEarth",
+            "beginOffset": 213
           },
           "type": "PROPER"
         },
@@ -131,7 +131,7 @@
       "name": "angel",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0945683,
+      "salience": 0.08917702,
       "mentions": [
         {
           "text": {
@@ -143,11 +143,63 @@
       ]
     },
     {
+      "name": "earth boy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.04655891,
+      "mentions": [
+        {
+          "text": {
+            "content": "earth boy",
+            "beginOffset": 122
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "boy dream",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.07169877,
+      "salience": 0.04403939,
       "mentions": [
+        {
+          "text": {
+            "content": "boy dream",
+            "beginOffset": 6
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "All",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.040718064,
+      "mentions": [
+        {
+          "text": {
+            "content": "All",
+            "beginOffset": 466
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "earth boy",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.035843227,
+      "mentions": [
+        {
+          "text": {
+            "content": "earth boy",
+            "beginOffset": 621
+          },
+          "type": "COMMON"
+        },
         {
           "text": {
             "content": "boy dream",
@@ -158,40 +210,10 @@
       ]
     },
     {
-      "name": "dream",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.04408245,
-      "mentions": [
-        {
-          "text": {
-            "content": "dream",
-            "beginOffset": 10
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "love",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.028097134,
-      "mentions": [
-        {
-          "text": {
-            "content": "love",
-            "beginOffset": 89
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "land",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.028097134,
+      "salience": 0.029119356,
       "mentions": [
         {
           "text": {
@@ -206,7 +228,7 @@
       "name": "heart",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.020688234,
+      "salience": 0.021713458,
       "mentions": [
         {
           "text": {
@@ -221,7 +243,7 @@
       "name": "earth boy",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.014914279,
+      "salience": 0.015463625,
       "mentions": [
         {
           "text": {
@@ -233,25 +255,10 @@
       ]
     },
     {
-      "name": "earth boy",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.014914279,
-      "mentions": [
-        {
-          "text": {
-            "content": "earth boy",
-            "beginOffset": 122
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "dream",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0136974985,
+      "salience": 0.0142024895,
       "mentions": [
         {
           "text": {
@@ -266,7 +273,7 @@
       "name": "dreams",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.012868183,
+      "salience": 0.01285191,
       "mentions": [
         {
           "text": {
@@ -278,25 +285,10 @@
       ]
     },
     {
-      "name": "land",
-      "type": "LOCATION",
-      "metadata": {},
-      "salience": 0.010933522,
-      "mentions": [
-        {
-          "text": {
-            "content": "land",
-            "beginOffset": 184
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "earth boy",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.010912083,
+      "salience": 0.011748191,
       "mentions": [
         {
           "text": {
@@ -308,10 +300,25 @@
       ]
     },
     {
+      "name": "land",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.011337347,
+      "mentions": [
+        {
+          "text": {
+            "content": "land",
+            "beginOffset": 184
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "boy",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.009995581,
+      "salience": 0.010495704,
       "mentions": [
         {
           "text": {
@@ -326,7 +333,7 @@
       "name": "boy",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.009270859,
+      "salience": 0.009613569,
       "mentions": [
         {
           "text": {
@@ -338,25 +345,10 @@
       ]
     },
     {
-      "name": "earth boy",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.009041031,
-      "mentions": [
-        {
-          "text": {
-            "content": "earth boy",
-            "beginOffset": 621
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "angel",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.008384841,
+      "salience": 0.00880481,
       "mentions": [
         {
           "text": {
@@ -371,7 +363,7 @@
       "name": "sun",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.007614582,
+      "salience": 0.007797569,
       "mentions": [
         {
           "text": {
@@ -386,7 +378,7 @@
       "name": "love",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0074089984,
+      "salience": 0.007683059,
       "mentions": [
         {
           "text": {
@@ -401,7 +393,7 @@
       "name": "land",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.0074089984,
+      "salience": 0.007683059,
       "mentions": [
         {
           "text": {
@@ -413,25 +405,10 @@
       ]
     },
     {
-      "name": "love",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0073163942,
-      "mentions": [
-        {
-          "text": {
-            "content": "love",
-            "beginOffset": 192
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "doves",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.006268522,
+      "salience": 0.0065004327,
       "mentions": [
         {
           "text": {
@@ -446,7 +423,7 @@
       "name": "story",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.006268522,
+      "salience": 0.0065004327,
       "mentions": [
         {
           "text": {
@@ -461,7 +438,7 @@
       "name": "part",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.006268522,
+      "salience": 0.0065004327,
       "mentions": [
         {
           "text": {
@@ -473,10 +450,25 @@
       ]
     },
     {
+      "name": "All",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0065004327,
+      "mentions": [
+        {
+          "text": {
+            "content": "All",
+            "beginOffset": 246
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "walk",
       "type": "EVENT",
       "metadata": {},
-      "salience": 0.0054200757,
+      "salience": 0.005691889,
       "mentions": [
         {
           "text": {
@@ -491,7 +483,7 @@
       "name": "love",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.005077617,
+      "salience": 0.005265446,
       "mentions": [
         {
           "text": {
@@ -503,21 +495,21 @@
       ]
     },
     {
-      "name": "Oo-oo",
-      "type": "OTHER",
+      "name": "Oo-oo-oo",
+      "type": "PERSON",
       "metadata": {},
-      "salience": 0.004820811,
+      "salience": 0.0050625913,
       "mentions": [
         {
           "text": {
-            "content": "Oo-oo",
+            "content": "Oo-oo-oo",
             "beginOffset": 270
           },
           "type": "PROPER"
         },
         {
           "text": {
-            "content": "Oo-oo",
+            "content": "Oo-oo-oo",
             "beginOffset": 490
           },
           "type": "PROPER"
@@ -528,7 +520,7 @@
       "name": "earth boy",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0048182625,
+      "salience": 0.004996484,
       "mentions": [
         {
           "text": {
@@ -543,7 +535,7 @@
       "name": "earth boy",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0048182625,
+      "salience": 0.004996484,
       "mentions": [
         {
           "text": {
@@ -558,7 +550,7 @@
       "name": "angel",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0048182625,
+      "salience": 0.004996484,
       "mentions": [
         {
           "text": {
@@ -573,7 +565,7 @@
       "name": "dream",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0044208905,
+      "salience": 0.0045843865,
       "mentions": [
         {
           "text": {
@@ -588,7 +580,7 @@
       "name": "boy dream",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0044208905,
+      "salience": 0.0045843865,
       "mentions": [
         {
           "text": {
@@ -603,7 +595,7 @@
       "name": "dream",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0044208905,
+      "salience": 0.0045843865,
       "mentions": [
         {
           "text": {
@@ -618,7 +610,7 @@
       "name": "boy dream",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0044208905,
+      "salience": 0.0045843865,
       "mentions": [
         {
           "text": {
@@ -633,7 +625,7 @@
       "name": "dreams",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0038965628,
+      "salience": 0.0038903777,
       "mentions": [
         {
           "text": {
@@ -645,25 +637,10 @@
       ]
     },
     {
-      "name": "land",
-      "type": "LOCATION",
-      "metadata": {},
-      "salience": 0.0022335344,
-      "mentions": [
-        {
-          "text": {
-            "content": "land",
-            "beginOffset": 561
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "part",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0022255941,
+      "salience": 0.002396981,
       "mentions": [
         {
           "text": {
@@ -675,10 +652,25 @@
       ]
     },
     {
+      "name": "land",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0023159238,
+      "mentions": [
+        {
+          "text": {
+            "content": "land",
+            "beginOffset": 561
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "story",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0018879733,
+      "salience": 0.0019575544,
       "mentions": [
         {
           "text": {
@@ -693,7 +685,7 @@
       "name": "doves",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0018879733,
+      "salience": 0.0019575544,
       "mentions": [
         {
           "text": {

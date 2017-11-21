@@ -1,30 +1,15 @@
 {
   "entities": [
     {
-      "name": "oo-oo-oo",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.53118503,
-      "mentions": [
-        {
-          "text": {
-            "content": "oo-oo-oo",
-            "beginOffset": 318
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "oo-oo-oo",
+      "name": "heart",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.068430334,
+      "salience": 0.5177235,
       "mentions": [
         {
           "text": {
-            "content": "oo-oo-oo",
-            "beginOffset": 16
+            "content": "heart",
+            "beginOffset": 531
           },
           "type": "COMMON"
         }
@@ -34,28 +19,14 @@
       "name": "Cause",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.06402729,
+      "salience": 0.065733135,
       "mentions": [
-        {
-          "text": {
-            "content": "Cause",
-            "beginOffset": 126
-          },
-          "type": "PROPER"
-        },
         {
           "text": {
             "content": "Cause",
             "beginOffset": 363
           },
-          "type": "PROPER"
-        },
-        {
-          "text": {
-            "content": "Cause",
-            "beginOffset": 430
-          },
-          "type": "PROPER"
+          "type": "COMMON"
         },
         {
           "text": {
@@ -67,85 +38,10 @@
       ]
     },
     {
-      "name": "oo-oo-oo",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.029007576,
-      "mentions": [
-        {
-          "text": {
-            "content": "oo-oo-oo",
-            "beginOffset": 1003
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "oo-oo-oo",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.026842896,
-      "mentions": [
-        {
-          "text": {
-            "content": "oo-oo-oo",
-            "beginOffset": 110
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "oo-oo-oo",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.018219959,
-      "mentions": [
-        {
-          "text": {
-            "content": "oo-oo-oo",
-            "beginOffset": 414
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "oo-oo-oo",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.017993012,
-      "mentions": [
-        {
-          "text": {
-            "content": "oo-oo-oo",
-            "beginOffset": 350
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "baby",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.01710346,
-      "mentions": [
-        {
-          "text": {
-            "content": "baby",
-            "beginOffset": 204
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "baby",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.01710346,
+      "salience": 0.031420864,
       "mentions": [
         {
           "text": {
@@ -157,10 +53,40 @@
       ]
     },
     {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.031420864,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 204
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02618264,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 153
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "heart",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.014247878,
+      "salience": 0.02618264,
       "mentions": [
         {
           "text": {
@@ -175,7 +101,7 @@
       "name": "everybody",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.014247878,
+      "salience": 0.025856128,
       "mentions": [
         {
           "text": {
@@ -187,40 +113,10 @@
       ]
     },
     {
-      "name": "love",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.014247878,
-      "mentions": [
-        {
-          "text": {
-            "content": "love",
-            "beginOffset": 153
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "baby",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.011584893,
-      "mentions": [
-        {
-          "text": {
-            "content": "baby",
-            "beginOffset": 466
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "baby",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.011584893,
+      "salience": 0.021294678,
       "mentions": [
         {
           "text": {
@@ -232,10 +128,25 @@
       ]
     },
     {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.021294678,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 466
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "stars",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.011357895,
+      "salience": 0.020877887,
       "mentions": [
         {
           "text": {
@@ -250,7 +161,7 @@
       "name": "photograph",
       "type": "WORK_OF_ART",
       "metadata": {},
-      "salience": 0.0106074065,
+      "salience": 0.019499762,
       "mentions": [
         {
           "text": {
@@ -265,7 +176,7 @@
       "name": "photograph",
       "type": "WORK_OF_ART",
       "metadata": {},
-      "salience": 0.0106074065,
+      "salience": 0.019499762,
       "mentions": [
         {
           "text": {
@@ -280,7 +191,7 @@
       "name": "everybody",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.009644769,
+      "salience": 0.017509822,
       "mentions": [
         {
           "text": {
@@ -292,25 +203,10 @@
       ]
     },
     {
-      "name": "heart",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.008830023,
-      "mentions": [
-        {
-          "text": {
-            "content": "heart",
-            "beginOffset": 531
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "Something",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.00877676,
+      "salience": 0.01634184,
       "mentions": [
         {
           "text": {
@@ -322,25 +218,10 @@
       ]
     },
     {
-      "name": "oo-oo-oo",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.0086747855,
-      "mentions": [
-        {
-          "text": {
-            "content": "oo-oo-oo",
-            "beginOffset": 974
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "photograph",
       "type": "WORK_OF_ART",
       "metadata": {},
-      "salience": 0.007937174,
+      "salience": 0.014594595,
       "mentions": [
         {
           "text": {
@@ -355,7 +236,7 @@
       "name": "photograph",
       "type": "WORK_OF_ART",
       "metadata": {},
-      "salience": 0.007937174,
+      "salience": 0.014594595,
       "mentions": [
         {
           "text": {
@@ -370,7 +251,7 @@
       "name": "photograph",
       "type": "WORK_OF_ART",
       "metadata": {},
-      "salience": 0.007937174,
+      "salience": 0.014594595,
       "mentions": [
         {
           "text": {
@@ -382,25 +263,10 @@
       ]
     },
     {
-      "name": "hope",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.007683693,
-      "mentions": [
-        {
-          "text": {
-            "content": "hope",
-            "beginOffset": 457
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "place",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.007683693,
+      "salience": 0.014128811,
       "mentions": [
         {
           "text": {
@@ -412,10 +278,25 @@
       ]
     },
     {
+      "name": "hope",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014128811,
+      "mentions": [
+        {
+          "text": {
+            "content": "hope",
+            "beginOffset": 457
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "love",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.006605257,
+      "salience": 0.012146858,
       "mentions": [
         {
           "text": {
@@ -430,7 +311,7 @@
       "name": "oo-oo-oo",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.004132481,
+      "salience": 0.0076007894,
       "mentions": [
         {
           "text": {
@@ -445,22 +326,7 @@
       "name": "baby",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0034901518,
-      "mentions": [
-        {
-          "text": {
-            "content": "baby",
-            "beginOffset": 771
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "baby",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.0034901518,
+      "salience": 0.006419564,
       "mentions": [
         {
           "text": {
@@ -472,10 +338,25 @@
       ]
     },
     {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.006419564,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 771
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "photograph",
       "type": "WORK_OF_ART",
       "metadata": {},
-      "salience": 0.0034901518,
+      "salience": 0.006419564,
       "mentions": [
         {
           "text": {
@@ -490,7 +371,7 @@
       "name": "heart",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.002903044,
+      "salience": 0.0053397804,
       "mentions": [
         {
           "text": {
@@ -502,25 +383,10 @@
       ]
     },
     {
-      "name": "everybody",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.002903044,
-      "mentions": [
-        {
-          "text": {
-            "content": "everybody",
-            "beginOffset": 701
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "love",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.002903044,
+      "salience": 0.0053397804,
       "mentions": [
         {
           "text": {
@@ -532,10 +398,25 @@
       ]
     },
     {
+      "name": "everybody",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.005272602,
+      "mentions": [
+        {
+          "text": {
+            "content": "everybody",
+            "beginOffset": 701
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "Something",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0026407142,
+      "salience": 0.0049191806,
       "mentions": [
         {
           "text": {
@@ -550,7 +431,7 @@
       "name": "dream",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0023106672,
+      "salience": 0.004250212,
       "mentions": [
         {
           "text": {
@@ -565,7 +446,7 @@
       "name": "plans",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0016269194,
+      "salience": 0.0029924882,
       "mentions": [
         {
           "text": {

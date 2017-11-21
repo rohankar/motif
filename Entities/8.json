@@ -4,7 +4,7 @@
       "name": "greed Maidens",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.29021952,
+      "salience": 0.2779506,
       "mentions": [
         {
           "text": {
@@ -19,7 +19,7 @@
       "name": "lords",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.069150805,
+      "salience": 0.0671243,
       "mentions": [
         {
           "text": {
@@ -34,7 +34,7 @@
       "name": "bishops",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.056473475,
+      "salience": 0.055029128,
       "mentions": [
         {
           "text": {
@@ -49,7 +49,7 @@
       "name": "gold",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.055441957,
+      "salience": 0.053820807,
       "mentions": [
         {
           "text": {
@@ -64,7 +64,7 @@
       "name": "wombs",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.05442667,
+      "salience": 0.05238648,
       "mentions": [
         {
           "text": {
@@ -76,15 +76,15 @@
       ]
     },
     {
-      "name": "all",
+      "name": "knights",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0347795,
+      "salience": 0.037512716,
       "mentions": [
         {
           "text": {
-            "content": "all",
-            "beginOffset": 680
+            "content": "knights",
+            "beginOffset": 514
           },
           "type": "COMMON"
         }
@@ -94,7 +94,7 @@
       "name": "Were",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.033217777,
+      "salience": 0.03224854,
       "mentions": [
         {
           "text": {
@@ -109,7 +109,7 @@
       "name": "Starch",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.026650265,
+      "salience": 0.025872637,
       "mentions": [
         {
           "text": {
@@ -124,7 +124,7 @@
       "name": "lives",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.025668908,
+      "salience": 0.024610043,
       "mentions": [
         {
           "text": {
@@ -136,45 +136,15 @@
       ]
     },
     {
-      "name": "laws",
-      "type": "OTHER",
+      "name": "all",
+      "type": "PERSON",
       "metadata": {},
-      "salience": 0.021540673,
+      "salience": 0.02455017,
       "mentions": [
         {
           "text": {
-            "content": "laws",
-            "beginOffset": 214
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "parchment",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.021540673,
-      "mentions": [
-        {
-          "text": {
-            "content": "parchment",
-            "beginOffset": 195
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "guillotines",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.021540673,
-      "mentions": [
-        {
-          "text": {
-            "content": "guillotines",
-            "beginOffset": 148
+            "content": "all",
+            "beginOffset": 680
           },
           "type": "COMMON"
         }
@@ -184,7 +154,7 @@
       "name": "queens",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.021540673,
+      "salience": 0.020911876,
       "mentions": [
         {
           "text": {
@@ -196,10 +166,55 @@
       ]
     },
     {
+      "name": "guillotines",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020911876,
+      "mentions": [
+        {
+          "text": {
+            "content": "guillotines",
+            "beginOffset": 148
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "parchment",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020911876,
+      "mentions": [
+        {
+          "text": {
+            "content": "parchment",
+            "beginOffset": 195
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "laws",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020911876,
+      "mentions": [
+        {
+          "text": {
+            "content": "laws",
+            "beginOffset": 214
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "swords",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.016661298,
+      "salience": 0.016174495,
       "mentions": [
         {
           "text": {
@@ -214,7 +229,7 @@
       "name": "ride",
       "type": "EVENT",
       "metadata": {},
-      "salience": 0.015736362,
+      "salience": 0.015665635,
       "mentions": [
         {
           "text": {
@@ -229,7 +244,7 @@
       "name": "turnin",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.014592164,
+      "salience": 0.014165557,
       "mentions": [
         {
           "text": {
@@ -241,10 +256,25 @@
       ]
     },
     {
+      "name": "Truths",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014165557,
+      "mentions": [
+        {
+          "text": {
+            "content": "Truths",
+            "beginOffset": 327
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "nightmares",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.014592164,
+      "salience": 0.014165557,
       "mentions": [
         {
           "text": {
@@ -259,7 +289,7 @@
       "name": "Dreams",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.014592164,
+      "salience": 0.014165557,
       "mentions": [
         {
           "text": {
@@ -274,7 +304,7 @@
       "name": "life",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.014409657,
+      "salience": 0.014165557,
       "mentions": [
         {
           "text": {
@@ -289,7 +319,7 @@
       "name": "Screams",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.01397064,
+      "salience": 0.013733955,
       "mentions": [
         {
           "text": {
@@ -304,7 +334,7 @@
       "name": "Sailing ships",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.013361222,
+      "salience": 0.012970427,
       "mentions": [
         {
           "text": {
@@ -319,7 +349,7 @@
       "name": "father",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.013361222,
+      "salience": 0.012970427,
       "mentions": [
         {
           "text": {
@@ -331,25 +361,10 @@
       ]
     },
     {
-      "name": "land",
-      "type": "LOCATION",
-      "metadata": {},
-      "salience": 0.013361222,
-      "mentions": [
-        {
-          "text": {
-            "content": "land",
-            "beginOffset": 473
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "blood",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.013361222,
+      "salience": 0.012970427,
       "mentions": [
         {
           "text": {
@@ -361,10 +376,25 @@
       ]
     },
     {
+      "name": "land",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.012970427,
+      "mentions": [
+        {
+          "text": {
+            "content": "land",
+            "beginOffset": 473
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "Kings",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.012809081,
+      "salience": 0.012434351,
       "mentions": [
         {
           "text": {
@@ -376,25 +406,10 @@
       ]
     },
     {
-      "name": "Deja vu",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.009998348,
-      "mentions": [
-        {
-          "text": {
-            "content": "Deja vu",
-            "beginOffset": 635
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "Tossin",
-      "type": "OTHER",
+      "type": "PERSON",
       "metadata": {},
-      "salience": 0.008663842,
+      "salience": 0.008409775,
       "mentions": [
         {
           "text": {
@@ -409,7 +424,7 @@
       "name": "Viking",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.007930833,
+      "salience": 0.0076981205,
       "mentions": [
         {
           "text": {
@@ -424,7 +439,7 @@
       "name": "reply",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.007920082,
+      "salience": 0.0076876823,
       "mentions": [
         {
           "text": {
@@ -439,7 +454,7 @@
       "name": "Screams",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.007920082,
+      "salience": 0.0076876823,
       "mentions": [
         {
           "text": {
@@ -454,7 +469,7 @@
       "name": "reply",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.007920082,
+      "salience": 0.0076876823,
       "mentions": [
         {
           "text": {
@@ -466,22 +481,37 @@
       ]
     },
     {
-      "name": "Died Lordy",
-      "type": "PERSON",
+      "name": "Deja vu",
+      "type": "WORK_OF_ART",
       "metadata": {},
-      "salience": 0.005819577,
+      "salience": 0.005755941,
       "mentions": [
         {
           "text": {
-            "content": "Died  \rLordy",
-            "beginOffset": 767
+            "content": "Deja vu",
+            "beginOffset": 635
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Died Lordy",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00564843,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lordy",
+            "beginOffset": 781
           },
           "type": "PROPER"
         },
         {
           "text": {
-            "content": "Lordy",
-            "beginOffset": 781
+            "content": "Died  \rLordy",
+            "beginOffset": 767
           },
           "type": "PROPER"
         }
@@ -491,7 +521,7 @@
       "name": "maidens",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.00502435,
+      "salience": 0.004876423,
       "mentions": [
         {
           "text": {
@@ -506,7 +536,7 @@
       "name": "swords",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.00502435,
+      "salience": 0.004876423,
       "mentions": [
         {
           "text": {
@@ -521,7 +551,7 @@
       "name": "loss",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.004396923,
+      "salience": 0.0046040295,
       "mentions": [
         {
           "text": {
@@ -536,7 +566,7 @@
       "name": "pride",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.004396923,
+      "salience": 0.0042673326,
       "mentions": [
         {
           "text": {
@@ -551,7 +581,7 @@
       "name": "death",
       "type": "EVENT",
       "metadata": {},
-      "salience": 0.004396923,
+      "salience": 0.0042673326,
       "mentions": [
         {
           "text": {
@@ -563,25 +593,10 @@
       ]
     },
     {
-      "name": "Sneer",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.004396923,
-      "mentions": [
-        {
-          "text": {
-            "content": "Sneer",
-            "beginOffset": 568
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "mares",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.004396923,
+      "salience": 0.0042673326,
       "mentions": [
         {
           "text": {
@@ -593,25 +608,10 @@
       ]
     },
     {
-      "name": "knights",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.004396923,
-      "mentions": [
-        {
-          "text": {
-            "content": "knights",
-            "beginOffset": 514
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "times",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.004396923,
+      "salience": 0.0042673326,
       "mentions": [
         {
           "text": {
@@ -619,6 +619,21 @@
             "beginOffset": 505
           },
           "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Sneer",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0025276225,
+      "mentions": [
+        {
+          "text": {
+            "content": "Sneer",
+            "beginOffset": 568
+          },
+          "type": "PROPER"
         }
       ]
     }

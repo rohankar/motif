@@ -4,12 +4,12 @@
       "name": "folks",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.16840175,
+      "salience": 0.2047303,
       "mentions": [
         {
           "text": {
             "content": "folks",
-            "beginOffset": 78
+            "beginOffset": 67
           },
           "type": "COMMON"
         }
@@ -19,12 +19,12 @@
       "name": "no one",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.15656878,
+      "salience": 0.17924061,
       "mentions": [
         {
           "text": {
             "content": "no one",
-            "beginOffset": 297
+            "beginOffset": 272
           },
           "type": "COMMON"
         }
@@ -34,19 +34,19 @@
       "name": "Legend",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.089714475,
+      "salience": 0.10896981,
       "mentions": [
         {
           "text": {
             "content": "Legend",
-            "beginOffset": 570
+            "beginOffset": 523
           },
           "type": "COMMON"
         },
         {
           "text": {
             "content": "name",
-            "beginOffset": 587
+            "beginOffset": 540
           },
           "type": "COMMON"
         }
@@ -56,42 +56,12 @@
       "name": "baby",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.06727534,
+      "salience": 0.08280019,
       "mentions": [
         {
           "text": {
             "content": "baby",
-            "beginOffset": 111
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "Verse 1",
-      "type": "CONSUMER_GOOD",
-      "metadata": {},
-      "salience": 0.052205388,
-      "mentions": [
-        {
-          "text": {
-            "content": "Verse 1",
-            "beginOffset": 1
-          },
-          "type": "PROPER"
-        }
-      ]
-    },
-    {
-      "name": "kings",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.04566457,
-      "mentions": [
-        {
-          "text": {
-            "content": "kings",
-            "beginOffset": 271
+            "beginOffset": 100
           },
           "type": "COMMON"
         }
@@ -101,12 +71,12 @@
       "name": "door",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.03254373,
+      "salience": 0.04010347,
       "mentions": [
         {
           "text": {
             "content": "door",
-            "beginOffset": 161
+            "beginOffset": 150
           },
           "type": "COMMON"
         }
@@ -116,12 +86,12 @@
       "name": "things",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.029620813,
+      "salience": 0.036505047,
       "mentions": [
         {
           "text": {
             "content": "things",
-            "beginOffset": 201
+            "beginOffset": 190
           },
           "type": "COMMON"
         }
@@ -131,42 +101,12 @@
       "name": "Things",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.029620813,
+      "salience": 0.036505047,
       "mentions": [
         {
           "text": {
             "content": "Things",
-            "beginOffset": 290
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "lie",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.025938371,
-      "mentions": [
-        {
-          "text": {
-            "content": "lie",
-            "beginOffset": 190
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "Pre-Chorus",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.025938371,
-      "mentions": [
-        {
-          "text": {
-            "content": "Pre-Chorus",
-            "beginOffset": 247
+            "beginOffset": 265
           },
           "type": "COMMON"
         }
@@ -176,11 +116,26 @@
       "name": "truth",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.022297252,
+      "salience": 0.031970464,
       "mentions": [
         {
           "text": {
             "content": "truth",
+            "beginOffset": 168
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lie",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.031970464,
+      "mentions": [
+        {
+          "text": {
+            "content": "lie",
             "beginOffset": 179
           },
           "type": "COMMON"
@@ -188,15 +143,15 @@
       ]
     },
     {
-      "name": "Chorus",
-      "type": "OTHER",
+      "name": "kings",
+      "type": "PERSON",
       "metadata": {},
-      "salience": 0.022023879,
+      "salience": 0.03001969,
       "mentions": [
         {
           "text": {
-            "content": "Chorus",
-            "beginOffset": 513
+            "content": "kings",
+            "beginOffset": 246
           },
           "type": "COMMON"
         }
@@ -206,12 +161,12 @@
       "name": "door",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.021747852,
+      "salience": 0.027148811,
       "mentions": [
         {
           "text": {
             "content": "door",
-            "beginOffset": 428
+            "beginOffset": 403
           },
           "type": "COMMON"
         }
@@ -221,27 +176,12 @@
       "name": "love",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.019789472,
+      "salience": 0.024705622,
       "mentions": [
         {
           "text": {
             "content": "love",
-            "beginOffset": 390
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "nothing",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.017543772,
-      "mentions": [
-        {
-          "text": {
-            "content": "nothing",
-            "beginOffset": 468
+            "beginOffset": 365
           },
           "type": "COMMON"
         }
@@ -251,12 +191,27 @@
       "name": "lack",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.017323636,
+      "salience": 0.021628832,
       "mentions": [
         {
           "text": {
             "content": "lack",
-            "beginOffset": 382
+            "beginOffset": 357
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nothing",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.021628832,
+      "mentions": [
+        {
+          "text": {
+            "content": "nothing",
+            "beginOffset": 443
           },
           "type": "COMMON"
         }
@@ -266,12 +221,12 @@
       "name": "light",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.017323636,
+      "salience": 0.021628832,
       "mentions": [
         {
           "text": {
             "content": "light",
-            "beginOffset": 341
+            "beginOffset": 316
           },
           "type": "COMMON"
         }
@@ -281,27 +236,12 @@
       "name": "fame",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.01605939,
+      "salience": 0.019799544,
       "mentions": [
         {
           "text": {
             "content": "fame",
-            "beginOffset": 656
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "Pre-Chorus",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.01605939,
-      "mentions": [
-        {
-          "text": {
-            "content": "Pre-Chorus",
-            "beginOffset": 706
+            "beginOffset": 609
           },
           "type": "COMMON"
         }
@@ -311,27 +251,12 @@
       "name": "door",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0150804985,
+      "salience": 0.018593099,
       "mentions": [
         {
           "text": {
             "content": "door",
-            "beginOffset": 974
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "music",
-      "type": "WORK_OF_ART",
-      "metadata": {},
-      "salience": 0.012008323,
-      "mentions": [
-        {
-          "text": {
-            "content": "music",
-            "beginOffset": 1001
+            "beginOffset": 895
           },
           "type": "COMMON"
         }
@@ -341,57 +266,27 @@
       "name": "floor",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.012008323,
+      "salience": 0.014806285,
       "mentions": [
         {
           "text": {
             "content": "floor",
-            "beginOffset": 931
+            "beginOffset": 852
           },
           "type": "COMMON"
         }
       ]
     },
     {
-      "name": "Bridge",
-      "type": "LOCATION",
-      "metadata": {},
-      "salience": 0.012008323,
-      "mentions": [
-        {
-          "text": {
-            "content": "Bridge",
-            "beginOffset": 902
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "Verse 2",
+      "name": "music",
       "type": "WORK_OF_ART",
       "metadata": {},
-      "salience": 0.011886191,
+      "salience": 0.014806285,
       "mentions": [
         {
           "text": {
-            "content": "Verse 2",
-            "beginOffset": 559
-          },
-          "type": "PROPER"
-        }
-      ]
-    },
-    {
-      "name": "Chorus",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.010451532,
-      "mentions": [
-        {
-          "text": {
-            "content": "Chorus",
-            "beginOffset": 1071
+            "content": "music",
+            "beginOffset": 922
           },
           "type": "COMMON"
         }
@@ -401,57 +296,12 @@
       "name": "power",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.006794632,
+      "salience": 0.008593152,
       "mentions": [
         {
           "text": {
             "content": "power",
-            "beginOffset": 815
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "Chorus",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0066265436,
-      "mentions": [
-        {
-          "text": {
-            "content": "Chorus",
-            "beginOffset": 852
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "color",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0052741934,
-      "mentions": [
-        {
-          "text": {
-            "content": "color",
-            "beginOffset": 829
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "face",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0052741934,
-      "mentions": [
-        {
-          "text": {
-            "content": "face",
-            "beginOffset": 841
+            "beginOffset": 755
           },
           "type": "COMMON"
         }
@@ -461,12 +311,42 @@
       "name": "place",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0052741934,
+      "salience": 0.0065034023,
       "mentions": [
         {
           "text": {
             "content": "place",
-            "beginOffset": 802
+            "beginOffset": 742
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "color",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0065034023,
+      "mentions": [
+        {
+          "text": {
+            "content": "color",
+            "beginOffset": 769
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "face",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0065034023,
+      "mentions": [
+        {
+          "text": {
+            "content": "face",
+            "beginOffset": 781
           },
           "type": "COMMON"
         }
@@ -476,12 +356,12 @@
       "name": "history",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0036523705,
+      "salience": 0.004335403,
       "mentions": [
         {
           "text": {
             "content": "history",
-            "beginOffset": 771
+            "beginOffset": 711
           },
           "type": "COMMON"
         }

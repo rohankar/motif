@@ -1,15 +1,15 @@
 {
   "entities": [
     {
-      "name": "stars",
+      "name": "fireflies",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.11562262,
+      "salience": 0.0871471,
       "mentions": [
         {
           "text": {
-            "content": "stars",
-            "beginOffset": 56
+            "content": "fireflies",
+            "beginOffset": 500
           },
           "type": "COMMON"
         }
@@ -19,12 +19,12 @@
       "name": "pride",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.10242666,
+      "salience": 0.050363485,
       "mentions": [
         {
           "text": {
             "content": "pride",
-            "beginOffset": 336
+            "beginOffset": 964
           },
           "type": "COMMON"
         },
@@ -45,15 +45,15 @@
       ]
     },
     {
-      "name": "fireflies",
+      "name": "stars",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.07785967,
+      "salience": 0.04705451,
       "mentions": [
         {
           "text": {
-            "content": "fireflies",
-            "beginOffset": 500
+            "content": "stars",
+            "beginOffset": 56
           },
           "type": "COMMON"
         }
@@ -63,7 +63,7 @@
       "name": "everyone",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.03922348,
+      "salience": 0.04450261,
       "mentions": [
         {
           "text": {
@@ -78,7 +78,7 @@
       "name": "sky",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.034164153,
+      "salience": 0.03925087,
       "mentions": [
         {
           "text": {
@@ -93,7 +93,7 @@
       "name": "satellites",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.034164153,
+      "salience": 0.03925087,
       "mentions": [
         {
           "text": {
@@ -108,7 +108,7 @@
       "name": "trees",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.034164153,
+      "salience": 0.03925087,
       "mentions": [
         {
           "text": {
@@ -123,7 +123,7 @@
       "name": "Singing Amen",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.03321921,
+      "salience": 0.038165662,
       "mentions": [
         {
           "text": {
@@ -138,7 +138,7 @@
       "name": "nobody",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.027456746,
+      "salience": 0.031547144,
       "mentions": [
         {
           "text": {
@@ -153,7 +153,7 @@
       "name": "nobody",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.027456746,
+      "salience": 0.031547144,
       "mentions": [
         {
           "text": {
@@ -168,7 +168,7 @@
       "name": "nobody",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.027456746,
+      "salience": 0.031547144,
       "mentions": [
         {
           "text": {
@@ -183,7 +183,7 @@
       "name": "everyone",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.026620373,
+      "salience": 0.030205445,
       "mentions": [
         {
           "text": {
@@ -198,7 +198,7 @@
       "name": "everyone",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.025961135,
+      "salience": 0.029829156,
       "mentions": [
         {
           "text": {
@@ -213,7 +213,7 @@
       "name": "everyone",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.024382815,
+      "salience": 0.027666755,
       "mentions": [
         {
           "text": {
@@ -228,19 +228,12 @@
       "name": "Amen I",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.022280043,
+      "salience": 0.022699622,
       "mentions": [
         {
           "text": {
             "content": "Amen I",
-            "beginOffset": 414
-          },
-          "type": "PROPER"
-        },
-        {
-          "text": {
-            "content": "Amen I",
-            "beginOffset": 422
+            "beginOffset": 406
           },
           "type": "PROPER"
         },
@@ -261,24 +254,17 @@
       ]
     },
     {
-      "name": "Amen I",
+      "name": "pride",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.01887993,
+      "salience": 0.021654574,
       "mentions": [
         {
           "text": {
-            "content": "Amen I",
-            "beginOffset": 406
+            "content": "pride",
+            "beginOffset": 336
           },
-          "type": "PROPER"
-        },
-        {
-          "text": {
-            "content": "Amen I",
-            "beginOffset": 442
-          },
-          "type": "PROPER"
+          "type": "COMMON"
         }
       ]
     },
@@ -286,7 +272,7 @@
       "name": "nobody",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.018602856,
+      "salience": 0.021375723,
       "mentions": [
         {
           "text": {
@@ -301,7 +287,7 @@
       "name": "nobody",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.018602856,
+      "salience": 0.021375723,
       "mentions": [
         {
           "text": {
@@ -316,7 +302,7 @@
       "name": "everyone",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.017585738,
+      "salience": 0.020207094,
       "mentions": [
         {
           "text": {
@@ -331,37 +317,7 @@
       "name": "nobody",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.017034072,
-      "mentions": [
-        {
-          "text": {
-            "content": "nobody",
-            "beginOffset": 999
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "nobody",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.017034072,
-      "mentions": [
-        {
-          "text": {
-            "content": "nobody",
-            "beginOffset": 911
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "nobody",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.017034072,
+      "salience": 0.01957324,
       "mentions": [
         {
           "text": {
@@ -376,7 +332,7 @@
       "name": "nobody",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.017034072,
+      "salience": 0.01957324,
       "mentions": [
         {
           "text": {
@@ -388,15 +344,30 @@
       ]
     },
     {
-      "name": "everyone",
+      "name": "nobody",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.016102115,
+      "salience": 0.01957324,
       "mentions": [
         {
           "text": {
-            "content": "everyone",
-            "beginOffset": 928
+            "content": "nobody",
+            "beginOffset": 911
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nobody",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01957324,
+      "mentions": [
+        {
+          "text": {
+            "content": "nobody",
+            "beginOffset": 999
           },
           "type": "COMMON"
         }
@@ -406,7 +377,7 @@
       "name": "everyone",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.015701527,
+      "salience": 0.01897435,
       "mentions": [
         {
           "text": {
@@ -418,15 +389,15 @@
       ]
     },
     {
-      "name": "pride",
-      "type": "OTHER",
+      "name": "everyone",
+      "type": "PERSON",
       "metadata": {},
-      "salience": 0.011674657,
+      "salience": 0.018502414,
       "mentions": [
         {
           "text": {
-            "content": "pride",
-            "beginOffset": 964
+            "content": "everyone",
+            "beginOffset": 928
           },
           "type": "COMMON"
         }
@@ -436,7 +407,7 @@
       "name": "pride",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.011674657,
+      "salience": 0.013414953,
       "mentions": [
         {
           "text": {
@@ -451,7 +422,7 @@
       "name": "everyone",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.010620305,
+      "salience": 0.01283547,
       "mentions": [
         {
           "text": {
@@ -466,7 +437,7 @@
       "name": "everyone",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.009721778,
+      "salience": 0.011749703,
       "mentions": [
         {
           "text": {
@@ -478,10 +449,47 @@
       ]
     },
     {
+      "name": "Amen I",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010308756,
+      "mentions": [
+        {
+          "text": {
+            "content": "Amen I",
+            "beginOffset": 414
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Amen I",
+            "beginOffset": 422
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "air",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010216837,
+      "mentions": [
+        {
+          "text": {
+            "content": "air",
+            "beginOffset": 492
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "paradise",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.0087799635,
+      "salience": 0.010216837,
       "mentions": [
         {
           "text": {
@@ -496,7 +504,7 @@
       "name": "light",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0087799635,
+      "salience": 0.010216837,
       "mentions": [
         {
           "text": {
@@ -508,40 +516,10 @@
       ]
     },
     {
-      "name": "air",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0087799635,
-      "mentions": [
-        {
-          "text": {
-            "content": "air",
-            "beginOffset": 492
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "everyone",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.008710601,
-      "mentions": [
-        {
-          "text": {
-            "content": "everyone",
-            "beginOffset": 1355
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "Singing Amen",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.008642969,
+      "salience": 0.009931107,
       "mentions": [
         {
           "text": {
@@ -556,7 +534,37 @@
       "name": "everyone",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.008043238,
+      "salience": 0.00988313,
+      "mentions": [
+        {
+          "text": {
+            "content": "everyone",
+            "beginOffset": 1355
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Amen I",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0091438135,
+      "mentions": [
+        {
+          "text": {
+            "content": "Amen I",
+            "beginOffset": 442
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "everyone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.009125815,
       "mentions": [
         {
           "text": {
@@ -568,15 +576,15 @@
       ]
     },
     {
-      "name": "nobody",
-      "type": "PERSON",
+      "name": "world",
+      "type": "LOCATION",
       "metadata": {},
-      "salience": 0.0060725044,
+      "salience": 0.0087282015,
       "mentions": [
         {
           "text": {
-            "content": "nobody",
-            "beginOffset": 1462
+            "content": "world",
+            "beginOffset": 556
           },
           "type": "COMMON"
         }
@@ -586,12 +594,12 @@
       "name": "nobody",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0060725044,
+      "salience": 0.0069772108,
       "mentions": [
         {
           "text": {
             "content": "nobody",
-            "beginOffset": 1374
+            "beginOffset": 1301
           },
           "type": "COMMON"
         }
@@ -601,7 +609,7 @@
       "name": "nobody",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0060725044,
+      "salience": 0.0069772108,
       "mentions": [
         {
           "text": {
@@ -616,27 +624,27 @@
       "name": "nobody",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0060725044,
+      "salience": 0.0069772108,
       "mentions": [
         {
           "text": {
             "content": "nobody",
-            "beginOffset": 1301
+            "beginOffset": 1374
           },
           "type": "COMMON"
         }
       ]
     },
     {
-      "name": "world",
-      "type": "LOCATION",
+      "name": "nobody",
+      "type": "PERSON",
       "metadata": {},
-      "salience": 0.005751077,
+      "salience": 0.0069772108,
       "mentions": [
         {
           "text": {
-            "content": "world",
-            "beginOffset": 556
+            "content": "nobody",
+            "beginOffset": 1462
           },
           "type": "COMMON"
         }
@@ -646,7 +654,7 @@
       "name": "everyone",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.005738737,
+      "salience": 0.0065936567,
       "mentions": [
         {
           "text": {
@@ -661,22 +669,7 @@
       "name": "nobody",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.005606756,
-      "mentions": [
-        {
-          "text": {
-            "content": "nobody",
-            "beginOffset": 1213
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "nobody",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.005606756,
+      "salience": 0.006441989,
       "mentions": [
         {
           "text": {
@@ -688,10 +681,25 @@
       ]
     },
     {
+      "name": "nobody",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.006441989,
+      "mentions": [
+        {
+          "text": {
+            "content": "nobody",
+            "beginOffset": 1213
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "everyone",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.005298528,
+      "salience": 0.006087785,
       "mentions": [
         {
           "text": {
@@ -706,7 +714,7 @@
       "name": "nobody",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.004206875,
+      "salience": 0.0048333136,
       "mentions": [
         {
           "text": {
@@ -721,7 +729,7 @@
       "name": "nobody",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.004206875,
+      "salience": 0.0048333136,
       "mentions": [
         {
           "text": {
@@ -736,7 +744,7 @@
       "name": "nobody",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.004206875,
+      "salience": 0.0048333136,
       "mentions": [
         {
           "text": {
@@ -751,7 +759,7 @@
       "name": "world",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.003884389,
+      "salience": 0.004296333,
       "mentions": [
         {
           "text": {
@@ -766,7 +774,7 @@
       "name": "everyone",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0034584897,
+      "salience": 0.004179856,
       "mentions": [
         {
           "text": {
@@ -781,7 +789,7 @@
       "name": "everyone",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0031929472,
+      "salience": 0.0038588853,
       "mentions": [
         {
           "text": {
@@ -796,7 +804,7 @@
       "name": "stars",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0030535671,
+      "salience": 0.0035080328,
       "mentions": [
         {
           "text": {

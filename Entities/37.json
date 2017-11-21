@@ -1,10 +1,40 @@
 {
   "entities": [
     {
+      "name": "nothing",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.6451644,
+      "mentions": [
+        {
+          "text": {
+            "content": "nothing",
+            "beginOffset": 43
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hill",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.045859955,
+      "mentions": [
+        {
+          "text": {
+            "content": "hill",
+            "beginOffset": 92
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "house",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.18429935,
+      "salience": 0.033623308,
       "mentions": [
         {
           "text": {
@@ -16,15 +46,15 @@
       ]
     },
     {
-      "name": "bones",
-      "type": "OTHER",
+      "name": "house",
+      "type": "LOCATION",
       "metadata": {},
-      "salience": 0.08588536,
+      "salience": 0.026019357,
       "mentions": [
         {
           "text": {
-            "content": "bones",
-            "beginOffset": 100
+            "content": "house",
+            "beginOffset": 76
           },
           "type": "COMMON"
         }
@@ -34,12 +64,12 @@
       "name": "home",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.0669594,
+      "salience": 0.014995765,
       "mentions": [
         {
           "text": {
             "content": "home",
-            "beginOffset": 861
+            "beginOffset": 1057
           },
           "type": "COMMON"
         },
@@ -53,75 +83,37 @@
       ]
     },
     {
-      "name": "house",
-      "type": "LOCATION",
-      "metadata": {},
-      "salience": 0.057213772,
-      "mentions": [
-        {
-          "text": {
-            "content": "house",
-            "beginOffset": 76
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "hill",
-      "type": "LOCATION",
-      "metadata": {},
-      "salience": 0.04430504,
-      "mentions": [
-        {
-          "text": {
-            "content": "hill",
-            "beginOffset": 92
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "schemes",
+      "name": "bones",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.041366916,
+      "salience": 0.014944816,
       "mentions": [
         {
           "text": {
-            "content": "schemes",
-            "beginOffset": 493
+            "content": "bones",
+            "beginOffset": 100
           },
           "type": "COMMON"
         }
       ]
     },
     {
-      "name": "nothing",
+      "name": "brick",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.039107595,
+      "salience": 0.011101388,
       "mentions": [
         {
           "text": {
-            "content": "nothing",
-            "beginOffset": 43
+            "content": "brick",
+            "beginOffset": 1014
           },
           "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "cards",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.025879927,
-      "mentions": [
+        },
         {
           "text": {
-            "content": "cards",
-            "beginOffset": 638
+            "content": "brick",
+            "beginOffset": 1205
           },
           "type": "COMMON"
         }
@@ -131,7 +123,7 @@
       "name": "girl",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.017921234,
+      "salience": 0.008267356,
       "mentions": [
         {
           "text": {
@@ -143,25 +135,10 @@
       ]
     },
     {
-      "name": "someone",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.0176969,
-      "mentions": [
-        {
-          "text": {
-            "content": "someone",
-            "beginOffset": 325
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "home",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.017318083,
+      "salience": 0.0075968476,
       "mentions": [
         {
           "text": {
@@ -173,25 +150,10 @@
       ]
     },
     {
-      "name": "girl",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.016616382,
-      "mentions": [
-        {
-          "text": {
-            "content": "girl",
-            "beginOffset": 839
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "home",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.01646679,
+      "salience": 0.007407853,
       "mentions": [
         {
           "text": {
@@ -203,40 +165,10 @@
       ]
     },
     {
-      "name": "bit",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.014969059,
-      "mentions": [
-        {
-          "text": {
-            "content": "bit",
-            "beginOffset": 232
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "piece",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.014969059,
-      "mentions": [
-        {
-          "text": {
-            "content": "piece",
-            "beginOffset": 246
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "piece",
       "type": "WORK_OF_ART",
       "metadata": {},
-      "salience": 0.014969059,
+      "salience": 0.0065666796,
       "mentions": [
         {
           "text": {
@@ -248,15 +180,45 @@
       ]
     },
     {
-      "name": "brick",
+      "name": "piece",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.014334192,
+      "salience": 0.0065666796,
       "mentions": [
         {
           "text": {
-            "content": "brick",
-            "beginOffset": 357
+            "content": "piece",
+            "beginOffset": 246
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bit",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0065666796,
+      "mentions": [
+        {
+          "text": {
+            "content": "bit",
+            "beginOffset": 232
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Bit",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0065666796,
+      "mentions": [
+        {
+          "text": {
+            "content": "Bit",
+            "beginOffset": 225
           },
           "type": "COMMON"
         }
@@ -266,7 +228,7 @@
       "name": "brick",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.014334192,
+      "salience": 0.006368038,
       "mentions": [
         {
           "text": {
@@ -281,7 +243,37 @@
       "name": "brick",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.013289142,
+      "salience": 0.006368038,
+      "mentions": [
+        {
+          "text": {
+            "content": "brick",
+            "beginOffset": 357
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cards",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0059219003,
+      "mentions": [
+        {
+          "text": {
+            "content": "cards",
+            "beginOffset": 638
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "brick",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0058298735,
       "mentions": [
         {
           "text": {
@@ -296,7 +288,7 @@
       "name": "brick",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.013289142,
+      "salience": 0.0058298735,
       "mentions": [
         {
           "text": {
@@ -308,25 +300,10 @@
       ]
     },
     {
-      "name": "teeth",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.013104945,
-      "mentions": [
-        {
-          "text": {
-            "content": "teeth",
-            "beginOffset": 185
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "skin",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.013104945,
+      "salience": 0.0057490817,
       "mentions": [
         {
           "text": {
@@ -338,15 +315,30 @@
       ]
     },
     {
-      "name": "cars",
-      "type": "CONSUMER_GOOD",
+      "name": "teeth",
+      "type": "OTHER",
       "metadata": {},
-      "salience": 0.012149086,
+      "salience": 0.0057490817,
       "mentions": [
         {
           "text": {
-            "content": "cars",
-            "beginOffset": 511
+            "content": "teeth",
+            "beginOffset": 185
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "girl",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.005664367,
+      "mentions": [
+        {
+          "text": {
+            "content": "girl",
+            "beginOffset": 1035
           },
           "type": "COMMON"
         }
@@ -356,7 +348,7 @@
       "name": "lot",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.011819784,
+      "salience": 0.005251246,
       "mentions": [
         {
           "text": {
@@ -368,10 +360,25 @@
       ]
     },
     {
+      "name": "someone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.005251246,
+      "mentions": [
+        {
+          "text": {
+            "content": "someone",
+            "beginOffset": 325
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "house",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.01163327,
+      "salience": 0.0051035546,
       "mentions": [
         {
           "text": {
@@ -386,7 +393,7 @@
       "name": "Build",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.010984732,
+      "salience": 0.004880316,
       "mentions": [
         {
           "text": {
@@ -401,7 +408,7 @@
       "name": "someone",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.010957258,
+      "salience": 0.0048070177,
       "mentions": [
         {
           "text": {
@@ -416,7 +423,7 @@
       "name": "home",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.010722098,
+      "salience": 0.0047038617,
       "mentions": [
         {
           "text": {
@@ -428,25 +435,10 @@
       ]
     },
     {
-      "name": "Build",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.010182898,
-      "mentions": [
-        {
-          "text": {
-            "content": "Build",
-            "beginOffset": 800
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "friends",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.01018009,
+      "salience": 0.0046386034,
       "mentions": [
         {
           "text": {
@@ -458,40 +450,10 @@
       ]
     },
     {
-      "name": "cards",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.010121362,
-      "mentions": [
-        {
-          "text": {
-            "content": "cards",
-            "beginOffset": 589
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "spades",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.010121362,
-      "mentions": [
-        {
-          "text": {
-            "content": "spades",
-            "beginOffset": 679
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "passion",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.010052273,
+      "salience": 0.004522878,
       "mentions": [
         {
           "text": {
@@ -503,45 +465,75 @@
       ]
     },
     {
-      "name": "home",
-      "type": "LOCATION",
-      "metadata": {},
-      "salience": 0.00993936,
-      "mentions": [
-        {
-          "text": {
-            "content": "home",
-            "beginOffset": 1057
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "girl",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.009415752,
-      "mentions": [
-        {
-          "text": {
-            "content": "girl",
-            "beginOffset": 1035
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "table",
+      "name": "Build",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.008858828,
+      "salience": 0.0044673295,
       "mentions": [
         {
           "text": {
-            "content": "table",
-            "beginOffset": 602
+            "content": "Build",
+            "beginOffset": 800
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "spades",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004440335,
+      "mentions": [
+        {
+          "text": {
+            "content": "spades",
+            "beginOffset": 625
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "spades",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.004440335,
+      "mentions": [
+        {
+          "text": {
+            "content": "spades",
+            "beginOffset": 679
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cards",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004440335,
+      "mentions": [
+        {
+          "text": {
+            "content": "cards",
+            "beginOffset": 589
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "brick",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.004360494,
+      "mentions": [
+        {
+          "text": {
+            "content": "brick",
+            "beginOffset": 1005
           },
           "type": "COMMON"
         }
@@ -551,7 +543,7 @@
       "name": "hearts",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.008858828,
+      "salience": 0.0038864745,
       "mentions": [
         {
           "text": {
@@ -563,10 +555,55 @@
       ]
     },
     {
+      "name": "cars",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0038864745,
+      "mentions": [
+        {
+          "text": {
+            "content": "cars",
+            "beginOffset": 511
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "table",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0038864745,
+      "mentions": [
+        {
+          "text": {
+            "content": "table",
+            "beginOffset": 602
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "schemes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0038864745,
+      "mentions": [
+        {
+          "text": {
+            "content": "schemes",
+            "beginOffset": 493
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "house",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.008699452,
+      "salience": 0.0038165557,
       "mentions": [
         {
           "text": {
@@ -581,7 +618,7 @@
       "name": "lot",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.008193373,
+      "salience": 0.0035945356,
       "mentions": [
         {
           "text": {
@@ -596,7 +633,7 @@
       "name": "grave",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.008108492,
+      "salience": 0.0035572972,
       "mentions": [
         {
           "text": {
@@ -611,7 +648,7 @@
       "name": "home",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.0080173435,
+      "salience": 0.0035173092,
       "mentions": [
         {
           "text": {
@@ -623,160 +660,10 @@
       ]
     },
     {
-      "name": "home",
-      "type": "LOCATION",
-      "metadata": {},
-      "salience": 0.0056974194,
-      "mentions": [
-        {
-          "text": {
-            "content": "home",
-            "beginOffset": 942
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "spades",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.005446114,
-      "mentions": [
-        {
-          "text": {
-            "content": "spades",
-            "beginOffset": 625
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "brick",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0053688195,
-      "mentions": [
-        {
-          "text": {
-            "content": "brick",
-            "beginOffset": 1196
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "brick",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.004367289,
-      "mentions": [
-        {
-          "text": {
-            "content": "brick",
-            "beginOffset": 1014
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "brick",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.004367289,
-      "mentions": [
-        {
-          "text": {
-            "content": "brick",
-            "beginOffset": 1005
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "girl",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.004100585,
-      "mentions": [
-        {
-          "text": {
-            "content": "girl",
-            "beginOffset": 1226
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "someone",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.0038980155,
-      "mentions": [
-        {
-          "text": {
-            "content": "someone",
-            "beginOffset": 1168
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "house",
-      "type": "LOCATION",
-      "metadata": {},
-      "salience": 0.0038214352,
-      "mentions": [
-        {
-          "text": {
-            "content": "house",
-            "beginOffset": 933
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "someone",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.0035987268,
-      "mentions": [
-        {
-          "text": {
-            "content": "someone",
-            "beginOffset": 982
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "lot",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0035987268,
-      "mentions": [
-        {
-          "text": {
-            "content": "lot",
-            "beginOffset": 876
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "Build",
-      "type": "ORGANIZATION",
+      "type": "OTHER",
       "metadata": {},
-      "salience": 0.0033437165,
+      "salience": 0.0033402478,
       "mentions": [
         {
           "text": {
@@ -788,15 +675,75 @@
       ]
     },
     {
-      "name": "brick",
-      "type": "OTHER",
+      "name": "home",
+      "type": "LOCATION",
       "metadata": {},
-      "salience": 0.0032762487,
+      "salience": 0.002801048,
       "mentions": [
         {
           "text": {
-            "content": "brick",
-            "beginOffset": 1205
+            "content": "home",
+            "beginOffset": 942
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "girl",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00249057,
+      "mentions": [
+        {
+          "text": {
+            "content": "girl",
+            "beginOffset": 839
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0022303278,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": 861
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "girl",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0018685545,
+      "mentions": [
+        {
+          "text": {
+            "content": "girl",
+            "beginOffset": 1226
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0016764061,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": 933
           },
           "type": "COMMON"
         }
@@ -806,7 +753,52 @@
       "name": "lot",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.002699486,
+      "salience": 0.0015786928,
+      "mentions": [
+        {
+          "text": {
+            "content": "lot",
+            "beginOffset": 876
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "someone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0015786928,
+      "mentions": [
+        {
+          "text": {
+            "content": "someone",
+            "beginOffset": 982
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "someone",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.001184154,
+      "mentions": [
+        {
+          "text": {
+            "content": "someone",
+            "beginOffset": 1168
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lot",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.001184154,
       "mentions": [
         {
           "text": {

@@ -4,7 +4,7 @@
       "name": "heart",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.20046388,
+      "salience": 0.2692921,
       "mentions": [
         {
           "text": {
@@ -40,12 +40,12 @@
       "name": "head",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.1567075,
+      "salience": 0.19543515,
       "mentions": [
         {
           "text": {
             "content": "head",
-            "beginOffset": 1032
+            "beginOffset": 349
           },
           "type": "COMMON"
         },
@@ -69,7 +69,7 @@
       "name": "body",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.11027911,
+      "salience": 0.09340799,
       "mentions": [
         {
           "text": {
@@ -98,7 +98,7 @@
       "name": "war",
       "type": "EVENT",
       "metadata": {},
-      "salience": 0.046334743,
+      "salience": 0.038791046,
       "mentions": [
         {
           "text": {
@@ -110,40 +110,10 @@
       ]
     },
     {
-      "name": "each other",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.046334743,
-      "mentions": [
-        {
-          "text": {
-            "content": "each other",
-            "beginOffset": 21
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "door",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.046334743,
-      "mentions": [
-        {
-          "text": {
-            "content": "door",
-            "beginOffset": 119
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "things",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.046334743,
+      "salience": 0.038791046,
       "mentions": [
         {
           "text": {
@@ -155,10 +125,40 @@
       ]
     },
     {
+      "name": "door",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.038791046,
+      "mentions": [
+        {
+          "text": {
+            "content": "door",
+            "beginOffset": 119
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "each other",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.038791046,
+      "mentions": [
+        {
+          "text": {
+            "content": "each other",
+            "beginOffset": 21
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "score",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.041381087,
+      "salience": 0.037829295,
       "mentions": [
         {
           "text": {
@@ -170,10 +170,25 @@
       ]
     },
     {
+      "name": "lipstick",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.026204187,
+      "mentions": [
+        {
+          "text": {
+            "content": "lipstick",
+            "beginOffset": 767
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "body",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.028024847,
+      "salience": 0.023465123,
       "mentions": [
         {
           "text": {
@@ -188,7 +203,7 @@
       "name": "body",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.028024847,
+      "salience": 0.023465123,
       "mentions": [
         {
           "text": {
@@ -203,22 +218,7 @@
       "name": "head",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.026824504,
-      "mentions": [
-        {
-          "text": {
-            "content": "head",
-            "beginOffset": 349
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "head",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.026824504,
+      "salience": 0.02274518,
       "mentions": [
         {
           "text": {
@@ -230,25 +230,10 @@
       ]
     },
     {
-      "name": "tattoo",
-      "type": "WORK_OF_ART",
-      "metadata": {},
-      "salience": 0.022325695,
-      "mentions": [
-        {
-          "text": {
-            "content": "tattoo",
-            "beginOffset": 430
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "baby",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.021501895,
+      "salience": 0.020169593,
       "mentions": [
         {
           "text": {
@@ -260,15 +245,15 @@
       ]
     },
     {
-      "name": "baby",
-      "type": "PERSON",
+      "name": "tattoo",
+      "type": "WORK_OF_ART",
       "metadata": {},
-      "salience": 0.018950887,
+      "salience": 0.018693598,
       "mentions": [
         {
           "text": {
-            "content": "baby",
-            "beginOffset": 928
+            "content": "tattoo",
+            "beginOffset": 430
           },
           "type": "COMMON"
         }
@@ -278,7 +263,22 @@
       "name": "head",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.018137634,
+      "salience": 0.015380018,
+      "mentions": [
+        {
+          "text": {
+            "content": "head",
+            "beginOffset": 1032
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "head",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015380018,
       "mentions": [
         {
           "text": {
@@ -293,7 +293,7 @@
       "name": "body",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.017346786,
+      "salience": 0.014524716,
       "mentions": [
         {
           "text": {
@@ -305,10 +305,25 @@
       ]
     },
     {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.013635231,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 928
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "body",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.015095022,
+      "salience": 0.012962882,
       "mentions": [
         {
           "text": {
@@ -320,25 +335,10 @@
       ]
     },
     {
-      "name": "lipstick",
-      "type": "CONSUMER_GOOD",
-      "metadata": {},
-      "salience": 0.014709969,
-      "mentions": [
-        {
-          "text": {
-            "content": "lipstick",
-            "beginOffset": 767
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "tattoo",
       "type": "WORK_OF_ART",
       "metadata": {},
-      "salience": 0.013812491,
+      "salience": 0.011565253,
       "mentions": [
         {
           "text": {
@@ -350,32 +350,10 @@
       ]
     },
     {
-      "name": "Yeah",
-      "type": "WORK_OF_ART",
-      "metadata": {},
-      "salience": 0.012793226,
-      "mentions": [
-        {
-          "text": {
-            "content": "Yeah",
-            "beginOffset": 1635
-          },
-          "type": "PROPER"
-        },
-        {
-          "text": {
-            "content": "tattoo",
-            "beginOffset": 1626
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "breath",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.012014972,
+      "salience": 0.010060052,
       "mentions": [
         {
           "text": {
@@ -387,25 +365,10 @@
       ]
     },
     {
-      "name": "hell",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.012014972,
-      "mentions": [
-        {
-          "text": {
-            "content": "hell",
-            "beginOffset": 914
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "baby",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.007181898,
+      "salience": 0.005862477,
       "mentions": [
         {
           "text": {
@@ -417,10 +380,25 @@
       ]
     },
     {
+      "name": "tattoo",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0041102963,
+      "mentions": [
+        {
+          "text": {
+            "content": "tattoo",
+            "beginOffset": 1626
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "baby",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.004551553,
+      "salience": 0.003714972,
       "mentions": [
         {
           "text": {
@@ -435,7 +413,7 @@
       "name": "baby",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0018979217,
+      "salience": 0.003714972,
       "mentions": [
         {
           "text": {
@@ -450,7 +428,7 @@
       "name": "baby",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0018979217,
+      "salience": 0.0016088001,
       "mentions": [
         {
           "text": {
@@ -465,7 +443,7 @@
       "name": "Baby",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0018979217,
+      "salience": 0.0016088001,
       "mentions": [
         {
           "text": {

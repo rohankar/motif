@@ -1,7 +1,323 @@
 {
-  "error": {
-    "code": 400,
-    "message": "Invalid JSON payload received. Expected , or } after key:value pair.\na tattoo that says \"2gether thru life\"  \n                    ^",
-    "status": "INVALID_ARGUMENT"
-  }
+  "entities": [
+    {
+      "name": "all",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.46611997,
+      "mentions": [
+        {
+          "text": {
+            "content": "all",
+            "beginOffset": 202
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tattoo",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.18165842,
+      "mentions": [
+        {
+          "text": {
+            "content": "tattoo",
+            "beginOffset": 6
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "all",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.076048486,
+      "mentions": [
+        {
+          "text": {
+            "content": "all",
+            "beginOffset": 431
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.039299764,
+      "mentions": [
+        {
+          "text": {
+            "content": "life",
+            "beginOffset": 37
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "name",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.039299764,
+      "mentions": [
+        {
+          "text": {
+            "content": "name",
+            "beginOffset": 60
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pocket knife",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.039299764,
+      "mentions": [
+        {
+          "text": {
+            "content": "pocket knife",
+            "beginOffset": 73
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "All",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02394942,
+      "mentions": [
+        {
+          "text": {
+            "content": "All",
+            "beginOffset": 190
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Feels",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.018646,
+      "mentions": [
+        {
+          "text": {
+            "content": "Feels",
+            "beginOffset": 142
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "All",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.016255222,
+      "mentions": [
+        {
+          "text": {
+            "content": "All",
+            "beginOffset": 250
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "something",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015258972,
+      "mentions": [
+        {
+          "text": {
+            "content": "something",
+            "beginOffset": 161
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "All",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014889002,
+      "mentions": [
+        {
+          "text": {
+            "content": "All",
+            "beginOffset": 419
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0103348205,
+      "mentions": [
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": 363
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "pains",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010205503,
+      "mentions": [
+        {
+          "text": {
+            "content": "pains",
+            "beginOffset": 333
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tattoo",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.008722998,
+      "mentions": [
+        {
+          "text": {
+            "content": "tattoo",
+            "beginOffset": 318
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "stars",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.007931607,
+      "mentions": [
+        {
+          "text": {
+            "content": "stars",
+            "beginOffset": 588
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "colors",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007353348,
+      "mentions": [
+        {
+          "text": {
+            "content": "colors",
+            "beginOffset": 622
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "thirst",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0070801405,
+      "mentions": [
+        {
+          "text": {
+            "content": "thirst",
+            "beginOffset": 646
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Oh",
+      "type": "LOCATION",
+      "metadata": {
+        "mid": "/m/05kkh",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Ohio"
+      },
+      "salience": 0.0061347927,
+      "mentions": [
+        {
+          "text": {
+            "content": "Oh",
+            "beginOffset": 391
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "All",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0049110753,
+      "mentions": [
+        {
+          "text": {
+            "content": "All",
+            "beginOffset": 485
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "road",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0034882543,
+      "mentions": [
+        {
+          "text": {
+            "content": "road",
+            "beginOffset": 557
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fire",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.003112672,
+      "mentions": [
+        {
+          "text": {
+            "content": "fire",
+            "beginOffset": 469
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
 }

@@ -1,7 +1,89 @@
 {
-  "error": {
-    "code": 400,
-    "message": "Invalid JSON payload received. Expected , or } after key:value pair.\n the crib they say \"Breeze you ain't kno\n                    ^",
-    "status": "INVALID_ARGUMENT"
-  }
+  "documentSentiment": {
+    "magnitude": 3.2,
+    "score": -0.1
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "[Cool Breeze]  \rI call the crib they say Breeze you ain't know?",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    },
+    {
+      "text": {
+        "content": "I say What?",
+        "beginOffset": 64
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Big Time got popped in his Benzo!",
+        "beginOffset": 77
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
+    },
+    {
+      "text": {
+        "content": "I said Damn man, I'm riding in his Lexus  \rI'm bout to dump this nigga's shit in New Dimensions  \rGet to the crib so I can call Big Slate up  \rAnd tell 'em the money man done slipped and got his throat cut  \rAnd everything that we took from the warehouse  \rI heard somebody talking 'bout it at the White House  \rMan I thought you said that this job was for me and you  \rI ain't know that Bill Clampett wanted some too  \rYou tell his folks that I'm sorry bout that Lexus  \rI'm 'bout to dip and see my sister up in no  \rCan't even tell you where I put my extra player card  \rCause them Red Dog police know we homeboys  \rJust tell everybody who us a dime  \rIt's the Great Hoe Round Up Yo' Money time  \rI got to have mine, then I'm outta here  \rTake a loss, come back up just like Coco Grier  \rAin't got to worry bout yo' partner getting caught like a lame  \rIt won't be over til that big girl from Decatur sang \r  \r(It won't be over till that big girl from Decatur sang!",
+        "beginOffset": 111
+      },
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
+    },
+    {
+      "text": {
+        "content": "East Pointe police don't know a damn thing)  \r  \r[Big Boi]  \rYeah, it won't be over  \rCheck this out  \rCan you see what I be hearing talking to spirits when I sleep  \rPeep this out real quick Slick, we gets on this beat and speak  \rabout that pimp shit, that walk with that limp shit, that hemp shit  \rLooking up in your face I see a coward and a dimwit  \rLooking to run up in my private home just like you was the folks  \rServing a warrant to a baby daddy, who do they come to quote?",
+        "beginOffset": 1081
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "On a Tuesday, April Fool's Day, don't get caught slipping  \rLeaving the keys off in the ignition, making me guilty by suspicion  \rPenny pinchers trying to stack for ninety-six  \rBuying another Fleetwood, Diamond took it, so know we's in the mix  \rI need to take my ass to the crib and drop the baby off  \rCause them niggas at the corner sto' been looking at me for too long  \rStaring like accidents on highways, high days are better than sober ones  \rDon't be biased, but I know it has to come  \rSo I put two in the sky to let them know I'm babysitting  \rY'all don't know nothing bout Big Boi cause that nigga steady dipping  \rIt ain't over (why that, why that) till the bitch open her mouth up  \rand sang  \r  \r[Big Gipp]  \rTook me a long time to get here  \rLong time man  \rI'm talking about, years, and years  \rRiding past funeral fields holding bodies of my peers  \rIf you don't educate yourself  \rNow how the fuck you gonna understand how you posed to get paid?",
+        "beginOffset": 1568
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.5
+      }
+    },
+    {
+      "text": {
+        "content": "Niggas walk around get with shade tree ass ways  \rFuck a fade, let my hair drag  \rBack and forth like a see-saw  \rJumping Lily, to lilypad dad  \rLooking to get my Goodie feel  \rI'm broke in like some old men  \rWho'd stop them or would stop  \rI'm dropping lines for the big plot  \rSixteen is when I started to dream  \rIt's ninety-six I'm in your face  \rCan you hear that bitch scream?",
+        "beginOffset": 2535
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "(It won't be over til that big girl from Decatur sang)",
+        "beginOffset": 2924
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    }
+  ]
 }

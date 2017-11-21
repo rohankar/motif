@@ -4,7 +4,7 @@
       "name": "things",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.35951605,
+      "salience": 0.4046108,
       "mentions": [
         {
           "text": {
@@ -16,25 +16,10 @@
       ]
     },
     {
-      "name": "Somebody",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.23017459,
-      "mentions": [
-        {
-          "text": {
-            "content": "Somebody",
-            "beginOffset": 229
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "things",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.179112,
+      "salience": 0.22081237,
       "mentions": [
         {
           "text": {
@@ -46,15 +31,15 @@
       ]
     },
     {
-      "name": "fun",
-      "type": "OTHER",
+      "name": "Somebody",
+      "type": "PERSON",
       "metadata": {},
-      "salience": 0.07013652,
+      "salience": 0.12865494,
       "mentions": [
         {
           "text": {
-            "content": "fun",
-            "beginOffset": 136
+            "content": "Somebody",
+            "beginOffset": 229
           },
           "type": "COMMON"
         }
@@ -64,7 +49,7 @@
       "name": "All",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.045080125,
+      "salience": 0.056801356,
       "mentions": [
         {
           "text": {
@@ -79,7 +64,7 @@
       "name": "things",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.034579877,
+      "salience": 0.048169624,
       "mentions": [
         {
           "text": {
@@ -91,10 +76,25 @@
       ]
     },
     {
+      "name": "fun",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.039007653,
+      "mentions": [
+        {
+          "text": {
+            "content": "fun",
+            "beginOffset": 136
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "head",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.024999058,
+      "salience": 0.03110937,
       "mentions": [
         {
           "text": {
@@ -109,7 +109,7 @@
       "name": "sand",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.024999058,
+      "salience": 0.03110937,
       "mentions": [
         {
           "text": {
@@ -124,7 +124,7 @@
       "name": "Things",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.020392025,
+      "salience": 0.026023716,
       "mentions": [
         {
           "text": {
@@ -139,7 +139,7 @@
       "name": "way",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.011010682,
+      "salience": 0.013700797,
       "mentions": [
         {
           "text": {

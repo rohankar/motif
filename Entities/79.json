@@ -4,7 +4,7 @@
       "name": "lifestyle",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.23951802,
+      "salience": 0.270935,
       "mentions": [
         {
           "text": {
@@ -19,6 +19,13 @@
             "beginOffset": 961
           },
           "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "same",
+            "beginOffset": 1325
+          },
+          "type": "COMMON"
         }
       ]
     },
@@ -26,7 +33,7 @@
       "name": "track",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.11226125,
+      "salience": 0.10288288,
       "mentions": [
         {
           "text": {
@@ -41,7 +48,7 @@
       "name": "Keep searching",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.08463587,
+      "salience": 0.07755811,
       "mentions": [
         {
           "text": {
@@ -60,55 +67,10 @@
       ]
     },
     {
-      "name": "karmas",
-      "type": "LOCATION",
-      "metadata": {},
-      "salience": 0.047317747,
-      "mentions": [
-        {
-          "text": {
-            "content": "karmas",
-            "beginOffset": 95
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "stream",
-      "type": "LOCATION",
-      "metadata": {},
-      "salience": 0.041767795,
-      "mentions": [
-        {
-          "text": {
-            "content": "stream",
-            "beginOffset": 637
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "search",
-      "type": "EVENT",
-      "metadata": {},
-      "salience": 0.040473875,
-      "mentions": [
-        {
-          "text": {
-            "content": "search",
-            "beginOffset": 1063
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "Life",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.039927628,
+      "salience": 0.06829916,
       "mentions": [
         {
           "text": {
@@ -127,10 +89,40 @@
       ]
     },
     {
+      "name": "karmas",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.043352813,
+      "mentions": [
+        {
+          "text": {
+            "content": "karmas",
+            "beginOffset": 95
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "stream",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.037934363,
+      "mentions": [
+        {
+          "text": {
+            "content": "stream",
+            "beginOffset": 637
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "Death",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.039927628,
+      "salience": 0.036122747,
       "mentions": [
         {
           "text": {
@@ -152,7 +144,7 @@
       "name": "Birth",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.029580582,
+      "salience": 0.026758544,
       "mentions": [
         {
           "text": {
@@ -174,7 +166,7 @@
       "name": "search",
       "type": "EVENT",
       "metadata": {},
-      "salience": 0.029452968,
+      "salience": 0.026643062,
       "mentions": [
         {
           "text": {
@@ -189,7 +181,7 @@
       "name": "stream",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.025675572,
+      "salience": 0.023111911,
       "mentions": [
         {
           "text": {
@@ -204,7 +196,7 @@
       "name": "strength",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.024100965,
+      "salience": 0.022357402,
       "mentions": [
         {
           "text": {
@@ -219,7 +211,7 @@
       "name": "tick tick tick tick tick",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.023917548,
+      "salience": 0.021908907,
       "mentions": [
         {
           "text": {
@@ -234,7 +226,7 @@
       "name": "tick",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.021894937,
+      "salience": 0.020055637,
       "mentions": [
         {
           "text": {
@@ -249,7 +241,7 @@
       "name": "tick tick tick tick tick tick tock",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.021762725,
+      "salience": 0.019934496,
       "mentions": [
         {
           "text": {
@@ -264,7 +256,22 @@
       "name": "search",
       "type": "EVENT",
       "metadata": {},
-      "salience": 0.018003387,
+      "salience": 0.01818647,
+      "mentions": [
+        {
+          "text": {
+            "content": "search",
+            "beginOffset": 1063
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "search",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.016699797,
       "mentions": [
         {
           "text": {
@@ -276,15 +283,15 @@
       ]
     },
     {
-      "name": "tick tick tick tick tick tick tock",
+      "name": "deathstyle",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0148493145,
+      "salience": 0.014951389,
       "mentions": [
         {
           "text": {
-            "content": "tick tick tick tick tick tick tock",
-            "beginOffset": 1136
+            "content": "deathstyle",
+            "beginOffset": 399
           },
           "type": "COMMON"
         }
@@ -294,7 +301,7 @@
       "name": "tick tick tick tick tick",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0148493145,
+      "salience": 0.014949614,
       "mentions": [
         {
           "text": {
@@ -309,7 +316,7 @@
       "name": "strength",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0147537,
+      "salience": 0.013684742,
       "mentions": [
         {
           "text": {
@@ -321,15 +328,15 @@
       ]
     },
     {
-      "name": "fear",
+      "name": "tick tick tick tick tick tick tock",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.013800484,
+      "salience": 0.013600342,
       "mentions": [
         {
           "text": {
-            "content": "fear",
-            "beginOffset": 647
+            "content": "tick tick tick tick tick tick tock",
+            "beginOffset": 1136
           },
           "type": "COMMON"
         }
@@ -339,7 +346,7 @@
       "name": "track",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.013685155,
+      "salience": 0.012693377,
       "mentions": [
         {
           "text": {
@@ -351,10 +358,25 @@
       ]
     },
     {
+      "name": "fear",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01263946,
+      "mentions": [
+        {
+          "text": {
+            "content": "fear",
+            "beginOffset": 647
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "search",
       "type": "EVENT",
       "metadata": {},
-      "salience": 0.012437376,
+      "salience": 0.011390686,
       "mentions": [
         {
           "text": {
@@ -369,7 +391,7 @@
       "name": "lifestyle",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.011134118,
+      "salience": 0.01019678,
       "mentions": [
         {
           "text": {
@@ -381,25 +403,10 @@
       ]
     },
     {
-      "name": "hurry",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.011053779,
-      "mentions": [
-        {
-          "text": {
-            "content": "hurry",
-            "beginOffset": 731
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "worry",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.011053779,
+      "salience": 0.010123183,
       "mentions": [
         {
           "text": {
@@ -411,10 +418,25 @@
       ]
     },
     {
+      "name": "hurry",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.010123183,
+      "mentions": [
+        {
+          "text": {
+            "content": "hurry",
+            "beginOffset": 731
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "water",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.011053779,
+      "salience": 0.010123183,
       "mentions": [
         {
           "text": {
@@ -426,25 +448,10 @@
       ]
     },
     {
-      "name": "talk",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.00785352,
-      "mentions": [
-        {
-          "text": {
-            "content": "talk",
-            "beginOffset": 723
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "deathstyle",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.007712796,
+      "salience": 0.0070627397,
       "mentions": [
         {
           "text": {
@@ -456,10 +463,25 @@
       ]
     },
     {
+      "name": "talk",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007011726,
+      "mentions": [
+        {
+          "text": {
+            "content": "talk",
+            "beginOffset": 723
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "tide",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0057036453,
+      "salience": 0.005222475,
       "mentions": [
         {
           "text": {
@@ -474,7 +496,7 @@
       "name": "side",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0057036453,
+      "salience": 0.005222475,
       "mentions": [
         {
           "text": {
@@ -486,10 +508,25 @@
       ]
     },
     {
+      "name": "deathstyle",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0044756043,
+      "mentions": [
+        {
+          "text": {
+            "content": "deathstyle",
+            "beginOffset": 985
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "fear",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.004137103,
+      "salience": 0.0037877425,
       "mentions": [
         {
           "text": {

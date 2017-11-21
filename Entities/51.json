@@ -1,10 +1,47 @@
 {
   "entities": [
     {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.26705033,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 194
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 737
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.13342297,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 145
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "man",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.13165887,
+      "salience": 0.098712556,
       "mentions": [
         {
           "text": {
@@ -19,7 +56,7 @@
       "name": "love",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.13165887,
+      "salience": 0.098712556,
       "mentions": [
         {
           "text": {
@@ -34,7 +71,7 @@
       "name": "speed",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.10552748,
+      "salience": 0.07912587,
       "mentions": [
         {
           "text": {
@@ -46,25 +83,10 @@
       ]
     },
     {
-      "name": "Mmm",
-      "type": "ORGANIZATION",
-      "metadata": {},
-      "salience": 0.08256398,
-      "mentions": [
-        {
-          "text": {
-            "content": "Mmm",
-            "beginOffset": 231
-          },
-          "type": "PROPER"
-        }
-      ]
-    },
-    {
       "name": "lot",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.08093585,
+      "salience": 0.067013,
       "mentions": [
         {
           "text": {
@@ -76,75 +98,15 @@
       ]
     },
     {
-      "name": "love",
+      "name": "find",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.051347043,
+      "salience": 0.037140682,
       "mentions": [
         {
           "text": {
-            "content": "love",
-            "beginOffset": 145
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "baby",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.0504191,
-      "mentions": [
-        {
-          "text": {
-            "content": "baby",
-            "beginOffset": 194
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "talent Work",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.04267005,
-      "mentions": [
-        {
-          "text": {
-            "content": "talent  \rWork",
-            "beginOffset": 596
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "Come",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.033341937,
-      "mentions": [
-        {
-          "text": {
-            "content": "Come",
-            "beginOffset": 470
-          },
-          "type": "PROPER"
-        }
-      ]
-    },
-    {
-      "name": "man",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.030276906,
-      "mentions": [
-        {
-          "text": {
-            "content": "man",
-            "beginOffset": 520
+            "content": "find",
+            "beginOffset": 560
           },
           "type": "COMMON"
         }
@@ -154,7 +116,7 @@
       "name": "lover",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.029561188,
+      "salience": 0.02301861,
       "mentions": [
         {
           "text": {
@@ -166,10 +128,40 @@
       ]
     },
     {
+      "name": "man",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.022418756,
+      "mentions": [
+        {
+          "text": {
+            "content": "man",
+            "beginOffset": 520
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Mmm",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.020808054,
+      "mentions": [
+        {
+          "text": {
+            "content": "Mmm",
+            "beginOffset": 231
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "Whoo",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.028455138,
+      "salience": 0.020288443,
       "mentions": [
         {
           "text": {
@@ -188,25 +180,10 @@
       ]
     },
     {
-      "name": "Hey Dooooo",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.020422773,
-      "mentions": [
-        {
-          "text": {
-            "content": "Hey  \rDooooo",
-            "beginOffset": 264
-          },
-          "type": "PROPER"
-        }
-      ]
-    },
-    {
       "name": "fool baby",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.018884603,
+      "salience": 0.01415922,
       "mentions": [
         {
           "text": {
@@ -218,25 +195,10 @@
       ]
     },
     {
-      "name": "Everybody",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.01710739,
-      "mentions": [
-        {
-          "text": {
-            "content": "Everybody",
-            "beginOffset": 790
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "woman",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.013165107,
+      "salience": 0.013198766,
       "mentions": [
         {
           "text": {
@@ -248,10 +210,25 @@
       ]
     },
     {
+      "name": "Come",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012634814,
+      "mentions": [
+        {
+          "text": {
+            "content": "Come",
+            "beginOffset": 470
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "chain",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.013165107,
+      "salience": 0.009870155,
       "mentions": [
         {
           "text": {
@@ -263,25 +240,10 @@
       ]
     },
     {
-      "name": "baby",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.012928285,
-      "mentions": [
-        {
-          "text": {
-            "content": "baby",
-            "beginOffset": 737
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "pain",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.012050154,
+      "salience": 0.009034076,
       "mentions": [
         {
           "text": {
@@ -296,7 +258,7 @@
       "name": "life",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.012050154,
+      "salience": 0.009034076,
       "mentions": [
         {
           "text": {
@@ -311,7 +273,7 @@
       "name": "man",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.011314992,
+      "salience": 0.008482801,
       "mentions": [
         {
           "text": {
@@ -326,7 +288,7 @@
       "name": "Everybody",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.011273901,
+      "salience": 0.008451988,
       "mentions": [
         {
           "text": {
@@ -338,25 +300,10 @@
       ]
     },
     {
-      "name": "Yeah",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.010842552,
-      "mentions": [
-        {
-          "text": {
-            "content": "Yeah",
-            "beginOffset": 317
-          },
-          "type": "PROPER"
-        }
-      ]
-    },
-    {
       "name": "Doodoo doodoo",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.010293623,
+      "salience": 0.0077169184,
       "mentions": [
         {
           "text": {
@@ -371,7 +318,7 @@
       "name": "eyes",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.009008293,
+      "salience": 0.0067531215,
       "mentions": [
         {
           "text": {
@@ -386,7 +333,7 @@
       "name": "baby",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.008926165,
+      "salience": 0.006691539,
       "mentions": [
         {
           "text": {
@@ -401,26 +348,48 @@
       "name": "Everybody",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.008321551,
+      "salience": 0.0066573103,
       "mentions": [
+        {
+          "text": {
+            "content": "Everybody",
+            "beginOffset": 790
+          },
+          "type": "PROPER"
+        },
         {
           "text": {
             "content": "Everybody",
             "beginOffset": 813
           },
-          "type": "COMMON"
+          "type": "PROPER"
         }
       ]
     },
     {
-      "name": "Hey Come on baby Come on Come on Fly with me",
+      "name": "Yeah",
       "type": "WORK_OF_ART",
       "metadata": {},
-      "salience": 0.0042085345,
+      "salience": 0.0058492543,
       "mentions": [
         {
           "text": {
-            "content": "Hey  \rCome on baby  \rCome on  \rCome on  \rFly with me",
+            "content": "Yeah",
+            "beginOffset": 317
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Hey Come on baby Come on Come on Fly",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.004357615,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hey  \rCome on baby  \rCome on  \rCome on  \rFly",
             "beginOffset": 858
           },
           "type": "PROPER"
@@ -428,30 +397,45 @@
       ]
     },
     {
-      "name": "mind",
-      "type": "OTHER",
+      "name": "Hey Yeah",
+      "type": "PERSON",
       "metadata": {},
-      "salience": 0.0039549805,
+      "salience": 0.0034679943,
       "mentions": [
         {
           "text": {
-            "content": "mind",
-            "beginOffset": 623
+            "content": "Hey  \rYeah",
+            "beginOffset": 839
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "talent Work",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0029642603,
+      "mentions": [
+        {
+          "text": {
+            "content": "talent  \rWork",
+            "beginOffset": 596
           },
           "type": "COMMON"
         }
       ]
     },
     {
-      "name": "find",
+      "name": "mind",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.003665418,
+      "salience": 0.0029642603,
       "mentions": [
         {
           "text": {
-            "content": "find",
-            "beginOffset": 560
+            "content": "mind",
+            "beginOffset": 623
           },
           "type": "COMMON"
         }

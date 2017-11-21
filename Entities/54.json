@@ -4,12 +4,12 @@
       "name": "Lord",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.45466748,
+      "salience": 0.51091546,
       "mentions": [
         {
           "text": {
-            "content": "voodoo child",
-            "beginOffset": 727
+            "content": "voodoo child voodoo child",
+            "beginOffset": 714
           },
           "type": "COMMON"
         },
@@ -26,7 +26,7 @@
       "name": "Lord",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.1735088,
+      "salience": 0.17736708,
       "mentions": [
         {
           "text": {
@@ -48,7 +48,7 @@
       "name": "voodoo child baby",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.13196927,
+      "salience": 0.12960781,
       "mentions": [
         {
           "text": {
@@ -74,10 +74,40 @@
       ]
     },
     {
-      "name": "Yeah Well",
+      "name": "mountain",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.02452188,
+      "mentions": [
+        {
+          "text": {
+            "content": "mountain",
+            "beginOffset": 27
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "edge",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.085520454,
+      "salience": 0.02452188,
+      "mentions": [
+        {
+          "text": {
+            "content": "edge",
+            "beginOffset": 66
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hand",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02452188,
       "mentions": [
         {
           "text": {
@@ -85,7 +115,15 @@
             "beginOffset": 77
           },
           "type": "COMMON"
-        },
+        }
+      ]
+    },
+    {
+      "name": "Yeah Well",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.016150653,
+      "mentions": [
         {
           "text": {
             "content": "Yeah  \rWell",
@@ -99,7 +137,7 @@
       "name": "Yeah",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.030601421,
+      "salience": 0.012661071,
       "mentions": [
         {
           "text": {
@@ -118,40 +156,10 @@
       ]
     },
     {
-      "name": "mountain",
-      "type": "LOCATION",
-      "metadata": {},
-      "salience": 0.023666125,
-      "mentions": [
-        {
-          "text": {
-            "content": "mountain",
-            "beginOffset": 27
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "edge",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.023666125,
-      "mentions": [
-        {
-          "text": {
-            "content": "edge",
-            "beginOffset": 66
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "thing",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.009801101,
+      "salience": 0.010203518,
       "mentions": [
         {
           "text": {
@@ -163,40 +171,10 @@
       ]
     },
     {
-      "name": "hand",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.009211465,
-      "mentions": [
-        {
-          "text": {
-            "content": "hand",
-            "beginOffset": 168
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "edge",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.009211465,
-      "mentions": [
-        {
-          "text": {
-            "content": "edge",
-            "beginOffset": 157
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "mountain",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.009211465,
+      "salience": 0.009553231,
       "mentions": [
         {
           "text": {
@@ -208,10 +186,55 @@
       ]
     },
     {
+      "name": "edge",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009553231,
+      "mentions": [
+        {
+          "text": {
+            "content": "edge",
+            "beginOffset": 157
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hand",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009553231,
+      "mentions": [
+        {
+          "text": {
+            "content": "hand",
+            "beginOffset": 168
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "one",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.008983164,
+      "mentions": [
+        {
+          "text": {
+            "content": "one",
+            "beginOffset": 445
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "pieces",
       "type": "WORK_OF_ART",
       "metadata": {},
-      "salience": 0.008071319,
+      "salience": 0.008371247,
       "mentions": [
         {
           "text": {
@@ -226,7 +249,7 @@
       "name": "island",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.007580487,
+      "salience": 0.007862349,
       "mentions": [
         {
           "text": {
@@ -241,7 +264,7 @@
       "name": "Cause",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.006164353,
+      "salience": 0.0064748228,
       "mentions": [
         {
           "text": {
@@ -253,25 +276,10 @@
       ]
     },
     {
-      "name": "voodoo child",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.005646781,
-      "mentions": [
-        {
-          "text": {
-            "content": "voodoo child",
-            "beginOffset": 714
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "no",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0030992762,
+      "salience": 0.0031346674,
       "mentions": [
         {
           "text": {
@@ -283,29 +291,14 @@
       ]
     },
     {
-      "name": "Question",
+      "name": "answer Question",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.002596779,
+      "salience": 0.002693607,
       "mentions": [
         {
           "text": {
-            "content": "Question",
-            "beginOffset": 846
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "answer",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.002596779,
-      "mentions": [
-        {
-          "text": {
-            "content": "answer",
+            "content": "answer  \rQuestion",
             "beginOffset": 837
           },
           "type": "COMMON"
@@ -316,7 +309,7 @@
       "name": "world",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.0016469366,
+      "salience": 0.0017082588,
       "mentions": [
         {
           "text": {
@@ -331,7 +324,7 @@
       "name": "one",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0015621372,
+      "salience": 0.0016409317,
       "mentions": [
         {
           "text": {

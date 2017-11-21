@@ -1,7 +1,19 @@
 {
-  "error": {
-    "code": 400,
-    "message": "Invalid JSON payload received. Expected , or } after key:value pair.\naway  \rWaiting for \"Mrs. Right\"  \rYou ne\n                    ^",
-    "status": "INVALID_ARGUMENT"
-  }
+  "documentSentiment": {
+    "magnitude": 0.2,
+    "score": -0.2
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "Suddenly our shortcomings don't seem to matter at much  \rYour IQ is 20 points low  \rAnd I'm no Six Foot Hot Look All American Man  \r  \rSad to say I pushed you away  \rWaiting for Mrs. Right \rYou never gave up  \r\rDevotion  \rWaiting for me  \rYou'll always be my girlfriend  \rI too am waiting for you  \rI'll always be your friend  \r  \rI commend your stubbornness  \rWithout it we'd never got this far  \rI am done with perfection  \rChasing her leaves me with nothing but pain  \r  \rUnlike you  \rShe isn't true  \rShe's got her own concerns  \rYou never gave up",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
+    }
+  ]
 }

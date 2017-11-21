@@ -1,0 +1,19 @@
+{
+  "documentSentiment": {
+    "magnitude": 0.3,
+    "score": 0.3
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "/a/aerosmith/janies+got+a+gun_20004444.html",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0.3
+      }
+    }
+  ]
+}

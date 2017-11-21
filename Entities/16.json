@@ -1,37 +1,15 @@
 {
   "entities": [
     {
-      "name": "death",
-      "type": "EVENT",
-      "metadata": {},
-      "salience": 0.6929553,
-      "mentions": [
-        {
-          "text": {
-            "content": "death",
-            "beginOffset": 1465
-          },
-          "type": "COMMON"
-        },
-        {
-          "text": {
-            "content": "death",
-            "beginOffset": 1482
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "girls",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.11876646,
+      "salience": 0.48842955,
       "mentions": [
         {
           "text": {
             "content": "girls",
-            "beginOffset": 570
+            "beginOffset": 368
           },
           "type": "COMMON"
         },
@@ -39,6 +17,13 @@
           "text": {
             "content": "girls",
             "beginOffset": 1223
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "girls",
+            "beginOffset": 1146
           },
           "type": "COMMON"
         },
@@ -73,10 +58,91 @@
       ]
     },
     {
+      "name": "death",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.23196444,
+      "mentions": [
+        {
+          "text": {
+            "content": "death",
+            "beginOffset": 443
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "death",
+            "beginOffset": 460
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "death",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.09562518,
+      "mentions": [
+        {
+          "text": {
+            "content": "death",
+            "beginOffset": 1465
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "death",
+            "beginOffset": 1482
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "girls",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.01655744,
+      "mentions": [
+        {
+          "text": {
+            "content": "girls",
+            "beginOffset": 570
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Guess",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01590443,
+      "mentions": [
+        {
+          "text": {
+            "content": "Guess",
+            "beginOffset": 220
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": 248
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "birds",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.038553286,
+      "salience": 0.013665881,
       "mentions": [
         {
           "text": {
@@ -91,7 +157,7 @@
       "name": "sun",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.011405167,
+      "salience": 0.011910504,
       "mentions": [
         {
           "text": {
@@ -103,10 +169,25 @@
       ]
     },
     {
+      "name": "roads",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.010822368,
+      "mentions": [
+        {
+          "text": {
+            "content": "roads",
+            "beginOffset": 267
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "car",
       "type": "CONSUMER_GOOD",
       "metadata": {},
-      "salience": 0.009690192,
+      "salience": 0.009747156,
       "mentions": [
         {
           "text": {
@@ -118,40 +199,10 @@
       ]
     },
     {
-      "name": "hunnies",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.009690192,
-      "mentions": [
-        {
-          "text": {
-            "content": "hunnies",
-            "beginOffset": 68
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "name",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.009690192,
-      "mentions": [
-        {
-          "text": {
-            "content": "name",
-            "beginOffset": 177
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "money",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.009690192,
+      "salience": 0.009747156,
       "mentions": [
         {
           "text": {
@@ -163,15 +214,30 @@
       ]
     },
     {
-      "name": "girls",
-      "type": "PERSON",
+      "name": "name",
+      "type": "OTHER",
       "metadata": {},
-      "salience": 0.008941478,
+      "salience": 0.009747156,
       "mentions": [
         {
           "text": {
-            "content": "girls",
-            "beginOffset": 368
+            "content": "name",
+            "beginOffset": 177
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hunnies",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009747156,
+      "mentions": [
+        {
+          "text": {
+            "content": "hunnies",
+            "beginOffset": 68
           },
           "type": "COMMON"
         }
@@ -181,7 +247,7 @@
       "name": "girls",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.007041639,
+      "salience": 0.009457297,
       "mentions": [
         {
           "text": {
@@ -196,21 +262,21 @@
       "name": "Boy meets girl",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0057201292,
+      "salience": 0.009142433,
       "mentions": [
-        {
-          "text": {
-            "content": "Boy meets girl",
-            "beginOffset": 790
-          },
-          "type": "PROPER"
-        },
         {
           "text": {
             "content": "life",
             "beginOffset": 783
           },
           "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Boy meets girl",
+            "beginOffset": 790
+          },
+          "type": "PROPER"
         }
       ]
     },
@@ -218,7 +284,7 @@
       "name": "girls",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.005542918,
+      "salience": 0.0054370896,
       "mentions": [
         {
           "text": {
@@ -233,7 +299,22 @@
       "name": "girls",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0047046994,
+      "salience": 0.0053689675,
+      "mentions": [
+        {
+          "text": {
+            "content": "girls",
+            "beginOffset": 1021
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "girls",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00479281,
       "mentions": [
         {
           "text": {
@@ -248,7 +329,7 @@
       "name": "death",
       "type": "EVENT",
       "metadata": {},
-      "salience": 0.004654175,
+      "salience": 0.0047413423,
       "mentions": [
         {
           "text": {
@@ -267,70 +348,10 @@
       ]
     },
     {
-      "name": "death",
-      "type": "EVENT",
-      "metadata": {},
-      "salience": 0.0045286706,
-      "mentions": [
-        {
-          "text": {
-            "content": "death",
-            "beginOffset": 443
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "girls",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.004361598,
-      "mentions": [
-        {
-          "text": {
-            "content": "girls",
-            "beginOffset": 1021
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "roads",
-      "type": "LOCATION",
-      "metadata": {},
-      "salience": 0.0042500887,
-      "mentions": [
-        {
-          "text": {
-            "content": "roads",
-            "beginOffset": 267
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "death",
-      "type": "EVENT",
-      "metadata": {},
-      "salience": 0.00374729,
-      "mentions": [
-        {
-          "text": {
-            "content": "death",
-            "beginOffset": 460
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "matter",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.00374729,
+      "salience": 0.0038174847,
       "mentions": [
         {
           "text": {
@@ -345,7 +366,7 @@
       "name": "matter",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.00374729,
+      "salience": 0.0038174847,
       "mentions": [
         {
           "text": {
@@ -357,25 +378,10 @@
       ]
     },
     {
-      "name": "Start",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.0032642356,
-      "mentions": [
-        {
-          "text": {
-            "content": "Start",
-            "beginOffset": 694
-          },
-          "type": "PROPER"
-        }
-      ]
-    },
-    {
       "name": "mess",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0032384428,
+      "salience": 0.00365006,
       "mentions": [
         {
           "text": {
@@ -387,40 +393,10 @@
       ]
     },
     {
-      "name": "way",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0032375497,
-      "mentions": [
-        {
-          "text": {
-            "content": "way",
-            "beginOffset": 248
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "Guess",
-      "type": "ORGANIZATION",
-      "metadata": {},
-      "salience": 0.0032232385,
-      "mentions": [
-        {
-          "text": {
-            "content": "Guess",
-            "beginOffset": 220
-          },
-          "type": "PROPER"
-        }
-      ]
-    },
-    {
       "name": "everything",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0031968865,
+      "salience": 0.003096165,
       "mentions": [
         {
           "text": {
@@ -435,7 +411,7 @@
       "name": "roads",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.0026293322,
+      "salience": 0.002644862,
       "mentions": [
         {
           "text": {
@@ -447,40 +423,10 @@
       ]
     },
     {
-      "name": "lights",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0025141314,
-      "mentions": [
-        {
-          "text": {
-            "content": "lights",
-            "beginOffset": 653
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "love",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0025141314,
-      "mentions": [
-        {
-          "text": {
-            "content": "love",
-            "beginOffset": 831
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "wife",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0025141314,
+      "salience": 0.0025289652,
       "mentions": [
         {
           "text": {
@@ -492,10 +438,25 @@
       ]
     },
     {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0025289652,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 831
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "lies",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0025141314,
+      "salience": 0.0025289652,
       "mentions": [
         {
           "text": {
@@ -510,7 +471,7 @@
       "name": "words",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0025141314,
+      "salience": 0.0025289652,
       "mentions": [
         {
           "text": {
@@ -522,10 +483,25 @@
       ]
     },
     {
+      "name": "lights",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0025289652,
+      "mentions": [
+        {
+          "text": {
+            "content": "lights",
+            "beginOffset": 653
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "mess",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.002002598,
+      "salience": 0.0022573844,
       "mentions": [
         {
           "text": {
@@ -537,17 +513,17 @@
       ]
     },
     {
-      "name": "girls",
-      "type": "PERSON",
+      "name": "Start",
+      "type": "ORGANIZATION",
       "metadata": {},
-      "salience": 0.0009471101,
+      "salience": 0.0008911853,
       "mentions": [
         {
           "text": {
-            "content": "girls",
-            "beginOffset": 1146
+            "content": "Start",
+            "beginOffset": 694
           },
-          "type": "COMMON"
+          "type": "PROPER"
         }
       ]
     },
@@ -555,7 +531,7 @@
       "name": "matter",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.000855562,
+      "salience": 0.000860428,
       "mentions": [
         {
           "text": {
@@ -570,7 +546,7 @@
       "name": "matter",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.000855562,
+      "salience": 0.000860428,
       "mentions": [
         {
           "text": {
@@ -582,25 +558,10 @@
       ]
     },
     {
-      "name": "wild",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0007548786,
-      "mentions": [
-        {
-          "text": {
-            "content": "wild",
-            "beginOffset": 1141
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "mess",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.00071148074,
+      "salience": 0.00080197287,
       "mentions": [
         {
           "text": {
@@ -612,10 +573,25 @@
       ]
     },
     {
+      "name": "wild",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00075914944,
+      "mentions": [
+        {
+          "text": {
+            "content": "wild",
+            "beginOffset": 1141
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "matter",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.00054209307,
+      "salience": 0.00054511556,
       "mentions": [
         {
           "text": {
@@ -630,7 +606,7 @@
       "name": "matter",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.00054209307,
+      "salience": 0.00054511556,
       "mentions": [
         {
           "text": {

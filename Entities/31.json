@@ -4,7 +4,7 @@
       "name": "end",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.22075349,
+      "salience": 0.2009211,
       "mentions": [
         {
           "text": {
@@ -19,7 +19,7 @@
       "name": "highway",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.1463966,
+      "salience": 0.12975606,
       "mentions": [
         {
           "text": {
@@ -31,10 +31,25 @@
       ]
     },
     {
+      "name": "End",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.057304054,
+      "mentions": [
+        {
+          "text": {
+            "content": "End",
+            "beginOffset": 295
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "journey",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.05923307,
+      "salience": 0.052220725,
       "mentions": [
         {
           "text": {
@@ -49,7 +64,7 @@
       "name": "Some",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.050872706,
+      "salience": 0.045943737,
       "mentions": [
         {
           "text": {
@@ -64,7 +79,7 @@
       "name": "Some",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.050872706,
+      "salience": 0.045943737,
       "mentions": [
         {
           "text": {
@@ -79,7 +94,7 @@
       "name": "Some",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.05025191,
+      "salience": 0.045943737,
       "mentions": [
         {
           "text": {
@@ -94,22 +109,7 @@
       "name": "delight",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.045684136,
-      "mentions": [
-        {
-          "text": {
-            "content": "delight",
-            "beginOffset": 248
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "delight",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.045684136,
+      "salience": 0.041247353,
       "mentions": [
         {
           "text": {
@@ -124,7 +124,7 @@
       "name": "realms",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.04512478,
+      "salience": 0.041247353,
       "mentions": [
         {
           "text": {
@@ -136,10 +136,25 @@
       ]
     },
     {
-      "name": "Realms",
-      "type": "EVENT",
+      "name": "delight",
+      "type": "OTHER",
       "metadata": {},
-      "salience": 0.04512478,
+      "salience": 0.041247353,
+      "mentions": [
+        {
+          "text": {
+            "content": "delight",
+            "beginOffset": 248
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Realms",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.041247353,
       "mentions": [
         {
           "text": {
@@ -151,10 +166,25 @@
       ]
     },
     {
+      "name": "End",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.039634164,
+      "mentions": [
+        {
+          "text": {
+            "content": "End",
+            "beginOffset": 507
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "light",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.038298275,
+      "salience": 0.034997266,
       "mentions": [
         {
           "text": {
@@ -169,7 +199,7 @@
       "name": "bliss",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.038298275,
+      "salience": 0.034997266,
       "mentions": [
         {
           "text": {
@@ -184,7 +214,7 @@
       "name": "Some",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.035129633,
+      "salience": 0.031701032,
       "mentions": [
         {
           "text": {
@@ -199,7 +229,7 @@
       "name": "delight",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.031513505,
+      "salience": 0.028432503,
       "mentions": [
         {
           "text": {
@@ -214,7 +244,7 @@
       "name": "Some",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.015597388,
+      "salience": 0.014059961,
       "mentions": [
         {
           "text": {
@@ -229,7 +259,7 @@
       "name": "Some",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.015597388,
+      "salience": 0.014059961,
       "mentions": [
         {
           "text": {
@@ -242,9 +272,9 @@
     },
     {
       "name": "Realms",
-      "type": "EVENT",
+      "type": "WORK_OF_ART",
       "metadata": {},
-      "salience": 0.013973592,
+      "salience": 0.012594942,
       "mentions": [
         {
           "text": {
@@ -259,7 +289,7 @@
       "name": "realms",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.013973592,
+      "salience": 0.012594942,
       "mentions": [
         {
           "text": {
@@ -274,7 +304,7 @@
       "name": "delight",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.013973592,
+      "salience": 0.012594942,
       "mentions": [
         {
           "text": {
@@ -289,7 +319,7 @@
       "name": "bliss",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.011823222,
+      "salience": 0.010655232,
       "mentions": [
         {
           "text": {
@@ -304,7 +334,7 @@
       "name": "light",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.011823222,
+      "salience": 0.010655232,
       "mentions": [
         {
           "text": {

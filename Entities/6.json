@@ -4,7 +4,7 @@
       "name": "way",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.21785931,
+      "salience": 0.24776857,
       "mentions": [
         {
           "text": {
@@ -19,7 +19,7 @@
       "name": "man",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.13707359,
+      "salience": 0.14769095,
       "mentions": [
         {
           "text": {
@@ -34,7 +34,7 @@
       "name": "hands",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.061446678,
+      "salience": 0.066052005,
       "mentions": [
         {
           "text": {
@@ -49,7 +49,7 @@
       "name": "pockets",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.061446678,
+      "salience": 0.066052005,
       "mentions": [
         {
           "text": {
@@ -61,17 +61,59 @@
       ]
     },
     {
-      "name": "things",
-      "type": "OTHER",
+      "name": "offI",
+      "type": "PERSON",
       "metadata": {},
-      "salience": 0.042849734,
+      "salience": 0.06275826,
       "mentions": [
         {
           "text": {
-            "content": "things",
-            "beginOffset": 571
+            "content": "offI",
+            "beginOffset": 233
           },
-          "type": "COMMON"
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "offI",
+            "beginOffset": 272
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "offI",
+            "beginOffset": 450
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "offI",
+            "beginOffset": 468
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "offI",
+            "beginOffset": 806
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "offI",
+            "beginOffset": 845
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "offI",
+            "beginOffset": 884
+          },
+          "type": "PROPER"
         }
       ]
     },
@@ -79,7 +121,7 @@
       "name": "promise",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.042560626,
+      "salience": 0.05203909,
       "mentions": [
         {
           "text": {
@@ -91,15 +133,15 @@
       ]
     },
     {
-      "name": "offI",
-      "type": "PERSON",
+      "name": "things",
+      "type": "OTHER",
       "metadata": {},
-      "salience": 0.030181073,
+      "salience": 0.04567759,
       "mentions": [
         {
           "text": {
-            "content": "offI",
-            "beginOffset": 233
+            "content": "things",
+            "beginOffset": 571
           },
           "type": "COMMON"
         }
@@ -109,7 +151,7 @@
       "name": "time",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.028151982,
+      "salience": 0.030014027,
       "mentions": [
         {
           "text": {
@@ -124,7 +166,7 @@
       "name": "Intentions",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.026273403,
+      "salience": 0.02897528,
       "mentions": [
         {
           "text": {
@@ -139,7 +181,7 @@
       "name": "mind",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.025621342,
+      "salience": 0.027211362,
       "mentions": [
         {
           "text": {
@@ -151,55 +193,10 @@
       ]
     },
     {
-      "name": "offI",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.024999028,
-      "mentions": [
-        {
-          "text": {
-            "content": "offI",
-            "beginOffset": 272
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "Beginning",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.023759823,
-      "mentions": [
-        {
-          "text": {
-            "content": "Beginning",
-            "beginOffset": 150
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "offI",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.020440971,
-      "mentions": [
-        {
-          "text": {
-            "content": "offI",
-            "beginOffset": 450
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "heart",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.019182937,
+      "salience": 0.02089359,
       "mentions": [
         {
           "text": {
@@ -211,25 +208,10 @@
       ]
     },
     {
-      "name": "thinkIs",
-      "type": "CONSUMER_GOOD",
-      "metadata": {},
-      "salience": 0.018045342,
-      "mentions": [
-        {
-          "text": {
-            "content": "thinkIs",
-            "beginOffset": 644
-          },
-          "type": "PROPER"
-        }
-      ]
-    },
-    {
       "name": "thinkI",
       "type": "ORGANIZATION",
       "metadata": {},
-      "salience": 0.016118651,
+      "salience": 0.017336568,
       "mentions": [
         {
           "text": {
@@ -244,7 +226,7 @@
       "name": "number",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.016079754,
+      "salience": 0.017294735,
       "mentions": [
         {
           "text": {
@@ -259,7 +241,7 @@
       "name": "wall",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.016079754,
+      "salience": 0.017294735,
       "mentions": [
         {
           "text": {
@@ -274,7 +256,7 @@
       "name": "best",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.015192195,
+      "salience": 0.016403524,
       "mentions": [
         {
           "text": {
@@ -286,10 +268,25 @@
       ]
     },
     {
+      "name": "eyes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015634606,
+      "mentions": [
+        {
+          "text": {
+            "content": "eyes",
+            "beginOffset": 513
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "ears",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.014720778,
+      "salience": 0.015634606,
       "mentions": [
         {
           "text": {
@@ -304,7 +301,7 @@
       "name": "stoneI",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.01411136,
+      "salience": 0.015177671,
       "mentions": [
         {
           "text": {
@@ -316,30 +313,15 @@
       ]
     },
     {
-      "name": "eyes",
-      "type": "OTHER",
+      "name": "Beginning",
+      "type": "EVENT",
       "metadata": {},
-      "salience": 0.013140103,
+      "salience": 0.015177671,
       "mentions": [
         {
           "text": {
-            "content": "eyes",
-            "beginOffset": 513
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "offI",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.012288456,
-      "mentions": [
-        {
-          "text": {
-            "content": "offI",
-            "beginOffset": 468
+            "content": "Beginning",
+            "beginOffset": 150
           },
           "type": "PROPER"
         }
@@ -349,7 +331,7 @@
       "name": "callI",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.011676617,
+      "salience": 0.013209722,
       "mentions": [
         {
           "text": {
@@ -364,7 +346,7 @@
       "name": "excuse",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.01073576,
+      "salience": 0.012774995,
       "mentions": [
         {
           "text": {
@@ -379,7 +361,7 @@
       "name": "back",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.01073576,
+      "salience": 0.012774995,
       "mentions": [
         {
           "text": {
@@ -394,7 +376,7 @@
       "name": "saidI",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.010161458,
+      "salience": 0.010929182,
       "mentions": [
         {
           "text": {
@@ -406,70 +388,10 @@
       ]
     },
     {
-      "name": "offI",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.0097087305,
-      "mentions": [
-        {
-          "text": {
-            "content": "offI",
-            "beginOffset": 806
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "offI",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.0097087305,
-      "mentions": [
-        {
-          "text": {
-            "content": "offI",
-            "beginOffset": 845
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "offI",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.0097087305,
-      "mentions": [
-        {
-          "text": {
-            "content": "offI",
-            "beginOffset": 884
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "forgetI",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.009419294,
-      "mentions": [
-        {
-          "text": {
-            "content": "forgetI",
-            "beginOffset": 304
-          },
-          "type": "PROPER"
-        }
-      ]
-    },
-    {
       "name": "offMy",
-      "type": "CONSUMER_GOOD",
+      "type": "LOCATION",
       "metadata": {},
-      "salience": 0.008731164,
+      "salience": 0.009390704,
       "mentions": [
         {
           "text": {
@@ -484,7 +406,7 @@
       "name": "I fallI",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0065269377,
+      "salience": 0.0070197186,
       "mentions": [
         {
           "text": {
@@ -499,12 +421,27 @@
       "name": "tallI",
       "type": "ORGANIZATION",
       "metadata": {},
-      "salience": 0.0052632373,
+      "salience": 0.005732549,
       "mentions": [
         {
           "text": {
             "content": "tallI",
             "beginOffset": 766
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "thinkIs",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.0030812907,
+      "mentions": [
+        {
+          "text": {
+            "content": "thinkIs",
+            "beginOffset": 644
           },
           "type": "PROPER"
         }

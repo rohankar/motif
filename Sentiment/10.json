@@ -1,28 +1,28 @@
 {
   "documentSentiment": {
-    "magnitude": 1.4,
+    "magnitude": 1.5,
     "score": -0.7
   },
   "language": "en",
   "sentences": [
     {
       "text": {
-        "content": "[Bruno Mars]  \rWhen you want to do something that's new  \rAnd it seems really, really hard to do  \rYou feel like quitting, you feel you're through  \rWell I have some advice for you  \r  \rDon't give up  \rKeep on trying  \rYou're gonna make it  \rI ain't lying  \rDon't give up, don't ever quit  \rTry and try and you can do it  \rDon't give up, yeah  \r  \rIf you want to catch a ball  \rBut you're having no luck at all  \rThe ball hits your head, it hits your nose  \rIt hits your belly, your chin and toes  \rWell, try and try and try again  \rKeep on trying until the end  \rYou put your hands out in the air  \rYou'll catch the ball  \rYes this I swear  \r  \rDon't give up,  \rKeep on going  \rYou're on a boat,  \rSo keep on rowing  \rDon't give up, don't ever stop  \rTry and try and you'll come out on top  \rDon't give up  \r  \rYou got yourself rollerskates  \rYou put them on  \rAnd you feel great  \rYou stand up  \rThen you fall, don't think you can skate at all  \rYou get back up, then you trip,  \rYou skip and tip and slip, and flip  \rYou try and try and try some more  \rSoon you're skating across the floor  \r  \rDon't give up,",
+        "content": "When you want to do something that's new  \rAnd it seems really, really hard to do  \rYou feel like quitting, you feel you're through  \rWell I have some advice for you  \r  \rDon't give up  \rKeep on trying  \rYou're gonna make it  \rI ain't lying  \rDon't give up, don't ever quit  \rTry and try and you can do it  \rDon't give up, yeah  \r  \rIf you want to catch a ball  \rBut you're having no luck at all  \rThe ball hits your head, it hits your nose  \rIt hits your belly, your chin and toes  \rWell, try and try and try again  \rKeep on trying until the end  \rYou put your hands out in the air  \rYou'll catch the ball  \rYes this I swear  \r  \rDon't give up,  \rKeep on going  \rYou're on a boat,  \rSo keep on rowing  \rDon't give up, don't ever stop  \rTry and try and you'll come out on top  \rDon't give up  \r  \rYou got yourself rollerskates  \rYou put them on  \rAnd you feel great  \rYou stand up  \rThen you fall, don't think you can skate at all  \rYou get back up, then you trip,  \rYou skip and tip and slip, and flip  \rYou try and try and try some more  \rSoon you're skating across the floor  \r  \rDon't give up, keep on moving,",
         "beginOffset": 0
       },
       "sentiment": {
-        "magnitude": 0.6,
-        "score": -0.6
+        "magnitude": 0.7,
+        "score": -0.7
       }
     },
     {
       "text": {
-        "content": "keep on moving,  \rYou're gonna get there, just keep on grooving  \rDon't give up, don't pack it in  \rTry and try, and you'll win  \rDon't give up, no no no  \rDon't give up, no no no  \rDon't give up, no no no  \rDon't give up, no no  \rDon't give up!",
-        "beginOffset": 1113
+        "content": "You're gonna get there, just keep on grooving  \rDon't give up, don't pack it in  \rTry and try, and you'll win  \rDon't give up, no no no  \rDon't give up, no no no  \rDon't give up, no no no  \rDon't give up, no no  \rDon't give up!",
+        "beginOffset": 1116
       },
       "sentiment": {
-        "magnitude": 0.8,
-        "score": -0.8
+        "magnitude": 0.7,
+        "score": -0.7
       }
     }
   ]

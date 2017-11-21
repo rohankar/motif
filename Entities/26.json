@@ -1,40 +1,10 @@
 {
   "entities": [
     {
-      "name": "river",
-      "type": "LOCATION",
-      "metadata": {},
-      "salience": 0.5181263,
-      "mentions": [
-        {
-          "text": {
-            "content": "river",
-            "beginOffset": 217
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "drink",
-      "type": "CONSUMER_GOOD",
+      "type": "OTHER",
       "metadata": {},
-      "salience": 0.06095854,
-      "mentions": [
-        {
-          "text": {
-            "content": "drink",
-            "beginOffset": 142
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "drink",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.056040246,
+      "salience": 0.12074792,
       "mentions": [
         {
           "text": {
@@ -53,10 +23,25 @@
       ]
     },
     {
+      "name": "drink",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.116138674,
+      "mentions": [
+        {
+          "text": {
+            "content": "drink",
+            "beginOffset": 142
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "angel",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.046878487,
+      "salience": 0.09738375,
       "mentions": [
         {
           "text": {
@@ -71,7 +56,7 @@
       "name": "world",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.034990076,
+      "salience": 0.070052244,
       "mentions": [
         {
           "text": {
@@ -86,7 +71,7 @@
       "name": "drug",
       "type": "CONSUMER_GOOD",
       "metadata": {},
-      "salience": 0.034990076,
+      "salience": 0.070052244,
       "mentions": [
         {
           "text": {
@@ -101,7 +86,7 @@
       "name": "Life",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.023807358,
+      "salience": 0.047670472,
       "mentions": [
         {
           "text": {
@@ -116,7 +101,7 @@
       "name": "Oh",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.022209266,
+      "salience": 0.04336962,
       "mentions": [
         {
           "text": {
@@ -131,7 +116,7 @@
       "name": "symphony",
       "type": "ORGANIZATION",
       "metadata": {},
-      "salience": 0.016926078,
+      "salience": 0.033893727,
       "mentions": [
         {
           "text": {
@@ -143,45 +128,15 @@
       ]
     },
     {
-      "name": "flood",
-      "type": "OTHER",
+      "name": "river",
+      "type": "LOCATION",
       "metadata": {},
-      "salience": 0.013490614,
+      "salience": 0.03222176,
       "mentions": [
         {
           "text": {
-            "content": "flood",
-            "beginOffset": 253
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "drink",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0132921245,
-      "mentions": [
-        {
-          "text": {
-            "content": "drink",
-            "beginOffset": 706
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "angel",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.012280398,
-      "mentions": [
-        {
-          "text": {
-            "content": "angel",
-            "beginOffset": 630
+            "content": "river",
+            "beginOffset": 217
           },
           "type": "COMMON"
         }
@@ -191,7 +146,7 @@
       "name": "wings",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.012169659,
+      "salience": 0.031748332,
       "mentions": [
         {
           "text": {
@@ -203,40 +158,10 @@
       ]
     },
     {
-      "name": "wings",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.012169659,
-      "mentions": [
-        {
-          "text": {
-            "content": "wings",
-            "beginOffset": 390
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "stars",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.0115968585,
-      "mentions": [
-        {
-          "text": {
-            "content": "stars",
-            "beginOffset": 748
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "I",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.011311114,
+      "salience": 0.029512584,
       "mentions": [
         {
           "text": {
@@ -248,10 +173,55 @@
       ]
     },
     {
+      "name": "drink",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.027992848,
+      "mentions": [
+        {
+          "text": {
+            "content": "drink",
+            "beginOffset": 706
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "flood",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.027014693,
+      "mentions": [
+        {
+          "text": {
+            "content": "flood",
+            "beginOffset": 253
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "wings",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.024678681,
+      "mentions": [
+        {
+          "text": {
+            "content": "wings",
+            "beginOffset": 390
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "symphony",
       "type": "ORGANIZATION",
       "metadata": {},
-      "salience": 0.011311114,
+      "salience": 0.022937747,
       "mentions": [
         {
           "text": {
@@ -266,7 +236,7 @@
       "name": "wings",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.011282864,
+      "salience": 0.022593684,
       "mentions": [
         {
           "text": {
@@ -281,7 +251,7 @@
       "name": "wings",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.011282864,
+      "salience": 0.022593684,
       "mentions": [
         {
           "text": {
@@ -293,10 +263,25 @@
       ]
     },
     {
+      "name": "stars",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.022360193,
+      "mentions": [
+        {
+          "text": {
+            "content": "stars",
+            "beginOffset": 748
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "symphony",
       "type": "ORGANIZATION",
       "metadata": {},
-      "salience": 0.010486546,
+      "salience": 0.020999014,
       "mentions": [
         {
           "text": {
@@ -308,15 +293,15 @@
       ]
     },
     {
-      "name": "About",
-      "type": "OTHER",
+      "name": "angel",
+      "type": "PERSON",
       "metadata": {},
-      "salience": 0.009842571,
+      "salience": 0.020872276,
       "mentions": [
         {
           "text": {
-            "content": "About",
-            "beginOffset": 730
+            "content": "angel",
+            "beginOffset": 630
           },
           "type": "COMMON"
         }
@@ -326,7 +311,7 @@
       "name": "Life",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0095418785,
+      "salience": 0.019107236,
       "mentions": [
         {
           "text": {
@@ -341,7 +326,7 @@
       "name": "love",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.00835253,
+      "salience": 0.016725425,
       "mentions": [
         {
           "text": {
@@ -356,7 +341,7 @@
       "name": "blood",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.00835253,
+      "salience": 0.016725425,
       "mentions": [
         {
           "text": {
@@ -371,7 +356,7 @@
       "name": "I",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0037330058,
+      "salience": 0.0074741794,
       "mentions": [
         {
           "text": {
@@ -386,7 +371,7 @@
       "name": "I",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0034464824,
+      "salience": 0.0069003934,
       "mentions": [
         {
           "text": {
@@ -398,10 +383,25 @@
       ]
     },
     {
+      "name": "lalalala",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0059487363,
+      "mentions": [
+        {
+          "text": {
+            "content": "lalalala",
+            "beginOffset": 1036
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "sky",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.0027826848,
+      "salience": 0.005571113,
       "mentions": [
         {
           "text": {
@@ -416,7 +416,7 @@
       "name": "sky",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.0027826848,
+      "salience": 0.005571113,
       "mentions": [
         {
           "text": {
@@ -431,7 +431,7 @@
       "name": "sky",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.0027826848,
+      "salience": 0.005571113,
       "mentions": [
         {
           "text": {
@@ -446,7 +446,7 @@
       "name": "sky",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.0027826848,
+      "salience": 0.005571113,
       "mentions": [
         {
           "text": {

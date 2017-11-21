@@ -1,32 +1,10 @@
 {
   "entities": [
     {
-      "name": "girl",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.22286712,
-      "mentions": [
-        {
-          "text": {
-            "content": "girl",
-            "beginOffset": 224
-          },
-          "type": "COMMON"
-        },
-        {
-          "text": {
-            "content": "girl",
-            "beginOffset": 1081
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "feeling",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.076673776,
+      "salience": 0.09707651,
       "mentions": [
         {
           "text": {
@@ -41,7 +19,7 @@
       "name": "pillow",
       "type": "CONSUMER_GOOD",
       "metadata": {},
-      "salience": 0.06285507,
+      "salience": 0.075746186,
       "mentions": [
         {
           "text": {
@@ -56,7 +34,7 @@
       "name": "moonlight",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.06285507,
+      "salience": 0.075746186,
       "mentions": [
         {
           "text": {
@@ -71,7 +49,7 @@
       "name": "hair",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.06285507,
+      "salience": 0.075746186,
       "mentions": [
         {
           "text": {
@@ -86,7 +64,7 @@
       "name": "hand",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.06285507,
+      "salience": 0.075746186,
       "mentions": [
         {
           "text": {
@@ -98,10 +76,25 @@
       ]
     },
     {
+      "name": "girl",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.044022463,
+      "mentions": [
+        {
+          "text": {
+            "content": "girl",
+            "beginOffset": 224
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "mine",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.030424004,
+      "salience": 0.036671687,
       "mentions": [
         {
           "text": {
@@ -113,25 +106,10 @@
       ]
     },
     {
-      "name": "girl",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.029501243,
-      "mentions": [
-        {
-          "text": {
-            "content": "girl",
-            "beginOffset": 377
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "love",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.02779112,
+      "salience": 0.032666113,
       "mentions": [
         {
           "text": {
@@ -143,15 +121,15 @@
       ]
     },
     {
-      "name": "smile",
-      "type": "OTHER",
+      "name": "girl",
+      "type": "PERSON",
       "metadata": {},
-      "salience": 0.027692892,
+      "salience": 0.029816667,
       "mentions": [
         {
           "text": {
-            "content": "smile",
-            "beginOffset": 265
+            "content": "girl",
+            "beginOffset": 377
           },
           "type": "COMMON"
         }
@@ -161,7 +139,7 @@
       "name": "sleeping lips",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.024251694,
+      "salience": 0.029232336,
       "mentions": [
         {
           "text": {
@@ -173,75 +151,30 @@
       ]
     },
     {
-      "name": "love",
+      "name": "smile",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.019286621,
+      "salience": 0.02594875,
       "mentions": [
         {
           "text": {
-            "content": "love",
-            "beginOffset": 902
+            "content": "smile",
+            "beginOffset": 265
           },
           "type": "COMMON"
         }
       ]
     },
     {
-      "name": "sea",
-      "type": "LOCATION",
+      "name": "girl",
+      "type": "PERSON",
       "metadata": {},
-      "salience": 0.019218277,
+      "salience": 0.024067415,
       "mentions": [
         {
           "text": {
-            "content": "sea",
-            "beginOffset": 324
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "road",
-      "type": "LOCATION",
-      "metadata": {},
-      "salience": 0.018739536,
-      "mentions": [
-        {
-          "text": {
-            "content": "road",
-            "beginOffset": 486
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "life",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.018739536,
-      "mentions": [
-        {
-          "text": {
-            "content": "life",
-            "beginOffset": 472
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "arms",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.018739536,
-      "mentions": [
-        {
-          "text": {
-            "content": "arms",
-            "beginOffset": 421
+            "content": "girl",
+            "beginOffset": 1081
           },
           "type": "COMMON"
         }
@@ -251,7 +184,7 @@
       "name": "Eyes",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.018504633,
+      "salience": 0.023756914,
       "mentions": [
         {
           "text": {
@@ -263,10 +196,40 @@
       ]
     },
     {
+      "name": "life",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022588098,
+      "mentions": [
+        {
+          "text": {
+            "content": "life",
+            "beginOffset": 472
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "road",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.022588098,
+      "mentions": [
+        {
+          "text": {
+            "content": "road",
+            "beginOffset": 486
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "clouds",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.018504633,
+      "salience": 0.022588098,
       "mentions": [
         {
           "text": {
@@ -278,15 +241,30 @@
       ]
     },
     {
-      "name": "girl",
-      "type": "PERSON",
+      "name": "sea",
+      "type": "LOCATION",
       "metadata": {},
-      "salience": 0.016946662,
+      "salience": 0.022588098,
       "mentions": [
         {
           "text": {
-            "content": "girl",
-            "beginOffset": 927
+            "content": "sea",
+            "beginOffset": 324
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "arms",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.022588098,
+      "mentions": [
+        {
+          "text": {
+            "content": "arms",
+            "beginOffset": 421
           },
           "type": "COMMON"
         }
@@ -296,7 +274,22 @@
       "name": "love",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.015367538,
+      "salience": 0.02238428,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 902
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.020752182,
       "mentions": [
         {
           "text": {
@@ -308,10 +301,25 @@
       ]
     },
     {
+      "name": "girl",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.020426912,
+      "mentions": [
+        {
+          "text": {
+            "content": "girl",
+            "beginOffset": 927
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "things",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.015017711,
+      "salience": 0.018101657,
       "mentions": [
         {
           "text": {
@@ -323,25 +331,10 @@
       ]
     },
     {
-      "name": "sea",
-      "type": "LOCATION",
-      "metadata": {},
-      "salience": 0.01332661,
-      "mentions": [
-        {
-          "text": {
-            "content": "sea",
-            "beginOffset": 874
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "girl",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.013164234,
+      "salience": 0.01648038,
       "mentions": [
         {
           "text": {
@@ -356,7 +349,7 @@
       "name": "Eyes",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.012830896,
+      "salience": 0.016267346,
       "mentions": [
         {
           "text": {
@@ -371,7 +364,7 @@
       "name": "clouds",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.012830896,
+      "salience": 0.01546552,
       "mentions": [
         {
           "text": {
@@ -383,10 +376,25 @@
       ]
     },
     {
+      "name": "sea",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.01546552,
+      "mentions": [
+        {
+          "text": {
+            "content": "sea",
+            "beginOffset": 874
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "light",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.009964328,
+      "salience": 0.011858971,
       "mentions": [
         {
           "text": {
@@ -401,7 +409,7 @@
       "name": "mine",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.009774564,
+      "salience": 0.011781178,
       "mentions": [
         {
           "text": {
@@ -416,7 +424,7 @@
       "name": "arms",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.008892123,
+      "salience": 0.010717417,
       "mentions": [
         {
           "text": {
@@ -431,7 +439,7 @@
       "name": "road",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.008892123,
+      "salience": 0.010717417,
       "mentions": [
         {
           "text": {
@@ -446,7 +454,7 @@
       "name": "life",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.008892123,
+      "salience": 0.010717417,
       "mentions": [
         {
           "text": {
@@ -458,25 +466,10 @@
       ]
     },
     {
-      "name": "girl",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.0074512446,
-      "mentions": [
-        {
-          "text": {
-            "content": "girl",
-            "beginOffset": 774
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "love",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0072881705,
+      "salience": 0.009843845,
       "mentions": [
         {
           "text": {
@@ -488,10 +481,25 @@
       ]
     },
     {
+      "name": "girl",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0089804875,
+      "mentions": [
+        {
+          "text": {
+            "content": "girl",
+            "beginOffset": 774
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "light",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0069036903,
+      "salience": 0.008112377,
       "mentions": [
         {
           "text": {
@@ -506,7 +514,7 @@
       "name": "mine",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0061977445,
+      "salience": 0.00746946,
       "mentions": [
         {
           "text": {
@@ -521,7 +529,7 @@
       "name": "smile",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0039044414,
+      "salience": 0.005273552,
       "mentions": [
         {
           "text": {

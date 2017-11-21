@@ -4,12 +4,69 @@
       "name": "name",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.29200223,
+      "salience": 0.25335872,
       "mentions": [
         {
           "text": {
             "content": "name",
-            "beginOffset": 149
+            "beginOffset": 117
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "name",
+            "beginOffset": 172
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "name",
+            "beginOffset": 414
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "name",
+            "beginOffset": 606
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "name",
+            "beginOffset": 661
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "name",
+            "beginOffset": 719
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "name",
+            "beginOffset": 774
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "name",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.22217102,
+      "mentions": [
+        {
+          "text": {
+            "content": "name",
+            "beginOffset": 20
           },
           "type": "COMMON"
         },
@@ -38,13 +95,6 @@
           "text": {
             "content": "name",
             "beginOffset": 446
-          },
-          "type": "COMMON"
-        },
-        {
-          "text": {
-            "content": "name",
-            "beginOffset": 606
           },
           "type": "COMMON"
         },
@@ -82,7 +132,7 @@
       "name": "man",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.1809744,
+      "salience": 0.14996523,
       "mentions": [
         {
           "text": {
@@ -104,7 +154,7 @@
       "name": "man",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.124623224,
+      "salience": 0.11788521,
       "mentions": [
         {
           "text": {
@@ -123,98 +173,10 @@
       ]
     },
     {
-      "name": "name",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.10610887,
-      "mentions": [
-        {
-          "text": {
-            "content": "name",
-            "beginOffset": 172
-          },
-          "type": "COMMON"
-        },
-        {
-          "text": {
-            "content": "name",
-            "beginOffset": 414
-          },
-          "type": "COMMON"
-        },
-        {
-          "text": {
-            "content": "name",
-            "beginOffset": 661
-          },
-          "type": "COMMON"
-        },
-        {
-          "text": {
-            "content": "name",
-            "beginOffset": 719
-          },
-          "type": "COMMON"
-        },
-        {
-          "text": {
-            "content": "name",
-            "beginOffset": 774
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "man",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.04042993,
-      "mentions": [
-        {
-          "text": {
-            "content": "man",
-            "beginOffset": 61
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "name",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.036711127,
-      "mentions": [
-        {
-          "text": {
-            "content": "name",
-            "beginOffset": 20
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "love",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.036711127,
-      "mentions": [
-        {
-          "text": {
-            "content": "love",
-            "beginOffset": 28
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "man",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.02947603,
+      "salience": 0.037307218,
       "mentions": [
         {
           "text": {
@@ -226,15 +188,15 @@
       ]
     },
     {
-      "name": "love",
-      "type": "OTHER",
+      "name": "man",
+      "type": "PERSON",
       "metadata": {},
-      "salience": 0.014394288,
+      "salience": 0.037307218,
       "mentions": [
         {
           "text": {
-            "content": "love",
-            "beginOffset": 157
+            "content": "man",
+            "beginOffset": 61
           },
           "type": "COMMON"
         }
@@ -244,7 +206,22 @@
       "name": "love",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.014394288,
+      "salience": 0.03512888,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 28
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013785719,
       "mentions": [
         {
           "text": {
@@ -259,12 +236,27 @@
       "name": "name",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.014394288,
+      "salience": 0.013785719,
       "mentions": [
         {
           "text": {
             "content": "name",
-            "beginOffset": 117
+            "beginOffset": 149
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.013785719,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 157
           },
           "type": "COMMON"
         }
@@ -274,7 +266,7 @@
       "name": "more",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.011493481,
+      "salience": 0.0110084545,
       "mentions": [
         {
           "text": {
@@ -289,7 +281,7 @@
       "name": "Shot rings",
       "type": "CONSUMER_GOOD",
       "metadata": {},
-      "salience": 0.010880942,
+      "salience": 0.01067286,
       "mentions": [
         {
           "text": {
@@ -304,7 +296,7 @@
       "name": "love",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.006899604,
+      "salience": 0.006609006,
       "mentions": [
         {
           "text": {
@@ -319,7 +311,7 @@
       "name": "more",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.005498943,
+      "salience": 0.005267369,
       "mentions": [
         {
           "text": {
@@ -334,37 +326,7 @@
       "name": "love",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0046451217,
-      "mentions": [
-        {
-          "text": {
-            "content": "love",
-            "beginOffset": 399
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "love",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0046451217,
-      "mentions": [
-        {
-          "text": {
-            "content": "love",
-            "beginOffset": 367
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "love",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.004610415,
+      "salience": 0.004472298,
       "mentions": [
         {
           "text": {
@@ -379,12 +341,12 @@
       "name": "love",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.004237046,
+      "salience": 0.0044494816,
       "mentions": [
         {
           "text": {
             "content": "love",
-            "beginOffset": 454
+            "beginOffset": 399
           },
           "type": "COMMON"
         }
@@ -394,7 +356,22 @@
       "name": "love",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.004237046,
+      "salience": 0.0044494816,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 367
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0040585706,
       "mentions": [
         {
           "text": {
@@ -406,10 +383,40 @@
       ]
     },
     {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0040585706,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 454
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "man",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.003544172,
+      "mentions": [
+        {
+          "text": {
+            "content": "man",
+            "beginOffset": 322
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "more",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0037000699,
+      "salience": 0.003544172,
       "mentions": [
         {
           "text": {
@@ -424,22 +431,7 @@
       "name": "man",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0037000699,
-      "mentions": [
-        {
-          "text": {
-            "content": "man",
-            "beginOffset": 322
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "man",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.0036536353,
+      "salience": 0.003544172,
       "mentions": [
         {
           "text": {
@@ -454,7 +446,7 @@
       "name": "more",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0033746767,
+      "salience": 0.0032324574,
       "mentions": [
         {
           "text": {
@@ -469,7 +461,7 @@
       "name": "love",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0031600227,
+      "salience": 0.0030268258,
       "mentions": [
         {
           "text": {
@@ -484,22 +476,7 @@
       "name": "love",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0031527504,
-      "mentions": [
-        {
-          "text": {
-            "content": "love",
-            "beginOffset": 701
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "love",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0031527504,
+      "salience": 0.0030198593,
       "mentions": [
         {
           "text": {
@@ -511,10 +488,25 @@
       ]
     },
     {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0030198593,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 701
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "more",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0025103954,
+      "salience": 0.0024045021,
       "mentions": [
         {
           "text": {
@@ -529,7 +521,7 @@
       "name": "beach",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.002256978,
+      "salience": 0.0021617368,
       "mentions": [
         {
           "text": {
@@ -541,25 +533,10 @@
       ]
     },
     {
-      "name": "kiss",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.002256978,
-      "mentions": [
-        {
-          "text": {
-            "content": "kiss",
-            "beginOffset": 342
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "fence",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0022286049,
+      "salience": 0.0021617368,
       "mentions": [
         {
           "text": {
@@ -571,10 +548,25 @@
       ]
     },
     {
+      "name": "kiss",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0021617368,
+      "mentions": [
+        {
+          "text": {
+            "content": "kiss",
+            "beginOffset": 342
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "love",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0021806476,
+      "salience": 0.002088615,
       "mentions": [
         {
           "text": {
@@ -589,7 +581,7 @@
       "name": "love",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0021806476,
+      "salience": 0.002088615,
       "mentions": [
         {
           "text": {
@@ -604,22 +596,7 @@
       "name": "love",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0021769668,
-      "mentions": [
-        {
-          "text": {
-            "content": "love",
-            "beginOffset": 814
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "love",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0021769668,
+      "salience": 0.0020850888,
       "mentions": [
         {
           "text": {
@@ -631,10 +608,25 @@
       ]
     },
     {
+      "name": "love",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0020850888,
+      "mentions": [
+        {
+          "text": {
+            "content": "love",
+            "beginOffset": 814
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "sky",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.0020523735,
+      "salience": 0.0019657335,
       "mentions": [
         {
           "text": {
@@ -649,7 +641,7 @@
       "name": "more",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0017359357,
+      "salience": 0.0016626016,
       "mentions": [
         {
           "text": {
@@ -664,7 +656,7 @@
       "name": "more",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0017330039,
+      "salience": 0.001659793,
       "mentions": [
         {
           "text": {
@@ -679,7 +671,7 @@
       "name": "love",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0013884323,
+      "salience": 0.0013297175,
       "mentions": [
         {
           "text": {
@@ -697,7 +689,7 @@
         "mid": "/m/0c_m3",
         "wikipedia_url": "https://en.wikipedia.org/wiki/Memphis,_Tennessee"
       },
-      "salience": 0.0012158727,
+      "salience": 0.0011644216,
       "mentions": [
         {
           "text": {
@@ -712,7 +704,7 @@
       "name": "more",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0011050649,
+      "salience": 0.00105828,
       "mentions": [
         {
           "text": {
@@ -727,7 +719,7 @@
       "name": "pride",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.00080395536,
+      "salience": 0.00075058825,
       "mentions": [
         {
           "text": {
@@ -742,7 +734,7 @@
       "name": "life",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.00073570444,
+      "salience": 0.0007134769,
       "mentions": [
         {
           "text": {

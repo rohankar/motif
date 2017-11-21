@@ -1,7 +1,69 @@
 {
-  "error": {
-    "code": 400,
-    "message": "Invalid JSON payload received. Expected , or } after key:value pair.\ne on their face,  \r\"Hey Dad, my friend's\n                    ^",
-    "status": "INVALID_ARGUMENT"
-  }
+  "documentSentiment": {
+    "magnitude": 1.7,
+    "score": 0.1
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "When I was younger  \rI used to go and tip cows for fun, yeah  \rActually I didn't do that  \rCause I didn't want the cow to be sad  \rBut some of my friends did  \rThey were all just a little bit wicked  \rThey'd blow up mail boxes  \rWith a baseball bat  \rGo for direct hits  \r  \rI know how to win you can forget it  \rThey throw rotten eggs into traffic  \rToilet paper the fences  \rThrow the tables, chairs, and the benches  \rAfter practice  \rSometimes we would break into mad fits  \rCausin' damage  \r\rEverybody get dangerous  \rEverybody get dangerous (Boo yah!)",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Everybody get dangerous  \rEverybody get dangerous (Boo yah!)",
+        "beginOffset": 560
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Everybody get dangerous  \rEverybody get dangerous (Boo yah!)",
+        "beginOffset": 623
+      },
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      }
+    },
+    {
+      "text": {
+        "content": "Everybody get dangerous  \rEverybody get dangerous  \r  \rI've got a confession  \rThat I will make if you will listen  \rLate in the nighttimes  \rWe'd drive around with hairspray and sharp knives  \rLookin' for road kills  \rLightin' things on fire for cheap thrills  \rStab the corpses  \rAnd lick the knives like we're evil forces  \r  \rHockey games on frozen ponds  \rNo safety pads were ever put on  \rDrivin' home on country roads  \rSixty-five in a twenty-five zone  \rIn my parents Tercel  \rHow did we survive so well  \rThrow the keys and the wheel locked up  \rI almost killed every one us  \r  \r\rThere must be  \rA guardian angel  \rOr some kind of destiny we have  \rCause we should have died  \rA long time ago  \rThe way that we were livin' in our paths  \r  \rWhat will we say when our kids come to us  \rAnd ask, with a smile on their face,  \rHey Dad, my friend's got some new ninja swords!",
+        "beginOffset": 686
+      },
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": -0.3
+      }
+    },
+    {
+      "text": {
+        "content": "Is it cool if we slash up his place?",
+        "beginOffset": 1570
+      },
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      }
+    },
+    {
+      "text": {
+        "content": "Hey  \rHey  \r\rAnd get dangerous",
+        "beginOffset": 1607
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    }
+  ]
 }

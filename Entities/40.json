@@ -4,12 +4,12 @@
       "name": "baby",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.13327362,
+      "salience": 0.22757208,
       "mentions": [
         {
           "text": {
             "content": "baby",
-            "beginOffset": 447
+            "beginOffset": 182
           },
           "type": "COMMON"
         },
@@ -33,7 +33,7 @@
       "name": "Turn",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0955273,
+      "salience": 0.08880935,
       "mentions": [
         {
           "text": {
@@ -72,7 +72,7 @@
         "mid": "/g/11bv2017hr",
         "wikipedia_url": "https://en.wikipedia.org/wiki/Digging"
       },
-      "salience": 0.088616066,
+      "salience": 0.08140958,
       "mentions": [
         {
           "text": {
@@ -108,7 +108,7 @@
       "name": "everybody",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.053599652,
+      "salience": 0.051731035,
       "mentions": [
         {
           "text": {
@@ -120,25 +120,10 @@
       ]
     },
     {
-      "name": "round",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.047076505,
-      "mentions": [
-        {
-          "text": {
-            "content": "round",
-            "beginOffset": 24
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "bongo sound",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.047076505,
+      "salience": 0.044889998,
       "mentions": [
         {
           "text": {
@@ -153,7 +138,7 @@
       "name": "one",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.047076505,
+      "salience": 0.044889998,
       "mentions": [
         {
           "text": {
@@ -168,7 +153,7 @@
       "name": "reach",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.047076505,
+      "salience": 0.044889998,
       "mentions": [
         {
           "text": {
@@ -183,7 +168,7 @@
       "name": "clam",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.04285248,
+      "salience": 0.041374788,
       "mentions": [
         {
           "text": {
@@ -198,7 +183,7 @@
       "name": "clam",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.03514377,
+      "salience": 0.03352251,
       "mentions": [
         {
           "text": {
@@ -213,7 +198,7 @@
       "name": "clam",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.029158948,
+      "salience": 0.028166745,
       "mentions": [
         {
           "text": {
@@ -225,25 +210,10 @@
       ]
     },
     {
-      "name": "baby",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.024616534,
-      "mentions": [
-        {
-          "text": {
-            "content": "baby",
-            "beginOffset": 182
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "hand",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.024616534,
+      "salience": 0.023487072,
       "mentions": [
         {
           "text": {
@@ -258,7 +228,7 @@
       "name": "tease",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.024616534,
+      "salience": 0.023487072,
       "mentions": [
         {
           "text": {
@@ -273,7 +243,7 @@
       "name": "clam",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.023877995,
+      "salience": 0.0227828,
       "mentions": [
         {
           "text": {
@@ -288,7 +258,7 @@
       "name": "clam",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.023581188,
+      "salience": 0.0227828,
       "mentions": [
         {
           "text": {
@@ -303,7 +273,7 @@
       "name": "clam",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.021875253,
+      "salience": 0.020872839,
       "mentions": [
         {
           "text": {
@@ -318,7 +288,7 @@
       "name": "beach",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.01826521,
+      "salience": 0.017429499,
       "mentions": [
         {
           "text": {
@@ -330,10 +300,25 @@
       ]
     },
     {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015928244,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 447
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "hand",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.016691493,
+      "salience": 0.015928244,
       "mentions": [
         {
           "text": {
@@ -348,7 +333,7 @@
       "name": "tease",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.016691493,
+      "salience": 0.015928244,
       "mentions": [
         {
           "text": {
@@ -363,7 +348,7 @@
       "name": "heart",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.014939535,
+      "salience": 0.01518138,
       "mentions": [
         {
           "text": {
@@ -378,7 +363,7 @@
       "name": "Everybody",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.012933938,
+      "salience": 0.012343214,
       "mentions": [
         {
           "text": {
@@ -390,25 +375,10 @@
       ]
     },
     {
-      "name": "appetite",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.012369785,
-      "mentions": [
-        {
-          "text": {
-            "content": "appetite",
-            "beginOffset": 387
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "outside",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.012214983,
+      "salience": 0.011804907,
       "mentions": [
         {
           "text": {
@@ -420,10 +390,25 @@
       ]
     },
     {
+      "name": "appetite",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011804907,
+      "mentions": [
+        {
+          "text": {
+            "content": "appetite",
+            "beginOffset": 387
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "clam",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.009576652,
+      "salience": 0.009255545,
       "mentions": [
         {
           "text": {
@@ -438,7 +423,7 @@
       "name": "clam",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.008515564,
+      "salience": 0.008440503,
       "mentions": [
         {
           "text": {
@@ -450,15 +435,15 @@
       ]
     },
     {
-      "name": "clam",
+      "name": "beat",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.007825588,
+      "salience": 0.007985823,
       "mentions": [
         {
           "text": {
-            "content": "clam",
-            "beginOffset": 819
+            "content": "beat",
+            "beginOffset": 555
           },
           "type": "COMMON"
         }
@@ -468,7 +453,7 @@
       "name": "clam",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.007825588,
+      "salience": 0.0074684243,
       "mentions": [
         {
           "text": {
@@ -480,15 +465,15 @@
       ]
     },
     {
-      "name": "beat",
+      "name": "clam",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0075638113,
+      "salience": 0.0074684243,
       "mentions": [
         {
           "text": {
-            "content": "beat",
-            "beginOffset": 555
+            "content": "clam",
+            "beginOffset": 819
           },
           "type": "COMMON"
         }
@@ -501,7 +486,7 @@
         "mid": "/m/04wv_",
         "wikipedia_url": "https://en.wikipedia.org/wiki/Moon"
       },
-      "salience": 0.007250411,
+      "salience": 0.007007442,
       "mentions": [
         {
           "text": {
@@ -516,7 +501,7 @@
       "name": "clam",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0066405185,
+      "salience": 0.0064179935,
       "mentions": [
         {
           "text": {
@@ -528,25 +513,10 @@
       ]
     },
     {
-      "name": "tease",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0054545864,
-      "mentions": [
-        {
-          "text": {
-            "content": "tease",
-            "beginOffset": 740
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "hand",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0054545864,
+      "salience": 0.005205529,
       "mentions": [
         {
           "text": {
@@ -558,10 +528,25 @@
       ]
     },
     {
+      "name": "tease",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005205529,
+      "mentions": [
+        {
+          "text": {
+            "content": "tease",
+            "beginOffset": 740
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "clam Dig",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.004913565,
+      "salience": 0.004748853,
       "mentions": [
         {
           "text": {
@@ -573,25 +558,10 @@
       ]
     },
     {
-      "name": "clam",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.004212057,
-      "mentions": [
-        {
-          "text": {
-            "content": "clam",
-            "beginOffset": 673
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "hand",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0037794176,
+      "salience": 0.003606682,
       "mentions": [
         {
           "text": {
@@ -606,7 +576,7 @@
       "name": "tease",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0037794176,
+      "salience": 0.003606682,
       "mentions": [
         {
           "text": {
@@ -621,7 +591,22 @@
       "name": "clam",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0034398942,
+      "salience": 0.003282627,
+      "mentions": [
+        {
+          "text": {
+            "content": "clam",
+            "beginOffset": 673
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "clam",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003282627,
       "mentions": [
         {
           "text": {

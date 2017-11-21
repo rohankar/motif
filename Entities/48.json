@@ -4,7 +4,7 @@
       "name": "nightfall",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.18311994,
+      "salience": 0.168124,
       "mentions": [
         {
           "text": {
@@ -26,7 +26,7 @@
       "name": "Dark star crashes",
       "type": "EVENT",
       "metadata": {},
-      "salience": 0.15893559,
+      "salience": 0.15869966,
       "mentions": [
         {
           "text": {
@@ -41,7 +41,7 @@
       "name": "ashes",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.15893559,
+      "salience": 0.15869966,
       "mentions": [
         {
           "text": {
@@ -56,7 +56,7 @@
       "name": "light",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.10510104,
+      "salience": 0.12010062,
       "mentions": [
         {
           "text": {
@@ -71,7 +71,7 @@
       "name": "Reason tatters",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.07752796,
+      "salience": 0.07746007,
       "mentions": [
         {
           "text": {
@@ -86,7 +86,7 @@
       "name": "axis",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.03001805,
+      "salience": 0.029997857,
       "mentions": [
         {
           "text": {
@@ -101,7 +101,7 @@
       "name": "forces",
       "type": "ORGANIZATION",
       "metadata": {},
-      "salience": 0.03001805,
+      "salience": 0.029997857,
       "mentions": [
         {
           "text": {
@@ -116,7 +116,7 @@
       "name": "casting",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0298655,
+      "salience": 0.029845413,
       "mentions": [
         {
           "text": {
@@ -131,7 +131,7 @@
       "name": "diamonds",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.02300521,
+      "salience": 0.022989599,
       "mentions": [
         {
           "text": {
@@ -146,7 +146,7 @@
       "name": "faults",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.019963792,
+      "salience": 0.020203127,
       "mentions": [
         {
           "text": {
@@ -161,7 +161,7 @@
       "name": "clouds",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.019963792,
+      "salience": 0.020203127,
       "mentions": [
         {
           "text": {
@@ -176,7 +176,7 @@
       "name": "delusion",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.019963792,
+      "salience": 0.020203127,
       "mentions": [
         {
           "text": {
@@ -191,7 +191,7 @@
       "name": "reflections",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.01839037,
+      "salience": 0.018377565,
       "mentions": [
         {
           "text": {
@@ -206,7 +206,7 @@
       "name": "matter",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.01839037,
+      "salience": 0.018377565,
       "mentions": [
         {
           "text": {
@@ -221,7 +221,7 @@
       "name": "hand",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.018348133,
+      "salience": 0.018335352,
       "mentions": [
         {
           "text": {
@@ -236,7 +236,7 @@
       "name": "Searchlight",
       "type": "EVENT",
       "metadata": {},
-      "salience": 0.017743336,
+      "salience": 0.017730916,
       "mentions": [
         {
           "text": {
@@ -251,7 +251,7 @@
       "name": "nights",
       "type": "EVENT",
       "metadata": {},
-      "salience": 0.017197898,
+      "salience": 0.0171858,
       "mentions": [
         {
           "text": {
@@ -266,7 +266,7 @@
       "name": "goodbye",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.013698448,
+      "salience": 0.013688403,
       "mentions": [
         {
           "text": {
@@ -284,7 +284,7 @@
         "mid": "/m/054_l",
         "wikipedia_url": "https://en.wikipedia.org/wiki/Mirror"
       },
-      "salience": 0.010909682,
+      "salience": 0.01090128,
       "mentions": [
         {
           "text": {
@@ -299,7 +299,7 @@
       "name": "diamonds",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.010830336,
+      "salience": 0.010821982,
       "mentions": [
         {
           "text": {
@@ -314,7 +314,7 @@
       "name": "petal flowers",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.006032208,
+      "salience": 0.0060268426,
       "mentions": [
         {
           "text": {
@@ -329,7 +329,7 @@
       "name": "velvet",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.006020446,
+      "salience": 0.0060150884,
       "mentions": [
         {
           "text": {
@@ -344,7 +344,7 @@
       "name": "Lady",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.006020446,
+      "salience": 0.0060150884,
       "mentions": [
         {
           "text": {

@@ -6,7 +6,7 @@
       "metadata": {
         "mid": "/g/11d_b2bb5h"
       },
-      "salience": 0.42123815,
+      "salience": 0.4529497,
       "mentions": [
         {
           "text": {
@@ -102,14 +102,14 @@
         {
           "text": {
             "content": "Billie Jean",
-            "beginOffset": 2227
+            "beginOffset": 2212
           },
           "type": "PROPER"
         },
         {
           "text": {
             "content": "Billie Jean",
-            "beginOffset": 2212
+            "beginOffset": 2227
           },
           "type": "PROPER"
         },
@@ -123,50 +123,64 @@
       ]
     },
     {
-      "name": "one",
+      "name": "lover",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.18708557,
+      "salience": 0.22601464,
       "mentions": [
         {
           "text": {
-            "content": "one",
-            "beginOffset": 171
+            "content": "lover",
+            "beginOffset": 641
           },
           "type": "COMMON"
         },
         {
           "text": {
-            "content": "one",
-            "beginOffset": 744
+            "content": "lover",
+            "beginOffset": 1498
           },
           "type": "COMMON"
         },
         {
           "text": {
-            "content": "one",
-            "beginOffset": 1711
+            "content": "lover",
+            "beginOffset": 1608
           },
           "type": "COMMON"
         },
         {
           "text": {
-            "content": "one",
-            "beginOffset": 1765
+            "content": "lover",
+            "beginOffset": 1823
           },
           "type": "COMMON"
         },
         {
           "text": {
-            "content": "one",
-            "beginOffset": 1926
+            "content": "lover",
+            "beginOffset": 2109
           },
           "type": "COMMON"
         },
         {
           "text": {
-            "content": "one",
-            "beginOffset": 1980
+            "content": "lover",
+            "beginOffset": 2199
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "lover",
+            "beginOffset": 2249
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "lover",
+            "beginOffset": 2279
           },
           "type": "COMMON"
         }
@@ -176,12 +190,12 @@
       "name": "son",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.16931948,
+      "salience": 0.17055672,
       "mentions": [
         {
           "text": {
             "content": "son",
-            "beginOffset": 771
+            "beginOffset": 720
           },
           "type": "COMMON"
         },
@@ -223,60 +237,10 @@
       ]
     },
     {
-      "name": "lover",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.0990808,
-      "mentions": [
-        {
-          "text": {
-            "content": "lover",
-            "beginOffset": 641
-          },
-          "type": "COMMON"
-        },
-        {
-          "text": {
-            "content": "lover",
-            "beginOffset": 1498
-          },
-          "type": "COMMON"
-        },
-        {
-          "text": {
-            "content": "lover",
-            "beginOffset": 1608
-          },
-          "type": "COMMON"
-        },
-        {
-          "text": {
-            "content": "lover",
-            "beginOffset": 1823
-          },
-          "type": "COMMON"
-        },
-        {
-          "text": {
-            "content": "lover",
-            "beginOffset": 2199
-          },
-          "type": "COMMON"
-        },
-        {
-          "text": {
-            "content": "lover",
-            "beginOffset": 2279
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "head",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.023346948,
+      "salience": 0.026948921,
       "mentions": [
         {
           "text": {
@@ -288,32 +252,10 @@
       ]
     },
     {
-      "name": "Cause",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.009260551,
-      "mentions": [
-        {
-          "text": {
-            "content": "Cause",
-            "beginOffset": 906
-          },
-          "type": "COMMON"
-        },
-        {
-          "text": {
-            "content": "Cause",
-            "beginOffset": 1194
-          },
-          "type": "PROPER"
-        }
-      ]
-    },
-    {
       "name": "hearts",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.007498409,
+      "salience": 0.009177495,
       "mentions": [
         {
           "text": {
@@ -335,7 +277,7 @@
       "name": "kid",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0060944795,
+      "salience": 0.007873226,
       "mentions": [
         {
           "text": {
@@ -347,30 +289,15 @@
       ]
     },
     {
-      "name": "floor",
-      "type": "LOCATION",
+      "name": "one",
+      "type": "PERSON",
       "metadata": {},
-      "salience": 0.0051756077,
+      "salience": 0.006855409,
       "mentions": [
         {
           "text": {
-            "content": "floor",
-            "beginOffset": 132
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "round",
-      "type": "EVENT",
-      "metadata": {},
-      "salience": 0.0051756077,
-      "mentions": [
-        {
-          "text": {
-            "content": "round",
-            "beginOffset": 145
+            "content": "one",
+            "beginOffset": 343
           },
           "type": "COMMON"
         }
@@ -380,7 +307,7 @@
       "name": "floor",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.0051756077,
+      "salience": 0.006416111,
       "mentions": [
         {
           "text": {
@@ -395,7 +322,7 @@
       "name": "round",
       "type": "EVENT",
       "metadata": {},
-      "salience": 0.0051756077,
+      "salience": 0.006416111,
       "mentions": [
         {
           "text": {
@@ -407,10 +334,40 @@
       ]
     },
     {
+      "name": "round",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.006416111,
+      "mentions": [
+        {
+          "text": {
+            "content": "round",
+            "beginOffset": 145
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "floor",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.006416111,
+      "mentions": [
+        {
+          "text": {
+            "content": "floor",
+            "beginOffset": 132
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "kid",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0045673717,
+      "salience": 0.0057561835,
       "mentions": [
         {
           "text": {
@@ -425,7 +382,7 @@
       "name": "eyes",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0043673743,
+      "salience": 0.0053677675,
       "mentions": [
         {
           "text": {
@@ -440,7 +397,7 @@
       "name": "name",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0041511054,
+      "salience": 0.005344393,
       "mentions": [
         {
           "text": {
@@ -455,7 +412,7 @@
       "name": "movie scene",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0041272757,
+      "salience": 0.005117173,
       "mentions": [
         {
           "text": {
@@ -470,7 +427,7 @@
       "name": "beauty queen",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0036146585,
+      "salience": 0.004481863,
       "mentions": [
         {
           "text": {
@@ -485,7 +442,7 @@
       "name": "girls",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0020904685,
+      "salience": 0.0025923257,
       "mentions": [
         {
           "text": {
@@ -497,15 +454,15 @@
       ]
     },
     {
-      "name": "son",
-      "type": "PERSON",
+      "name": "perfume",
+      "type": "OTHER",
       "metadata": {},
-      "salience": 0.0020453825,
+      "salience": 0.0024688297,
       "mentions": [
         {
           "text": {
-            "content": "son",
-            "beginOffset": 720
+            "content": "perfume",
+            "beginOffset": 1405
           },
           "type": "COMMON"
         }
@@ -515,7 +472,7 @@
       "name": "round",
       "type": "EVENT",
       "metadata": {},
-      "salience": 0.0019872838,
+      "salience": 0.0024643813,
       "mentions": [
         {
           "text": {
@@ -530,7 +487,7 @@
       "name": "floor",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.0019872838,
+      "salience": 0.0024643813,
       "mentions": [
         {
           "text": {
@@ -542,10 +499,25 @@
       ]
     },
     {
+      "name": "son",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.002442117,
+      "mentions": [
+        {
+          "text": {
+            "content": "son",
+            "beginOffset": 771
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "People",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0015825342,
+      "salience": 0.001962481,
       "mentions": [
         {
           "text": {
@@ -560,7 +532,7 @@
       "name": "scene",
       "type": "WORK_OF_ART",
       "metadata": {},
-      "salience": 0.0015825342,
+      "salience": 0.001962481,
       "mentions": [
         {
           "text": {
@@ -575,7 +547,7 @@
       "name": "mother",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0013850308,
+      "salience": 0.0017175573,
       "mentions": [
         {
           "text": {
@@ -590,7 +562,7 @@
       "name": "floor",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.0013430058,
+      "salience": 0.0016654411,
       "mentions": [
         {
           "text": {
@@ -605,7 +577,7 @@
       "name": "round",
       "type": "EVENT",
       "metadata": {},
-      "salience": 0.0013430058,
+      "salience": 0.0016654411,
       "mentions": [
         {
           "text": {
@@ -617,55 +589,10 @@
       ]
     },
     {
-      "name": "baby",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.0011753204,
-      "mentions": [
-        {
-          "text": {
-            "content": "baby",
-            "beginOffset": 1146
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "advice",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0011170014,
-      "mentions": [
-        {
-          "text": {
-            "content": "advice",
-            "beginOffset": 968
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "law",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.001061863,
-      "mentions": [
-        {
-          "text": {
-            "content": "law",
-            "beginOffset": 818
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "schemes",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0009967434,
+      "salience": 0.0015920236,
       "mentions": [
         {
           "text": {
@@ -677,10 +604,55 @@
       ]
     },
     {
+      "name": "law",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0013851619,
+      "mentions": [
+        {
+          "text": {
+            "content": "law",
+            "beginOffset": 818
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "advice",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0013505397,
+      "mentions": [
+        {
+          "text": {
+            "content": "advice",
+            "beginOffset": 968
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Cause",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.001325847,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cause",
+            "beginOffset": 906
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "truth",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0009967434,
+      "salience": 0.0013167808,
       "mentions": [
         {
           "text": {
@@ -695,7 +667,7 @@
       "name": "plans",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0009356093,
+      "salience": 0.0011602032,
       "mentions": [
         {
           "text": {
@@ -707,55 +679,10 @@
       ]
     },
     {
-      "name": "baby",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.00092409435,
-      "mentions": [
-        {
-          "text": {
-            "content": "baby",
-            "beginOffset": 1070
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "demand",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.00092383905,
-      "mentions": [
-        {
-          "text": {
-            "content": "demand",
-            "beginOffset": 872
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "lie",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.00092383905,
-      "mentions": [
-        {
-          "text": {
-            "content": "lie",
-            "beginOffset": 592
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "side",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.00092383905,
+      "salience": 0.0011602032,
       "mentions": [
         {
           "text": {
@@ -767,15 +694,90 @@
       ]
     },
     {
-      "name": "girls",
-      "type": "PERSON",
+      "name": "lie",
+      "type": "OTHER",
       "metadata": {},
-      "salience": 0.00061191514,
+      "salience": 0.0011602032,
       "mentions": [
         {
           "text": {
-            "content": "girls",
-            "beginOffset": 1332
+            "content": "lie",
+            "beginOffset": 592
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "demand",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0011602032,
+      "mentions": [
+        {
+          "text": {
+            "content": "demand",
+            "beginOffset": 872
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0011315045,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 1070
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baby",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0010893277,
+      "mentions": [
+        {
+          "text": {
+            "content": "baby",
+            "beginOffset": 1146
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "photo",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0010222082,
+      "mentions": [
+        {
+          "text": {
+            "content": "photo",
+            "beginOffset": 1137
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kid",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0008222202,
+      "mentions": [
+        {
+          "text": {
+            "content": "kid",
+            "beginOffset": 1673
           },
           "type": "COMMON"
         }
@@ -785,7 +787,7 @@
       "name": "son",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.00060630933,
+      "salience": 0.00078093586,
       "mentions": [
         {
           "text": {
@@ -797,15 +799,15 @@
       ]
     },
     {
-      "name": "kid",
+      "name": "girls",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.000585628,
+      "salience": 0.0007587602,
       "mentions": [
         {
           "text": {
-            "content": "kid",
-            "beginOffset": 1939
+            "content": "girls",
+            "beginOffset": 1332
           },
           "type": "COMMON"
         }
@@ -815,7 +817,22 @@
       "name": "kid",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.000585628,
+      "salience": 0.00075429486,
+      "mentions": [
+        {
+          "text": {
+            "content": "kid",
+            "beginOffset": 1778
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kid",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00075429486,
       "mentions": [
         {
           "text": {
@@ -830,27 +847,12 @@
       "name": "kid",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.000585628,
+      "salience": 0.00075429486,
       "mentions": [
         {
           "text": {
             "content": "kid",
-            "beginOffset": 1778
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "floor",
-      "type": "LOCATION",
-      "metadata": {},
-      "salience": 0.0005816197,
-      "mentions": [
-        {
-          "text": {
-            "content": "floor",
-            "beginOffset": 1217
+            "beginOffset": 1939
           },
           "type": "COMMON"
         }
@@ -860,7 +862,7 @@
       "name": "round",
       "type": "EVENT",
       "metadata": {},
-      "salience": 0.0005816197,
+      "salience": 0.0007211882,
       "mentions": [
         {
           "text": {
@@ -872,15 +874,30 @@
       ]
     },
     {
-      "name": "photo",
-      "type": "WORK_OF_ART",
+      "name": "floor",
+      "type": "LOCATION",
       "metadata": {},
-      "salience": 0.0005358745,
+      "salience": 0.0007211882,
       "mentions": [
         {
           "text": {
-            "content": "photo",
-            "beginOffset": 1137
+            "content": "floor",
+            "beginOffset": 1217
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Cause",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00070294563,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cause",
+            "beginOffset": 1194
           },
           "type": "COMMON"
         }
@@ -890,7 +907,7 @@
       "name": "baby",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0005088953,
+      "salience": 0.0006309972,
       "mentions": [
         {
           "text": {
@@ -902,55 +919,10 @@
       ]
     },
     {
-      "name": "lover",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.00047948127,
-      "mentions": [
-        {
-          "text": {
-            "content": "lover",
-            "beginOffset": 2249
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "lover",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.00047948127,
-      "mentions": [
-        {
-          "text": {
-            "content": "lover",
-            "beginOffset": 2109
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "smell",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.00047751993,
-      "mentions": [
-        {
-          "text": {
-            "content": "smell",
-            "beginOffset": 1390
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "People",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.00046287538,
+      "salience": 0.0005739249,
       "mentions": [
         {
           "text": {
@@ -965,7 +937,7 @@
       "name": "lover",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0004332526,
+      "salience": 0.00055800966,
       "mentions": [
         {
           "text": {
@@ -980,7 +952,7 @@
       "name": "lover",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0004332526,
+      "salience": 0.00055800966,
       "mentions": [
         {
           "text": {
@@ -995,7 +967,7 @@
       "name": "room",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.00040498562,
+      "salience": 0.0005021331,
       "mentions": [
         {
           "text": {
@@ -1007,15 +979,15 @@
       ]
     },
     {
-      "name": "perfume",
+      "name": "smell",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.00040498562,
+      "salience": 0.0005021331,
       "mentions": [
         {
           "text": {
-            "content": "perfume",
-            "beginOffset": 1405
+            "content": "smell",
+            "beginOffset": 1390
           },
           "type": "COMMON"
         }
@@ -1025,7 +997,7 @@
       "name": "son",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.00026601972,
+      "salience": 0.00034258986,
       "mentions": [
         {
           "text": {
@@ -1040,22 +1012,7 @@
       "name": "kid",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0002569393,
-      "mentions": [
-        {
-          "text": {
-            "content": "kid",
-            "beginOffset": 1673
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "kid",
-      "type": "PERSON",
-      "metadata": {},
-      "salience": 0.0002569393,
+      "salience": 0.00033089335,
       "mentions": [
         {
           "text": {
@@ -1070,7 +1027,7 @@
       "name": "kid",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0002569393,
+      "salience": 0.00033089335,
       "mentions": [
         {
           "text": {
@@ -1085,7 +1042,7 @@
       "name": "eyes",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.00021471785,
+      "salience": 0.00027302396,
       "mentions": [
         {
           "text": {
@@ -1100,7 +1057,7 @@
       "name": "heart babe",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.00020948047,
+      "salience": 0.00025969144,
       "mentions": [
         {
           "text": {

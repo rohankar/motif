@@ -1,15 +1,15 @@
 {
   "entities": [
     {
-      "name": "book",
-      "type": "WORK_OF_ART",
+      "name": "one",
+      "type": "OTHER",
       "metadata": {},
-      "salience": 0.4770874,
+      "salience": 0.45624954,
       "mentions": [
         {
           "text": {
-            "content": "book",
-            "beginOffset": 648
+            "content": "one",
+            "beginOffset": 659
           },
           "type": "COMMON"
         }
@@ -19,12 +19,12 @@
       "name": "sea",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.14486717,
+      "salience": 0.15609959,
       "mentions": [
         {
           "text": {
             "content": "sea",
-            "beginOffset": 525
+            "beginOffset": 423
           },
           "type": "COMMON"
         },
@@ -55,7 +55,7 @@
       "name": "tree",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.12769024,
+      "salience": 0.13812594,
       "mentions": [
         {
           "text": {
@@ -70,7 +70,7 @@
       "name": "shelf",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.04452723,
+      "salience": 0.048022334,
       "mentions": [
         {
           "text": {
@@ -82,32 +82,10 @@
       ]
     },
     {
-      "name": "houses",
-      "type": "LOCATION",
-      "metadata": {},
-      "salience": 0.041162387,
-      "mentions": [
-        {
-          "text": {
-            "content": "houses",
-            "beginOffset": 1050
-          },
-          "type": "COMMON"
-        },
-        {
-          "text": {
-            "content": "houses",
-            "beginOffset": 1278
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "eyes",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.02071821,
+      "salience": 0.025663482,
       "mentions": [
         {
           "text": {
@@ -122,7 +100,7 @@
       "name": "song",
       "type": "WORK_OF_ART",
       "metadata": {},
-      "salience": 0.019587176,
+      "salience": 0.021126112,
       "mentions": [
         {
           "text": {
@@ -137,12 +115,27 @@
       "name": "sea",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.017274665,
+      "salience": 0.018868137,
       "mentions": [
         {
           "text": {
             "content": "sea",
-            "beginOffset": 423
+            "beginOffset": 525
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "book",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.01849793,
+      "mentions": [
+        {
+          "text": {
+            "content": "book",
+            "beginOffset": 648
           },
           "type": "COMMON"
         }
@@ -152,7 +145,7 @@
       "name": "sea",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.01601598,
+      "salience": 0.017274093,
       "mentions": [
         {
           "text": {
@@ -167,7 +160,7 @@
       "name": "darling",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.012045589,
+      "salience": 0.013156531,
       "mentions": [
         {
           "text": {
@@ -182,7 +175,7 @@
       "name": "size",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.011597682,
+      "salience": 0.012508246,
       "mentions": [
         {
           "text": {
@@ -194,25 +187,10 @@
       ]
     },
     {
-      "name": "one",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.011597682,
-      "mentions": [
-        {
-          "text": {
-            "content": "one",
-            "beginOffset": 659
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "line",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.011452096,
+      "salience": 0.012508246,
       "mentions": [
         {
           "text": {
@@ -227,7 +205,7 @@
       "name": "world",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.011308329,
+      "salience": 0.012042996,
       "mentions": [
         {
           "text": {
@@ -242,7 +220,7 @@
       "name": "good",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0103510665,
+      "salience": 0.010479788,
       "mentions": [
         {
           "text": {
@@ -257,7 +235,7 @@
       "name": "nothing",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.007937296,
+      "salience": 0.008559934,
       "mentions": [
         {
           "text": {
@@ -272,7 +250,7 @@
       "name": "streets",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.005898743,
+      "salience": 0.00636109,
       "mentions": [
         {
           "text": {
@@ -284,10 +262,25 @@
       ]
     },
     {
+      "name": "Forget",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.005795755,
+      "mentions": [
+        {
+          "text": {
+            "content": "Forget",
+            "beginOffset": 1179
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
       "name": "streets",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.0048974464,
+      "salience": 0.005416581,
       "mentions": [
         {
           "text": {
@@ -299,15 +292,45 @@
       ]
     },
     {
+      "name": "houses",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0046527674,
+      "mentions": [
+        {
+          "text": {
+            "content": "houses",
+            "beginOffset": 1278
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "song",
       "type": "WORK_OF_ART",
       "metadata": {},
-      "salience": 0.0039836005,
+      "salience": 0.0042954604,
       "mentions": [
         {
           "text": {
             "content": "song",
             "beginOffset": 919
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "houses",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0042954604,
+      "mentions": [
+        {
+          "text": {
+            "content": "houses",
+            "beginOffset": 1050
           },
           "type": "COMMON"
         }

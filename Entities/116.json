@@ -1,7 +1,936 @@
 {
-  "error": {
-    "code": 400,
-    "message": "Invalid JSON payload received. Expected , or } after key:value pair.\ne on their face,  \r\"Hey Dad, my friend's\n                    ^",
-    "status": "INVALID_ARGUMENT"
-  }
+  "entities": [
+    {
+      "name": "Everybody",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.51919657,
+      "mentions": [
+        {
+          "text": {
+            "content": "Everybody",
+            "beginOffset": 523
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Everybody",
+            "beginOffset": 586
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Everybody",
+            "beginOffset": 649
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Everybody",
+            "beginOffset": 712
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "some",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0863783,
+      "mentions": [
+        {
+          "text": {
+            "content": "some",
+            "beginOffset": 135
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "games",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.04259395,
+      "mentions": [
+        {
+          "text": {
+            "content": "games",
+            "beginOffset": 1023
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cow",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.031329814,
+      "mentions": [
+        {
+          "text": {
+            "content": "cow",
+            "beginOffset": 115
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "friends",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.029270422,
+      "mentions": [
+        {
+          "text": {
+            "content": "friends",
+            "beginOffset": 146
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fun",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025662158,
+      "mentions": [
+        {
+          "text": {
+            "content": "fun",
+            "beginOffset": 51
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "cows",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.025662158,
+      "mentions": [
+        {
+          "text": {
+            "content": "cows",
+            "beginOffset": 42
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "baseball bat",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.02148706,
+      "mentions": [
+        {
+          "text": {
+            "content": "baseball bat",
+            "beginOffset": 236
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Everybody",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.015960155,
+      "mentions": [
+        {
+          "text": {
+            "content": "Everybody",
+            "beginOffset": 497
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fences",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.01052038,
+      "mentions": [
+        {
+          "text": {
+            "content": "fences",
+            "beginOffset": 368
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hits",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009877494,
+      "mentions": [
+        {
+          "text": {
+            "content": "hits",
+            "beginOffset": 265
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "eggs",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009877494,
+      "mentions": [
+        {
+          "text": {
+            "content": "eggs",
+            "beginOffset": 331
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Toilet paper",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.009877494,
+      "mentions": [
+        {
+          "text": {
+            "content": "Toilet paper",
+            "beginOffset": 351
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mail boxes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009877494,
+      "mentions": [
+        {
+          "text": {
+            "content": "mail boxes",
+            "beginOffset": 216
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "bit",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.009877494,
+      "mentions": [
+        {
+          "text": {
+            "content": "bit",
+            "beginOffset": 188
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Everybody",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.007617108,
+      "mentions": [
+        {
+          "text": {
+            "content": "Everybody",
+            "beginOffset": 560
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Everybody",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.007578198,
+      "mentions": [
+        {
+          "text": {
+            "content": "Everybody",
+            "beginOffset": 623
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Everybody",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0075507103,
+      "mentions": [
+        {
+          "text": {
+            "content": "Everybody",
+            "beginOffset": 686
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "damage",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006678115,
+      "mentions": [
+        {
+          "text": {
+            "content": "damage",
+            "beginOffset": 487
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "practice",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006678115,
+      "mentions": [
+        {
+          "text": {
+            "content": "practice",
+            "beginOffset": 427
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "benches",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006678115,
+      "mentions": [
+        {
+          "text": {
+            "content": "benches",
+            "beginOffset": 411
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chairs",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.006678115,
+      "mentions": [
+        {
+          "text": {
+            "content": "chairs",
+            "beginOffset": 395
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "tables",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006678115,
+      "mentions": [
+        {
+          "text": {
+            "content": "tables",
+            "beginOffset": 387
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Lookin",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006487116,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lookin",
+            "beginOffset": 880
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "hairspray",
+            "beginOffset": 851
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kids",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.005553883,
+      "mentions": [
+        {
+          "text": {
+            "content": "kids",
+            "beginOffset": 1463
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0054840865,
+      "mentions": [
+        {
+          "text": {
+            "content": "way",
+            "beginOffset": 1395
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Causin",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0045231553,
+      "mentions": [
+        {
+          "text": {
+            "content": "Causin",
+            "beginOffset": 479
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "knives",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0032945592,
+      "mentions": [
+        {
+          "text": {
+            "content": "knives",
+            "beginOffset": 871
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "knives",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.0032945592,
+      "mentions": [
+        {
+          "text": {
+            "content": "knives",
+            "beginOffset": 981
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nighttimes",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0031500363,
+      "mentions": [
+        {
+          "text": {
+            "content": "nighttimes",
+            "beginOffset": 815
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "road kills",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002882772,
+      "mentions": [
+        {
+          "text": {
+            "content": "road kills",
+            "beginOffset": 892
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ponds",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002882772,
+      "mentions": [
+        {
+          "text": {
+            "content": "ponds",
+            "beginOffset": 1039
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "forces",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.002882772,
+      "mentions": [
+        {
+          "text": {
+            "content": "forces",
+            "beginOffset": 1004
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "corpses",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002882772,
+      "mentions": [
+        {
+          "text": {
+            "content": "corpses",
+            "beginOffset": 958
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "thrills",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002882772,
+      "mentions": [
+        {
+          "text": {
+            "content": "thrills",
+            "beginOffset": 939
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "fire",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002882772,
+      "mentions": [
+        {
+          "text": {
+            "content": "fire",
+            "beginOffset": 924
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "things",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002882772,
+      "mentions": [
+        {
+          "text": {
+            "content": "things",
+            "beginOffset": 914
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "safety pads",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002882772,
+      "mentions": [
+        {
+          "text": {
+            "content": "safety pads",
+            "beginOffset": 1050
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "guardian angel",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0026381472,
+      "mentions": [
+        {
+          "text": {
+            "content": "guardian angel",
+            "beginOffset": 1294
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "confession",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.002324201,
+      "mentions": [
+        {
+          "text": {
+            "content": "confession",
+            "beginOffset": 752
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "friend",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0021965478,
+      "mentions": [
+        {
+          "text": {
+            "content": "friend",
+            "beginOffset": 1532
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "paths",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0021540397,
+      "mentions": [
+        {
+          "text": {
+            "content": "paths",
+            "beginOffset": 1426
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "destiny",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0021540397,
+      "mentions": [
+        {
+          "text": {
+            "content": "destiny",
+            "beginOffset": 1327
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "kind",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0021540397,
+      "mentions": [
+        {
+          "text": {
+            "content": "kind",
+            "beginOffset": 1319
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Lightin",
+      "type": "WORK_OF_ART",
+      "metadata": {},
+      "salience": 0.0017070471,
+      "mentions": [
+        {
+          "text": {
+            "content": "Lightin",
+            "beginOffset": 905
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Hockey",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.0017070471,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hockey",
+            "beginOffset": 1016
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "smile",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0014914722,
+      "mentions": [
+        {
+          "text": {
+            "content": "smile",
+            "beginOffset": 1497
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "face",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0014914722,
+      "mentions": [
+        {
+          "text": {
+            "content": "face",
+            "beginOffset": 1512
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Cause",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0014576669,
+      "mentions": [
+        {
+          "text": {
+            "content": "Cause",
+            "beginOffset": 1345
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "place",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0011837838,
+      "mentions": [
+        {
+          "text": {
+            "content": "place",
+            "beginOffset": 1600
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ninja swords",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.001100169,
+      "mentions": [
+        {
+          "text": {
+            "content": "ninja swords",
+            "beginOffset": 1554
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "country roads",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0010800167,
+      "mentions": [
+        {
+          "text": {
+            "content": "country roads",
+            "beginOffset": 1097
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "keys",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00094486756,
+      "mentions": [
+        {
+          "text": {
+            "content": "keys",
+            "beginOffset": 1210
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "wheel",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00094486756,
+      "mentions": [
+        {
+          "text": {
+            "content": "wheel",
+            "beginOffset": 1223
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "parents",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.00094486756,
+      "mentions": [
+        {
+          "text": {
+            "content": "parents",
+            "beginOffset": 1154
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "zone",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.00094486756,
+      "mentions": [
+        {
+          "text": {
+            "content": "zone",
+            "beginOffset": 1141
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.00094486756,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": 1089
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Hey Dad",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.0008828803,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hey Dad",
+            "beginOffset": 1520
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Tercel",
+      "type": "CONSUMER_GOOD",
+      "metadata": {
+        "mid": "/m/06nnf1",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Toyota_Tercel"
+      },
+      "salience": 0.00055924134,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tercel",
+            "beginOffset": 1162
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Drivin",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.00055924134,
+      "mentions": [
+        {
+          "text": {
+            "content": "Drivin",
+            "beginOffset": 1081
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "language": "en"
 }

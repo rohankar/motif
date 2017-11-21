@@ -7,7 +7,7 @@
         "mid": "/m/04yd7py",
         "wikipedia_url": "https://en.wikipedia.org/wiki/Crawling_King_Snake"
       },
-      "salience": 0.16756633,
+      "salience": 0.20579411,
       "mentions": [
         {
           "text": {
@@ -32,6 +32,13 @@
         },
         {
           "text": {
+            "content": "Crawlin",
+            "beginOffset": 396
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
             "content": "Crawlin' King Snake",
             "beginOffset": 786
           },
@@ -50,7 +57,7 @@
       "name": "Gonna",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.16047661,
+      "salience": 0.15882744,
       "mentions": [
         {
           "text": {
@@ -86,7 +93,7 @@
       "name": "den",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.107678354,
+      "salience": 0.11128461,
       "mentions": [
         {
           "text": {
@@ -101,7 +108,7 @@
       "name": "den",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.107678354,
+      "salience": 0.11128461,
       "mentions": [
         {
           "text": {
@@ -116,7 +123,7 @@
       "name": "Seein",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.042636037,
+      "salience": 0.04356049,
       "mentions": [
         {
           "text": {
@@ -138,7 +145,7 @@
       "name": "baby",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.034849603,
+      "salience": 0.0360577,
       "mentions": [
         {
           "text": {
@@ -150,25 +157,10 @@
       ]
     },
     {
-      "name": "window Grass",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.032718252,
-      "mentions": [
-        {
-          "text": {
-            "content": "window  \rGrass",
-            "beginOffset": 201
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "round",
       "type": "EVENT",
       "metadata": {},
-      "salience": 0.03172267,
+      "salience": 0.032823544,
       "mentions": [
         {
           "text": {
@@ -183,7 +175,7 @@
       "name": "Ooo",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.029249968,
+      "salience": 0.029887484,
       "mentions": [
         {
           "text": {
@@ -203,9 +195,9 @@
     },
     {
       "name": "den",
-      "type": "OTHER",
+      "type": "LOCATION",
       "metadata": {},
-      "salience": 0.027983023,
+      "salience": 0.029321902,
       "mentions": [
         {
           "text": {
@@ -220,7 +212,7 @@
       "name": "baby",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.023592623,
+      "salience": 0.024413276,
       "mentions": [
         {
           "text": {
@@ -235,7 +227,7 @@
       "name": "crawl",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.022518067,
+      "salience": 0.023301532,
       "mentions": [
         {
           "text": {
@@ -247,45 +239,30 @@
       ]
     },
     {
-      "name": "den C'mon",
+      "name": "C'mon",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.02159995,
+      "salience": 0.02235162,
       "mentions": [
         {
           "text": {
-            "content": "den  \rC'mon",
-            "beginOffset": 511
+            "content": "C'mon",
+            "beginOffset": 517
           },
           "type": "COMMON"
         }
       ]
     },
     {
-      "name": "more",
-      "type": "OTHER",
+      "name": "Grass",
+      "type": "WORK_OF_ART",
       "metadata": {},
-      "salience": 0.021469679,
+      "salience": 0.02088751,
       "mentions": [
         {
           "text": {
-            "content": "more",
-            "beginOffset": 359
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "Crawlin",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.019514699,
-      "mentions": [
-        {
-          "text": {
-            "content": "Crawlin",
-            "beginOffset": 396
+            "content": "Grass",
+            "beginOffset": 210
           },
           "type": "PROPER"
         }
@@ -295,7 +272,7 @@
       "name": "den",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.019416187,
+      "salience": 0.020092132,
       "mentions": [
         {
           "text": {
@@ -310,7 +287,7 @@
       "name": "everything",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.018796202,
+      "salience": 0.019450624,
       "mentions": [
         {
           "text": {
@@ -325,7 +302,7 @@
       "name": "floor",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0172067,
+      "salience": 0.017805902,
       "mentions": [
         {
           "text": {
@@ -337,10 +314,25 @@
       ]
     },
     {
+      "name": "C'mon crawl C'mon crawl",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014981281,
+      "mentions": [
+        {
+          "text": {
+            "content": "C'mon crawl  \rC'mon crawl",
+            "beginOffset": 605
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "den",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.013462191,
+      "salience": 0.013931068,
       "mentions": [
         {
           "text": {
@@ -355,7 +347,7 @@
       "name": "Ai",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.011197206,
+      "salience": 0.011883921,
       "mentions": [
         {
           "text": {
@@ -367,25 +359,10 @@
       ]
     },
     {
-      "name": "Alright",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0102031445,
-      "mentions": [
-        {
-          "text": {
-            "content": "Alright",
-            "beginOffset": 577
-          },
-          "type": "PROPER"
-        }
-      ]
-    },
-    {
       "name": "round",
       "type": "EVENT",
       "metadata": {},
-      "salience": 0.010189292,
+      "salience": 0.010544034,
       "mentions": [
         {
           "text": {
@@ -398,9 +375,9 @@
     },
     {
       "name": "mate",
-      "type": "PERSON",
+      "type": "OTHER",
       "metadata": {},
-      "salience": 0.010189292,
+      "salience": 0.010544034,
       "mentions": [
         {
           "text": {
@@ -412,75 +389,15 @@
       ]
     },
     {
-      "name": "C'mon crawl C'mon crawl",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.009907294,
-      "mentions": [
-        {
-          "text": {
-            "content": "C'mon crawl  \rC'mon crawl",
-            "beginOffset": 605
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "baby",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.0071021835,
+      "salience": 0.0073491493,
       "mentions": [
         {
           "text": {
             "content": "baby",
             "beginOffset": 675
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "hands",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0056530186,
-      "mentions": [
-        {
-          "text": {
-            "content": "hands",
-            "beginOffset": 658
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "knees",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0056530186,
-      "mentions": [
-        {
-          "text": {
-            "content": "knees",
-            "beginOffset": 668
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "spider",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0056530186,
-      "mentions": [
-        {
-          "text": {
-            "content": "spider",
-            "beginOffset": 716
           },
           "type": "COMMON"
         }
@@ -493,7 +410,7 @@
         "mid": "/m/0fq1l67",
         "wikipedia_url": "https://en.wikipedia.org/wiki/Crawling_(human)"
       },
-      "salience": 0.0041170497,
+      "salience": 0.006073868,
       "mentions": [
         {
           "text": {
@@ -501,6 +418,51 @@
             "beginOffset": 682
           },
           "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "spider",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0058493842,
+      "mentions": [
+        {
+          "text": {
+            "content": "spider",
+            "beginOffset": 716
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "knees",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0058493842,
+      "mentions": [
+        {
+          "text": {
+            "content": "knees",
+            "beginOffset": 668
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hands",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0058493842,
+      "mentions": [
+        {
+          "text": {
+            "content": "hands",
+            "beginOffset": 658
+          },
+          "type": "COMMON"
         }
       ]
     }

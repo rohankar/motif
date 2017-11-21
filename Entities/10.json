@@ -1,273 +1,30 @@
 {
   "entities": [
     {
-      "name": "advice",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.377099,
-      "mentions": [
-        {
-          "text": {
-            "content": "advice",
-            "beginOffset": 166
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "something",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.29816785,
+      "salience": 0.5476195,
       "mentions": [
         {
           "text": {
             "content": "something",
-            "beginOffset": 35
+            "beginOffset": 20
           },
           "type": "COMMON"
         }
       ]
     },
     {
-      "name": "Bruno Mars",
-      "type": "PERSON",
-      "metadata": {
-        "mid": "/m/0bs1g5r",
-        "wikipedia_url": "https://en.wikipedia.org/wiki/Bruno_Mars"
-      },
-      "salience": 0.030444834,
-      "mentions": [
-        {
-          "text": {
-            "content": "Bruno Mars",
-            "beginOffset": 1
-          },
-          "type": "PROPER"
-        }
-      ]
-    },
-    {
-      "name": "Try",
+      "name": "advice",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.024716964,
+      "salience": 0.077285565,
       "mentions": [
         {
           "text": {
-            "content": "Try",
-            "beginOffset": 291
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "ball",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.016738595,
-      "mentions": [
-        {
-          "text": {
-            "content": "ball",
-            "beginOffset": 617
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "ball",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.016529106,
-      "mentions": [
-        {
-          "text": {
-            "content": "ball",
-            "beginOffset": 371
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "ball",
-      "type": "EVENT",
-      "metadata": {},
-      "salience": 0.016529106,
-      "mentions": [
-        {
-          "text": {
-            "content": "ball",
-            "beginOffset": 417
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "Try",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.015325733,
-      "mentions": [
-        {
-          "text": {
-            "content": "Try",
-            "beginOffset": 752
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "Keep",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.013851777,
-      "mentions": [
-        {
-          "text": {
-            "content": "Keep",
-            "beginOffset": 202
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "end",
-      "type": "EVENT",
-      "metadata": {},
-      "salience": 0.0133375125,
-      "mentions": [
-        {
-          "text": {
-            "content": "end",
-            "beginOffset": 558
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "boat",
-      "type": "CONSUMER_GOOD",
-      "metadata": {},
-      "salience": 0.0133375125,
-      "mentions": [
-        {
-          "text": {
-            "content": "boat",
-            "beginOffset": 691
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "air",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0133375125,
-      "mentions": [
-        {
-          "text": {
-            "content": "air",
-            "beginOffset": 594
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "hands",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0133375125,
-      "mentions": [
-        {
-          "text": {
-            "content": "hands",
-            "beginOffset": 577
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "toes",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.013170345,
-      "mentions": [
-        {
-          "text": {
-            "content": "toes",
-            "beginOffset": 492
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "chin",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.013170345,
-      "mentions": [
-        {
-          "text": {
-            "content": "chin",
-            "beginOffset": 483
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "belly",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.013170345,
-      "mentions": [
-        {
-          "text": {
-            "content": "belly",
-            "beginOffset": 471
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "nose",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.013170345,
-      "mentions": [
-        {
-          "text": {
-            "content": "nose",
-            "beginOffset": 451
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "head",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.013170345,
-      "mentions": [
-        {
-          "text": {
-            "content": "head",
-            "beginOffset": 432
+            "content": "advice",
+            "beginOffset": 151
           },
           "type": "COMMON"
         }
@@ -277,57 +34,27 @@
       "name": "luck",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.013170345,
+      "salience": 0.05425173,
       "mentions": [
         {
           "text": {
             "content": "luck",
-            "beginOffset": 399
+            "beginOffset": 384
           },
           "type": "COMMON"
         }
       ]
     },
     {
-      "name": "top",
+      "name": "Keep",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.012210203,
+      "salience": 0.034146048,
       "mentions": [
         {
           "text": {
-            "content": "top",
-            "beginOffset": 787
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "rowing",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.010899012,
-      "mentions": [
-        {
-          "text": {
-            "content": "rowing",
-            "beginOffset": 710
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "floor",
-      "type": "LOCATION",
-      "metadata": {},
-      "salience": 0.009132525,
-      "mentions": [
-        {
-          "text": {
-            "content": "floor",
-            "beginOffset": 1087
+            "content": "Keep",
+            "beginOffset": 187
           },
           "type": "COMMON"
         }
@@ -337,12 +64,12 @@
       "name": "rollerskates",
       "type": "CONSUMER_GOOD",
       "metadata": {},
-      "salience": 0.00815066,
+      "salience": 0.02895297,
       "mentions": [
         {
           "text": {
             "content": "rollerskates",
-            "beginOffset": 829
+            "beginOffset": 814
           },
           "type": "COMMON"
         }
@@ -352,12 +79,267 @@
       "name": "Try",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0054602795,
+      "salience": 0.02316735,
       "mentions": [
         {
           "text": {
             "content": "Try",
-            "beginOffset": 1213
+            "beginOffset": 276
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ball",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015688032,
+      "mentions": [
+        {
+          "text": {
+            "content": "ball",
+            "beginOffset": 356
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ball",
+      "type": "EVENT",
+      "metadata": {},
+      "salience": 0.015688032,
+      "mentions": [
+        {
+          "text": {
+            "content": "ball",
+            "beginOffset": 402
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "ball",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.015688032,
+      "mentions": [
+        {
+          "text": {
+            "content": "ball",
+            "beginOffset": 602
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Try",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.014363581,
+      "mentions": [
+        {
+          "text": {
+            "content": "Try",
+            "beginOffset": 737
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "air",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012499805,
+      "mentions": [
+        {
+          "text": {
+            "content": "air",
+            "beginOffset": 579
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "rowing",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012499805,
+      "mentions": [
+        {
+          "text": {
+            "content": "rowing",
+            "beginOffset": 695
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "boat",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.012499805,
+      "mentions": [
+        {
+          "text": {
+            "content": "boat",
+            "beginOffset": 676
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "hands",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012499805,
+      "mentions": [
+        {
+          "text": {
+            "content": "hands",
+            "beginOffset": 562
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "end",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012499805,
+      "mentions": [
+        {
+          "text": {
+            "content": "end",
+            "beginOffset": 543
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "toes",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012499805,
+      "mentions": [
+        {
+          "text": {
+            "content": "toes",
+            "beginOffset": 477
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "chin",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012499805,
+      "mentions": [
+        {
+          "text": {
+            "content": "chin",
+            "beginOffset": 468
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "belly",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012499805,
+      "mentions": [
+        {
+          "text": {
+            "content": "belly",
+            "beginOffset": 456
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "nose",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012499805,
+      "mentions": [
+        {
+          "text": {
+            "content": "nose",
+            "beginOffset": 436
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "head",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.012499805,
+      "mentions": [
+        {
+          "text": {
+            "content": "head",
+            "beginOffset": 417
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "top",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.011443075,
+      "mentions": [
+        {
+          "text": {
+            "content": "top",
+            "beginOffset": 772
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "floor",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0085581755,
+      "mentions": [
+        {
+          "text": {
+            "content": "floor",
+            "beginOffset": 1072
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Try",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.005116222,
+      "mentions": [
+        {
+          "text": {
+            "content": "Try",
+            "beginOffset": 1198
           },
           "type": "COMMON"
         }
@@ -367,12 +349,57 @@
       "name": "grooving",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.004346485,
+      "salience": 0.004072367,
       "mentions": [
         {
           "text": {
             "content": "grooving",
-            "beginOffset": 1168
+            "beginOffset": 1153
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "no",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003813934,
+      "mentions": [
+        {
+          "text": {
+            "content": "no",
+            "beginOffset": 1249
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "no",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003813934,
+      "mentions": [
+        {
+          "text": {
+            "content": "no",
+            "beginOffset": 1275
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "no",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.003813934,
+      "mentions": [
+        {
+          "text": {
+            "content": "no",
+            "beginOffset": 1301
           },
           "type": "COMMON"
         }
@@ -382,12 +409,12 @@
       "name": "trip",
       "type": "EVENT",
       "metadata": {},
-      "salience": 0.00401287,
+      "salience": 0.0037597134,
       "mentions": [
         {
           "text": {
             "content": "trip",
-            "beginOffset": 974
+            "beginOffset": 959
           },
           "type": "COMMON"
         }
@@ -397,12 +424,12 @@
       "name": "tip",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.00401287,
+      "salience": 0.0037597134,
       "mentions": [
         {
           "text": {
             "content": "tip",
-            "beginOffset": 995
+            "beginOffset": 980
           },
           "type": "COMMON"
         }

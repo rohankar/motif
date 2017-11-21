@@ -4,7 +4,7 @@
       "name": "love",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.27079818,
+      "salience": 0.26499155,
       "mentions": [
         {
           "text": {
@@ -19,7 +19,7 @@
       "name": "girl",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.15764844,
+      "salience": 0.15809,
       "mentions": [
         {
           "text": {
@@ -34,7 +34,7 @@
       "name": "things",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.14356773,
+      "salience": 0.14758994,
       "mentions": [
         {
           "text": {
@@ -49,7 +49,7 @@
       "name": "twinkle",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.12213246,
+      "salience": 0.11364883,
       "mentions": [
         {
           "text": {
@@ -64,7 +64,7 @@
       "name": "arms",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.10781217,
+      "salience": 0.10947294,
       "mentions": [
         {
           "text": {
@@ -79,7 +79,7 @@
       "name": "love",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.098220386,
+      "salience": 0.10484664,
       "mentions": [
         {
           "text": {
@@ -94,7 +94,7 @@
       "name": "girl",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.064133994,
+      "salience": 0.06512421,
       "mentions": [
         {
           "text": {
@@ -109,7 +109,7 @@
       "name": "eyes",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.035686634,
+      "salience": 0.03623591,
       "mentions": [
         {
           "text": {

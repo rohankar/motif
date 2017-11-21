@@ -1,7 +1,29 @@
 {
-  "error": {
-    "code": 400,
-    "message": "Invalid JSON payload received. Expected , or } after key:value pair.\ncontent\": \"Jimi:  \r\"buddy miles is goin'\n                    ^",
-    "status": "INVALID_ARGUMENT"
-  }
+  "documentSentiment": {
+    "magnitude": 0.7,
+    "score": 0.2
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "buddy miles is goin' to do something he wrote called 'them changes'.'",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "text": {
+        "content": "Well my mind is goin' through them changes  \rI feel just like I'm in the time  \rEvery time you see me goin' some where  \rI feel like I'm going out of my mind, yeah  \rOh, my baby she left me the other day  \rAnd we were have so much fun yeah, yeah  \rOh, my baby she stepped out on me  \rAnd that's the reason why she had to part  \rIt's alright yeah yeah  \rIt's alright  \rWhat I say  \rIt's alright  \rOoo hooo  \rWell my mind is goin' through them changes  \rI think I'm goin' out of my mind  \rEvery time you see me goin' some where  \rI think I could commit a crime know  \rShe had me runnin'  \rShe had me cryin'  \rShe had me runnin'  \rShe had me had me had me cryin'  \rShe had me runnin'  \rShe had me cryin'  \rShe had me runnin'  \rHad me cryin'  \rIt's alright yeah yeah  \rIt's alright  \rClap your hands  \rGo clap your hands  \rCan you clap a little louder  \rIt's alright  \rIt's alright  \rEverything goin' to be alright  \rIt's alright  \rYeah, yeah, everybody yeah  \rYeah  \rOh no  \rI want my love x3  \rIt's alright  \rWhaa  \rIt's alright he he  \rIt's alright",
+        "beginOffset": 75
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      }
+    }
+  ]
 }

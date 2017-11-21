@@ -6,7 +6,7 @@
       "metadata": {
         "mid": "/g/11clt87x6y"
       },
-      "salience": 0.16698796,
+      "salience": 0.153731,
       "mentions": [
         {
           "text": {
@@ -19,27 +19,6 @@
           "text": {
             "content": "Chesay",
             "beginOffset": 89
-          },
-          "type": "PROPER"
-        },
-        {
-          "text": {
-            "content": "Chesay",
-            "beginOffset": 140
-          },
-          "type": "PROPER"
-        },
-        {
-          "text": {
-            "content": "Chesay",
-            "beginOffset": 392
-          },
-          "type": "PROPER"
-        },
-        {
-          "text": {
-            "content": "Chesay",
-            "beginOffset": 443
           },
           "type": "PROPER"
         },
@@ -74,7 +53,21 @@
         {
           "text": {
             "content": "Chesay",
+            "beginOffset": 807
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Chesay",
             "beginOffset": 889
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Chesay",
+            "beginOffset": 897
           },
           "type": "PROPER"
         },
@@ -89,6 +82,13 @@
           "text": {
             "content": "Chesay",
             "beginOffset": 132
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Chesay",
+            "beginOffset": 140
           },
           "type": "PROPER"
         },
@@ -122,10 +122,10 @@
         },
         {
           "text": {
-            "content": "gypsy way",
-            "beginOffset": 461
+            "content": "Chesay",
+            "beginOffset": 443
           },
-          "type": "COMMON"
+          "type": "PROPER"
         },
         {
           "text": {
@@ -143,8 +143,8 @@
         },
         {
           "text": {
-            "content": "way",
-            "beginOffset": 790
+            "content": "gypsy way",
+            "beginOffset": 784
           },
           "type": "COMMON"
         },
@@ -164,8 +164,8 @@
         },
         {
           "text": {
-            "content": "way",
-            "beginOffset": 883
+            "content": "gypsy way",
+            "beginOffset": 877
           },
           "type": "COMMON"
         },
@@ -185,31 +185,10 @@
         },
         {
           "text": {
-            "content": "way",
-            "beginOffset": 973
+            "content": "gypsy way",
+            "beginOffset": 967
           },
           "type": "COMMON"
-        },
-        {
-          "text": {
-            "content": "Chesay",
-            "beginOffset": 384
-          },
-          "type": "PROPER"
-        },
-        {
-          "text": {
-            "content": "Chesay",
-            "beginOffset": 807
-          },
-          "type": "PROPER"
-        },
-        {
-          "text": {
-            "content": "Chesay",
-            "beginOffset": 897
-          },
-          "type": "PROPER"
         }
       ]
     },
@@ -217,7 +196,7 @@
       "name": "luck",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.025385348,
+      "salience": 0.026672153,
       "mentions": [
         {
           "text": {
@@ -232,7 +211,7 @@
       "name": "devil",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.020329539,
+      "salience": 0.02136432,
       "mentions": [
         {
           "text": {
@@ -244,10 +223,25 @@
       ]
     },
     {
+      "name": "Magic",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.02136432,
+      "mentions": [
+        {
+          "text": {
+            "content": "Magic",
+            "beginOffset": 44
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "drink",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.020329539,
+      "salience": 0.02136432,
       "mentions": [
         {
           "text": {
@@ -259,37 +253,30 @@
       ]
     },
     {
-      "name": "Magic",
+      "name": "Chesay",
       "type": "ORGANIZATION",
       "metadata": {},
-      "salience": 0.0072255204,
+      "salience": 0.007283785,
       "mentions": [
         {
           "text": {
-            "content": "Magic",
-            "beginOffset": 44
-          },
-          "type": "PROPER"
-        },
-        {
-          "text": {
-            "content": "Magic",
-            "beginOffset": 670
+            "content": "Chesay",
+            "beginOffset": 392
           },
           "type": "PROPER"
         }
       ]
     },
     {
-      "name": "crying shame",
+      "name": "shame",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0068988996,
+      "salience": 0.007252877,
       "mentions": [
         {
           "text": {
-            "content": "crying shame",
-            "beginOffset": 219
+            "content": "shame",
+            "beginOffset": 226
           },
           "type": "COMMON"
         }
@@ -299,7 +286,7 @@
       "name": "luck",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0066907243,
+      "salience": 0.007034035,
       "mentions": [
         {
           "text": {
@@ -311,10 +298,25 @@
       ]
     },
     {
+      "name": "gypsy way",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.007034035,
+      "mentions": [
+        {
+          "text": {
+            "content": "gypsy way",
+            "beginOffset": 461
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "things",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0062383306,
+      "salience": 0.0068970053,
       "mentions": [
         {
           "text": {
@@ -326,10 +328,25 @@
       ]
     },
     {
+      "name": "Chesay",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.0067542964,
+      "mentions": [
+        {
+          "text": {
+            "content": "Chesay",
+            "beginOffset": 384
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
       "name": "nothing",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0052962047,
+      "salience": 0.005710093,
       "mentions": [
         {
           "text": {
@@ -341,10 +358,25 @@
       ]
     },
     {
+      "name": "star",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.004908496,
+      "mentions": [
+        {
+          "text": {
+            "content": "star",
+            "beginOffset": 357
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "cup",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.004668915,
+      "salience": 0.004908496,
       "mentions": [
         {
           "text": {
@@ -356,25 +388,10 @@
       ]
     },
     {
-      "name": "lucky star",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.004610402,
-      "mentions": [
-        {
-          "text": {
-            "content": "lucky star",
-            "beginOffset": 351
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "gypsy love",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.004274323,
+      "salience": 0.0044936347,
       "mentions": [
         {
           "text": {
@@ -389,7 +406,7 @@
       "name": "Chesay Swallow",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0025351797,
+      "salience": 0.0026651027,
       "mentions": [
         {
           "text": {
@@ -404,7 +421,7 @@
       "name": "luck",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.002173107,
+      "salience": 0.0022844172,
       "mentions": [
         {
           "text": {
@@ -419,7 +436,7 @@
       "name": "luck",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.002173107,
+      "salience": 0.0022844172,
       "mentions": [
         {
           "text": {
@@ -434,7 +451,7 @@
       "name": "luck",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0015054905,
+      "salience": 0.0015824947,
       "mentions": [
         {
           "text": {
@@ -449,7 +466,7 @@
       "name": "drink",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.00075939385,
+      "salience": 0.0007981123,
       "mentions": [
         {
           "text": {
@@ -464,12 +481,27 @@
       "name": "devil",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.00075939385,
+      "salience": 0.0007981123,
       "mentions": [
         {
           "text": {
             "content": "devil",
             "beginOffset": 657
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Magic",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0007981123,
+      "mentions": [
+        {
+          "text": {
+            "content": "Magic",
+            "beginOffset": 670
           },
           "type": "COMMON"
         }

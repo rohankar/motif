@@ -4,7 +4,7 @@
       "name": "greed",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.5208005,
+      "salience": 0.60123205,
       "mentions": [
         {
           "text": {
@@ -58,10 +58,32 @@
       ]
     },
     {
+      "name": "I'ma",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.09687091,
+      "mentions": [
+        {
+          "text": {
+            "content": "I'ma",
+            "beginOffset": 0
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "nail",
+            "beginOffset": 13
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "lies",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.10840775,
+      "salience": 0.07154712,
       "mentions": [
         {
           "text": {
@@ -118,7 +140,7 @@
       "name": "misery",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.07457358,
+      "salience": 0.049277484,
       "mentions": [
         {
           "text": {
@@ -154,7 +176,7 @@
       "name": "misery",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.07457358,
+      "salience": 0.049277484,
       "mentions": [
         {
           "text": {
@@ -187,46 +209,60 @@
       ]
     },
     {
-      "name": "Sayin",
+      "name": "Choke",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.051254537,
+      "salience": 0.040988974,
       "mentions": [
         {
           "text": {
-            "content": "Sayin",
-            "beginOffset": 35
+            "content": "Choke",
+            "beginOffset": 481
           },
-          "type": "PROPER"
+          "type": "COMMON"
         },
         {
           "text": {
-            "content": "coffin",
-            "beginOffset": 26
+            "content": "Choke",
+            "beginOffset": 1040
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Choke",
+            "beginOffset": 1217
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "content": "Choke",
+            "beginOffset": 1600
           },
           "type": "COMMON"
         }
       ]
     },
     {
-      "name": "I'ma",
+      "name": "Sayin",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.04910623,
+      "salience": 0.021634897,
       "mentions": [
         {
           "text": {
-            "content": "I'ma",
-            "beginOffset": 0
+            "content": "coffin",
+            "beginOffset": 26
           },
-          "type": "PROPER"
+          "type": "COMMON"
         },
         {
           "text": {
-            "content": "nail",
-            "beginOffset": 13
+            "content": "Sayin",
+            "beginOffset": 35
           },
-          "type": "COMMON"
+          "type": "PROPER"
         }
       ]
     },
@@ -234,7 +270,7 @@
       "name": "pride",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.022908648,
+      "salience": 0.016609274,
       "mentions": [
         {
           "text": {
@@ -249,7 +285,7 @@
       "name": "explanations",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.014323913,
+      "salience": 0.009724167,
       "mentions": [
         {
           "text": {
@@ -264,7 +300,7 @@
       "name": "patience",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.014145147,
+      "salience": 0.009724167,
       "mentions": [
         {
           "text": {
@@ -279,7 +315,7 @@
       "name": "greed",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.008453979,
+      "salience": 0.005961553,
       "mentions": [
         {
           "text": {
@@ -294,7 +330,7 @@
       "name": "way",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.008184995,
+      "salience": 0.0052842796,
       "mentions": [
         {
           "text": {
@@ -306,25 +342,10 @@
       ]
     },
     {
-      "name": "composure",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.006080849,
-      "mentions": [
-        {
-          "text": {
-            "content": "composure",
-            "beginOffset": 313
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "lies",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0060125673,
+      "salience": 0.004134654,
       "mentions": [
         {
           "text": {
@@ -336,30 +357,15 @@
       ]
     },
     {
-      "name": "all",
+      "name": "composure",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0060125673,
+      "salience": 0.0041291215,
       "mentions": [
         {
           "text": {
-            "content": "all",
-            "beginOffset": 533
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "all",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0060125673,
-      "mentions": [
-        {
-          "text": {
-            "content": "all",
-            "beginOffset": 454
+            "content": "composure",
+            "beginOffset": 313
           },
           "type": "COMMON"
         }
@@ -369,7 +375,7 @@
       "name": "breaking point sound",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0054962863,
+      "salience": 0.0037322019,
       "mentions": [
         {
           "text": {
@@ -384,7 +390,7 @@
       "name": "ego",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0054962863,
+      "salience": 0.0037322019,
       "mentions": [
         {
           "text": {
@@ -396,25 +402,10 @@
       ]
     },
     {
-      "name": "all",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0026526414,
-      "mentions": [
-        {
-          "text": {
-            "content": "all",
-            "beginOffset": 1013
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "way",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0024103567,
+      "salience": 0.0015557864,
       "mentions": [
         {
           "text": {
@@ -426,25 +417,10 @@
       ]
     },
     {
-      "name": "all",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.001982309,
-      "mentions": [
-        {
-          "text": {
-            "content": "all",
-            "beginOffset": 1269
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "breaking point",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0018473947,
+      "salience": 0.0012543353,
       "mentions": [
         {
           "text": {
@@ -459,7 +435,7 @@
       "name": "failure",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0017888448,
+      "salience": 0.0011992806,
       "mentions": [
         {
           "text": {
@@ -474,7 +450,7 @@
       "name": "right",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0017663238,
+      "salience": 0.0011992806,
       "mentions": [
         {
           "text": {
@@ -486,75 +462,15 @@
       ]
     },
     {
-      "name": "all",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0013727463,
-      "mentions": [
-        {
-          "text": {
-            "content": "all",
-            "beginOffset": 1573
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "all",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0013727463,
-      "mentions": [
-        {
-          "text": {
-            "content": "all",
-            "beginOffset": 1652
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "threat",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0012231198,
+      "salience": 0.0009307567,
       "mentions": [
         {
           "text": {
             "content": "threat",
             "beginOffset": 690
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "all",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0008697856,
-      "mentions": [
-        {
-          "text": {
-            "content": "all",
-            "beginOffset": 1092
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "all",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0008697856,
-      "mentions": [
-        {
-          "text": {
-            "content": "all",
-            "beginOffset": 1190
           },
           "type": "COMMON"
         }

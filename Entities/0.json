@@ -1,0 +1,53 @@
+{
+  "entities": [
+    {
+      "name": "janies",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.41687793,
+      "mentions": [
+        {
+          "text": {
+            "content": "janies",
+            "beginOffset": 13
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "aerosmith",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/0134pk",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Aerosmith"
+      },
+      "salience": 0.37149143,
+      "mentions": [
+        {
+          "text": {
+            "content": "aerosmith",
+            "beginOffset": 3
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "html",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.21163064,
+      "mentions": [
+        {
+          "text": {
+            "content": "html",
+            "beginOffset": 39
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

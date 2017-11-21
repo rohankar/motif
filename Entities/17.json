@@ -1,10 +1,25 @@
 {
   "entities": [
     {
+      "name": "best",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.45081758,
+      "mentions": [
+        {
+          "text": {
+            "content": "best",
+            "beginOffset": 18
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "face",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.46177608,
+      "salience": 0.36265737,
       "mentions": [
         {
           "text": {
@@ -44,25 +59,10 @@
       ]
     },
     {
-      "name": "best",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.27775696,
-      "mentions": [
-        {
-          "text": {
-            "content": "best",
-            "beginOffset": 18
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "tears",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.049171407,
+      "salience": 0.038540293,
       "mentions": [
         {
           "text": {
@@ -77,7 +77,7 @@
       "name": "something",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.03440841,
+      "salience": 0.028008511,
       "mentions": [
         {
           "text": {
@@ -92,7 +92,7 @@
       "name": "reverse",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.024815679,
+      "salience": 0.02020517,
       "mentions": [
         {
           "text": {
@@ -107,7 +107,7 @@
       "name": "someone",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.022164376,
+      "salience": 0.017821914,
       "mentions": [
         {
           "text": {
@@ -122,7 +122,7 @@
       "name": "waste",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.016582409,
+      "salience": 0.013675415,
       "mentions": [
         {
           "text": {
@@ -137,7 +137,7 @@
       "name": "Tears",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.01091358,
+      "salience": 0.008557669,
       "mentions": [
         {
           "text": {
@@ -149,15 +149,15 @@
       ]
     },
     {
-      "name": "Tears",
+      "name": "Lights",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.01091358,
+      "salience": 0.008182968,
       "mentions": [
         {
           "text": {
-            "content": "Tears",
-            "beginOffset": 759
+            "content": "Lights",
+            "beginOffset": 325
           },
           "type": "COMMON"
         }
@@ -167,7 +167,7 @@
       "name": "bones",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.010047384,
+      "salience": 0.008182968,
       "mentions": [
         {
           "text": {
@@ -182,37 +182,7 @@
       "name": "Lights",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.009921158,
-      "mentions": [
-        {
-          "text": {
-            "content": "Lights",
-            "beginOffset": 325
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "home",
-      "type": "LOCATION",
-      "metadata": {},
-      "salience": 0.009921158,
-      "mentions": [
-        {
-          "text": {
-            "content": "home",
-            "beginOffset": 347
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "Lights",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.009196314,
+      "salience": 0.007489868,
       "mentions": [
         {
           "text": {
@@ -224,25 +194,10 @@
       ]
     },
     {
-      "name": "home",
-      "type": "LOCATION",
-      "metadata": {},
-      "salience": 0.009196314,
-      "mentions": [
-        {
-          "text": {
-            "content": "home",
-            "beginOffset": 565
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "love",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.007999601,
+      "salience": 0.00651524,
       "mentions": [
         {
           "text": {
@@ -254,10 +209,25 @@
       ]
     },
     {
+      "name": "Tears",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.006397937,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tears",
+            "beginOffset": 759
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "mistakes",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0054722223,
+      "salience": 0.004456757,
       "mentions": [
         {
           "text": {
@@ -269,55 +239,10 @@
       ]
     },
     {
-      "name": "Tears",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.0047947806,
-      "mentions": [
-        {
-          "text": {
-            "content": "Tears",
-            "beginOffset": 627
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "Lights",
-      "type": "OTHER",
-      "metadata": {},
-      "salience": 0.004761975,
-      "mentions": [
-        {
-          "text": {
-            "content": "Lights",
-            "beginOffset": 896
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
-      "name": "home",
-      "type": "LOCATION",
-      "metadata": {},
-      "salience": 0.004761975,
-      "mentions": [
-        {
-          "text": {
-            "content": "home",
-            "beginOffset": 918
-          },
-          "type": "COMMON"
-        }
-      ]
-    },
-    {
       "name": "bones",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.004761975,
+      "salience": 0.0038782558,
       "mentions": [
         {
           "text": {
@@ -329,10 +254,25 @@
       ]
     },
     {
+      "name": "Tears",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0037593716,
+      "mentions": [
+        {
+          "text": {
+            "content": "Tears",
+            "beginOffset": 627
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
       "name": "something",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.004195447,
+      "salience": 0.0032893808,
       "mentions": [
         {
           "text": {
@@ -347,7 +287,7 @@
       "name": "Tears",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.003449269,
+      "salience": 0.0028090375,
       "mentions": [
         {
           "text": {
@@ -362,7 +302,7 @@
       "name": "bones",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0030179487,
+      "salience": 0.0024577219,
       "mentions": [
         {
           "text": {
@@ -370,6 +310,21 @@
             "beginOffset": 588
           },
           "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "I Lights",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.0022965693,
+      "mentions": [
+        {
+          "text": {
+            "content": "I  \r  \rLights",
+            "beginOffset": 889
+          },
+          "type": "PROPER"
         }
       ]
     }
